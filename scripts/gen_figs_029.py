@@ -43,22 +43,28 @@ for (sx, sy) in [(350, 220), (410, 236), (360, 286)]:
     d.append('  <circle cx="%d" cy="%d" r="1.3" fill="%s"/>' % (sx, sy, INK3))
 d.append('  <text x="%d" y="316" text-anchor="middle" font-size="7.0" fill="%s">照临下土</text>' % (MX, RED))
 
-# 叁 · 下土受照
+# 叁 · 日升月降（日轮半出地平，月轮半落）
 GX0, GX1 = 536, 708
-d.append('  <line x1="%d" y1="380" x2="%d" y2="380" stroke="%s" stroke-width="1.0"/>' % (GX0, GX1, INK2))
-for k in range(7):
-    x = GX0 + 10 + k * 24
-    d.append('  <line x1="%d" y1="380" x2="%d" y2="392" stroke="%s" stroke-width="0.5"/>' % (x, x + 2, INK3))
-for k in range(3):
-    x = 560 + k * 50
-    d.append('  <line x1="%d" y1="300" x2="%d" y2="372" stroke="%s" stroke-width="0.5" stroke-dasharray="4 3"/>' % (x, x + 10, INK3))
-d.append('  <text x="622" y="360" text-anchor="middle" font-size="7.0" fill="%s">下土是冒</text>' % RED)
+d.append('  <line x1="%d" y1="348" x2="%d" y2="348" stroke="%s" stroke-width="1.0"/>' % (GX0, GX1, INK2))
+# 日轮：上半圆半出地平，两笔光芒
+d.append('  <path d="M565,348 A17,17 0 0 1 599,348" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
+d.append('  <line x1="582" y1="322" x2="582" y2="315" stroke="%s" stroke-width="0.8"/>' % INK2)
+d.append('  <line x1="570" y1="326" x2="566" y2="320" stroke="%s" stroke-width="0.8"/>' % INK2)
+# 月轮：下半圆半落
+d.append('  <path d="M648,348 A14,14 0 0 0 676,348" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK3)
+# 升落轨迹：两道淡形弧线
+d.append('  <path d="M556,372 Q568,356 578,340" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <path d="M666,356 Q676,370 690,376" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+for k in range(5):
+    x = 548 + k * 32
+    d.append('  <line x1="%d" y1="356" x2="%d" y2="364" stroke="%s" stroke-width="0.5"/>' % (x, x + 2, INK3))
+d.append('  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="%s">日升月降，出自东方</text>' % RED)
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
 d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 日月　居、诸皆语助</text>' % INK2)
 d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 照临　日月覆照下土</text>' % INK2)
-d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 下土　受照之地</text>' % INK2)
+d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 日月　半出半落</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">日居月诸，照临下土</text>' % INK)
 d.append('  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="%s">呼日月为证，怨而不绝</text>' % INK3)

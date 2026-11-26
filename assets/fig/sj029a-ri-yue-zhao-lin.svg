@@ -20,24 +20,25 @@
   <circle cx="410" cy="236" r="1.3" fill="#9A9186"/>
   <circle cx="360" cy="286" r="1.3" fill="#9A9186"/>
   <text x="378" y="316" text-anchor="middle" font-size="7.0" fill="#994433">照临下土</text>
-  <line x1="536" y1="380" x2="708" y2="380" stroke="#5C544A" stroke-width="1.0"/>
-  <line x1="546" y1="380" x2="548" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="570" y1="380" x2="572" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="594" y1="380" x2="596" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="618" y1="380" x2="620" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="642" y1="380" x2="644" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="666" y1="380" x2="668" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="690" y1="380" x2="692" y2="392" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="560" y1="300" x2="570" y2="372" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="4 3"/>
-  <line x1="610" y1="300" x2="620" y2="372" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="4 3"/>
-  <line x1="660" y1="300" x2="670" y2="372" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="4 3"/>
-  <text x="622" y="360" text-anchor="middle" font-size="7.0" fill="#994433">下土是冒</text>
+  <line x1="536" y1="348" x2="708" y2="348" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M565,348 A17,17 0 0 1 599,348" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="582" y1="322" x2="582" y2="315" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="570" y1="326" x2="566" y2="320" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M648,348 A14,14 0 0 0 676,348" fill="#FCFAF6" stroke="#9A9186" stroke-width="1.1"/>
+  <path d="M556,372 Q568,356 578,340" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M666,356 Q676,370 690,376" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="548" y1="356" x2="550" y2="364" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="580" y1="356" x2="582" y2="364" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="612" y1="356" x2="614" y2="364" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="644" y1="356" x2="646" y2="364" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="676" y1="356" x2="678" y2="364" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">日升月降，出自东方</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
   <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 日月　居、诸皆语助</text>
   <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 照临　日月覆照下土</text>
-  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 下土　受照之地</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 日月　半出半落</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
   <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">日居月诸，照临下土</text>
   <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">呼日月为证，怨而不绝</text>

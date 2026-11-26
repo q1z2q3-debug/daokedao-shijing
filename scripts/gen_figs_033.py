@@ -25,23 +25,33 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之三十三</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-# 壹 · 雉冠特写
-d.append('  <circle cx="148" cy="252" r="18" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
-d.append('  <path d="M164,248 L182,252 L164,256 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.8"/>' % INK2)
-for k in range(3):
-    d.append('  <line x1="142" y1="236" x2="136" y2="222" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <line x1="148" y1="234" x2="148" y2="218" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <line x1="154" y1="236" x2="160" y2="222" stroke="%s" stroke-width="0.9"/>' % INK2)
-d.append('  <circle cx="152" cy="250" r="1.5" fill="%s"/>' % INK)
-d.append('  <text x="148" y="300" text-anchor="middle" font-size="7.0" fill="%s">雄者有冠，雉之识别</text>' % RED)
+# 壹 · 雉头特写（冠羽、短厚喙；长尾曳出画格，不画全鸟）
+d.append('  <circle cx="148" cy="250" r="16" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
+# 冠羽：两三根竖笔
+d.append('  <line x1="142" y1="236" x2="137" y2="222" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <line x1="148" y1="234" x2="148" y2="218" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <line x1="154" y1="236" x2="159" y2="222" stroke="%s" stroke-width="0.9"/>' % INK2)
+# 短而厚的喙
+d.append('  <path d="M162,245 L176,250 L162,255 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <circle cx="152" cy="248" r="1.5" fill="%s"/>' % INK)
+# 长尾曳出（一条长弧，两段羽纹）
+d.append('  <path d="M134,256 C118,286 106,314 102,344" fill="none" stroke="%s" stroke-width="1.3"/>' % INK2)
+d.append('  <path d="M134,256 C124,284 116,310 114,338" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <line x1="118" y1="296" x2="128" y2="292" stroke="%s" stroke-width="0.45"/>' % INK3)
+d.append('  <line x1="110" y1="322" x2="120" y2="318" stroke="%s" stroke-width="0.45"/>' % INK3)
+d.append('  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="%s">雄者有冠，雉之识别</text>' % RED)
 
-# 贰 · 长尾特写
-d.append('  <path d="M378,236 C366,270 360,310 366,352" fill="none" stroke="%s" stroke-width="1.3"/>' % INK2)
-d.append('  <path d="M386,236 C392,272 396,312 392,352" fill="none" stroke="%s" stroke-width="1.3"/>' % INK2)
-d.append('  <path d="M378,236 C382,230 388,230 386,236 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % INK2)
-for k in range(4):
-    y = 268 + k * 18
-    d.append('  <line x1="366" y1="%d" x2="392" y2="%d" stroke="%s" stroke-width="0.45"/>' % (y, y, INK3))
+# 贰 · 两枚长尾羽交叉并置（一正一背，背面淡形）
+# 背面（淡）
+d.append('  <path d="M400,238 C390,276 372,316 356,350" fill="none" stroke="%s" stroke-width="1.1"/>' % INK3)
+d.append('  <path d="M392,240 C384,274 370,310 360,344" fill="none" stroke="%s" stroke-width="0.45"/>' % INK3)
+# 正面（深）
+d.append('  <path d="M356,238 C366,276 384,316 400,350" fill="none" stroke="%s" stroke-width="1.3"/>' % INK2)
+d.append('  <path d="M364,240 C374,276 390,314 404,350" fill="none" stroke="%s" stroke-width="0.5"/>' % INK2)
+# 羽纹
+for k in range(3):
+    y = 272 + k * 22
+    d.append('  <line x1="364" y1="%d" x2="388" y2="%d" stroke="%s" stroke-width="0.45"/>' % (y, y + 4, INK3))
 d.append('  <text x="378" y="386" text-anchor="middle" font-size="7.0" fill="%s">泄泄其羽，长尾舒徐</text>' % RED)
 
 # 叁 · 日月与远路

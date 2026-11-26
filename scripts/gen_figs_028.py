@@ -55,16 +55,22 @@ for k in range(6):
 d.append('  <path d="M372,320 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
 d.append('  <text x="378" y="360" text-anchor="middle" font-size="7.0" fill="%s">远送于野</text>' % RED)
 
-# 叁 · 伫立之人
+# 叁 · 伫立之人（背影立姿，宽袖衣裾到地，脚不可见）
 PX = 622
-d.append('  <circle cx="%d" cy="250" r="8" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (PX, INK2))
-d.append('  <line x1="%d" y1="258" x2="%d" y2="300" stroke="%s" stroke-width="1.6"/>' % (PX, PX, INK))
-d.append('  <line x1="%d" y1="300" x2="614" y2="332" stroke="%s" stroke-width="1.3"/>' % (PX, INK2))
-d.append('  <line x1="%d" y1="300" x2="630" y2="332" stroke="%s" stroke-width="1.3"/>' % (PX, INK2))
-d.append('  <line x1="%d" y1="272" x2="606" y2="282" stroke="%s" stroke-width="1.1"/>' % (PX, INK2))
-# 泣涕两滴
-d.append('  <line x1="616" y1="244" x2="614" y2="252" stroke="%s" stroke-width="0.7"/>' % RED)
-d.append('  <line x1="628" y1="244" x2="630" y2="252" stroke="%s" stroke-width="0.7"/>' % RED)
+# 头（背影，无面）
+d.append('  <ellipse cx="%d" cy="240" rx="8" ry="9" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (PX, INK2))
+# 衣身：两肩下垂，衣裾收锋到地
+d.append('  <path d="M608,256 C600,284 600,318 609,348 L635,348 C644,318 644,284 636,256 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <line x1="608" y1="258" x2="636" y2="258" stroke="%s" stroke-width="0.9"/>' % INK2)
+# 两袖下垂（宽袖）
+d.append('  <path d="M608,260 C599,274 597,294 603,306" fill="none" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <path d="M636,260 C645,274 647,294 641,306" fill="none" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <path d="M606,268 C602,282 602,294 606,302" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <path d="M638,268 C642,282 642,294 638,302" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+# 望：身侧两三笔淡形虚线视线，投向远处
+d.append('  <line x1="614" y1="240" x2="580" y2="232" stroke="%s" stroke-width="0.5" stroke-dasharray="3 3"/>' % INK3)
+d.append('  <line x1="614" y1="244" x2="578" y2="244" stroke="%s" stroke-width="0.5" stroke-dasharray="3 3"/>' % INK3)
+d.append('  <line x1="614" y1="248" x2="582" y2="256" stroke="%s" stroke-width="0.5" stroke-dasharray="3 3"/>' % INK3)
 d.append('  <text x="%d" y="360" text-anchor="middle" font-size="7.0" fill="%s">伫立以泣</text>' % (PX, RED))
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:

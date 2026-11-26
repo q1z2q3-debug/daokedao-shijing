@@ -4,19 +4,33 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">击 鼓</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十一</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="110" y1="228" x2="110" y2="296" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="186" y1="228" x2="186" y2="296" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="110" y1="296" x2="186" y2="296" stroke="#5C544A" stroke-width="1.0"/>
   <path d="M116,232 L180,232 L172,286 L124,286 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
   <line x1="116" y1="232" x2="180" y2="232" stroke="#1F1B17" stroke-width="1.4"/>
   <line x1="124" y1="286" x2="172" y2="286" stroke="#1F1B17" stroke-width="1.4"/>
+  <circle cx="126" cy="240" r="1.2" fill="#9A9186"/>
+  <circle cx="126" cy="278" r="1.2" fill="#9A9186"/>
+  <circle cx="137" cy="240" r="1.2" fill="#9A9186"/>
+  <circle cx="137" cy="278" r="1.2" fill="#9A9186"/>
+  <circle cx="148" cy="240" r="1.2" fill="#9A9186"/>
+  <circle cx="148" cy="278" r="1.2" fill="#9A9186"/>
+  <circle cx="159" cy="240" r="1.2" fill="#9A9186"/>
+  <circle cx="159" cy="278" r="1.2" fill="#9A9186"/>
+  <circle cx="170" cy="240" r="1.2" fill="#9A9186"/>
+  <circle cx="170" cy="278" r="1.2" fill="#9A9186"/>
   <line x1="150" y1="214" x2="176" y2="226" stroke="#5C544A" stroke-width="1.1"/>
   <circle cx="180" cy="228" r="4" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
   <path d="M104,240 q-6,3 0,6" fill="none" stroke="#9A9186" stroke-width="0.6"/>
   <path d="M104,252 q-6,3 0,6" fill="none" stroke="#9A9186" stroke-width="0.6"/>
   <path d="M104,264 q-6,3 0,6" fill="none" stroke="#9A9186" stroke-width="0.6"/>
   <text x="148" y="320" text-anchor="middle" font-size="7.0" fill="#994433">击鼓其镗，踊跃用兵</text>
-  <path d="M328,380 L328,344 L344,344 L344,332 L360,332 L360,344 L396,344 L396,332 L412,332 L412,344 L428,344 L428,380" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <path d="M360,380 L396,300" fill="none" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M392,306 L396,296 L402,306" fill="none" stroke="#994433" stroke-width="0.9"/>
-  <text x="378" y="360" text-anchor="middle" font-size="7.0" fill="#994433">土国城漕，我独南行</text>
+  <path d="M336,380 L336,348 L340,348 L340,336 L352,336 L352,348 L372,348 L372,336 L384,336 L384,348 L400,348 L400,336 L412,336 L412,348 L420,348 L420,380 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M368,380 L368,364 Q378,354 388,364 L388,380 Z" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M378,380 L386,318" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M382,324 L386,316 L392,324" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="378" y="404" text-anchor="middle" font-size="7.0" fill="#994433">土国城漕，我独南行</text>
   <line x1="566" y1="380" x2="566" y2="330" stroke="#5C544A" stroke-width="1.2"/>
   <path d="M554,330 q12,-10 24,0" fill="none" stroke="#9A9186" stroke-width="0.9"/>
   <line x1="596" y1="380" x2="596" y2="330" stroke="#5C544A" stroke-width="1.2"/>

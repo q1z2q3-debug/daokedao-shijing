@@ -25,21 +25,34 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之三十一</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-# 壹 · 鼓
+# 壹 · 鼓（鼓架横木＋两排鼓钉）
+# 鼓架：两侧立柱与底横木
+d.append('  <line x1="110" y1="228" x2="110" y2="296" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <line x1="186" y1="228" x2="186" y2="296" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <line x1="110" y1="296" x2="186" y2="296" stroke="%s" stroke-width="1.0"/>' % INK2)
+# 鼓身
 d.append('  <path d="M116,232 L180,232 L172,286 L124,286 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
 d.append('  <line x1="116" y1="232" x2="180" y2="232" stroke="%s" stroke-width="1.4"/>' % INK)
 d.append('  <line x1="124" y1="286" x2="172" y2="286" stroke="%s" stroke-width="1.4"/>' % INK)
+# 两排鼓钉
+for k in range(5):
+    sx = 126 + k * 11
+    d.append('  <circle cx="%d" cy="240" r="1.2" fill="%s"/>' % (sx, INK3))
+    d.append('  <circle cx="%d" cy="278" r="1.2" fill="%s"/>' % (sx, INK3))
 d.append('  <line x1="150" y1="214" x2="176" y2="226" stroke="%s" stroke-width="1.1"/>' % INK2)
 d.append('  <circle cx="180" cy="228" r="4" fill="#EFEAD6" stroke="%s" stroke-width="0.8"/>' % INK2)
 for k in range(3):
     d.append('  <path d="M104,%d q-6,3 0,6" fill="none" stroke="%s" stroke-width="0.6"/>' % (240 + k * 12, INK3))
 d.append('  <text x="148" y="320" text-anchor="middle" font-size="7.0" fill="%s">击鼓其镗，踊跃用兵</text>' % RED)
 
-# 贰 · 城漕与南行之路
-d.append('  <path d="M328,380 L328,344 L344,344 L344,332 L360,332 L360,344 L396,344 L396,332 L412,332 L412,344 L428,344 L428,380" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-d.append('  <path d="M360,380 L396,300" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
-d.append('  <path d="M392,306 L396,296 L402,306" fill="none" stroke="%s" stroke-width="0.9"/>' % RED)
-d.append('  <text x="378" y="360" text-anchor="middle" font-size="7.0" fill="%s">土国城漕，我独南行</text>' % RED)
+# 贰 · 城漕（雉堞三门洞）与南行之路
+d.append('  <path d="M336,380 L336,348 L340,348 L340,336 L352,336 L352,348 L372,348 L372,336 L384,336 L384,348 L400,348 L400,336 L412,336 L412,348 L420,348 L420,380 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+# 城门洞
+d.append('  <path d="M368,380 L368,364 Q378,354 388,364 L388,380 Z" fill="%s" stroke="%s" stroke-width="0.9"/>' % (PAPER, INK2))
+# 南行之路与箭矢（上移缩短，避让注文）
+d.append('  <path d="M378,380 L386,318" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <path d="M382,324 L386,316 L392,324" fill="none" stroke="%s" stroke-width="0.9"/>' % RED)
+d.append('  <text x="378" y="404" text-anchor="middle" font-size="7.0" fill="%s">土国城漕，我独南行</text>' % RED)
 
 # 叁 · 林下丧马
 for k in range(3):
