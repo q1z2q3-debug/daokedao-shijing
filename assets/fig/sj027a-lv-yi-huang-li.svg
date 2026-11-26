@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">绿 衣</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十七</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <path d="M122,280 L174,280 L168,352 L128,352 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M132,288 L164,288 L160,346 L136,346 Z" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="148" y="384" text-anchor="middle" font-size="7.0" fill="#994433">绿外黄里，色失常度</text>
+  <rect x="356" y="278" width="44" height="26" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M352,304 L404,304 L410,350 L346,350 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="#994433">绿上黄裳，上下易位</text>
+  <rect x="576" y="286" width="44" height="56" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="582" y1="286" x2="582" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="587" y1="286" x2="587" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="592" y1="286" x2="592" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="597" y1="286" x2="597" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="602" y1="286" x2="602" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="607" y1="286" x2="607" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="612" y1="286" x2="612" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="617" y1="286" x2="617" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <rect x="632" y="286" width="44" height="56" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="640" y1="286" x2="640" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="650" y1="286" x2="650" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="660" y1="286" x2="660" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="670" y1="286" x2="670" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <text x="598" y="360" text-anchor="middle" font-size="7.0" fill="#994433">絺（密）</text>
+  <text x="654" y="360" text-anchor="middle" font-size="7.0" fill="#994433">绤（疏）</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 衣里　间色外，正色内</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 衣裳　上衣下裳倒置</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 絺绤　粗细葛布</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">绿兮衣兮，绿衣黄里</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">见衣而思人，一针一缕</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj027a-lv-yi-huang-li</text>
+</svg>
