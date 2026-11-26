@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="60" font-size="8.6" letter-spacing="2" fill="#994433">周南 · 一</text>
+  <text x="380" y="62" text-anchor="middle" font-size="29" letter-spacing="14" fill="#1F1B17" font-weight="700">关 雎</text>
+  <text x="716" y="60" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之首</text>
+  <line x1="44" y1="100" x2="716" y2="100" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M44,196 C160,186 300,182 420,188 C540,193 650,200 716,206" fill="none" stroke="#9A9186" stroke-width="0.3" stroke-dasharray="6 4 2 4"/>
+  <path d="M44,228 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0" fill="none" stroke="#9A9186" stroke-width="0.3" opacity="0.55" stroke-dasharray="14 5 3 6"/>
+  <path d="M44,252 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0" fill="none" stroke="#9A9186" stroke-width="0.3" opacity="0.49" stroke-dasharray="14 5 3 6"/>
+  <path d="M44,276 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0" fill="none" stroke="#9A9186" stroke-width="0.3" opacity="0.43" stroke-dasharray="14 5 3 6"/>
+  <path d="M44,300 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0" fill="none" stroke="#9A9186" stroke-width="0.3" opacity="0.37" stroke-dasharray="14 5 3 6"/>
+  <path d="M44,324 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0" fill="none" stroke="#9A9186" stroke-width="0.3" opacity="0.31" stroke-dasharray="14 5 3 6"/>
+  <path d="M44,348 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0 q26,-3 52,0 q26,3 52,0" fill="none" stroke="#9A9186" stroke-width="0.3" opacity="0.25" stroke-dasharray="14 5 3 6"/>
+  <path d="M44,382 C130,362 230,352 360,356 C450,359 520,366 590,372 C650,377 690,378 716,376 C716,392 640,398 500,400 C350,402 150,400 44,382 Z" fill="#F1EBDF" stroke="none"/>
+  <path d="M44,382 C130,362 230,352 360,356 C450,359 520,366 590,372 C650,377 690,378 716,376" fill="none" stroke="#5C544A" stroke-width="0.4"/>
+  <path d="M44,382 C130,390 240,396 380,396 C520,396 620,390 716,376" fill="none" stroke="#9A9186" stroke-width="0.25" stroke-dasharray="4 3"/>
+  <g transform="translate(110,200) scale(1.75,1.75)">
+    <path d="M100,40 C95,37 88,36 84,38 C80,34 78,31 74,30 C70,29 66,30 62,33 C58,37 55,42 52,50 C49,56 47,60 44,62 C36,65 28,66 22,66 C16,66 10,64 8,62 C10,68 12,72 18,74 C26,80 34,84 42,85 C50,86 58,84 64,78 C69,73 72,67 74,62 C77,56 79,50 80,46 C85,44 92,43 100,40 Z" fill="#F7F4EE" stroke="#1F1B17" stroke-width="0.55"/>
+    <path d="M44,60 C36,64 28,66 22,67" fill="none" stroke="#5C544A" stroke-width="0.4"/>
+    <path d="M39,65 C33,68 27,69 23,70" fill="none" stroke="#9A9186" stroke-width="0.3"/>
+    <circle cx="72" cy="36" r="1.2" fill="#1F1B17"/>
+    <circle cx="71.6" cy="35.6" r="0.38" fill="#F7F4EE"/>
+    <path d="M96,37 C91,38 87,39 84,39" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M94,44 C90,44 87,44 84,43" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M74,54 C73,62 69,70 64,74" fill="none" stroke="#9A9186" stroke-width="0.25"/>
+    <path d="M40,85 L40,100 M52,85 L52,100" fill="none" stroke="#5C544A" stroke-width="0.45"/>
+    <path d="M40,100 C35,102 32,104 31,106" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M40,100 L40,106 M40,100 C45,102 48,104 49,106" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M31,106 C36,104 44,104 49,106" fill="none" stroke="#9A9186" stroke-width="0.2"/>
+  </g>
+
+  <g transform="translate(556,252) scale(-1.34,1.34)">
+    <path d="M100,40 C95,37 88,36 84,38 C80,34 78,31 74,30 C70,29 66,30 62,33 C58,37 55,42 52,50 C49,56 47,60 44,62 C36,65 28,66 22,66 C16,66 10,64 8,62 C10,68 12,72 18,74 C26,80 34,84 42,85 C50,86 58,84 64,78 C69,73 72,67 74,62 C77,56 79,50 80,46 C85,44 92,43 100,40 Z" fill="#F7F4EE" stroke="#1F1B17" stroke-width="0.55"/>
+    <path d="M44,60 C36,64 28,66 22,67" fill="none" stroke="#5C544A" stroke-width="0.4"/>
+    <path d="M39,65 C33,68 27,69 23,70" fill="none" stroke="#9A9186" stroke-width="0.3"/>
+    <circle cx="72" cy="36" r="1.2" fill="#1F1B17"/>
+    <circle cx="71.6" cy="35.6" r="0.38" fill="#F7F4EE"/>
+    <path d="M96,37 C91,38 87,39 84,39" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M94,44 C90,44 87,44 84,43" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M74,54 C73,62 69,70 64,74" fill="none" stroke="#9A9186" stroke-width="0.25"/>
+    <path d="M40,85 L40,100 M52,85 L52,100" fill="none" stroke="#5C544A" stroke-width="0.45"/>
+    <path d="M40,100 C35,102 32,104 31,106" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M40,100 L40,106 M40,100 C45,102 48,104 49,106" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+    <path d="M31,106 C36,104 44,104 49,106" fill="none" stroke="#9A9186" stroke-width="0.2"/>
+  </g>
+
+  <path d="M470,430 C468,400 466,378 466,356" fill="none" stroke="#5C544A" stroke-width="0.35"/>
+  <path d="M470,430 C478,418 486,410 494,406 M470,430 C462,420 456,412 450,408 M470,430 C468,416 466,404 464,392" fill="none" stroke="#5C544A" stroke-width="0.3"/>
+  <path d="M470,430 C470,438 469,444 468,450 M470,430 C466,436 462,440 458,442 M470,430 C474,436 478,439 482,441" fill="none" stroke="#9A9186" stroke-width="0.22" stroke-dasharray="2 2"/>
+  <path d="M462,354 q4,-3 8,0 q4,3 8,0" fill="none" stroke="#9A9186" stroke-width="0.2"/>
+  <circle cx="466" cy="340" r="11" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.45"/>
+  <circle cx="466" cy="340" r="11" fill="none" stroke="#9A9186" stroke-width="0.2" stroke-dasharray="1.5 2"/>
+  <circle cx="494" cy="404" r="9.5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.45"/>
+  <circle cx="450" cy="406" r="8.5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.45"/>
+  <path d="M566,336 C566,356 560,374 552,390" fill="none" stroke="#5C544A" stroke-width="0.35"/>
+  <ellipse cx="566" cy="330" rx="3.4" ry="5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.3" transform="rotate(0 566 336)"/>
+  <ellipse cx="566" cy="330" rx="3.4" ry="5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.3" transform="rotate(72 566 336)"/>
+  <ellipse cx="566" cy="330" rx="3.4" ry="5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.3" transform="rotate(144 566 336)"/>
+  <ellipse cx="566" cy="330" rx="3.4" ry="5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.3" transform="rotate(216 566 336)"/>
+  <ellipse cx="566" cy="330" rx="3.4" ry="5" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.3" transform="rotate(288 566 336)"/>
+  <circle cx="566" cy="336" r="1.6" fill="#994433"/>
+  <text x="232" y="370" font-size="7.6" fill="#994433">①</text>
+  <text x="668" y="352" font-size="7.6" fill="#994433">②</text>
+  <text x="400" y="374" font-size="7.6" fill="#994433">③</text>
+  <text x="60" y="414" font-size="7.8" fill="#5C544A">① 雎鸠　生有定偶，并游而不相狎</text>
+  <text x="420" y="414" font-size="7.8" fill="#5C544A">② 荇菜　圆叶细茎，可为菹　③ 洲　水中可居</text>
+  <line x1="44" y1="432" x2="716" y2="432" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="474" text-anchor="middle" font-size="17" letter-spacing="3" fill="#1F1B17">關關雎鳩，在河之洲</text>
+  <text x="380" y="494" text-anchor="middle" font-size="8.6" letter-spacing="1" fill="#9A9186">鸟有定偶，草无定形：一章之内，一取定，一取择。</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.6" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj001a</text>
+  <rect x="44" y="498" width="26" height="26" fill="#994433"/>
+  <text x="57" y="511" text-anchor="middle" font-size="6.4" fill="#F7F4EE">润</text>
+  <text x="57" y="520" text-anchor="middle" font-size="6.4" fill="#F7F4EE">泽</text>
+</svg>

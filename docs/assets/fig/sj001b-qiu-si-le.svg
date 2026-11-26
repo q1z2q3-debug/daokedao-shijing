@@ -1,31 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
   <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
-  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
-  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
-  <text x="380" y="52" text-anchor="middle" font-size="21" letter-spacing="8" fill="#25211D" font-weight="700">求 · 思 · 乐</text>
-  <text x="380" y="74" text-anchor="middle" font-size="10" letter-spacing="2" fill="#7C6D5C">《诗经》周南 · 第一篇　关雎</text>
-  <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
-  <rect x="70" y="178" width="150" height="150" fill="#FCFAF6" stroke="#4A5C55" stroke-width="1.1"/>
-  <text x="145" y="242" text-anchor="middle" font-size="26" letter-spacing="4" fill="#4A5C55" font-weight="700">求</text>
-  <text x="145" y="280" text-anchor="middle" font-size="11" fill="#3B352F">寤寐求之</text>
-  <text x="145" y="304" text-anchor="middle" font-size="9.4" fill="#7C6D5C">有求</text>
-  <rect x="290" y="178" width="150" height="150" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
-  <text x="365" y="242" text-anchor="middle" font-size="26" letter-spacing="4" fill="#994433" font-weight="700">思</text>
-  <text x="365" y="280" text-anchor="middle" font-size="11" fill="#3B352F">辗转反侧</text>
-  <text x="365" y="304" text-anchor="middle" font-size="9.4" fill="#7C6D5C">求不得</text>
-  <rect x="510" y="178" width="150" height="150" fill="#FCFAF6" stroke="#4A5C55" stroke-width="1.1"/>
-  <text x="585" y="242" text-anchor="middle" font-size="26" letter-spacing="4" fill="#4A5C55" font-weight="700">乐</text>
-  <text x="585" y="280" text-anchor="middle" font-size="11" fill="#3B352F">琴瑟钟鼓</text>
-  <text x="585" y="304" text-anchor="middle" font-size="9.4" fill="#7C6D5C">得而乐</text>
-  <line x1="220" y1="253" x2="288" y2="253" stroke="#994433" stroke-width="1" marker-end="url(#ar)"/>
-  <line x1="440" y1="253" x2="508" y2="253" stroke="#994433" stroke-width="1" marker-end="url(#ar)"/>
-  <text x="380" y="356" text-anchor="middle" font-size="10" fill="#7C6D5C">情起于求，困于思，成于乐——三步都在礼内</text>
-  <line x1="120" y1="360" x2="640" y2="360" stroke="#DCD5C8" stroke-width="0.8"/>
-  <text x="230" y="412" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">乐而不淫</text>
-  <text x="230" y="434" text-anchor="middle" font-size="9" fill="#7C6D5C">得之不以纵</text>
-  <text x="530" y="412" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">哀而不伤</text>
-  <text x="530" y="434" text-anchor="middle" font-size="9" fill="#7C6D5C">不得之不以怨</text>
-  <text x="380" y="462" text-anchor="middle" font-size="9" fill="#7C6D5C">《论语·八佾》3.20 孔子定评</text>
-  <text x="120" y="512" font-size="7.6" fill="#7C6D5C">诗经 · 周南</text>
-  <text x="640" y="512" text-anchor="end" font-size="7.6" fill="#7C6D5C">图二 · 求思乐 · sj001b</text>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">周南 · 一</text>
+  <text x="380" y="60" text-anchor="middle" font-size="28" letter-spacing="14" fill="#1F1B17" font-weight="700">关 雎</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">求 → 思 → 乐</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M44,116 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.62" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,138 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.56" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,160 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.50" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,182 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.44" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,204 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.38" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,226 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.32" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,248 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0 q24,3 48,0 q24,-3 48,0" fill="none" stroke="#9A9186" stroke-width="0.28" opacity="0.26" stroke-dasharray="18 6 3 7"/>
+  <path d="M44,266 C140,252 260,246 400,250 C500,253 570,258 630,262 C640,265 660,266 664,266 L664,300 C600,308 500,310 360,308 C220,306 100,300 44,294 Z" fill="#F1EBDF"/>
+  <path d="M44,266 C140,252 260,246 400,250 C500,253 570,258 630,262 C640,265 660,266 664,266" fill="none" stroke="#5C544A" stroke-width="0.45"/>
+  <path d="M44,294 C100,300 220,306 360,308 C500,310 640,308 716,300" fill="none" stroke="#9A9186" stroke-width="0.25" stroke-dasharray="4 3"/>
+  <line x1="44" y1="368" x2="716" y2="368" stroke="#994433" stroke-width="1.3"/>
+  <line x1="44" y1="372" x2="716" y2="372" stroke="#994433" stroke-width="0.4" opacity="0.5"/>
+  <path d="M660,232 C630,244 600,256 570,262" fill="none" stroke="#5C544A" stroke-width="0.4" stroke-dasharray="5 4"/>
+  <circle cx="566" cy="263" r="1.8" fill="none" stroke="#5C544A" stroke-width="0.5"/>
+  <text x="672" y="228" font-size="7.6" letter-spacing="1" fill="#5C544A">求</text>
+  <path d="M250,300 L282,268 L312,306 L344,268 L374,304 L404,270" fill="none" stroke="#5C544A" stroke-width="0.45"/>
+  <path d="M250,320 L404,320" fill="none" stroke="#9A9186" stroke-width="0.2" stroke-dasharray="3 4"/>
+  <text x="240" y="292" font-size="7.6" letter-spacing="1" fill="#5C544A">思</text>
+  <text x="412" y="262" font-size="6.6" fill="#9A9186">求之不得</text>
+  <path d="M505,340 L527,340 L522,368 L510,368 Z" fill="none" stroke="#1F1B17" stroke-width="0.5"/>
+  <path d="M511,334 L521,334" fill="none" stroke="#1F1B17" stroke-width="0.5"/>
+  <path d="M567,340 L589,340 L584,368 L572,368 Z" fill="none" stroke="#1F1B17" stroke-width="0.5"/>
+  <path d="M573,334 L583,334" fill="none" stroke="#1F1B17" stroke-width="0.5"/>
+  <path d="M596,352 C606,346 606,358 596,353" fill="none" stroke="#9A9186" stroke-width="0.28"/>
+  <path d="M498,352 C488,346 488,358 498,353" fill="none" stroke="#9A9186" stroke-width="0.28"/>
+  <text x="640" y="352" font-size="7.6" letter-spacing="1" fill="#5C544A">乐</text>
+  <text x="44" y="112" font-size="7.4" letter-spacing="1" fill="#9A9186">水 · 动</text>
+  <text x="44" y="258" font-size="7.4" letter-spacing="1" fill="#9A9186">洲 · 定</text>
+  <text x="44" y="388" font-size="7.4" letter-spacing="1" fill="#9A9186">礼 · 界</text>
+  <text x="204" y="442" text-anchor="middle" font-size="15" letter-spacing="3" fill="#994433" font-weight="700">乐而不淫</text>
+  <text x="204" y="462" text-anchor="middle" font-size="7" fill="#9A9186">得之以礼，不以纵</text>
+  <text x="556" y="442" text-anchor="middle" font-size="15" letter-spacing="3" fill="#994433" font-weight="700">哀而不伤</text>
+  <text x="556" y="462" text-anchor="middle" font-size="7" fill="#9A9186">思之不止，不以怨</text>
+  <text x="380" y="492" text-anchor="middle" font-size="7.2" fill="#9A9186">情在水，礼在界；三步皆在礼内　·　《论语·八佾》3.20</text>
+  <text x="716" y="528" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图二 · 义理 · sj001b</text>
 </svg>
