@@ -1,7 +1,7 @@
 {
- "version": "0.3.5",
+ "version": "0.3.6",
  "total": 305,
- "count": 7,
+ "count": 8,
  "chapters": [
   {
    "no": 1,
@@ -37,6 +37,11 @@
    "no": 7,
    "key": "sj007",
    "title": "兔罝"
+  },
+  {
+   "no": 8,
+   "key": "sj008",
+   "title": "芣苢"
   }
  ]
 }
