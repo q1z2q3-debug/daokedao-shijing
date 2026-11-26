@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">行 露</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十七</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M108,420 L128,340" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M188,420 L168,340" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="122" cy="388" r="1.8" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="132" cy="382" r="1.8" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="142" cy="376" r="1.8" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="152" cy="370" r="1.8" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="162" cy="364" r="1.8" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="172" cy="358" r="1.8" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="326" text-anchor="middle" font-size="7.0" fill="#994433">行（háng）· 道上之露</text>
+  <path d="M348,356 L378,326 L408,356" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <rect x="354" y="356" width="48" height="30" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M396,360 l6,4 l-6,4 l-6,-4 Z" fill="#994433"/>
+  <circle cx="404" cy="330" r="5" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M408,330 l8,2 l-8,3 Z" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">雀无角而穿屋</text>
+  <rect x="594" y="340" width="56" height="46" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M622,358 l8,5 l-8,5 l-8,-5 Z" fill="#994433"/>
+  <ellipse cx="588" cy="352" rx="10" ry="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="580" cy="348" r="3" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M588,356 q10,6 20,2" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">鼠无牙而穿墉</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 行露　道上沾濡之露</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 雀穿屋　无角而能穿，喻强</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 鼠穿墉　无牙而能啮，喻逼</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">誰謂雀無角？何以穿我屋</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">礼与讼之间，守礼不退</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj017a</text>
+</svg>
