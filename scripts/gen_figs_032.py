@@ -25,41 +25,58 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之三十二</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-# 壹 · 棘心嫩芽
+# 壹 · 棘心嫩芽（主干带刺，枝端两小叶一嫩心）
 d.append('  <line x1="148" y1="380" x2="148" y2="300" stroke="%s" stroke-width="1.4"/>' % INK2)
+# 棘刺：左右交错短刺
+for (ty, side) in [(316, -1), (332, 1), (348, -1), (364, 1)]:
+    d.append('  <line x1="148" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.7"/>' % (ty, 148 + side * 7, ty - 4, INK2))
+# 嫩心：枝端两小叶＋一芽
 d.append('  <path d="M148,316 C136,310 128,300 130,292 C142,296 148,306 148,316 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % INK2)
 d.append('  <path d="M148,308 C160,302 168,292 166,284 C154,288 148,298 148,308 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % INK2)
+d.append('  <circle cx="148" cy="294" r="2.2" fill="#FCFAF6" stroke="%s" stroke-width="0.7"/>' % INK2)
 for k in range(3):
     d.append('  <line x1="132" y1="392" x2="164" y2="392" stroke="%s" stroke-width="0.5"/>' % INK3)
 d.append('  <text x="148" y="410" text-anchor="middle" font-size="7.0" fill="%s">棘心夭夭，子之稚弱</text>' % RED)
 
-# 贰 · 棘薪长成
+# 贰 · 凯风穿棘薪（南风自南来，风线穿枝）
 d.append('  <line x1="378" y1="380" x2="378" y2="250" stroke="%s" stroke-width="1.8"/>' % INK)
 d.append('  <path d="M378,320 C366,306 352,300 340,298" fill="none" stroke="%s" stroke-width="1.1"/>' % INK2)
 d.append('  <path d="M378,300 C392,288 406,284 418,282" fill="none" stroke="%s" stroke-width="1.1"/>' % INK2)
 for (bx, by, dx) in [(350, 302, -8), (406, 286, 8), (378, 270, 0)]:
     d.append('  <line x1="%d" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.6"/>' % (bx, by, bx + dx, by - 6, INK3))
+# 南风自南（下）来，三道风线穿枝而上
+d.append('  <path d="M352,372 C360,352 372,336 386,322" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
+d.append('  <path d="M378,376 C380,356 386,340 398,328" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
+d.append('  <path d="M404,370 C400,354 398,342 404,330" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
 for k in range(3):
     d.append('  <line x1="362" y1="392" x2="394" y2="392" stroke="%s" stroke-width="0.5"/>' % INK3)
-d.append('  <text x="378" y="410" text-anchor="middle" font-size="7.0" fill="%s">吹彼棘薪，子之长成</text>' % RED)
+d.append('  <text x="378" y="410" text-anchor="middle" font-size="7.0" fill="%s">吹彼棘薪，风自南来</text>' % RED)
 
-# 叁 · 寒泉与黄鸟
+# 叁 · 睍睆黄鸟（眼圈＋三级飞羽＋声波两弧）
 d.append('  <line x1="560" y1="300" x2="684" y2="300" stroke="%s" stroke-width="0.9"/>' % INK2)
 for k in range(3):
     y = 316 + k * 12
     d.append('  <path d="M572,%d q26,-4 52,0 q26,4 52,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (y, INK3))
-# 黄鸟
-d.append('  <ellipse cx="622" cy="252" rx="16" ry="10" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-d.append('  <circle cx="634" cy="246" r="6" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-d.append('  <path d="M640,245 L650,247 L640,250 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.6"/>' % INK2)
+# 鸟身侧影
+d.append('  <ellipse cx="616" cy="256" rx="17" ry="10" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <circle cx="630" cy="248" r="6" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <path d="M636,247 L646,249 L636,252 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.6"/>' % INK2)
+# 眼圈
+d.append('  <circle cx="631" cy="247" r="2.4" fill="none" stroke="%s" stroke-width="0.7"/>' % INK)
+# 三级飞羽（翅上三枚短羽）
 for k in range(3):
-    d.append('  <path d="M656,%d q8,-3 16,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (240 + k * 8, INK3))
+    d.append('  <line x1="606" y1="252" x2="596" y2="246" stroke="%s" stroke-width="0.6"/>' % INK3)
+# 尾羽
+d.append('  <line x1="599" y1="258" x2="586" y2="264" stroke="%s" stroke-width="0.9"/>' % INK2)
+# 声波两弧
+d.append('  <path d="M652,240 q8,-3 14,2" fill="none" stroke="%s" stroke-width="0.6"/>' % INK3)
+d.append('  <path d="M654,252 q8,-3 14,2" fill="none" stroke="%s" stroke-width="0.6"/>' % INK3)
 d.append('  <text x="622" y="356" text-anchor="middle" font-size="7.0" fill="%s">睍睆黄鸟，载好其音</text>' % RED)
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
 d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 棘心　酸枣嫩芽，喻子之稚</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 棘薪　棘已长成，可为薪</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 凯风　南风穿枝，吹彼棘薪</text>' % INK2)
 d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 黄鸟　鸣声清圆和好</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">凯风自南，吹彼棘心</text>' % INK)

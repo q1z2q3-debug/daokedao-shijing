@@ -32,6 +32,9 @@ d.append('  <line x1="186" y1="228" x2="186" y2="296" stroke="%s" stroke-width="
 d.append('  <line x1="110" y1="296" x2="186" y2="296" stroke="%s" stroke-width="1.0"/>' % INK2)
 # 鼓身
 d.append('  <path d="M116,232 L180,232 L172,286 L124,286 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
+# 上下口沿弧
+d.append('  <path d="M116,232 Q148,225 180,232" fill="none" stroke="%s" stroke-width="1.0"/>' % INK)
+d.append('  <path d="M124,286 Q148,293 172,286" fill="none" stroke="%s" stroke-width="1.0"/>' % INK)
 d.append('  <line x1="116" y1="232" x2="180" y2="232" stroke="%s" stroke-width="1.4"/>' % INK)
 d.append('  <line x1="124" y1="286" x2="172" y2="286" stroke="%s" stroke-width="1.4"/>' % INK)
 # 两排鼓钉
@@ -54,16 +57,29 @@ d.append('  <path d="M378,380 L386,318" fill="none" stroke="%s" stroke-width="0.
 d.append('  <path d="M382,324 L386,316 L392,324" fill="none" stroke="%s" stroke-width="0.9"/>' % RED)
 d.append('  <text x="378" y="404" text-anchor="middle" font-size="7.0" fill="%s">土国城漕，我独南行</text>' % RED)
 
-# 叁 · 林下丧马
-for k in range(3):
-    x = 566 + k * 30
-    d.append('  <line x1="%d" y1="380" x2="%d" y2="330" stroke="%s" stroke-width="1.2"/>' % (x, x, INK2))
-    d.append('  <path d="M%d,330 q12,-10 24,0" fill="none" stroke="%s" stroke-width="0.9"/>' % (x - 12, INK3))
-# 马（简笔轮廓）
-d.append('  <path d="M600,372 C600,360 624,358 632,368 C626,376 606,378 600,372 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-d.append('  <line x1="632" y1="368" x2="640" y2="360" stroke="%s" stroke-width="0.9"/>' % INK2)
-for lx in (604, 624):
+# 叁 · 林下丧马（主干＋分枝＋叶簇之木，四足之马）
+# 三株木：主干、分枝、叶簇短线
+for (tx, th) in [(558, 336), (596, 328), (676, 338)]:
+    d.append('  <line x1="%d" y1="380" x2="%d" y2="%d" stroke="%s" stroke-width="1.2"/>' % (tx, tx, th, INK2))
+    d.append('  <path d="M%d,%d L%d,%d" fill="none" stroke="%s" stroke-width="0.8"/>' % (tx, th + 18, tx - 10, th + 10, INK2))
+    d.append('  <path d="M%d,%d L%d,%d" fill="none" stroke="%s" stroke-width="0.8"/>' % (tx, th + 14, tx + 10, th + 6, INK2))
+    # 叶簇：三枚短弧
+    d.append('  <path d="M%d,%d q8,-7 16,0" fill="none" stroke="%s" stroke-width="0.7"/>' % (tx - 8, th - 2, INK3))
+    d.append('  <path d="M%d,%d q8,-7 16,0" fill="none" stroke="%s" stroke-width="0.7"/>' % (tx - 4, th - 8, INK3))
+# 马（侧影：身、颈首、耳、鬃、尾、四足）
+d.append('  <path d="M596,370 C596,358 624,356 634,366 C628,376 604,378 596,370 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <path d="M634,366 L642,352" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <path d="M642,352 L651,354 L644,363 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <line x1="643" y1="351" x2="645" y2="346" stroke="%s" stroke-width="0.7"/>' % INK2)
+# 鬃毛短纹
+d.append('  <line x1="636" y1="360" x2="640" y2="356" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <line x1="638" y1="364" x2="642" y2="360" stroke="%s" stroke-width="0.5"/>' % INK3)
+# 尾
+d.append('  <path d="M596,368 L586,359" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
+# 四足
+for lx in (602, 610, 624, 630):
     d.append('  <line x1="%d" y1="376" x2="%d" y2="392" stroke="%s" stroke-width="0.8"/>' % (lx, lx, INK2))
+d.append('  <circle cx="646" cy="355" r="1.1" fill="%s"/>' % INK)
 d.append('  <text x="622" y="410" text-anchor="middle" font-size="7.0" fill="%s">爰丧其马，于林之下</text>' % RED)
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:

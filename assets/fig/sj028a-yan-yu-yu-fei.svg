@@ -13,19 +13,31 @@
   <line x1="138" y1="244" x2="122" y2="236" stroke="#9A9186" stroke-width="0.8"/>
   <line x1="144" y1="248" x2="131" y2="240" stroke="#9A9186" stroke-width="0.8"/>
   <line x1="150" y1="251" x2="140" y2="243" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="136" y1="249" x2="158" y2="238" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="138" y1="254" x2="146" y2="255" stroke="#9A9186" stroke-width="0.5"/>
   <path d="M186,206 q6,-6 12,0 q6,-6 12,0" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M176,222 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
   <text x="148" y="300" text-anchor="middle" font-size="7.0" fill="#994433">剪尾叉尾，羽翅参差</text>
-  <line x1="288" y1="380" x2="470" y2="380" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M360,440 L372,380" fill="none" stroke="#5C544A" stroke-width="0.8"/>
-  <path d="M396,440 L384,380" fill="none" stroke="#5C544A" stroke-width="0.8"/>
-  <line x1="296" y1="410" x2="299" y2="402" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="324" y1="410" x2="327" y2="402" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="352" y1="410" x2="355" y2="402" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="380" y1="410" x2="383" y2="402" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="408" y1="410" x2="411" y2="402" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="436" y1="410" x2="439" y2="402" stroke="#9A9186" stroke-width="0.5"/>
-  <path d="M372,320 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
-  <text x="378" y="360" text-anchor="middle" font-size="7.0" fill="#994433">远送于野</text>
+  <path d="M356,214 q6,-6 12,0 q6,-6 12,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M384,234 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="288" y1="330" x2="470" y2="330" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M356,440 L372,330" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M400,440 L384,330" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="366" y1="440" x2="375" y2="330" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="390" y1="440" x2="381" y2="330" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="302" y1="396" x2="299" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="302" y1="396" x2="302" y2="386" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="302" y1="396" x2="305" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="330" y1="396" x2="327" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="330" y1="396" x2="330" y2="386" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="330" y1="396" x2="333" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="432" y1="396" x2="429" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="432" y1="396" x2="432" y2="386" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="432" y1="396" x2="435" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="452" y1="396" x2="449" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="452" y1="396" x2="452" y2="386" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="452" y1="396" x2="455" y2="388" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="316" text-anchor="middle" font-size="7.0" fill="#994433">远送于野，路向南方</text>
   <ellipse cx="622" cy="240" rx="8" ry="9" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
   <path d="M608,256 C600,284 600,318 609,348 L635,348 C644,318 644,284 636,256 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
   <line x1="608" y1="258" x2="636" y2="258" stroke="#5C544A" stroke-width="0.9"/>

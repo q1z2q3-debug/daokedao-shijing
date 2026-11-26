@@ -4,34 +4,40 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">终 风</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
-  <path d="M104,220 C124,212 164,226 192,218" fill="none" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M104,250 C124,242 164,256 192,248" fill="none" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M104,280 C124,272 164,286 192,278" fill="none" stroke="#5C544A" stroke-width="0.9"/>
-  <circle cx="110" cy="300" r="1.2" fill="#9A9186"/>
-  <circle cx="123" cy="300" r="1.2" fill="#9A9186"/>
-  <circle cx="136" cy="300" r="1.2" fill="#9A9186"/>
-  <circle cx="149" cy="300" r="1.2" fill="#9A9186"/>
-  <circle cx="162" cy="300" r="1.2" fill="#9A9186"/>
-  <circle cx="175" cy="300" r="1.2" fill="#9A9186"/>
-  <text x="148" y="330" text-anchor="middle" font-size="7.0" fill="#994433">终风且霾，风夹尘土</text>
-  <circle cx="378" cy="238" r="22" fill="#FCFAF6" stroke="#9A9186" stroke-width="1.0"/>
-  <path d="M336,252 C350,238 406,238 420,252 C406,264 350,264 336,252 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
-  <line x1="348" y1="278" x2="408" y2="278" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="348" y1="290" x2="408" y2="290" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="348" y1="302" x2="408" y2="302" stroke="#9A9186" stroke-width="0.5"/>
-  <text x="378" y="330" text-anchor="middle" font-size="7.0" fill="#994433">曀曀其阴，不见晴日</text>
-  <path d="M580,236 C592,222 650,222 664,236 C652,248 592,248 580,236 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M622,246 L612,272 L624,270 L614,298" fill="none" stroke="#994433" stroke-width="1.3"/>
-  <path d="M570,262 q10,-4 20,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
-  <path d="M570,274 q10,-4 20,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
-  <path d="M570,286 q10,-4 20,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
-  <text x="622" y="330" text-anchor="middle" font-size="7.0" fill="#994433">虺虺其雷，声将发</text>
+  <path d="M106,252 C116,226 180,226 190,252" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M116,262 C126,244 170,244 180,262" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M150,252 q12,5 6,14" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="176" cy="282" r="1.2" fill="#9A9186"/>
+  <circle cx="184" cy="280" r="1.2" fill="#9A9186"/>
+  <circle cx="192" cy="283" r="1.2" fill="#9A9186"/>
+  <circle cx="200" cy="281" r="1.2" fill="#9A9186"/>
+  <circle cx="180" cy="294" r="1.2" fill="#9A9186"/>
+  <circle cx="190" cy="292" r="1.2" fill="#9A9186"/>
+  <circle cx="200" cy="295" r="1.2" fill="#9A9186"/>
+  <circle cx="112" cy="288" r="1.2" fill="#9A9186"/>
+  <circle cx="121" cy="290" r="1.2" fill="#9A9186"/>
+  <text x="148" y="330" text-anchor="middle" font-size="7.0" fill="#994433">终风且霾，云气回旋</text>
+  <path d="M336,256 C332,280 334,302 340,318 L356,318 C362,302 362,280 358,256 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="347" cy="240" rx="7" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M338,262 C334,276 334,290 338,300" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M396,256 C392,280 394,302 400,318 L416,318 C422,302 422,280 418,256 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="407" cy="247" rx="7" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M416,262 C420,276 420,290 416,300" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="354" y1="242" x2="398" y2="247" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="378" y="330" text-anchor="middle" font-size="7.0" fill="#994433">顾我则笑，相顾低头</text>
+  <path d="M588,226 C598,214 646,214 656,226 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M582,238 C594,226 650,226 662,238 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M588,250 C598,240 646,240 656,250 Z" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M622,256 L614,276 L626,274 L618,294" fill="none" stroke="#994433" stroke-width="1.3"/>
+  <path d="M596,268 q6,-6 12,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M648,268 q6,-6 12,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="622" y="330" text-anchor="middle" font-size="7.0" fill="#994433">曀曀其阴，虺虺其雷</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
-  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 终风　既风且暴，终日不息</text>
-  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 霾曀　蔽日阴沉</text>
-  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 雷　虺虺将发之声</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 终风　云气回旋，风夹尘土</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 顾我　回顾相顾，低头含情</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 阴雷　叠云蔽日，雷纹将发</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
   <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">曀曀其阴，虺虺其雷</text>
   <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">天变即情变，一章坏过一章</text>

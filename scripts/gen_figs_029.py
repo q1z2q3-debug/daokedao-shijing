@@ -25,23 +25,34 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之二十九</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-# 壹 · 日轮
-CX, CY, R = 148, 250, 34
+# 壹 · 日居月诸（日轮带晕圈与光芒，旁伴月轮缺蚀线）
+CX, CY, R = 128, 250, 23
+# 日晕圈
+d.append('  <circle cx="%d" cy="%d" r="%d" fill="none" stroke="%s" stroke-width="0.5"/>' % (CX, CY, R + 8, INK3))
 d.append('  <circle cx="%d" cy="%d" r="%d" fill="#FCFAF6" stroke="%s" stroke-width="1.2"/>' % (CX, CY, R, INK2))
-for k in range(8):
-    a = k * math.tau / 8
-    x1 = CX + R * math.cos(a); y1 = CY + R * math.sin(a)
-    x2 = CX + (R + 10) * math.cos(a); y2 = CY + (R + 10) * math.sin(a)
-    d.append('  <line x1="%.1f" y1="%.1f" x2="%.1f" y2="%.1f" stroke="%s" stroke-width="0.8"/>' % (x1, y1, x2, y2, INK3))
-d.append('  <text x="%d" y="316" text-anchor="middle" font-size="7.0" fill="%s">日居月诸，居诸语助</text>' % (CX, RED))
+# 两笔光芒
+d.append('  <line x1="128" y1="220" x2="128" y2="212" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <line x1="148" y1="232" x2="155" y2="225" stroke="%s" stroke-width="0.9"/>' % INK2)
+# 伴月：缺蚀弦线
+d.append('  <circle cx="176" cy="238" r="11" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK3)
+d.append('  <circle cx="181" cy="235" r="8" fill="%s" stroke="none"/>' % PAPER)
+d.append('  <path d="M172,230 A9,9 0 0 0 172,246" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <text x="%d" y="316" text-anchor="middle" font-size="7.0" fill="%s">日居月诸，日月并见</text>' % (CX, RED))
 
-# 贰 · 月轮（残月）
-MX, MY, MR = 378, 250, 30
-d.append('  <circle cx="%d" cy="%d" r="%d" fill="#FCFAF6" stroke="%s" stroke-width="1.2"/>' % (MX, MY, MR, INK2))
-d.append('  <circle cx="%d" cy="%d" r="%d" fill="%s" stroke="none"/>' % (MX + 12, MY - 4, MR - 6, PAPER))
-for (sx, sy) in [(350, 220), (410, 236), (360, 286)]:
-    d.append('  <circle cx="%d" cy="%d" r="1.3" fill="%s"/>' % (sx, sy, INK3))
-d.append('  <text x="%d" y="316" text-anchor="middle" font-size="7.0" fill="%s">照临下土</text>' % (MX, RED))
+# 贰 · 照临下土（土阜、田畴三垄、投影）
+d.append('  <line x1="300" y1="300" x2="456" y2="300" stroke="%s" stroke-width="1.0"/>' % INK2)
+# 土阜
+d.append('  <path d="M332,300 Q378,266 424,300 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+# 阜下投影
+d.append('  <path d="M336,300 Q378,310 420,300" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+# 田畴三垄
+d.append('  <line x1="360" y1="300" x2="346" y2="362" stroke="%s" stroke-width="0.6"/>' % INK3)
+d.append('  <line x1="378" y1="300" x2="378" y2="362" stroke="%s" stroke-width="0.6"/>' % INK3)
+d.append('  <line x1="396" y1="300" x2="410" y2="362" stroke="%s" stroke-width="0.6"/>' % INK3)
+# 照临两射线
+d.append('  <line x1="366" y1="250" x2="372" y2="272" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <line x1="390" y1="250" x2="384" y2="272" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="%s">照临下土，田畴受照</text>' % RED)
 
 # 叁 · 日升月降（日轮半出地平，月轮半落）
 GX0, GX1 = 536, 708
@@ -62,8 +73,8 @@ d.append('  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="%s"
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
-d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 日月　居、诸皆语助</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 照临　日月覆照下土</text>' % INK2)
+d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 日月　日晕月蚀，并见天上</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 下土　土阜田畴，受照之地</text>' % INK2)
 d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 日月　半出半落</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">日居月诸，照临下土</text>' % INK)

@@ -25,34 +25,44 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之三十</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-# 壹 · 风与扬尘（霾）
-for i, y in enumerate([220, 250, 280]):
-    d.append('  <path d="M104,%d C124,%d 164,%d 192,%d" fill="none" stroke="%s" stroke-width="0.9"/>' % (y, y - 8, y + 6, y - 2, INK2))
-for k in range(6):
-    x = 110 + k * 13
-    d.append('  <circle cx="%d" cy="300" r="1.2" fill="%s"/>' % (x, INK3))
-d.append('  <text x="148" y="330" text-anchor="middle" font-size="7.0" fill="%s">终风且霾，风夹尘土</text>' % RED)
+# 壹 · 终风（云气回旋线＋飞尘疏密）
+# 回旋风势三道弧
+d.append('  <path d="M106,252 C116,226 180,226 190,252" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <path d="M116,262 C126,244 170,244 180,262" fill="none" stroke="%s" stroke-width="0.8"/>' % INK2)
+d.append('  <path d="M150,252 q12,5 6,14" fill="none" stroke="%s" stroke-width="0.7"/>' % INK2)
+# 飞尘：右侧密、左侧疏
+for (dx, dy) in [(176, 282), (184, 280), (192, 283), (200, 281), (180, 294), (190, 292), (200, 295), (112, 288), (121, 290)]:
+    d.append('  <circle cx="%d" cy="%d" r="1.2" fill="%s"/>' % (dx, dy, INK3))
+d.append('  <text x="148" y="330" text-anchor="middle" font-size="7.0" fill="%s">终风且霾，云气回旋</text>' % RED)
 
-# 贰 · 蔽日之曀
-d.append('  <circle cx="378" cy="238" r="22" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK3)
-d.append('  <path d="M336,252 C350,238 406,238 420,252 C406,264 350,264 336,252 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.9"/>' % INK2)
-for k in range(3):
-    y = 278 + k * 12
-    d.append('  <line x1="348" y1="%d" x2="408" y2="%d" stroke="%s" stroke-width="0.5"/>' % (y, y, INK3))
-d.append('  <text x="378" y="330" text-anchor="middle" font-size="7.0" fill="%s">曀曀其阴，不见晴日</text>' % RED)
+# 贰 · 顾我则笑（两人侧影：一人回顾，一人低头）
+# 回顾者（左，身朝右，首回顾）
+d.append('  <path d="M336,256 C332,280 334,302 340,318 L356,318 C362,302 362,280 358,256 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <ellipse cx="347" cy="240" rx="7" ry="8" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <path d="M338,262 C334,276 334,290 338,300" fill="none" stroke="%s" stroke-width="0.6"/>' % INK3)
+# 低头者（右，首俯）
+d.append('  <path d="M396,256 C392,280 394,302 400,318 L416,318 C422,302 422,280 418,256 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <ellipse cx="407" cy="247" rx="7" ry="8" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
+d.append('  <path d="M416,262 C420,276 420,290 416,300" fill="none" stroke="%s" stroke-width="0.6"/>' % INK3)
+# 相顾之间的视线（淡形虚线）
+d.append('  <line x1="354" y1="242" x2="398" y2="247" stroke="%s" stroke-width="0.5" stroke-dasharray="3 3"/>' % INK3)
+d.append('  <text x="378" y="330" text-anchor="middle" font-size="7.0" fill="%s">顾我则笑，相顾低头</text>' % RED)
 
-# 叁 · 虺虺之雷
-d.append('  <path d="M580,236 C592,222 650,222 664,236 C652,248 592,248 580,236 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.9"/>' % INK2)
-d.append('  <path d="M622,246 L612,272 L624,270 L614,298" fill="none" stroke="%s" stroke-width="1.3"/>' % RED)
-for k in range(3):
-    d.append('  <path d="M570,%d q10,-4 20,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (262 + k * 12, INK3))
-d.append('  <text x="622" y="330" text-anchor="middle" font-size="7.0" fill="%s">虺虺其雷，声将发</text>' % RED)
+# 叁 · 曀阴与雷（云层叠三笔＋雷纹回旋）
+d.append('  <path d="M588,226 C598,214 646,214 656,226 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <path d="M582,238 C594,226 650,226 662,238 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
+d.append('  <path d="M588,250 C598,240 646,240 656,250 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % INK3)
+# 雷纹回旋：曲折闪电＋两侧小涡
+d.append('  <path d="M622,256 L614,276 L626,274 L618,294" fill="none" stroke="%s" stroke-width="1.3"/>' % RED)
+d.append('  <path d="M596,268 q6,-6 12,0" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <path d="M648,268 q6,-6 12,0" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <text x="622" y="330" text-anchor="middle" font-size="7.0" fill="%s">曀曀其阴，虺虺其雷</text>' % RED)
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
-d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 终风　既风且暴，终日不息</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 霾曀　蔽日阴沉</text>' % INK2)
-d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 雷　虺虺将发之声</text>' % INK2)
+d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 终风　云气回旋，风夹尘土</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 顾我　回顾相顾，低头含情</text>' % INK2)
+d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 阴雷　叠云蔽日，雷纹将发</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">曀曀其阴，虺虺其雷</text>' % INK)
 d.append('  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="%s">天变即情变，一章坏过一章</text>' % INK3)

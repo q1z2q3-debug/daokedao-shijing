@@ -40,20 +40,33 @@ d.append('  <line x1="132" y1="250" x2="110" y2="260" stroke="%s" stroke-width="
 # 参差羽翼（三枚短羽，长短不齐）
 for (dx, dy, l) in [(138, 244, 16), (144, 248, 13), (150, 251, 10)]:
     d.append('  <line x1="%d" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.8"/>' % (dx, dy, dx - l, dy - 8, INK3))
-# 远处一燕（小）
+# 翮（羽轴）横贯翅面
+d.append('  <line x1="136" y1="249" x2="158" y2="238" stroke="%s" stroke-width="0.9"/>' % INK2)
+# 腹面轮廓短纹
+d.append('  <line x1="138" y1="254" x2="146" y2="255" stroke="%s" stroke-width="0.5"/>' % INK3)
+# 远处双燕
 d.append('  <path d="M186,206 q6,-6 12,0 q6,-6 12,0" fill="none" stroke="%s" stroke-width="0.8"/>' % INK3)
+d.append('  <path d="M176,222 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
 d.append('  <text x="%d" y="300" text-anchor="middle" font-size="7.0" fill="%s">剪尾叉尾，羽翅参差</text>' % (FX, RED))
 
-# 贰 · 旷野与远路
+# 贰 · 旷野与远路（双辙、草丛、双飞鸟）
 WX0, WX1 = 288, 470
-d.append('  <line x1="%d" y1="380" x2="%d" y2="380" stroke="%s" stroke-width="0.9"/>' % (WX0, WX1, INK2))
-d.append('  <path d="M360,440 L372,380" fill="none" stroke="%s" stroke-width="0.8"/>' % INK2)
-d.append('  <path d="M396,440 L384,380" fill="none" stroke="%s" stroke-width="0.8"/>' % INK2)
-for k in range(6):
-    x = 296 + k * 28
-    d.append('  <line x1="%d" y1="410" x2="%d" y2="402" stroke="%s" stroke-width="0.5"/>' % (x, x + 3, INK3))
-d.append('  <path d="M372,320 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
-d.append('  <text x="378" y="360" text-anchor="middle" font-size="7.0" fill="%s">远送于野</text>' % RED)
+# 远空双鸟
+d.append('  <path d="M356,214 q6,-6 12,0 q6,-6 12,0" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
+d.append('  <path d="M384,234 q5,-5 10,0 q5,-5 10,0" fill="none" stroke="%s" stroke-width="0.7"/>' % INK3)
+# 地平线
+d.append('  <line x1="%d" y1="330" x2="%d" y2="330" stroke="%s" stroke-width="0.9"/>' % (WX0, WX1, INK2))
+# 远路双缘＋双辙
+d.append('  <path d="M356,440 L372,330" fill="none" stroke="%s" stroke-width="0.8"/>' % INK2)
+d.append('  <path d="M400,440 L384,330" fill="none" stroke="%s" stroke-width="0.8"/>' % INK2)
+d.append('  <line x1="366" y1="440" x2="375" y2="330" stroke="%s" stroke-width="0.5"/>' % INK3)
+d.append('  <line x1="390" y1="440" x2="381" y2="330" stroke="%s" stroke-width="0.5"/>' % INK3)
+# 草丛：三丛三叶
+for gx in (302, 330, 432, 452):
+    d.append('  <line x1="%d" y1="396" x2="%d" y2="388" stroke="%s" stroke-width="0.5"/>' % (gx, gx - 3, INK3))
+    d.append('  <line x1="%d" y1="396" x2="%d" y2="386" stroke="%s" stroke-width="0.5"/>' % (gx, gx, INK3))
+    d.append('  <line x1="%d" y1="396" x2="%d" y2="388" stroke="%s" stroke-width="0.5"/>' % (gx, gx + 3, INK3))
+d.append('  <text x="378" y="316" text-anchor="middle" font-size="7.0" fill="%s">远送于野，路向南方</text>' % RED)
 
 # 叁 · 伫立之人（背影立姿，宽袖衣裾到地，脚不可见）
 PX = 622
