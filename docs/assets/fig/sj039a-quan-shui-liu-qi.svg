@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">泉 水</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十九</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M112,352 Q148,336 184,352" fill="none" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M118,356 Q148,344 178,356" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <ellipse cx="148" cy="354" rx="22" ry="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M140,352 C136,342 138,332 144,324" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M148,350 C148,338 148,328 148,318" fill="none" stroke="#1F1B17" stroke-width="1.0"/>
+  <path d="M156,352 C160,342 158,332 152,324" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="143" cy="318" r="1.1" fill="#9A9186"/>
+  <circle cx="153" cy="320" r="1.1" fill="#9A9186"/>
+  <path d="M116,372 q16,-6 32,0 q16,6 32,0" fill="none" stroke="#9A9186" stroke-width="0.6" stroke-dasharray="4 3"/>
+  <path d="M122,384 q13,-5 26,0 q13,5 26,0" fill="none" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="148" y="404" text-anchor="middle" font-size="7.0" fill="#994433">毖彼泉水，亦流于淇</text>
+  <path d="M300,372 q18,-6 36,0 q18,6 36,0 q18,-6 36,0" fill="none" stroke="#9A9186" stroke-width="0.7" stroke-dasharray="4 3"/>
+  <path d="M306,384 q16,-5 32,0 q16,5 32,0 q16,-5 32,0" fill="none" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <ellipse cx="386" cy="246" rx="8" ry="9" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="386" cy="236" r="3.2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="386" y1="234" x2="386" y2="228" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="383" y1="255" x2="383" y2="262" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="389" y1="255" x2="389" y2="262" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M386,262 C378,290 378,322 387,352 L407,352 C416,322 416,290 408,262 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="378" y1="264" x2="394" y2="264" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="386" y1="272" x2="386" y2="348" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M386,266 C372,280 370,300 376,314" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M386,266 C418,280 420,300 414,314" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M386,272 C370,284 370,298 375,308" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M386,272 C420,284 420,298 415,308" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="380" y1="246" x2="344" y2="238" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <line x1="380" y1="250" x2="342" y2="250" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="378" y="404" text-anchor="middle" font-size="7.0" fill="#994433">有怀于卫，靡日不思</text>
+  <circle cx="576" cy="352" r="17" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <circle cx="576" cy="352" r="3" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="576" y1="352" x2="589.0" y2="352.0" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="576" y1="352" x2="576.0" y2="365.0" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="576" y1="352" x2="563.0" y2="352.0" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="576" y1="352" x2="576.0" y2="339.0" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="660" cy="352" r="17" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <circle cx="660" cy="352" r="3" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="660" y1="352" x2="673.0" y2="352.0" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="660" y1="352" x2="660.0" y2="365.0" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="660" y1="352" x2="647.0" y2="352.0" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="660" y1="352" x2="660.0" y2="339.0" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M566,322 L670,322 L664,340 L572,340 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="566" y1="322" x2="670" y2="322" stroke="#1F1B17" stroke-width="1.3"/>
+  <line x1="582" y1="324" x2="582" y2="338" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="604" y1="324" x2="604" y2="338" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="626" y1="324" x2="626" y2="338" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="648" y1="324" x2="648" y2="338" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M670,328 L700,322" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="660" y1="335" x2="660" y2="326" stroke="#1F1B17" stroke-width="1.1"/>
+  <circle cx="660" cy="325" r="1.6" fill="#1F1B17"/>
+  <line x1="560" y1="312" x2="572" y2="320" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M556,308 L562,304 L570,312 L564,316 Z" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="622" y="404" text-anchor="middle" font-size="7.0" fill="#994433">载脂载舝，还车言迈</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 泉眼　涌出入淇，以水归卫起兴</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 临流　女子背影，望水怀卫</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 车路　脂舝既备，待发未发</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">遄臻于卫，不瑕有害</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">嫁女思归，念至深而人未行</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj039a</text>
+</svg>

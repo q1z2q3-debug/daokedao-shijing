@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">靜 女</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十二</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M104,356 L104,262 L192,262 L192,356 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M192,262 L214,274 L214,356 L192,356 Z" fill="#F1ECE2" stroke="#9A9186" stroke-width="0.9"/>
+  <path d="M112,262 L112,250 L124,250 L124,262 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M132,262 L132,250 L144,250 L144,262 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M152,262 L152,250 L164,250 L164,262 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M172,262 L172,250 L184,250 L184,262 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="112" y1="286" x2="184" y2="286" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="112" y1="306" x2="184" y2="306" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="112" y1="326" x2="184" y2="326" stroke="#9A9186" stroke-width="0.4"/>
+  <path d="M150,356 L150,300 Q166,292 182,300 L182,356" fill="none" stroke="#9A9186" stroke-width="0.6" stroke-dasharray="3 3"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">俟我于城隅</text>
+  <ellipse cx="378" cy="248" rx="8" ry="9" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="378" cy="238" r="3" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="375" y1="257" x2="375" y2="264" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="381" y1="257" x2="381" y2="264" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M378,264 C370,292 370,322 379,350 L397,350 C406,322 406,292 398,264 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="370" y1="266" x2="386" y2="266" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M396,270 C402,262 400,254 394,248" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="393" cy="247" r="2.4" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M370,270 C364,284 362,302 368,314" fill="none" stroke="#9A9186" stroke-width="0.9"/>
+  <path d="M360,360 q10,-5 20,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M382,366 q10,-5 20,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">爱而不见，搔首踟蹰</text>
+  <path d="M576,330 L616,276" fill="none" stroke="#5C544A" stroke-width="2.2"/>
+  <path d="M576,330 L616,276" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <ellipse cx="619" cy="273" rx="3.4" ry="2.4" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="588" y1="314" x2="594" y2="318" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="598" y1="300" x2="604" y2="304" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="650" y1="350" x2="650" y2="286" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M650,310 C642,304 638,296 640,288" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M650,318 C658,312 662,304 660,296" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M650,296 C646,290 646,284 650,280" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="650" cy="284" r="1.4" fill="#9A9186"/>
+  <text x="622" y="380" text-anchor="middle" font-size="7.0" fill="#994433">贻我彤管，自牧归荑</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 城隅　城角幽僻，相约之处</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 踟蹰　等人那一刻，手足无措</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 微物　彤管红亮，荑草细长</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">匪女之为美，美人之贻</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">全《诗》最轻一篇，物因人而美</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj042a</text>
+</svg>
