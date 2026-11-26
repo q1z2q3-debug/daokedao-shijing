@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">草 虫</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十四</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <ellipse cx="148" cy="348" rx="28" ry="10" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <circle cx="176" cy="344" r="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M180,338 C194,316 206,302 220,286" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M180,342 C192,326 202,314 210,302" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M126,344 C142,340 160,340 170,344" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="132" y1="346" x2="135" y2="341" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="142" y1="346" x2="145" y2="341" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="152" y1="346" x2="155" y2="341" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M134,356 l-4,28" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M145,356 l-4,28" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M156,356 l-4,28" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">草螽 · 长身长须</text>
+  <ellipse cx="378" cy="350" rx="24" ry="11" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <circle cx="401" cy="346" r="8.5" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M374,356 L356,376 L350,402" fill="none" stroke="#5C544A" stroke-width="2.0"/>
+  <line x1="354" y1="382" x2="346" y2="385" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="352" y1="389" x2="344" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="350" y1="396" x2="342" y2="399" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M384,358 l2,22" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M393,358 l2,22" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">蚱蜢 · 后腿善跳</text>
+  <path d="M598,420 C598,400 598,384 600,362" fill="none" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M600,362 C590,352 590,352 596,358 C600,363 598,361 596,356" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M598,396 l-10,-5" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M598,385 l-10,-5" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M598,374 l-10,-5" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M642,420 C642,400 642,384 644,368" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <ellipse cx="636" cy="400" rx="5" ry="2.6" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.55"/>
+  <ellipse cx="650" cy="398" rx="5" ry="2.6" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.55"/>
+  <ellipse cx="636" cy="388" rx="5" ry="2.6" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.55"/>
+  <ellipse cx="650" cy="386" rx="5" ry="2.6" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.55"/>
+  <ellipse cx="636" cy="376" rx="5" ry="2.6" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.55"/>
+  <ellipse cx="650" cy="374" rx="5" ry="2.6" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.55"/>
+  <text x="622" y="344" text-anchor="middle" font-size="7.0" fill="#994433">蕨（春）· 薇（秋）</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 草蟲　草螽，鳴于草間</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 阜螽　蚱蜢，善跳</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 蕨薇　登高所采，春秋異時</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">喓喓草蟲，趯趯阜螽</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">未见则忧，既见则安</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj014a</text>
+</svg>
