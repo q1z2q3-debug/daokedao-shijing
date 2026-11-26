@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">采 蘋</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十五</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <ellipse cx="148" cy="349" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <ellipse cx="161" cy="362" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <ellipse cx="148" cy="375" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <ellipse cx="135" cy="362" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="148" cy="362" r="3" fill="#9A9186"/>
+  <path d="M104,392 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M104,401 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M104,410 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M118,420 C118,406 122,396 124,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M122,420 C122,406 126,396 128,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M126,420 C126,406 130,396 132,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M178,420 C178,406 174,396 172,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M182,420 C182,406 178,396 176,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M186,420 C186,406 182,396 180,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="330" text-anchor="middle" font-size="7.0" fill="#994433">蘋 · 四叶如田</text>
+  <path d="M344,330 L372,330 L366,372 L350,372 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="347" y1="340" x2="369" y2="340" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="347" y1="350" x2="369" y2="350" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="347" y1="360" x2="369" y2="360" stroke="#9A9186" stroke-width="0.45"/>
+  <ellipse cx="404" cy="352" rx="22" ry="20" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M393,342 q11,4 22,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M393,351 q11,4 22,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M393,360 q11,4 22,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">筐方 · 筥圆</text>
+  <ellipse cx="598" cy="348" rx="20" ry="15" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="586" y1="360" x2="584" y2="386" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="598" y1="360" x2="598" y2="386" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="610" y1="360" x2="611" y2="386" stroke="#5C544A" stroke-width="0.9"/>
+  <ellipse cx="648" cy="352" rx="21" ry="16" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M627,338 q21,-8 42,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">錡有足 · 釜无足</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 蘋藻　涧滨行潦之水菜</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 筐筥　方圆竹器</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 錡釜　有足无足之烹器</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">于以采蘋？南澗之濱</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">教女以祭，五事成礼</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj015a</text>
+</svg>
