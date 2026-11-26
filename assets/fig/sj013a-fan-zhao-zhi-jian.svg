@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC',Songti SC,serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">采 蘩</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十三</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="148" y1="440" x2="150" y2="226" stroke="#1F1B17" stroke-width="1.8"/>
+  <path d="M144.0,400.0 C120.6,396.0 102.4,388.0 96.0,382.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="135.4" y1="394.8" x2="130.7" y2="388.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="135.4" y1="394.8" x2="132.6" y2="399.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="126.7" y1="391.5" x2="122.4" y2="385.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="126.7" y1="391.5" x2="124.3" y2="395.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="118.1" y1="388.3" x2="114.2" y2="382.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="118.1" y1="388.3" x2="115.9" y2="392.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="109.4" y1="385.0" x2="105.9" y2="379.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="109.4" y1="385.0" x2="107.5" y2="388.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="100.8" y1="381.8" x2="97.6" y2="376.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="100.8" y1="381.8" x2="99.2" y2="385.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M152.0,400.0 C175.4,396.0 193.6,388.0 200.0,382.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="160.6" y1="394.8" x2="165.3" y2="388.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="160.6" y1="394.8" x2="163.4" y2="399.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="169.3" y1="391.5" x2="173.6" y2="385.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="169.3" y1="391.5" x2="171.7" y2="395.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="177.9" y1="388.3" x2="181.8" y2="382.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="177.9" y1="388.3" x2="180.1" y2="392.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="186.6" y1="385.0" x2="190.1" y2="379.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="186.6" y1="385.0" x2="188.5" y2="388.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="195.2" y1="381.8" x2="198.4" y2="376.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="195.2" y1="381.8" x2="196.8" y2="385.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M144.0,354.0 C123.3,350.0 107.2,342.0 102.0,336.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="136.4" y1="348.8" x2="131.8" y2="342.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="136.4" y1="348.8" x2="133.7" y2="353.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="128.9" y1="345.5" x2="124.6" y2="339.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="128.9" y1="345.5" x2="126.4" y2="349.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="121.3" y1="342.3" x2="117.4" y2="336.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="121.3" y1="342.3" x2="119.1" y2="346.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="113.8" y1="339.0" x2="110.2" y2="333.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="113.8" y1="339.0" x2="111.8" y2="342.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="106.2" y1="335.8" x2="103.0" y2="330.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="106.2" y1="335.8" x2="104.5" y2="339.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M152.0,354.0 C172.7,350.0 188.8,342.0 194.0,336.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="159.6" y1="348.8" x2="164.2" y2="342.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="159.6" y1="348.8" x2="162.3" y2="353.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="167.1" y1="345.5" x2="171.4" y2="339.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="167.1" y1="345.5" x2="169.6" y2="349.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="174.7" y1="342.3" x2="178.6" y2="336.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="174.7" y1="342.3" x2="176.9" y2="346.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="182.2" y1="339.0" x2="185.8" y2="333.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="182.2" y1="339.0" x2="184.2" y2="342.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="189.8" y1="335.8" x2="193.0" y2="330.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="189.8" y1="335.8" x2="191.5" y2="339.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M144.0,308.0 C126.0,304.0 112.0,296.0 108.0,290.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="137.5" y1="302.8" x2="132.9" y2="296.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="137.5" y1="302.8" x2="134.8" y2="307.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="131.0" y1="299.5" x2="126.8" y2="293.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="131.0" y1="299.5" x2="128.6" y2="303.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="124.6" y1="296.3" x2="120.6" y2="290.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="124.6" y1="296.3" x2="122.4" y2="300.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="118.1" y1="293.0" x2="114.5" y2="287.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="118.1" y1="293.0" x2="116.2" y2="296.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="111.6" y1="289.8" x2="108.4" y2="284.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="111.6" y1="289.8" x2="109.9" y2="293.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M152.0,308.0 C170.0,304.0 184.0,296.0 188.0,290.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="158.5" y1="302.8" x2="163.1" y2="296.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="158.5" y1="302.8" x2="161.2" y2="307.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="165.0" y1="299.5" x2="169.2" y2="293.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="165.0" y1="299.5" x2="167.4" y2="303.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="171.4" y1="296.3" x2="175.4" y2="290.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="171.4" y1="296.3" x2="173.6" y2="300.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="177.9" y1="293.0" x2="181.5" y2="287.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="177.9" y1="293.0" x2="179.8" y2="296.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="184.4" y1="289.8" x2="187.6" y2="284.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="184.4" y1="289.8" x2="186.1" y2="293.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M144.0,262.0 C128.7,258.0 116.8,250.0 114.0,244.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="138.6" y1="256.8" x2="134.0" y2="250.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="138.6" y1="256.8" x2="135.9" y2="261.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="133.2" y1="253.5" x2="128.9" y2="247.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="133.2" y1="253.5" x2="130.7" y2="257.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="127.8" y1="250.3" x2="123.9" y2="244.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="127.8" y1="250.3" x2="125.6" y2="254.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="122.4" y1="247.0" x2="118.8" y2="241.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="122.4" y1="247.0" x2="120.5" y2="250.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="117.0" y1="243.8" x2="113.8" y2="238.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="117.0" y1="243.8" x2="115.3" y2="247.0" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M152.0,262.0 C167.3,258.0 179.2,250.0 182.0,244.0" fill="none" stroke="#5C544A" stroke-width="0.85"/>
+  <line x1="157.4" y1="256.8" x2="162.0" y2="250.1" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="157.4" y1="256.8" x2="160.1" y2="261.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="162.8" y1="253.5" x2="167.1" y2="247.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="162.8" y1="253.5" x2="165.3" y2="257.8" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="168.2" y1="250.3" x2="172.1" y2="244.4" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="168.2" y1="250.3" x2="170.4" y2="254.2" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="173.6" y1="247.0" x2="177.2" y2="241.5" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="173.6" y1="247.0" x2="175.5" y2="250.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="179.0" y1="243.8" x2="182.2" y2="238.6" stroke="#9A9186" stroke-width="0.55"/>
+  <line x1="179.0" y1="243.8" x2="180.7" y2="247.0" stroke="#9A9186" stroke-width="0.55"/>
+  <text x="244" y="268" text-anchor="middle" font-size="7.0" fill="#994433">叶背白，故曰皤蒿</text>
+  <path d="M268,406 L470,406" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M268,418 C314,414 424,422 470,418" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M268,430 C314,426 424,434 470,430" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M268,442 C314,438 424,446 470,442" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M268,454 C314,450 424,458 470,454" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M354,430 C362,416 392,436 402,434 C392,446 362,444 354,430 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="362" y1="434" x2="364" y2="424" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="371" y1="434" x2="373" y2="424" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="380" y1="434" x2="382" y2="424" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="389" y1="434" x2="391" y2="424" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="398" y1="434" x2="400" y2="424" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="414" text-anchor="middle" font-size="7.0" fill="#994433">沚</text>
+  <text x="290" y="398" text-anchor="middle" font-size="7.0" fill="#994433">沼</text>
+  <path d="M536,440 L552,360 L598,302 L610,292" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M708,440 L694,356 L650,300 L642,288" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M552.0,424.0 q35.5,-3 71.0,0 q35.5,3 142.0,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M563.0,397.0 q30.0,-3 60.0,0 q30.0,3 120.0,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M574.0,370.0 q24.5,-3 49.0,0 q24.5,3 98.0,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M585.0,343.0 q19.0,-3 38.0,0 q19.0,3 76.0,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M596.0,316.0 q13.5,-3 27.0,0 q13.5,3 54.0,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M566,412 l-16,-10 l16,-6 l16,5 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <path d="M648,372 l-13,-8 l13,-4 l13,4 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <path d="M606,340 l-9,-6 l9,-3 l9,3 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="622" y="274" text-anchor="middle" font-size="7.0" fill="#994433">涧</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 蘩　白蒿，叶背白</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 沼沚　岸与洲</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 涧　石间之水</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">于以采蘩？于沼于沚</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">采在最野，用在最严</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj013a</text>
+</svg>
