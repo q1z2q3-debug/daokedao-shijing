@@ -1,7 +1,7 @@
 {
- "version": "0.3.1",
+ "version": "0.3.2",
  "total": 305,
- "count": 3,
+ "count": 4,
  "chapters": [
   {
    "no": 1,
@@ -17,6 +17,11 @@
    "no": 3,
    "key": "sj003",
    "title": "卷耳"
+  },
+  {
+   "no": 4,
+   "key": "sj004",
+   "title": "樛木"
   }
  ]
 }
