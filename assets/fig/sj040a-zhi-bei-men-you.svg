@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">北 门</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="112" y1="232" x2="112" y2="368" stroke="#5C544A" stroke-width="1.3"/>
+  <line x1="184" y1="232" x2="184" y2="368" stroke="#5C544A" stroke-width="1.3"/>
+  <line x1="104" y1="232" x2="192" y2="232" stroke="#1F1B17" stroke-width="1.4"/>
+  <line x1="104" y1="232" x2="104" y2="224" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="192" y1="232" x2="192" y2="224" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M122,368 L122,252 L174,252 L174,368 Z" fill="#F7F4EE" stroke="#9A9186" stroke-width="0.9"/>
+  <line x1="112" y1="368" x2="184" y2="368" stroke="#1F1B17" stroke-width="1.3"/>
+  <circle cx="130" cy="268" r="1.2" fill="#9A9186"/>
+  <circle cx="166" cy="268" r="1.2" fill="#9A9186"/>
+  <circle cx="130" cy="296" r="1.2" fill="#9A9186"/>
+  <circle cx="166" cy="296" r="1.2" fill="#9A9186"/>
+  <circle cx="130" cy="268" r="1.2" fill="#9A9186"/>
+  <circle cx="166" cy="268" r="1.2" fill="#9A9186"/>
+  <circle cx="130" cy="296" r="1.2" fill="#9A9186"/>
+  <circle cx="166" cy="296" r="1.2" fill="#9A9186"/>
+  <circle cx="130" cy="268" r="1.2" fill="#9A9186"/>
+  <circle cx="166" cy="268" r="1.2" fill="#9A9186"/>
+  <circle cx="130" cy="296" r="1.2" fill="#9A9186"/>
+  <circle cx="166" cy="296" r="1.2" fill="#9A9186"/>
+  <line x1="106" y1="368" x2="118" y2="368" stroke="#9A9186" stroke-width="1.0"/>
+  <line x1="178" y1="368" x2="190" y2="368" stroke="#9A9186" stroke-width="1.0"/>
+  <text x="148" y="404" text-anchor="middle" font-size="7.0" fill="#994433">出自北门，忧心殷殷</text>
+  <rect x="330" y="236" width="96" height="26" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="330" y1="236" x2="330" y2="262" stroke="#1F1B17" stroke-width="1.3"/>
+  <line x1="426" y1="236" x2="426" y2="262" stroke="#1F1B17" stroke-width="1.3"/>
+  <circle cx="330" cy="236" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.8"/>
+  <circle cx="426" cy="262" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="342" y1="243" x2="414" y2="243" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="342" y1="249" x2="414" y2="249" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="342" y1="255" x2="414" y2="255" stroke="#9A9186" stroke-width="0.45"/>
+  <rect x="340" y="286" width="11" height="52" rx="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <rect x="355" y="286" width="11" height="52" rx="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <rect x="370" y="286" width="11" height="52" rx="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <rect x="385" y="286" width="11" height="52" rx="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <rect x="400" y="286" width="11" height="52" rx="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="338" y1="300" x2="418" y2="300" stroke="#9A9186" stroke-width="0.9"/>
+  <line x1="338" y1="324" x2="418" y2="324" stroke="#9A9186" stroke-width="0.9"/>
+  <line x1="340" y1="292" x2="351" y2="292" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="355" y1="292" x2="366" y2="292" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="370" y1="292" x2="381" y2="292" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="385" y1="292" x2="396" y2="292" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="400" y1="292" x2="411" y2="292" stroke="#9A9186" stroke-width="0.4"/>
+  <text x="378" y="372" text-anchor="middle" font-size="7.0" fill="#994433">王事适我，政事一埤益我</text>
+  <line x1="552" y1="236" x2="552" y2="368" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="692" y1="236" x2="692" y2="368" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="552" y1="236" x2="692" y2="236" stroke="#5C544A" stroke-width="1.1"/>
+  <ellipse cx="586" cy="266" rx="7.5" ry="8.5" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="583" y1="274" x2="583" y2="280" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="589" y1="274" x2="589" y2="280" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M586,280 C578,300 578,326 586,350 L604,350 C612,326 612,300 604,280 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M604,286 C616,282 624,276 628,268" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="629" cy="266" r="2.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <ellipse cx="656" cy="272" rx="7.5" ry="8.5" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="653" y1="280" x2="653" y2="286" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="659" y1="280" x2="659" y2="286" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M656,286 C648,306 648,328 656,350 L672,350 C680,328 680,306 672,286 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M648,292 C644,306 644,318 648,328" fill="none" stroke="#9A9186" stroke-width="0.9"/>
+  <line x1="632" y1="276" x2="646" y2="282" stroke="#9A9186" stroke-width="0.5" stroke-dasharray="2 2"/>
+  <text x="622" y="384" text-anchor="middle" font-size="7.0" fill="#994433">室人交遍谪我</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 北门　出门阴寒，忧心殷殷</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 簿册　王事政事，一埤益我</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 室谪　家人更番，交相责让</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">终窭且贫，莫知我艰</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">公中加派，室家相谪，怨而守分</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj040a</text>
+</svg>
