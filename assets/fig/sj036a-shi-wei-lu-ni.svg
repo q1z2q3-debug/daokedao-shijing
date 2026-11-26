@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">式 微</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十六</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="126" y1="332" x2="170" y2="332" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M132,332 C124,306 120,282 124,262" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M148,332 C148,306 148,282 148,260" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M164,332 C172,306 176,282 172,262" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M128,296 l-8,-4 l2,7 Z" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M168,296 l8,-4 l-2,7 Z" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="132" cy="296" r="4" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="131" cy="295" r="1" fill="#9A9186"/>
+  <circle cx="150" cy="282" r="4" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="149" cy="281" r="1" fill="#9A9186"/>
+  <circle cx="166" cy="298" r="4" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="165" cy="297" r="1" fill="#9A9186"/>
+  <path d="M110,210 C130,200 166,200 186,210" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">中露，露天之中</text>
+  <path d="M316,300 L440,300 L432,336 L324,336 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="338" cy="312" rx="7" ry="4.5" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="333" y1="312" x2="343" y2="312" stroke="#9A9186" stroke-width="0.4"/>
+  <ellipse cx="388" cy="312" rx="7" ry="4.5" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="383" y1="312" x2="393" y2="312" stroke="#9A9186" stroke-width="0.4"/>
+  <path d="M326,328 C340,325 354,331 368,328 C382,325 396,331 410,328" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M332,334 C346,331 360,337 374,334 C388,331 402,337 416,334" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="372" text-anchor="middle" font-size="7.0" fill="#994433">泥中，泥涂之中</text>
+  <path d="M586,340 L658,340 L640,300 L604,300 Z" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="622" cy="236" r="10" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M614,232 C616,224 628,224 630,232" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="618" y1="246" x2="618" y2="250" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M608,252 L636,252" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M606,252 C600,262 602,282 608,300 L614,312 L630,312 L636,300 C640,282 642,262 636,252 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="612" y1="262" x2="612" y2="296" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="632" y1="262" x2="632" y2="296" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="640" y1="260" x2="646" y2="312" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="622" y="372" text-anchor="middle" font-size="7.0" fill="#994433">日暮役者，自问不归</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 草露　叶面水珠，暮色未晚</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 泥涂　足迹水渍，役处愈下</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 役者　背影袍裾，自问自解</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">式微式微，胡不歸</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">怨从自问出，不向君前发</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj036a</text>
+</svg>

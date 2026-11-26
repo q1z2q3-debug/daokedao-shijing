@@ -1,7 +1,7 @@
 {
- "version": "0.3.36",
+ "version": "0.3.37",
  "total": 305,
- "count": 35,
+ "count": 36,
  "chapters": [
   {
    "no": 1,
@@ -177,6 +177,11 @@
    "no": 35,
    "key": "sj035",
    "title": "谷风"
+  },
+  {
+   "no": 36,
+   "key": "sj036",
+   "title": "式微"
   }
  ]
 }
