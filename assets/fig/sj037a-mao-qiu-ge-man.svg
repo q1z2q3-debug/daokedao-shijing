@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">旄 丘</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十七</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M104,330 L148,250 L192,330 Z" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.9"/>
+  <path d="M120,326 C132,300 126,278 140,256 C150,240 156,232 158,220" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="128" cy="306" r="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="134" cy="282" r="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="146" cy="260" r="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="154" cy="238" r="2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M126,296 C116,288 112,296 118,302 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M142,272 C152,264 156,272 150,278 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M156,246 C166,238 170,246 164,252 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M158,220 C168,214 172,222 166,226" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">葛节延长，多日不至</text>
+  <path d="M336,236 L420,236 L430,320 L330,320 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M336,236 L354,252 L402,252 L420,236" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="338" y1="262" x2="340" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="348" y1="262" x2="350" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="358" y1="262" x2="360" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="368" y1="262" x2="370" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="378" y1="262" x2="380" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="388" y1="262" x2="390" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="398" y1="262" x2="400" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="408" y1="262" x2="410" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="418" y1="262" x2="420" y2="272" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="338" y1="286" x2="336" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="348" y1="286" x2="346" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="358" y1="286" x2="356" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="368" y1="286" x2="366" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="378" y1="286" x2="376" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="388" y1="286" x2="386" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="398" y1="286" x2="396" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="408" y1="286" x2="406" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="418" y1="286" x2="416" y2="296" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M330,320 l6,-6 l6,6 l6,-6 l6,6 l6,-6 l6,6 l6,-6 l6,6 l6,-6 l6,6 l6,-6 l6,6" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="378" y="372" text-anchor="middle" font-size="7.0" fill="#994433">狐裘蒙戎，蓬松敝乱</text>
+  <path d="M586,250 C600,246 612,252 624,248" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M628,272 C642,268 654,274 666,270" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="622" cy="256" r="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M616,252 C618,246 626,246 628,252" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M612,268 L632,268" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M610,268 C606,278 608,296 612,308 L618,314 L626,314 L632,308 C636,296 638,278 632,268 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M596,320 L648,320 L636,300 L608,300 Z" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="622" y="372" text-anchor="middle" font-size="7.0" fill="#994433">琐尾流离，漂散之子</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 葛蔓　长藤节结，叶簇卷须</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 狐裘　毛锋领缘，蓬松敝乱</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 流离　孤小背影，风落空路</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">叔兮伯兮，褎如充耳</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">呼者自呼，听者自听</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj037a</text>
+</svg>

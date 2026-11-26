@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">簡 兮</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十八</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M118,236 C108,252 108,286 122,304 C134,316 152,316 162,304 C176,286 176,252 166,236 C152,228 132,228 118,236 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="142" y1="240" x2="142" y2="306" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M126,268 L158,268" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="180" y1="240" x2="180" y2="310" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M180,244 L196,250 L192,262 L180,258 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">武舞干戚，勇力如虎</text>
+  <rect x="356" y="236" width="10" height="76" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="361" cy="252" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="268" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="252" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="268" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="252" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="268" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="252" r="1.6" fill="#1F1B17"/>
+  <circle cx="361" cy="268" r="1.6" fill="#1F1B17"/>
+  <line x1="396" y1="250" x2="396" y2="312" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M396,250 C386,236 388,224 396,218 C404,224 406,236 396,250 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M396,250 C390,240 392,232 396,228" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M396,250 C402,240 400,232 396,228" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <text x="378" y="372" text-anchor="middle" font-size="7.0" fill="#994433">文舞龠翟，左右秉持</text>
+  <ellipse cx="622" cy="238" rx="10" ry="11" fill="#E8C9C0" stroke="#994433" stroke-width="0.9"/>
+  <path d="M614,234 C616,226 628,226 630,234" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M608,252 L636,252" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M606,252 C600,262 602,284 608,302 L614,314 L630,314 L636,302 C640,284 642,262 636,252 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M636,258 L654,244" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M650,246 C658,242 662,248 658,252 C654,254 650,252 648,250 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="614" y1="262" x2="614" y2="298" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="630" y1="262" x2="630" y2="298" stroke="#9A9186" stroke-width="0.45"/>
+  <text x="622" y="372" text-anchor="middle" font-size="7.0" fill="#994433">赫如渥赭，公言锡爵</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 干戚　盾面戚刃，武舞道具</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 龠翟　管孔羽翮，文舞所持</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 舞师　舞势赭颜，才美不掩</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">有力如虎，執轡如組</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">全《诗》写身体最猛的一篇</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj038a</text>
+</svg>
