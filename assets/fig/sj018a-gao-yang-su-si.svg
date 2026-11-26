@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">羔 羊</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十八</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M122,316 L148,306 L174,316 L178,392 L118,392 L122,340" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M136,316 L160,336 M160,316 L136,336" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="122" y1="392" x2="124" y2="398" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="135" y1="392" x2="137" y2="398" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="148" y1="392" x2="150" y2="398" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="161" y1="392" x2="163" y2="398" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="174" y1="392" x2="176" y2="398" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="408" text-anchor="middle" font-size="7.0" fill="#994433">羔羊之皮 · 大夫之裘</text>
+  <rect x="352" y="316" width="52" height="72" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="352" y1="330" x2="404" y2="330" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="330" r="2.4" fill="#994433"/>
+  <line x1="352" y1="348" x2="404" y2="348" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="348" r="2.4" fill="#994433"/>
+  <line x1="352" y1="366" x2="404" y2="366" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="366" r="2.4" fill="#994433"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">素丝 · 五紽五緎五总</text>
+  <circle cx="622" cy="326" r="7" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M622,336 L622,372" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <path d="M614,344 L606,356" fill="none" stroke="#9A9186" stroke-width="1.0"/>
+  <path d="M630,344 L638,356" fill="none" stroke="#9A9186" stroke-width="1.0"/>
+  <path d="M617,372 L612,388 M627,372 L632,388" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">委蛇 · 从容缓步</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 羔裘　小羊之皮，大夫服</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 素丝　缝合缀饰之白丝</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 委蛇　退食自公，从容自得</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">退食自公，委蛇委蛇</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">礼见于衣冠步履之微</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj018a</text>
+</svg>
