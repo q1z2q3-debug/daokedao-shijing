@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">周南 · 七</text>
+  <text x="380" y="60" text-anchor="middle" font-size="28" letter-spacing="14" fill="#1F1B17" font-weight="700">兔 罝</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之七</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M206,414 C290,418 470,419 596,414" fill="none" stroke="#9A9186" stroke-width="0.3" stroke-dasharray="8 5 1.5 5"/>
+  <defs><clipPath id="net7"><rect x="240" y="280" width="320" height="112"/></clipPath></defs>
+  <rect x="240" y="280" width="320" height="112" fill="#FAF6EA" stroke="none"/>
+  <g clip-path="url(#net7)">
+  <path d="M-192,280 L-80,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-192,280 L-304,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-174,280 L-62,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-174,280 L-286,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-156,280 L-44,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-156,280 L-268,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-138,280 L-26,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-138,280 L-250,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-120,280 L-8,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-120,280 L-232,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-102,280 L10,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-102,280 L-214,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-84,280 L28,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-84,280 L-196,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-66,280 L46,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-66,280 L-178,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-48,280 L64,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-48,280 L-160,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-30,280 L82,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-30,280 L-142,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-12,280 L100,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M-12,280 L-124,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M6,280 L118,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M6,280 L-106,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M24,280 L136,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M24,280 L-88,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M42,280 L154,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M42,280 L-70,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M60,280 L172,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M60,280 L-52,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M78,280 L190,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M78,280 L-34,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M96,280 L208,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M96,280 L-16,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M114,280 L226,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M114,280 L2,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M132,280 L244,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M132,280 L20,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M150,280 L262,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M150,280 L38,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M168,280 L280,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M168,280 L56,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M186,280 L298,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M186,280 L74,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M204,280 L316,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M204,280 L92,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M222,280 L334,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M222,280 L110,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M240,280 L352,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M240,280 L128,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M258,280 L370,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M258,280 L146,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M276,280 L388,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M276,280 L164,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M294,280 L406,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M294,280 L182,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M312,280 L424,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M312,280 L200,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M330,280 L442,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M330,280 L218,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M348,280 L460,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M348,280 L236,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M366,280 L478,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M366,280 L254,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M384,280 L496,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M384,280 L272,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M402,280 L514,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M402,280 L290,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M420,280 L532,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M420,280 L308,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M438,280 L550,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M438,280 L326,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M456,280 L568,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M456,280 L344,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M474,280 L586,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M474,280 L362,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M492,280 L604,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M492,280 L380,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M510,280 L622,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M510,280 L398,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M528,280 L640,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M528,280 L416,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M546,280 L658,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M546,280 L434,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M564,280 L676,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M564,280 L452,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M582,280 L694,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M582,280 L470,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M600,280 L712,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M600,280 L488,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M618,280 L730,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M618,280 L506,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M636,280 L748,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M636,280 L524,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M654,280 L766,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M654,280 L542,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M672,280 L784,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M672,280 L560,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M690,280 L802,392" stroke="#9A9186" stroke-width="0.32"/>
+  <path d="M690,280 L578,392" stroke="#9A9186" stroke-width="0.32"/>
+  </g>
+  <path d="M240,280 L560,280" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M240,392 L560,392" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M240,280 L240,392" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M560,280 L560,392" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M238,406 L240,238" stroke="#1F1B17" stroke-width="4.4"/>
+  <path d="M243,404 L245,240" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M558,408 L560,250" stroke="#1F1B17" stroke-width="4.0"/>
+  <path d="M563,406 L565,252" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M228,240 L252,237" stroke="#5C544A" stroke-width="1.8"/>
+  <path d="M548,252 L572,249" stroke="#5C544A" stroke-width="1.8"/>
+  <path d="M238,406 L224,416 M242,408 L256,417" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M558,408 L544,418 M562,410 L576,419" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M237,262 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M557,268 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M237,292 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M557,298 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M237,322 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M557,328 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M237,352 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M557,358 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M237,386 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M557,392 l5,-3" stroke="#9A9186" stroke-width="0.24"/>
+  <path d="M240,392 L240,414" stroke="#994433" stroke-width="0.6" stroke-dasharray="2 3"/>
+  <path d="M560,392 L560,414" stroke="#994433" stroke-width="0.6" stroke-dasharray="2 3"/>
+  <path d="M256,404 L544,404" stroke="#9A9186" stroke-width="0.4" stroke-dasharray="3 5"/>
+  <text x="240" y="428" font-size="7.4" fill="#994433">网脚离地一寸——留空，兔才肯钻</text>
+  <path d="M196,414 C198.1,400 200.5,390 202,384" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M206,416 C204.2,406 202.2,398 201,394" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M216,415 C219.2,403 222.8,394 225,389" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M598,414 C595.9,400 593.5,390 592,384" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M608,416 C609.8,406 611.8,398 613,394" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M618,415 C614.9,403 611.2,394 609,389" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M392,422 C394.4,408 397.2,398 399,392" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M450,422 C447.6,410 444.8,401 443,396" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <text x="330" y="268" font-size="7.6" fill="#994433">①</text>
+  <text x="210" y="330" font-size="7.6" fill="#994433">②</text>
+  <text x="566" y="380" font-size="7.6" fill="#994433">③</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">① 兔罝　捕兔之网，目密曰肃肃</text>
+  <text x="286" y="466" font-size="7.8" fill="#5C544A">② 椓之丁丁　钉桩，声从桩出</text>
+  <text x="526" y="466" font-size="7.8" fill="#5C544A">③ 中逵／中林　布网之地</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">肅肅兔罝，椓之丁丁</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">网之整，与人之武对举</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj007a</text>
+</svg>
