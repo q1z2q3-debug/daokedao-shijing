@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">周南 · 十</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">汝 坟</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M84,344 L248,344 L256,384 L76,384 Z" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.7"/>
+  <circle cx="86" cy="362" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="103" cy="369" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="120" cy="376" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="137" cy="362" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="154" cy="369" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="171" cy="376" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="188" cy="362" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="205" cy="369" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="222" cy="376" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <circle cx="239" cy="362" r="1.0" fill="#9A9186" opacity="0.5"/>
+  <path d="M72,396 C128,392 204,400 260,396" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M72,411 C128,407 204,415 260,411" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M72,426 C128,422 204,430 260,426" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M72,441 C128,437 204,445 260,441" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="146" cy="310" r="3.6" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M146,314 L146,332" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M146,332 L139,344" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M146,332 L153,344" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M146,318 L156,310" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="156" y1="310" x2="172" y2="300" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M172,299 l8,-2 l3,9 l-8,2 Z" fill="none" stroke="#1F1B17" stroke-width="0.7"/>
+  <text x="110" y="368" text-anchor="middle" font-size="7.2" fill="#994433">大防</text>
+  <line x1="316" y1="430" x2="404" y2="252" stroke="#1F1B17" stroke-width="2.4"/>
+  <path d="M352,430 C382,368 424,320 486,274" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <ellipse cx="486.3" cy="270.4" rx="1.9" ry="6.0" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.45" transform="rotate(4 486 274)"/>
+  <ellipse cx="487.5" cy="270.7" rx="1.9" ry="6.0" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.45" transform="rotate(24 486 274)"/>
+  <ellipse cx="488.5" cy="271.4" rx="1.9" ry="6.0" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.45" transform="rotate(44 486 274)"/>
+  <line x1="352" y1="344" x2="368" y2="358" stroke="#994433" stroke-width="1.0"/>
+  <path d="M360,351 q-5,-6 -10,-13" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M360,351 q1,-7 3,-15" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M360,351 q-1,-10 -3,-20" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="286" y1="404" x2="322" y2="336" stroke="#5C544A" stroke-width="1.4"/>
+  <path d="M322,336 l13,-7 l5,11 l-13,7 Z" fill="none" stroke="#1F1B17" stroke-width="0.7"/>
+  <text x="412" y="246" font-size="7.2" fill="#9A9186">干曰枚</text>
+  <text x="492" y="264" font-size="7.2" fill="#9A9186">枝曰条</text>
+  <text x="336" y="384" text-anchor="end" font-size="7.2" fill="#994433">条肄</text>
+  <text x="282" y="420" font-size="6.6" fill="#9A9186">斧痕</text>
+  <path d="M574,340 C606,310 658,314 688,340 C658,366 606,370 574,340 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M576,340 l-22,-16 l8,16 l-8,16 Z" fill="#994433" opacity="0.85" stroke="#994433" stroke-width="0.6"/>
+  <circle cx="676" cy="336" r="2.2" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M670,334 q6,10 0,18" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="632" y="402" text-anchor="middle" font-size="7.2" fill="#994433">赪 · 鱼劳则尾赤</text>
+  <text x="96" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="360" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="612" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 汝坟　汝水大防，堤高于水</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 条枚　枝曰条，干曰枚</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 鲂鱼　赪尾，劳形也</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">未见君子，惄如调饥</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">坟者大防，非墓也</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj010a</text>
+</svg>
