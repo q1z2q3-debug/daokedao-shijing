@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="Noto Serif SC,Songti SC,serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-size="21" letter-spacing="8" fill="#1F1B17" font-weight="700">宵征 · 命分</text>
+  <text x="380" y="74" text-anchor="middle" font-size="9.6" letter-spacing="2" fill="#5C544A">《诗经》召南 · 第十篇　小星</text>
+  <defs><marker id="ar21" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+  <rect x="70" y="150" width="150" height="150" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="145" y="214" text-anchor="middle" font-size="28" letter-spacing="2" fill="#5C544A" font-weight="700">宵征</text>
+  <text x="145" y="252" text-anchor="middle" font-size="10" fill="#3B352F">肃肃宵征</text>
+  <text x="145" y="278" text-anchor="middle" font-size="8" fill="#9A9186">夙夜在公</text>
+  <rect x="290" y="150" width="150" height="150" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <text x="365" y="214" text-anchor="middle" font-size="28" letter-spacing="2" fill="#994433" font-weight="700">命同</text>
+  <text x="365" y="252" text-anchor="middle" font-size="10" fill="#3B352F">寔命不同</text>
+  <text x="365" y="278" text-anchor="middle" font-size="8" fill="#9A9186">怨在命，不在人</text>
+  <rect x="510" y="150" width="150" height="150" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="585" y="214" text-anchor="middle" font-size="28" letter-spacing="2" fill="#5C544A" font-weight="700">不犹</text>
+  <text x="585" y="252" text-anchor="middle" font-size="10" fill="#3B352F">寔命不犹</text>
+  <text x="585" y="278" text-anchor="middle" font-size="8" fill="#9A9186">其分不如人</text>
+  <line x1="220" y1="225" x2="288" y2="225" stroke="#994433" stroke-width="1" marker-end="url(#ar21)"/>
+  <line x1="440" y1="225" x2="508" y2="225" stroke="#994433" stroke-width="1" marker-end="url(#ar21)"/>
+  <text x="380" y="330" text-anchor="middle" font-size="8.4" fill="#5C544A">夜行自处：不谤上位，不妒同辈，把差距归于命</text>
+  <line x1="120" y1="360" x2="640" y2="360" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="230" y="392" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">寔</text>
+  <text x="230" y="414" text-anchor="middle" font-size="7.4" fill="#9A9186">同「实」，即「是」</text>
+  <text x="530" y="392" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">不犹</text>
+  <text x="530" y="414" text-anchor="middle" font-size="7.4" fill="#9A9186">犹，若也；不如</text>
+  <text x="380" y="446" text-anchor="middle" font-size="7.4" fill="#9A9186">嘒为微小之光，非明亮；肃肃为疾行整齐，非严肃</text>
+  <text x="120" y="512" font-size="5.6" fill="#5C544A">诗经 · 召南</text>
+  <text x="640" y="512" text-anchor="end" font-size="5.6" fill="#5C544A">图二 · 宵征命分 · sj021b-ye-xing-zi-chu</text>
+</svg>

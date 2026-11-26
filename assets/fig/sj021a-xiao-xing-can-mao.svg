@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">小 星</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十一</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <circle cx="120" cy="210" r="2.2" fill="#5C544A"/>
+  <circle cx="150" cy="250" r="1.6" fill="#5C544A"/>
+  <circle cx="132" cy="300" r="1.8" fill="#5C544A"/>
+  <circle cx="168" cy="232" r="1.4" fill="#5C544A"/>
+  <circle cx="156" cy="330" r="1.6" fill="#5C544A"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">嘒，微光</text>
+  <circle cx="350" cy="224" r="2.4" fill="#1F1B17"/>
+  <circle cx="368" cy="250" r="2.4" fill="#1F1B17"/>
+  <circle cx="386" cy="276" r="2.4" fill="#1F1B17"/>
+  <line x1="350" y1="224" x2="386" y2="276" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="402" cy="226" r="1.5" fill="#5C544A"/>
+  <circle cx="414" cy="236" r="1.5" fill="#5C544A"/>
+  <circle cx="404" cy="246" r="1.5" fill="#5C544A"/>
+  <circle cx="416" cy="250" r="1.5" fill="#5C544A"/>
+  <circle cx="398" cy="258" r="1.5" fill="#5C544A"/>
+  <circle cx="410" cy="262" r="1.5" fill="#5C544A"/>
+  <text x="350" y="214" font-size="7.0" fill="#994433">参</text>
+  <text x="402" y="214" font-size="7.0" fill="#994433">昴</text>
+  <rect x="588" y="286" width="44" height="26" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="588" y1="299" x2="632" y2="299" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M650,250 L650,312 L684,312 L684,250" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M650,250 Q667,236 684,250" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="588" y="330" font-size="7.0" fill="#994433">衾（被）</text>
+  <text x="650" y="330" font-size="7.0" fill="#994433">裯（帐）</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 小星　微光，三三五五</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 参昴　西方两宿</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 衾裯　被与床帐</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">嘒彼小星，三五在东</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">夜行者，怨在命不在人</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj021a-xiao-xing-can-mao</text>
+</svg>
