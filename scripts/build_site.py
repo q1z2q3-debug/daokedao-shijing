@@ -41,11 +41,10 @@ a{color:var(--red);text-decoration:none}
 """
 
 AUDIO_BLOCK = """<div class="audio">
-<div class="alab">吟唱　·　五声琴底</div>
-<audio controls preload="metadata" src="../audio/{key}/yin-chang.mp3"></audio>
-<div class="asec">另备「吟诵」纯人声一版</div>
-<audio controls preload="none" src="../audio/{key}/yin-song.mp3"></audio>
-<div class="anote">古谱无存，今按五声音阶拟作吟诵调，非复原古曲；经文用字依《毛诗》正文。</div>
+<div class="alab">朗读　·　普通话</div>
+<audio controls preload="metadata" src="../audio/{key}/lang-du.mp3"></audio>
+{alt}
+<div class="anote">依经文正文朗读，句读从文；不配乐、不改速、不加拖腔。</div>
 </div>
 """
 
@@ -103,8 +102,11 @@ def main():
         html = conv(raw)
         key = "sj%03d" % num
         audio = ""
-        if os.path.exists(os.path.join(DOCS, "audio", key, "yin-chang.mp3")):
-            audio = AUDIO_BLOCK.format(key=key)
+        if os.path.exists(os.path.join(DOCS, "audio", key, "lang-du.mp3")):
+            alt = ""
+            if os.path.exists(os.path.join(DOCS, "audio", key, "lang-du-b.mp3")):
+                alt = '<div class="asec">另一音色试听：<a href="../audio/%s/lang-du-b.mp3">lang-du-b</a></div>' % key
+            audio = AUDIO_BLOCK.format(key=key, alt=alt)
         page = SHELL.format(
             title="%s · 道可道之诗经" % title,
             desc="《诗经》第 %03d 篇 %s —— 解题、经文、韵读、字义名物、今译、章旨、诗教、分寸、存疑与跨典。" % (num, title),
