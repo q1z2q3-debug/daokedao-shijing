@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""SJ025《驺虞》两图。图一：葭蓬·豝豵特写。图二：壹发·仁节。"""
+"""SJ025《驺虞》两图。图一：葭蓬·弓矢·特写。图二：壹发·仁节。"""
 import os, sys, math
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fig_shelf import *
@@ -9,33 +9,39 @@ B = "sj025b-yi-fa-ren-zhi"
 
 
 def draw(d):
-    # 壹 · 葭（芦苇，水旁）
-    d.append('  <path d="M104,360 L192,360" stroke="%s" stroke-width="0.9" fill="none"/>' % INK3)
-    for (x, h) in [(124, 120), (146, 148), (168, 110)]:
-        d.append('  <line x1="%d" y1="360" x2="%d" y2="%d" stroke="%s" stroke-width="1.0"/>' % (x, x, 360 - h, INK2))
-        d.append('  <path d="M%d,%d C%d,%d %d,%d %d,%d" fill="none" stroke="%s" stroke-width="0.7"/>' %
-                 (x, 360 - h + 20, x - 14, 360 - h + 10, x - 16, 360 - h - 6, x - 10, 360 - h - 14, INK3))
-    d.append('  <text x="148" y="384" text-anchor="middle" font-size="7.0" fill="%s">葭：水旁芦苇</text>' % RED)
-    # 贰 · 蓬（旱地丛草）
-    for k in range(9):
-        a = -math.pi / 2 + (k - 4) * 0.28
-        x0, y0 = 378, 360
-        x1 = x0 + 30 * math.cos(a)
-        y1 = y0 + 30 * math.sin(a)
-        d.append('  <line x1="%d" y1="%d" x2="%.1f" y2="%.1f" stroke="%s" stroke-width="0.8"/>' % (x0, y0, x1, y1, INK2))
-    d.append('  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="%s">蓬：旱地蒿丛</text>' % RED)
-    # 叁 · 豕三处特写：蹄、耳、斑纹（不画整兽）
-    d.append('  <ellipse cx="592" cy="330" rx="9" ry="6" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <ellipse cx="610" cy="330" rx="9" ry="6" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <path d="M636,312 L628,330 L644,330 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    for (x, y) in [(660, 324), (670, 332), (656, 336), (672, 318)]:
-        d.append('  <circle cx="%d" cy="%d" r="1.8" fill="%s"/>' % (x, y, INK2))
-    d.append('  <text x="622" y="364" text-anchor="middle" font-size="7.0" fill="%s">蹄 · 耳 · 斑 三处特写</text>' % RED)
+    # 壹 · 葭：芦苇，叶鞘裹茎、穗下垂
+    for (x, h, lean) in [(126, 110, -6), (148, 146, 0), (170, 100, 6)]:
+        reed(d, x, 360, h, lean)
+        # 叶鞘
+        path(d, "M%g,%g q6,4 12,0" % (x - 6, 360 - h * 0.35), INK3, 0.5)
+    line(d, 104, 360, 192, 360, INK3, 0.7)
+    txt(d, 148, 386, "葭：水旁芦苇", RED, 7.0)
+
+    # 贰 · 壹发：弓与矢，一发而中（非放射线）
+    path(d, "M330,240 C306,280 306,320 330,360", INK2, 1.6)   # 弓
+    line(d, 330, 240, 330, 360, INK3, 0.6)                      # 弦
+    line(d, 330, 300, 430, 300, INK2, 1.0)                      # 矢
+    line(d, 330, 300, 338, 294, INK2, 0.7)
+    line(d, 330, 300, 338, 306, INK2, 0.7)
+    path(d, "M430,300 L420,295 L420,305 Z", INK2, 0.8, INK2)   # 镞
+    # 中于蓬把
+    circ(d, 448, 300, 12, INK3, "#EFEAD6", 0.8)
+    for k in range(5):
+        line(d, 448, 300, 448 + 12 * math.cos(math.tau * k / 5), 300 + 12 * math.sin(math.tau * k / 5), INK3, 0.4)
+    txt(d, 378, 386, "壹发：一发而中", RED, 7.0)
+
+    # 叁 · 驺虞：蹄、耳、斑 三处特写（不画整兽）
+    ell(d, 586, 316, 10, 7, INK2, "#FCFAF6", 0.9)
+    ell(d, 606, 316, 10, 7, INK2, "#FCFAF6", 0.9)
+    path(d, "M634,300 L624,320 L644,320 Z", INK2, 0.9, "#FCFAF6")  # 耳
+    for (x, y) in [(662, 306), (674, 314), (658, 322), (676, 324), (666, 330)]:
+        circ(d, x, y, 2.0, INK2, INK2, 0.0)                          # 斑
+    txt(d, 622, 352, "蹄 · 耳 · 斑 三处特写", RED, 7.0)
 
 
 name_fig(A, "驺 虞", "召南 · 二", "二十五",
-         ["壹 葭　春时水生", "贰 蓬　旱地草盛", "叁 豝豵　特写不画整兽"],
-         "彼茁者葭，壹发五豝", "仁在节制，不在多杀", A, draw)
+         ["壹 葭　春时水生", "贰 弓矢　一发而中", "叁 豝豵　特写不画整兽"],
+         "彼茁者葭，壹發五豝", "仁在节制，不在多杀", A, draw)
 
 logic_fig(B, "壹发 · 仁节", "《诗经》召南 · 第十四篇　驺虞", "ar25",
           [(70, "茁", "彼茁者葭蓬", "草木方盛于春", INK2),

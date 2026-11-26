@@ -9,28 +9,42 @@ B = "sj023b-ye-li-hun-yue"
 
 
 def draw(d):
-    # 壹 · 麕（小獐，侧视朝右）
-    d.append('  <ellipse cx="146" cy="332" rx="30" ry="12" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-    d.append('  <circle cx="176" cy="316" r="8" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-    d.append('  <path d="M172,310 L168,300 L176,306 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % INK2)
-    for lx in (126, 138, 156, 168):
-        d.append('  <line x1="%d" y1="340" x2="%d" y2="358" stroke="%s" stroke-width="0.9"/>' % (lx, lx, INK2))
-    d.append('  <line x1="116" y1="328" x2="106" y2="322" stroke="%s" stroke-width="0.8"/>' % INK2)
-    d.append('  <text x="148" y="384" text-anchor="middle" font-size="7.0" fill="%s">麕：无角小獐</text>' % RED)
-    # 贰 · 白茅
-    for (x, lean) in [(362, -8), (378, 0), (394, 8)]:
-        d.append('  <path d="M%d,372 C%d,340 %d,312 %d,292" fill="none" stroke="%s" stroke-width="0.9"/>' % (x, x + lean, x + lean, x + lean * 1.4, INK2))
-    d.append('  <line x1="356" y1="344" x2="400" y2="344" stroke="%s" stroke-width="0.8"/>' % RED)
-    d.append('  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="%s">白茅：束物取洁</text>' % RED)
-    # 叁 · 帨（佩巾）与尨（犬）
-    d.append('  <line x1="596" y1="300" x2="596" y2="320" stroke="%s" stroke-width="0.7"/>' % INK3)
-    d.append('  <path d="M588,320 L604,320 L600,344 L592,344 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <ellipse cx="652" cy="350" rx="18" ry="8" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-    d.append('  <circle cx="670" cy="342" r="6" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % INK2)
-    d.append('  <path d="M668,338 L666,330 L672,335 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.7"/>' % INK2)
-    d.append('  <line x1="634" y1="348" x2="626" y2="340" stroke="%s" stroke-width="0.8"/>' % INK2)
-    d.append('  <text x="596" y="364" text-anchor="middle" font-size="7.0" fill="%s">帨</text>' % RED)
-    d.append('  <text x="652" y="378" text-anchor="middle" font-size="7.0" fill="%s">尨：多毛犬</text>' % RED)
+    # 壹 · 麕：无角小獐，短尾、后腿长，侧视朝右
+    ell(d, 140, 300, 30, 13, INK2, "#FCFAF6", 1.0)
+    line(d, 130, 312, 126, 352, INK2, 0.9)   # 前腿
+    line(d, 138, 312, 138, 352, INK2, 0.9)
+    line(d, 154, 312, 160, 352, INK2, 0.9)   # 后腿较长
+    line(d, 162, 312, 168, 352, INK2, 0.9)
+    line(d, 112, 296, 104, 286, INK2, 0.9)    # 短尾
+    path(d, "M164,294 L176,284", INK2, 1.0)   # 颈
+    circ(d, 178, 280, 8, INK2, "#FCFAF6", 1.0)
+    path(d, "M174,274 L170,264 L178,270 Z", INK2, 0.8, "#FCFAF6")  # 耳
+    circ(d, 180, 278, 1.3, INK, "#1F1B17", 0.0)
+    txt(d, 148, 386, "麕：无角小獐", RED, 7.0)
+
+    # 贰 · 白茅：叶束带根，束绳一道
+    for (x, lean) in [(354, -10), (366, -4), (378, 0), (390, 4), (402, 10)]:
+        path(d, "M%g,330 C%g,308 %g,278 %g,256" % (x, x + lean, x + lean, x + lean * 1.3), INK2, 0.9)
+    line(d, 350, 330, 406, 330, RED, 0.8)
+    for x in (362, 378, 394):
+        line(d, x, 330, x - 3, 350, INK3, 0.5)  # 根
+    txt(d, 378, 386, "白茅：束物取洁", RED, 7.0)
+
+    # 叁 · 帨（佩巾：系带 + 垂角）与尨（犬：耳、尾、爪）
+    line(d, 576, 250, 576, 270, INK3, 0.7)
+    path(d, "M568,270 L584,270 L580,302 L572,302 Z", INK2, 1.0, "#FCFAF6")
+    line(d, 572, 302, 570, 312, INK3, 0.5)
+    line(d, 580, 302, 582, 312, INK3, 0.5)
+    txt(d, 576, 330, "帨", RED, 7.0)
+    # 犬
+    ell(d, 636, 300, 20, 10, INK2, "#FCFAF6", 1.0)
+    for lx in (622, 632, 646, 654):
+        line(d, lx, 308, lx, 330, INK2, 0.9)
+    line(d, 656, 296, 664, 286, INK2, 0.9)   # 尾上卷
+    circ(d, 658, 296, 7, INK2, "#FCFAF6", 1.0)
+    path(d, "M656,290 L654,282 L660,287 Z", INK2, 0.8, "#FCFAF6")  # 耳
+    circ(d, 660, 295, 1.2, INK, "#1F1B17", 0.0)
+    txt(d, 636, 352, "尨：多毛犬", RED, 7.0)
 
 
 name_fig(A, "野有死麕", "召南 · 二", "二十三",

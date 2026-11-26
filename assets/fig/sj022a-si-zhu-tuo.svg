@@ -7,24 +7,54 @@
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
-  <path d="M104,300 L192,300" stroke="#5C544A" stroke-width="1.2" fill="none"/>
-  <path d="M116,300 C116,268 172,268 172,300" stroke="#5C544A" stroke-width="0.9" fill="none"/>
-  <text x="148" y="336" text-anchor="middle" font-size="7.0" fill="#994433">汜：决而复入</text>
-  <path d="M318,306 L438,306" stroke="#9A9186" stroke-width="1.0" fill="none"/>
-  <path d="M340,300 C348,284 408,284 416,300 C408,312 348,312 340,300 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
-  <line x1="352" y1="296" x2="352" y2="286" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="368" y1="296" x2="368" y2="286" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="384" y1="296" x2="384" y2="286" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="400" y1="296" x2="400" y2="286" stroke="#9A9186" stroke-width="0.5"/>
-  <text x="378" y="336" text-anchor="middle" font-size="7.0" fill="#994433">渚：水中之洲</text>
-  <path d="M560,300 L640,300" stroke="#5C544A" stroke-width="1.2" fill="none"/>
-  <path d="M596,300 C612,284 640,276 676,276" stroke="#5C544A" stroke-width="0.9" fill="none"/>
-  <text x="622" y="336" text-anchor="middle" font-size="7.0" fill="#994433">沱：别出之流</text>
+  <line x1="76" y1="248" x2="220" y2="248" stroke="#5C544A" stroke-width="1"/>
+  <line x1="76" y1="352" x2="220" y2="352" stroke="#5C544A" stroke-width="1"/>
+  <line x1="84" y1="248" x2="79" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="84" y1="352" x2="79" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="100" y1="248" x2="95" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="100" y1="352" x2="95" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="116" y1="248" x2="111" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="116" y1="352" x2="111" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="132" y1="248" x2="127" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="132" y1="352" x2="127" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="148" y1="248" x2="143" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="148" y1="352" x2="143" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="164" y1="248" x2="159" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="164" y1="352" x2="159" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="180" y1="248" x2="175" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="180" y1="352" x2="175" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="196" y1="248" x2="191" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="196" y1="352" x2="191" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="212" y1="248" x2="207" y2="240" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="212" y1="352" x2="207" y2="360" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M108,300 C108,268 184,268 184,300" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <path d="M108,300 C108,332 184,332 184,300" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <path d="M120,300 C140,292 164,292 176,300" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="386" text-anchor="middle" font-size="7" fill="#994433">汜：决而复入</text>
+  <path d="M312,308 C320,286 436,286 444,308 C436,326 320,326 312,308 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="1"/>
+  <path d="M344,300 C342.368,261 339.92,236 339.92,222" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M344,257.1 Q332,264.9 328,276.6" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M339.92,226 Q349.92,220 351.92,210" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M378,300 C378,261 378,236 378,222" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M378,257.1 Q366,264.9 362,276.6" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M378,226 Q388,220 390,210" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M412,300 C413.632,261 416.08,236 416.08,222" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M412,257.1 Q400,264.9 396,276.6" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M416.08,226 Q426.08,220 428.08,210" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M316,336 C336,331 356,341 376,331 C396,341 416,331 436,336" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M316,348 C336,343 356,353 376,343 C396,353 416,343 436,348" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7" fill="#994433">渚：水中之洲</text>
+  <line x1="548" y1="262" x2="700" y2="262" stroke="#5C544A" stroke-width="1"/>
+  <path d="M548,300 C590,300 620,318 650,344 C666,358 684,362 700,362" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <path d="M548,300 C584,304 600,316 616,332" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="560" y1="262" x2="555" y2="254" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="588" y1="262" x2="583" y2="254" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="622" y="386" text-anchor="middle" font-size="7" fill="#994433">沱：别出之流</text>
   <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 汜　决而复入</text>
   <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 渚　水中沙洲</text>
   <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 沱　别出不返</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
-  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">江有汜，之子归，不我以</text>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">江有汜，之子歸，不我以</text>
   <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">被弃自宽，逐层收回</text>
   <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj022a-si-zhu-tuo</text>
 </svg>

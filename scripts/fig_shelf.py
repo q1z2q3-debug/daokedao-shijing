@@ -71,6 +71,53 @@ def logic_fig(key, title, sub, mark, cells, bottom, ruler1, ruler2, source, vol,
     return key
 
 
+# ---- 线描基元（纯 SVG 原语，不依赖 shapely 几何并集） ----
+def line(d, x1, y1, x2, y2, col=INK2, w=0.9):
+    d.append('  <line x1="%g" y1="%g" x2="%g" y2="%g" stroke="%s" stroke-width="%g"/>' % (x1, y1, x2, y2, col, w))
+
+def path(d, dstr, col=INK2, w=0.9, fill="none"):
+    d.append('  <path d="%s" fill="%s" stroke="%s" stroke-width="%g"/>' % (dstr, fill, col, w))
+
+def circ(d, cx, cy, r, col=INK2, fill="#FCFAF6", w=0.9):
+    d.append('  <circle cx="%g" cy="%g" r="%g" fill="%s" stroke="%s" stroke-width="%g"/>' % (cx, cy, r, fill, col, w))
+
+def ell(d, cx, cy, rx, ry, col=INK2, fill="#FCFAF6", w=0.9):
+    d.append('  <ellipse cx="%g" cy="%g" rx="%g" ry="%g" fill="%s" stroke="%s" stroke-width="%g"/>' % (cx, cy, rx, ry, fill, col, w))
+
+def rect(d, x, y, w, h, col=INK2, fill="#FCFAF6", sw=0.9):
+    d.append('  <rect x="%g" y="%g" width="%g" height="%g" fill="%s" stroke="%s" stroke-width="%g"/>' % (x, y, w, h, fill, col, sw))
+
+def txt(d, x, y, s, col=RED, size=7.0, anchor="middle"):
+    d.append('  <text x="%g" y="%g" text-anchor="%s" font-size="%g" fill="%s">%s</text>' % (x, y, anchor, size, col, s))
+
+def blossom(d, cx, cy, r, col=INK2):
+    """五瓣花带蕊，枝上可辨。"""
+    import math
+    for k in range(5):
+        a = math.tau * k / 5 - math.pi / 2
+        px = cx + r * math.cos(a)
+        py = cy + r * math.sin(a)
+        circ(d, px, py, r * 0.6, col, "#FCFAF6", 0.7)
+    circ(d, cx, cy, r * 0.34, INK, "#EFEAD6", 0.7)
+
+def reed(d, x, base, h, lean=0, col=INK2):
+    """芦苇：茎、叶鞘、穗。"""
+    top = (x + lean, base - h)
+    path(d, "M%g,%g C%g,%g %g,%g %g,%g" % (x, base, x + lean * 0.4, base - h * 0.5, top[0], top[1] + 14, top[0], top[1]), col, 0.9)
+    # 叶
+    path(d, "M%g,%g Q%g,%g %g,%g" % (x, base - h * 0.55, x - 12, base - h * 0.45, x - 16, base - h * 0.3), INK3, 0.6)
+    # 穗
+    path(d, "M%g,%g Q%g,%g %g,%g" % (top[0], top[1] + 4, top[0] + 10, top[1] - 2, top[0] + 12, top[1] - 12), col, 0.7)
+
+def wheel(d, cx, cy, r, col=INK2):
+    """车轮：轮圈 + 辐条 + 毂。"""
+    circ(d, cx, cy, r, col, "none", 1.0)
+    circ(d, cx, cy, r * 0.18, col, "#FCFAF6", 0.7)
+    for k in range(6):
+        import math
+        a = math.tau * k / 6
+        line(d, cx, cy, cx + r * math.cos(a), cy + r * math.sin(a), col, 0.6)
+
 # ---- 坐标越界自检 ----
 def audit(path_keys):
     bad = []

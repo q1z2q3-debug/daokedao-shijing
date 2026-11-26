@@ -8,37 +8,42 @@ A = "sj027a-lv-yi-huang-li"
 B = "sj027b-jian-yi-si-ren"
 
 
-def garment(d, cx, top, bottom, inner):
-    # 衣形：肩、袖、身
-    d.append('  <path d="M%d,%d L%d,%d L%d,%d L%d,%d Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' %
-             (cx - 26, top, cx + 26, top, cx + 20, bottom, cx - 20, bottom, INK2))
-    if inner:
-        d.append('  <path d="M%d,%d L%d,%d L%d,%d L%d,%d Z" fill="#EFEAD6" stroke="%s" stroke-width="0.7"/>' %
-                 (cx - 16, top + 8, cx + 16, top + 8, cx + 12, bottom - 6, cx - 12, bottom - 6, INK3))
-
-
 def draw(d):
-    # 壹 · 绿衣黄里
-    garment(d, 148, 280, 352, True)
-    d.append('  <text x="148" y="384" text-anchor="middle" font-size="7.0" fill="%s">绿外黄里，色失常度</text>' % RED)
-    # 贰 · 绿衣黄裳
-    d.append('  <rect x="356" y="278" width="44" height="26" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
-    d.append('  <path d="M352,304 L404,304 L410,350 L346,350 Z" fill="#EFEAD6" stroke="%s" stroke-width="1.1"/>' % INK2)
-    d.append('  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="%s">绿上黄裳，上下易位</text>' % RED)
-    # 叁 · 絺（密）绤（疏）
-    d.append('  <rect x="576" y="286" width="44" height="56" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    for gx in range(582, 618, 5):
-        d.append('  <line x1="%d" y1="286" x2="%d" y2="342" stroke="%s" stroke-width="0.4"/>' % (gx, gx, INK3))
-    d.append('  <rect x="632" y="286" width="44" height="56" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    for gx in range(640, 672, 10):
-        d.append('  <line x1="%d" y1="286" x2="%d" y2="342" stroke="%s" stroke-width="0.4"/>' % (gx, gx, INK3))
-    d.append('  <text x="598" y="360" text-anchor="middle" font-size="7.0" fill="%s">絺（密）</text>' % RED)
-    d.append('  <text x="654" y="360" text-anchor="middle" font-size="7.0" fill="%s">绤（疏）</text>' % RED)
+    # 壹 · 绿衣：交领右衽、宽袖、缘边
+    path(d, "M124,220 L172,220 L188,248 L178,270 L172,352 L124,352 L118,270 L108,248 Z", INK2, 1.1, "#FCFAF6")
+    path(d, "M124,220 L148,252 L172,220", INK2, 0.9)       # 交领
+    path(d, "M148,252 L148,352", INK3, 0.6)                  # 中缝
+    path(d, "M108,248 C96,262 94,284 104,296", INK2, 0.9)   # 左宽袖
+    path(d, "M188,248 C200,262 202,284 192,296", INK2, 0.9) # 右宽袖
+    path(d, "M124,352 L172,352", RED, 0.8)                   # 缘边
+    txt(d, 148, 386, "绿外黄里，色失常度", RED, 7.0)
+
+    # 贰 · 黄里：里襟翻转露里；裳幅褶裥
+    path(d, "M352,224 L404,224 L410,286 L346,286 Z", INK2, 1.1, "#FCFAF6")
+    path(d, "M380,224 L368,286 L352,286", INK3, 0.8, "#EFEAD6")  # 翻露之里
+    path(d, "M346,286 L410,286 L416,350 L340,350 Z", INK2, 1.1, "#EFEAD6")  # 裳
+    for px in (356, 372, 388, 404):
+        line(d, px, 290, px - 3, 348, INK3, 0.5)             # 褶裥
+    txt(d, 378, 386, "绿上黄裳，上下易位", RED, 7.0)
+
+    # 叁 · 絺（密）绤（疏）：葛布编织纹
+    rect(d, 572, 264, 44, 60, INK2, "#FCFAF6", 0.9)
+    for gx in range(578, 614, 4):
+        line(d, gx, 264, gx, 324, INK3, 0.4)
+    for gy in range(270, 324, 6):
+        line(d, 572, gy, 616, gy, INK3, 0.4)
+    rect(d, 632, 264, 44, 60, INK2, "#FCFAF6", 0.9)
+    for gx in range(640, 672, 9):
+        line(d, gx, 264, gx, 324, INK3, 0.4)
+    for gy in range(274, 324, 10):
+        line(d, 632, gy, 676, gy, INK3, 0.4)
+    txt(d, 594, 344, "絺（密）", RED, 7.0)
+    txt(d, 654, 344, "绤（疏）", RED, 7.0)
 
 
 name_fig(A, "绿 衣", "邶风 · 三", "二十七",
          ["壹 衣里　间色外，正色内", "贰 衣裳　上衣下裳倒置", "叁 絺绤　粗细葛布"],
-         "绿兮衣兮，绿衣黄里", "见衣而思人，一针一缕", A, draw)
+         "綠兮衣兮，綠衣黃里", "见衣而思人，一针一缕", A, draw)
 
 logic_fig(B, "见衣 · 思人", "《诗经》邶风 · 第二篇　绿衣", "ar27",
           [(70, "倒置", "绿衣黄里裳", "间色居外上", INK2),

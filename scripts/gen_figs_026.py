@@ -9,25 +9,36 @@ B = "sj026b-fei-shi-fei-xi"
 
 
 def draw(d):
-    # 壹 · 柏舟：一叶孤舟，不系缆
-    d.append('  <path d="M112,320 L184,320 L172,344 L124,344 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
-    d.append('  <line x1="148" y1="320" x2="148" y2="282" stroke="%s" stroke-width="1.0"/>' % INK2)
-    d.append('  <path d="M148,282 L176,316" fill="none" stroke="%s" stroke-width="0.8"/>' % INK3)
-    d.append('  <path d="M108,356 C124,350 140,362 156,356 C172,350 188,362 200,356" fill="none" stroke="%s" stroke-width="0.6"/>' % INK3)
-    d.append('  <text x="148" y="384" text-anchor="middle" font-size="7.0" fill="%s">汎流之舟，无所系泊</text>' % RED)
-    # 贰 · 鉴：铜镜
-    d.append('  <circle cx="378" cy="312" r="26" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % INK2)
-    d.append('  <circle cx="378" cy="312" r="20" fill="none" stroke="%s" stroke-width="0.5"/>' % INK3)
-    d.append('  <line x1="378" y1="338" x2="378" y2="356" stroke="%s" stroke-width="1.1"/>' % INK2)
-    d.append('  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="%s">鉴：镜可纳众形</text>' % RED)
-    # 叁 · 石与席
-    d.append('  <path d="M576,336 C576,322 596,318 606,326 C616,334 608,346 592,346 C580,346 576,344 576,336 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <rect x="624" y="318" width="56" height="30" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    for gx in (638, 652, 666):
-        d.append('  <line x1="%d" y1="318" x2="%d" y2="348" stroke="%s" stroke-width="0.4"/>' % (gx, gx, INK3))
-    d.append('  <line x1="624" y1="328" x2="680" y2="328" stroke="%s" stroke-width="0.4"/>' % INK3)
-    d.append('  <text x="592" y="364" text-anchor="middle" font-size="7.0" fill="%s">石（平置）</text>' % RED)
-    d.append('  <text x="652" y="364" text-anchor="middle" font-size="7.0" fill="%s">席（舒展）</text>' % RED)
+    # 壹 · 柏舟：舟身柏木纹 + 桨，浮于水
+    path(d, "M112,300 L188,300 L176,336 L124,336 Z", INK2, 1.1, "#FCFAF6")
+    line(d, 122, 312, 178, 312, INK3, 0.5)   # 木板缝
+    line(d, 126, 324, 174, 324, INK3, 0.5)
+    line(d, 150, 300, 150, 256, INK2, 1.0)   # 桅
+    path(d, "M150,256 L182,296", INK3, 0.8)  # 帆影
+    line(d, 188, 316, 214, 296, INK2, 0.9)    # 桨
+    path(d, "M104,350 C122,344 140,356 158,350 C176,344 194,356 210,350", INK3, 0.6)
+    txt(d, 148, 386, "汎流之舟，无所系泊", RED, 7.0)
+
+    # 贰 · 鉴：圆鉴面 + 钮 + 绹绳
+    circ(d, 378, 300, 26, INK2, "#FCFAF6", 1.1)
+    circ(d, 378, 300, 20, INK3, "none", 0.5)
+    circ(d, 378, 300, 5, INK2, "#EFEAD6", 0.9)   # 钮
+    path(d, "M378,305 C378,322 368,330 360,340", INK3, 0.7)  # 绹绳
+    path(d, "M378,305 C378,322 388,330 396,340", INK3, 0.7)
+    txt(d, 378, 386, "鉴：镜可纳众形", RED, 7.0)
+
+    # 叁 · 石（三块叠石带棱线）与席（编织纹带边）
+    path(d, "M572,336 C572,322 592,318 602,326 C612,334 604,346 588,346 C576,346 572,344 572,336 Z", INK2, 0.9, "#EFEAD6")
+    path(d, "M580,322 L596,330", INK3, 0.5)
+    path(d, "M588,310 C588,300 604,298 612,306 C618,314 608,320 596,320", INK2, 0.9, "#EFEAD6")
+    rect(d, 628, 308, 56, 30, INK2, "#FCFAF6", 1.0)
+    rect(d, 632, 312, 48, 22, INK3, "none", 0.5)
+    for gx in (642, 654, 666):
+        line(d, gx, 312, gx, 334, INK3, 0.4)
+    for gy in (319, 326):
+        line(d, 632, gy, 680, gy, INK3, 0.4)
+    txt(d, 590, 364, "石", RED, 7.0)
+    txt(d, 656, 364, "席", RED, 7.0)
 
 
 name_fig(A, "柏 舟", "邶风 · 三", "二十六",

@@ -8,31 +8,53 @@ A = "sj021a-xiao-xing-can-mao"
 B = "sj021b-ye-xing-zi-chu"
 
 
+def star(d, x, y, r):
+    circ(d, x, y, r, INK, "#1F1B17", 0.0)
+    line(d, x - r - 2, y, x + r + 2, y, INK3, 0.4)
+    line(d, x, y - r - 2, x, y + r + 2, INK3, 0.4)
+
+
 def draw(d):
-    # 壹 · 稀疏小星
-    for (x, y, r) in [(120, 210, 2.2), (150, 250, 1.6), (132, 300, 1.8), (168, 232, 1.4), (156, 330, 1.6)]:
-        d.append('  <circle cx="%d" cy="%d" r="%.1f" fill="%s"/>' % (x, y, r, INK2))
-    d.append('  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="%s">嘒，微光</text>' % RED)
+    # 壹 · 稀疏小星 + 「三五在東」方位线（朝东）
+    line(d, 76, 352, 220, 352, INK3, 0.7)
+    path(d, "M212,347 L222,352 L212,357", INK3, 0.7)
+    txt(d, 214, 340, "東", INK3, 7.0)
+    for (x, y, r) in [(104, 196, 2.6), (138, 232, 1.7), (118, 278, 1.9),
+                      (166, 214, 1.5), (150, 310, 1.7)]:
+        star(d, x, y, r)
+    txt(d, 148, 386, "嘒，微光；三五零落", RED, 7.0)
+
     # 贰 · 参（三星斜列）与昴（一簇）
-    for (x, y) in [(350, 224), (368, 250), (386, 276)]:
-        d.append('  <circle cx="%d" cy="%d" r="2.4" fill="%s"/>' % (x, y, INK))
-    d.append('  <line x1="350" y1="224" x2="386" y2="276" stroke="%s" stroke-width="0.5"/>' % INK3)
-    for (x, y) in [(402, 226), (414, 236), (404, 246), (416, 250), (398, 258), (410, 262)]:
-        d.append('  <circle cx="%d" cy="%d" r="1.5" fill="%s"/>' % (x, y, INK2))
-    d.append('  <text x="350" y="214" font-size="7.0" fill="%s">参</text>' % RED)
-    d.append('  <text x="402" y="214" font-size="7.0" fill="%s">昴</text>' % RED)
-    # 叁 · 衾（被）与裯（帐）
-    d.append('  <rect x="588" y="286" width="44" height="26" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <line x1="588" y1="299" x2="632" y2="299" stroke="%s" stroke-width="0.5"/>' % INK3)
-    d.append('  <path d="M650,250 L650,312 L684,312 L684,250" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <path d="M650,250 Q667,236 684,250" fill="none" stroke="%s" stroke-width="0.9"/>' % INK2)
-    d.append('  <text x="588" y="330" font-size="7.0" fill="%s">衾（被）</text>' % RED)
-    d.append('  <text x="650" y="330" font-size="7.0" fill="%s">裯（帐）</text>' % RED)
+    can = [(350, 200), (366, 230), (382, 260)]
+    for (x, y) in can:
+        star(d, x, y, 2.6)
+    line(d, 350, 200, 382, 260, INK3, 0.5)
+    for (x, y) in [(404, 206), (416, 216), (406, 226), (418, 230), (400, 238), (412, 244)]:
+        star(d, x, y, 1.4)
+    txt(d, 350, 188, "参", RED, 7.0)
+    txt(d, 410, 188, "昴", RED, 7.0)
+
+    # 叁 · 衾（叠被：三折 + 缘边 + 坠穗）与裯（帷幔：垂褶 + 系带）
+    # 衾
+    rect(d, 566, 236, 44, 60, INK2, "#FCFAF6", 1.0)
+    line(d, 566, 256, 610, 256, INK3, 0.5)
+    line(d, 566, 276, 610, 276, INK3, 0.5)
+    line(d, 572, 296, 572, 306, INK3, 0.5)
+    line(d, 584, 296, 584, 306, INK3, 0.5)
+    line(d, 596, 296, 596, 306, INK3, 0.5)
+    txt(d, 588, 324, "衾（被）", RED, 7.0)
+    # 裯：顶竿 + 幔身垂褶 + 束带
+    line(d, 632, 214, 684, 214, INK2, 1.0)
+    path(d, "M634,214 L634,300 Q658,308 682,300 L682,214", INK2, 1.0, "#FCFAF6")
+    for fx in (644, 656, 668):
+        path(d, "M%d,216 C%d,244 %d,272 %d,300" % (fx, fx - 2, fx + 2, fx), INK3, 0.5)
+    line(d, 634, 262, 682, 262, RED, 0.8)
+    txt(d, 658, 324, "裯（帐）", RED, 7.0)
 
 
 name_fig(A, "小 星", "召南 · 二", "二十一",
          ["壹 小星　微光，三三五五", "贰 参昴　西方两宿", "叁 衾裯　被与床帐"],
-         "嘒彼小星，三五在东", "夜行者，怨在命不在人", A, draw)
+         "嘒彼小星，三五在東", "夜行者，怨在命不在人", A, draw)
 
 logic_fig(B, "宵征 · 命分", "《诗经》召南 · 第十篇　小星", "ar21",
           [(70, "宵征", "肃肃宵征", "夙夜在公", INK2),
