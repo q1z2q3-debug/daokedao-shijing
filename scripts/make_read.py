@@ -17,7 +17,7 @@ for f in sorted(x for x in os.listdir(os.path.join(ROOT, "audio_src")) if x.ends
                    check=True, stdout=subprocess.DEVNULL)
     d = os.path.join(OUT, sid)
     os.makedirs(os.path.join(d, "lab"), exist_ok=True)
-    for old, new in [("%s.mp3" % name, "lang-du.mp3"), ("%s.srt" % name, "lang-du.srt")]:
+    for old, new in [("%s.mp3" % name, os.path.join("lab","lang-du-piper.mp3")), ("%s.srt" % name, os.path.join("lab","lang-du-piper.srt"))]:
         src = os.path.join(work, old)
         if os.path.exists(src):
             shutil.copy(src, os.path.join(d, new))
