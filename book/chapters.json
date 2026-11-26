@@ -1,7 +1,7 @@
 {
  "version": "0.3.8",
  "total": 305,
- "count": 8,
+ "count": 9,
  "chapters": [
   {
    "no": 1,
@@ -42,6 +42,11 @@
    "no": 8,
    "key": "sj008",
    "title": "芣苢"
+  },
+  {
+   "no": 9,
+   "key": "sj009",
+   "title": "汉广"
   }
  ]
 }
