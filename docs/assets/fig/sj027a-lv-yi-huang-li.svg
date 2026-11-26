@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">绿 衣</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十七</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <path d="M124,220 L172,220 L188,248 L178,270 L172,352 L124,352 L118,270 L108,248 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M124,220 L148,252 L172,220" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M148,252 L148,352" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M108,248 C96,262 94,284 104,296" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M188,248 C200,262 202,284 192,296" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M124,352 L172,352" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="148" y="386" text-anchor="middle" font-size="7" fill="#994433">绿外黄里，色失常度</text>
+  <path d="M352,224 L404,224 L410,286 L346,286 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M380,224 L368,286 L352,286" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M346,286 L410,286 L416,350 L340,350 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="356" y1="290" x2="353" y2="348" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="372" y1="290" x2="369" y2="348" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="388" y1="290" x2="385" y2="348" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="404" y1="290" x2="401" y2="348" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7" fill="#994433">绿上黄裳，上下易位</text>
+  <rect x="572" y="264" width="44" height="60" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="578" y1="264" x2="578" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="582" y1="264" x2="582" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="586" y1="264" x2="586" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="590" y1="264" x2="590" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="594" y1="264" x2="594" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="598" y1="264" x2="598" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="602" y1="264" x2="602" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="606" y1="264" x2="606" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="610" y1="264" x2="610" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="270" x2="616" y2="270" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="276" x2="616" y2="276" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="282" x2="616" y2="282" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="288" x2="616" y2="288" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="294" x2="616" y2="294" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="300" x2="616" y2="300" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="306" x2="616" y2="306" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="312" x2="616" y2="312" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="572" y1="318" x2="616" y2="318" stroke="#9A9186" stroke-width="0.4"/>
+  <rect x="632" y="264" width="44" height="60" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="640" y1="264" x2="640" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="649" y1="264" x2="649" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="658" y1="264" x2="658" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="667" y1="264" x2="667" y2="324" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="274" x2="676" y2="274" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="284" x2="676" y2="284" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="294" x2="676" y2="294" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="304" x2="676" y2="304" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="314" x2="676" y2="314" stroke="#9A9186" stroke-width="0.4"/>
+  <text x="594" y="344" text-anchor="middle" font-size="7" fill="#994433">絺（密）</text>
+  <text x="654" y="344" text-anchor="middle" font-size="7" fill="#994433">绤（疏）</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 衣里　间色外，正色内</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 衣裳　上衣下裳倒置</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 絺绤　粗细葛布</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">綠兮衣兮，綠衣黃里</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">见衣而思人，一针一缕</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj027a-lv-yi-huang-li</text>
+</svg>

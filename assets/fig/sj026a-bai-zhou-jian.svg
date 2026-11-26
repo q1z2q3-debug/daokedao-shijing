@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">柏 舟</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十六</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <path d="M112,300 L188,300 L176,336 L124,336 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="122" y1="312" x2="178" y2="312" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="126" y1="324" x2="174" y2="324" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="150" y1="300" x2="150" y2="256" stroke="#5C544A" stroke-width="1"/>
+  <path d="M150,256 L182,296" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="188" y1="316" x2="214" y2="296" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M104,350 C122,344 140,356 158,350 C176,344 194,356 210,350" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="386" text-anchor="middle" font-size="7" fill="#994433">汎流之舟，无所系泊</text>
+  <circle cx="378" cy="300" r="26" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <circle cx="378" cy="300" r="20" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="378" cy="300" r="5" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M378,305 C378,322 368,330 360,340" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M378,305 C378,322 388,330 396,340" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7" fill="#994433">鉴：镜可纳众形</text>
+  <path d="M572,336 C572,322 592,318 602,326 C612,334 604,346 588,346 C576,346 572,344 572,336 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M580,322 L596,330" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M588,310 C588,300 604,298 612,306 C618,314 608,320 596,320" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <rect x="628" y="308" width="56" height="30" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+  <rect x="632" y="312" width="48" height="22" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="642" y1="312" x2="642" y2="334" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="654" y1="312" x2="654" y2="334" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="666" y1="312" x2="666" y2="334" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="319" x2="680" y2="319" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="632" y1="326" x2="680" y2="326" stroke="#9A9186" stroke-width="0.4"/>
+  <text x="590" y="364" text-anchor="middle" font-size="7" fill="#994433">石</text>
+  <text x="656" y="364" text-anchor="middle" font-size="7" fill="#994433">席</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 柏舟　浮流无泊</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 鉴　铜镜可纳</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 石席　不可转卷</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">汎彼柏舟，亦汎其流</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">邶风开卷：忧之不可转</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj026a-bai-zhou-jian</text>
+</svg>

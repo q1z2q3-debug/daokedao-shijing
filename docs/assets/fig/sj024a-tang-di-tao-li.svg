@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">何彼襛矣</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十四</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <path d="M128,352 C132,316 140,276 158,232" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <path d="M140,300 C128,286 116,282 104,284" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <path d="M148,272 C160,260 172,256 184,258" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <circle cx="138" cy="300" r="1.6" fill="#9A9186" stroke="#9A9186" stroke-width="0"/>
+  <circle cx="116" cy="274" r="7.2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="127.413" cy="282.292" r="7.2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="123.053" cy="295.708" r="7.2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="108.947" cy="295.708" r="7.2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="104.587" cy="282.292" r="7.2" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="116" cy="286" r="4.08" fill="#EFEAD6" stroke="#1F1B17" stroke-width="0.7"/>
+  <circle cx="178" cy="247" r="7.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="190.364" cy="255.983" r="7.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="185.641" cy="270.517" r="7.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="170.359" cy="270.517" r="7.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="165.636" cy="255.983" r="7.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="178" cy="260" r="4.42" fill="#EFEAD6" stroke="#1F1B17" stroke-width="0.7"/>
+  <circle cx="158" cy="225" r="6.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="168.462" cy="232.601" r="6.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="164.466" cy="244.899" r="6.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="151.534" cy="244.899" r="6.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="147.538" cy="232.601" r="6.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="158" cy="236" r="3.74" fill="#EFEAD6" stroke="#1F1B17" stroke-width="0.7"/>
+  <path d="M124,320 q10,-6 18,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="386" text-anchor="middle" font-size="7" fill="#994433">唐棣：花繁之木</text>
+  <circle cx="344" cy="330" r="26" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <circle cx="344" cy="330" r="4.68" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="344" y1="330" x2="370" y2="330" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="344" y1="330" x2="357" y2="352.517" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="344" y1="330" x2="331" y2="352.517" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="344" y1="330" x2="318" y2="330" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="344" y1="330" x2="331" y2="307.483" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="344" y1="330" x2="357" y2="307.483" stroke="#5C544A" stroke-width="0.6"/>
+  <circle cx="412" cy="330" r="26" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <circle cx="412" cy="330" r="4.68" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="412" y1="330" x2="438" y2="330" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="412" y1="330" x2="425" y2="352.517" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="412" y1="330" x2="399" y2="352.517" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="412" y1="330" x2="386" y2="330" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="412" y1="330" x2="399" y2="307.483" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="412" y1="330" x2="425" y2="307.483" stroke="#5C544A" stroke-width="0.6"/>
+  <rect x="330" y="278" width="100" height="30" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+  <line x1="330" y1="278" x2="312" y2="262" stroke="#5C544A" stroke-width="1"/>
+  <line x1="430" y1="278" x2="448" y2="262" stroke="#5C544A" stroke-width="1"/>
+  <path d="M312,262 L312,280" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7" fill="#994433">王姬之车</text>
+  <line x1="560" y1="250" x2="640" y2="250" stroke="#5C544A" stroke-width="1"/>
+  <line x1="576" y1="250" x2="576" y2="262" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="576" cy="270" r="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="573" y1="270" x2="579" y2="270" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="624" y1="250" x2="624" y2="262" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="624" cy="270" r="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="621" y1="270" x2="627" y2="270" stroke="#9A9186" stroke-width="0.4"/>
+  <circle cx="672" cy="236" r="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+  <line x1="668" y1="228" x2="676" y2="228" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M664,246 C656,262 654,300 658,346 L686,346 C690,300 688,262 680,246" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+  <path d="M664,262 C650,270 646,286 650,300" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="622" y="386" text-anchor="middle" font-size="7" fill="#994433">肃雝：敬而能和</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 唐棣　郁李类繁花</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 车　轮辐舆衡之制</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 肃雝　銮铃与执礼者</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">何彼襛矣，唐棣之華</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">车服盛，而能敬和</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj024a-tang-di-tao-li</text>
+</svg>

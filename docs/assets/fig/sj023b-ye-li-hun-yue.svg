@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="Noto Serif SC,Songti SC,serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-size="21" letter-spacing="8" fill="#1F1B17" font-weight="700">野礼 · 如玉</text>
+  <text x="380" y="74" text-anchor="middle" font-size="9.6" letter-spacing="2" fill="#5C544A">《诗经》召南 · 第十二篇　野有死麕</text>
+  <defs><marker id="ar23" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+  <rect x="70" y="150" width="150" height="150" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="145" y="214" text-anchor="middle" font-size="28" letter-spacing="2" fill="#5C544A" font-weight="700">怀春</text>
+  <text x="145" y="252" text-anchor="middle" font-size="10" fill="#3B352F">有女怀春</text>
+  <text x="145" y="278" text-anchor="middle" font-size="8" fill="#9A9186">当春动心</text>
+  <rect x="290" y="150" width="150" height="150" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <text x="365" y="214" text-anchor="middle" font-size="28" letter-spacing="2" fill="#994433" font-weight="700">引导</text>
+  <text x="365" y="252" text-anchor="middle" font-size="10" fill="#3B352F">吉士诱之</text>
+  <text x="365" y="278" text-anchor="middle" font-size="8" fill="#9A9186">通「道」，以礼相导</text>
+  <rect x="510" y="150" width="150" height="150" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="585" y="214" text-anchor="middle" font-size="28" letter-spacing="2" fill="#5C544A" font-weight="700">如玉</text>
+  <text x="585" y="252" text-anchor="middle" font-size="10" fill="#3B352F">有女如玉</text>
+  <text x="585" y="278" text-anchor="middle" font-size="8" fill="#9A9186">洁白温润</text>
+  <line x1="220" y1="225" x2="288" y2="225" stroke="#994433" stroke-width="1" marker-end="url(#ar23)"/>
+  <line x1="440" y1="225" x2="508" y2="225" stroke="#994433" stroke-width="1" marker-end="url(#ar23)"/>
+  <text x="380" y="330" text-anchor="middle" font-size="8.4" fill="#5C544A">事可以成，步必须缓；礼在男女相接的分寸里</text>
+  <line x1="120" y1="360" x2="640" y2="360" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="230" y="392" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">诱</text>
+  <text x="230" y="414" text-anchor="middle" font-size="7.4" fill="#9A9186">通道／导，非诱骗</text>
+  <text x="530" y="392" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">脱脱</text>
+  <text x="530" y="414" text-anchor="middle" font-size="7.4" fill="#9A9186">舒缓安重之貌</text>
+  <text x="380" y="446" text-anchor="middle" font-size="7.4" fill="#9A9186">末章三句是女子之辞：慢些、轻些、别惊动犬吠</text>
+  <text x="120" y="512" font-size="5.6" fill="#5C544A">诗经 · 召南</text>
+  <text x="640" y="512" text-anchor="end" font-size="5.6" fill="#5C544A">图二 · 野礼如玉 · sj023b-ye-li-hun-yue</text>
+</svg>
