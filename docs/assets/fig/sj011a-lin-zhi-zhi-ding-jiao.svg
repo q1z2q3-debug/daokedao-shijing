@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">周南 · 十一</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">麟 之 趾</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十一</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <rect x="84" y="190" width="190" height="180" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.9"/>
+  <text x="96" y="210" font-size="8.2" letter-spacing="3" fill="#994433">壹　趾</text>
+  <rect x="285" y="190" width="190" height="180" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.9"/>
+  <text x="297" y="210" font-size="8.2" letter-spacing="3" fill="#994433">贰　定</text>
+  <rect x="486" y="190" width="190" height="180" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.9"/>
+  <text x="498" y="210" font-size="8.2" letter-spacing="3" fill="#994433">叁　角</text>
+  <path d="M150,318 C150,282 198,282 198,318 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="174" y1="286" x2="174" y2="318" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M150,318 C160,322 188,322 198,318" fill="none" stroke="#1F1B17" stroke-width="1.6"/>
+  <path d="M158,284 L150,240 M192,284 L200,240" stroke="#5C544A" stroke-width="1.6"/>
+  <text x="179" y="342" text-anchor="middle" font-size="7.4" fill="#5C544A">蹄　圆厚，不裂</text>
+  <path d="M322,300 C330,286 344,280 358,280 C374,280 386,288 392,300 C398,312 396,324 388,332 C376,342 350,344 334,338 L322,300" fill="#EFEAD6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M358,280 C354,270 356,260 362,254" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <circle cx="363" cy="250" r="4.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M330,292 l-11,-7 l12,-1 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="360" cy="306" r="2.3" fill="none" stroke="#1F1B17" stroke-width="0.7"/>
+  <path d="M392,306 q6,5 0,10" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="372" cy="292" r="2.8" fill="none" stroke="#994433" stroke-width="1.0"/>
+  <text x="384" y="286" font-size="6.6" fill="#994433">额</text>
+  <text x="380" y="352" text-anchor="middle" font-size="7.4" fill="#5C544A">定　题也，即额</text>
+  <path d="M556,336 C548,300 552,268 570,246" fill="none" stroke="#1F1B17" stroke-width="2.4"/>
+  <path d="M566,338 C558,302 562,270 578,250" fill="none" stroke="#9A9186" stroke-width="1.0" opacity="0.75"/>
+  <circle cx="573" cy="242" r="8.0" fill="#EFEAD6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="573" cy="242" r="4.6" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="592" y="238" font-size="6.6" fill="#994433">端有肉</text>
+  <text x="583" y="342" text-anchor="middle" font-size="7.4" fill="#5C544A">角　钝而不刺</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">麟：麕身、牛尾、马蹄、一角</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">三处皆能伤，而皆不伤</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">角端一圈钝，是其仁处</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">麟之趾，振振公子</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">贵在不害</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj011a</text>
+</svg>
