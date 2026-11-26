@@ -128,14 +128,28 @@ def main():
             foot_extra='<a href="index.html">全书目录</a>')
         open(os.path.join(DOCS, "intro.html"), "w", encoding="utf-8").write(page)
 
-    # 首页
+    # 首页（按卷分组）
+    VOLS = [(1, 11, "卷一　周南"), (12, 25, "卷二　召南"), (26, 44, "卷三　邶风"),
+            (45, 54, "卷四　鄘风"), (55, 64, "卷五　卫风"), (65, 74, "卷六　王风")]
     if entries:
         idx_body = ('<h1>道可道之诗经</h1><div class="sub">润泽说　·　毛诗三百五篇</div>'
                     '<p style="text-align:center;font-size:14px">'
-                    '<a href="intro.html">前言</a>　·　卷一　周南（11 篇）　进度 %d / 305　·　各篇可听</p><hr><div class="toc">' % len(entries))
-        for e in entries:
-            idx_body += '<p><a href="ch/%s.html">第%03d篇　%s</a></p>' % (e["key"], e["no"], e["title"])
-        idx_body += "</div>"
+                    '<a href="intro.html">前言</a>　·　进度 %d / 305　·　各篇可听</p><hr>' % len(entries))
+        left = list(entries)
+        for (lo, hi, name) in VOLS:
+            vol = [e for e in entries if lo <= e["no"] <= hi]
+            if not vol:
+                continue
+            idx_body += '<h3 style="margin:22px 0 8px;border:none;color:#994433">%s（%d–%d）　已收 %d</h3><div class="toc">' % (name, lo, hi, len(vol))
+            for e in vol:
+                idx_body += '<p><a href="ch/%s.html">第%03d篇　%s</a></p>' % (e["key"], e["no"], e["title"])
+            idx_body += "</div>"
+            left = [e for e in left if not (lo <= e["no"] <= hi)]
+        if left:
+            idx_body += '<h3 style="margin:22px 0 8px;border:none;color:#994433">后续</h3><div class="toc">'
+            for e in left:
+                idx_body += '<p><a href="ch/%s.html">第%03d篇　%s</a></p>' % (e["key"], e["no"], e["title"])
+            idx_body += "</div>"
         open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8").write(
             SHELL.format(title="道可道之诗经", desc="《诗经》三百五篇逐篇通释，周南起。",
                          canonical="https://q1z2q3-debug.github.io/daokedao-shijing/",

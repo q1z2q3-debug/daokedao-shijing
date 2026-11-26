@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 一</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">鹊 巢</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十二</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M380,466 C379,424 380,392 381,352" fill="none" stroke="#1F1B17" stroke-width="3.4"/>
+  <path d="M381,372 C368,352 344,340 322,334" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <path d="M381,362 C398,344 424,336 446,332" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <path d="M381,392 C370,382 352,378 336,376" fill="none" stroke="#5C544A" stroke-width="1.4"/>
+  <line x1="296" y1="306" x2="276" y2="296" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="466" y1="306" x2="486" y2="298" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="336" y1="376" x2="320" y2="372" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M332,330 C332,306 346,296 356,296 C368,308 392,308 404,296 C414,296 428,306 428,330 C428,352 406,362 380,362 C354,362 332,352 332,330 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M346.0,312.0 q34.0,-1.5 68.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <path d="M348.0,318.0 q32.0,1.5 64.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <path d="M350.0,324.0 q30.0,-1.5 60.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <path d="M352.0,330.0 q28.0,1.5 56.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <path d="M354.0,336.0 q26.0,-1.5 52.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <path d="M356.0,342.0 q24.0,1.5 48.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <path d="M358.0,348.0 q22.0,-1.5 44.0,0" fill="none" stroke="#9A9186" stroke-width="0.45" opacity="0.85"/>
+  <line x1="340" y1="300" x2="324" y2="292" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="352" y1="294" x2="342" y2="282" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="412" y1="294" x2="424" y2="282" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="422" y1="300" x2="438" y2="292" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="334" y1="334" x2="322" y2="338" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="426" y1="336" x2="438" y2="342" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="382" cy="300" r="9.0" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M373,308 C373,298 391,298 391,308 C391,316 373,316 373,308 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M391,300 l11,3 l-11,4 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="386" cy="297" r="1.4" fill="#1F1B17"/>
+  <rect x="206" y="388" width="54" height="22" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="218" cy="415" r="7" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="218" cy="415" r="2" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="248" cy="415" r="7" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="248" cy="415" r="2" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="260" y1="394" x2="288" y2="382" stroke="#5C544A" stroke-width="0.9"/>
+  <rect x="556" y="388" width="54" height="22" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="568" cy="415" r="7" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="568" cy="415" r="2" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="598" cy="415" r="7" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="598" cy="415" r="2" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="556" y1="394" x2="528" y2="382" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="252" y="270" font-size="7.6" fill="#994433">壹　鹊巢</text>
+  <line x1="288" y1="268" x2="336" y2="300" stroke="#994433" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="420" y="268" font-size="7.6" fill="#994433">贰　鸠</text>
+  <line x1="418" y1="274" x2="400" y2="294" stroke="#994433" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="622" y="366" font-size="7.6" fill="#994433">叁　百两</text>
+  <line x1="618" y1="372" x2="600" y2="386" stroke="#994433" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <path d="M120,470 C180,474 300,474 380,470" fill="none" stroke="#9A9186" stroke-width="0.28" stroke-dasharray="7 4 1.5 4"/>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 鹊巢　枝编成巢，先筑而后有</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 鸠　鸤鸠，居而不筑</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 百两　诸侯嫁女之车</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">维鹊有巢，维鸠居之</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">先筑而后居</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj012a</text>
+</svg>
