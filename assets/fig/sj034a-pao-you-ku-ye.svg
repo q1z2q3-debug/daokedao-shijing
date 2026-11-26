@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">匏有苦葉</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十四</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M148,128 C140,150 156,168 146,196" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="142" y1="172" x2="124" y2="178" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M124,178 C106,166 96,176 102,190 C112,198 126,192 130,182 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="106" y1="182" x2="126" y2="180" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="152" y1="164" x2="172" y2="170" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M172,170 C188,158 200,168 196,182 C186,190 174,184 170,176 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="176" y1="174" x2="192" y2="176" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M128,214 C112,232 110,268 126,292 C138,310 160,310 172,292 C188,268 186,232 170,214 C162,204 136,204 128,214 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M146,204 L150,192 L156,204" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M148,214 C144,244 144,272 150,298" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M176,286 C168,296 168,314 178,324 C186,332 198,330 202,320 C206,308 200,292 190,286 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M134,150 C122,146 118,156 126,160" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">匏瓜悬蔓，叶枯可用</text>
+  <path d="M300,300 L330,276 L356,276" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="330" cy="234" r="9" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M325,227 C327,221 333,221 335,227" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="326" y1="243" x2="326" y2="248" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M318,250 L342,250" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M318,250 C312,258 314,272 320,280 L318,288 L330,292 L342,288 L340,276 C346,266 344,256 342,250 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M340,270 L352,264 L348,278 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="322" y1="258" x2="338" y2="258" stroke="#9A9186" stroke-width="0.45"/>
+  <circle cx="420" cy="234" r="9" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="420" cy="224" r="3.5" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="416" y1="243" x2="416" y2="248" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M406,250 L434,250" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M406,250 C402,264 404,284 410,300 L420,304 L430,300 C436,284 438,264 434,250 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="412" y1="260" x2="428" y2="260" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M300,312 C312,309 324,315 336,309 C348,315 360,309 372,312" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M300,326 C312,323 324,329 336,323 C348,329 360,323 372,326" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M300,340 C312,337 324,343 336,337 C348,343 360,337 372,340" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M384,316 C396,313 408,319 420,313 C432,319 444,313 456,316" fill="none" stroke="#5C544A" stroke-width="0.55"/>
+  <path d="M384,328 C396,325 408,331 420,325 C432,331 444,325 456,328" fill="none" stroke="#5C544A" stroke-width="0.55"/>
+  <path d="M384,340 C396,337 408,343 420,337 C432,343 444,337 456,340" fill="none" stroke="#5C544A" stroke-width="0.55"/>
+  <path d="M384,352 C396,349 408,355 420,349 C432,355 444,349 456,352" fill="none" stroke="#5C544A" stroke-width="0.55"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7.0" fill="#994433">深则厉，浅则揭</text>
+  <path d="M578,238 C572,248 574,262 584,268 C594,272 604,266 604,254 C604,244 596,238 588,238 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <circle cx="586" cy="228" r="10" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="580" y1="220" x2="576" y2="208" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="586" y1="218" x2="586" y2="204" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="592" y1="220" x2="596" y2="208" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M595,226 L608,230 L595,234 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="589" cy="226" r="1.4" fill="#1F1B17"/>
+  <path d="M578,258 C566,276 558,296 554,318" fill="none" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M582,260 C576,278 572,296 570,316" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="584" y1="268" x2="582" y2="282" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="590" y1="268" x2="592" y2="282" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M612,318 L672,318 L660,340 L624,340 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="616" y1="318" x2="668" y2="318" stroke="#9A9186" stroke-width="0.7"/>
+  <circle cx="638" cy="280" r="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M634,274 C636,269 641,269 643,274" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="634" y1="288" x2="634" y2="292" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M628,292 L648,292" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M628,292 C624,300 626,312 630,318 L638,320 L646,318 C650,312 652,300 648,292 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M646,296 L658,284" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M652,290 C658,288 662,292 660,296 C656,298 652,296 650,294 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M604,348 C616,345 628,351 640,348 C652,345 664,351 676,348" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="622" y="372" text-anchor="middle" font-size="7.0" fill="#994433">雉鸣求牡，招招舟子</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 匏瓜　悬蔓圆腹，叶枯可用</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 济水　深浅有度，厉揭随水</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 雉舟　物求其类，舟子相呼</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">人涉卬否，卬須我友</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">待而不轻渡，结伴而后行</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj034a</text>
+</svg>
