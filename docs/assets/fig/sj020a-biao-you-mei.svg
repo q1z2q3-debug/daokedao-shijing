@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">摽有梅</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M148,380 C148,356 148,344 150,330" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <ellipse cx="148" cy="300" rx="46" ry="38" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="124" cy="292" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="138" cy="282" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="154" cy="280" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="170" cy="290" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="130" cy="306" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="148" cy="304" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="166" cy="308" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="148" y="400" text-anchor="middle" font-size="7.0" fill="#994433">其实七 · 存七成</text>
+  <path d="M378,380 C378,356 378,344 380,330" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <ellipse cx="378" cy="300" rx="46" ry="38" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="354" cy="292" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="368" cy="282" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="384" cy="280" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="378" y="400" text-anchor="middle" font-size="7.0" fill="#994433">其实三 · 存三成</text>
+  <path d="M622,380 C622,360 622,350 624,342" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <path d="M598,366 L640,356 L646,388 L604,398 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="610" cy="380" r="3" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <circle cx="621" cy="386" r="3" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <circle cx="632" cy="380" r="3" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="622" y="408" text-anchor="middle" font-size="7.0" fill="#994433">顷筐塈之 · 落尽拾取</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 梅实七　枝头尚繁</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 梅实三　落去过半</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 顷筐　落尽以筐拾取</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">摽有梅，其實七兮</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">梅落计时，及时而待</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj020a</text>
+</svg>
