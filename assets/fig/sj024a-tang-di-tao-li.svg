@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">何彼襛矣</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十四</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <circle cx="148.0" cy="284.0" r="9.9" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="163.2" cy="295.1" r="9.9" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="157.4" cy="312.9" r="9.9" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="138.6" cy="312.9" r="9.9" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="132.8" cy="295.1" r="9.9" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="148" cy="300" r="6.4" fill="#5C544A"/>
+  <text x="148" y="356" text-anchor="middle" font-size="7.0" fill="#994433">唐棣：花繁之木</text>
+  <path d="M340,336 L416,286" stroke="#5C544A" stroke-width="1.1" fill="none"/>
+  <circle cx="356.0" cy="307.0" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="366.5" cy="314.6" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="362.5" cy="326.9" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="349.5" cy="326.9" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="345.5" cy="314.6" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="356" cy="318" r="4.4" fill="#5C544A"/>
+  <circle cx="404.0" cy="285.0" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="414.5" cy="292.6" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="410.5" cy="304.9" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="397.5" cy="304.9" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="393.5" cy="292.6" r="6.8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="404" cy="296" r="4.4" fill="#5C544A"/>
+  <text x="378" y="356" text-anchor="middle" font-size="7.0" fill="#994433">华如桃李</text>
+  <path d="M588.0,308.0 L599.0,292.0 L610.0,308.0 L621.0,292.0 L632.0,308.0 L643.0,292.0 L654.0,308.0" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M588.0,314.0 L599.0,298.0 L610.0,314.0 L621.0,298.0 L632.0,314.0 L643.0,298.0 L654.0,314.0" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="622" y="356" text-anchor="middle" font-size="7.0" fill="#994433">丝缗：合丝成绳</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 唐棣　郁李类繁花</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 桃李　颜色之盛</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 丝缗　夫妇相配之喻</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">何彼襛矣，唐棣之华</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">车服盛，而能敬和</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj024a-tang-di-tao-li</text>
+</svg>
