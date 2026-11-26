@@ -41,7 +41,7 @@ SHELL = """<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8">
 <link rel="canonical" href="{canonical}">
 <style>{css}</style></head><body>
 {body}
-<div class="foot">润泽说　道可道之诗经　·　{qty}<br>{foot_extra}</div>
+<div class="foot">{foot_head}<br>{foot_extra}</div>
 </body></html>
 """
 
@@ -81,7 +81,7 @@ def main():
             title="%s · 道可道之诗经" % title,
             desc="《诗经》第 %03d 篇 %s —— 解题、经文、韵读、字义名物、今译、章旨、诗教、分寸、存疑与跨典。" % (num, title),
             canonical="https://q1z2q3-debug.github.io/daokedao-shijing/ch/%s.html" % key,
-            css=CSS, body=html, qty="第一篇　关雎" if num == 1 else "",
+            css=CSS, body=html, foot_head="润泽说　道可道之诗经" + ("　·　第一篇　关雎" if num == 1 else ""),
             foot_extra='<a href="../index.html">全书目录</a>　·　<a href="%s.html">本篇</a>' % key)
         open(os.path.join(CH, key + ".html"), "w", encoding="utf-8").write(page)
         entries.append({"no": num, "key": key, "title": title})
@@ -97,7 +97,7 @@ def main():
         open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8").write(
             SHELL.format(title="道可道之诗经", desc="《诗经》三百五篇逐篇通释，周南起。",
                          canonical="https://q1z2q3-debug.github.io/daokedao-shijing/",
-                         css=CSS, body=idx_body, qty="", foot_extra=""))
+                         css=CSS, body=idx_body, foot_head="润泽说　道可道之诗经", foot_extra=""))
 
     json.dump({"version": open(os.path.join(ROOT, "VERSION"), encoding="utf-8").read().strip(),
                "total": 305, "count": len(entries), "chapters": entries},
