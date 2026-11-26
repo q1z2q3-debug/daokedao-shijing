@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">殷其雷</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十九</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M104,380 L148,316 L192,380 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M142,272 l8,14 l-8,2 l10,16" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <path d="M166,278 l7,12 l-7,2 l9,14" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="148" y="400" text-anchor="middle" font-size="7.0" fill="#994433">殷其雷 · 声盛而震</text>
+  <path d="M330,380 L378,310 L426,380 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <text x="358" y="332" text-anchor="middle" font-size="7.0" fill="#994433">阳</text>
+  <text x="400" y="356" text-anchor="middle" font-size="7.0" fill="#994433">侧</text>
+  <text x="378" y="374" text-anchor="middle" font-size="7.0" fill="#994433">下</text>
+  <text x="378" y="400" text-anchor="middle" font-size="7.0" fill="#994433">南山 · 阳侧下</text>
+  <circle cx="622" cy="326" r="7" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M622,336 L622,366" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <path d="M614,342 L606,352" fill="none" stroke="#9A9186" stroke-width="1.0"/>
+  <path d="M617,366 L612,380 M627,366 L632,380" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M646,380 L660,366 L674,380" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="622" y="400" text-anchor="middle" font-size="7.0" fill="#994433">望归 · 面山而立</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 雷声 · 殷其雷，起于南山</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 南山 · 阳、侧、下三位</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 望归 · 室家闻雷而思</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">振振君子，歸哉歸哉</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">怨而不怒，望其归尔</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj019a</text>
+</svg>

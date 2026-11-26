@@ -1,7 +1,7 @@
 {
- "version": "0.3.19",
+ "version": "0.3.20",
  "total": 305,
- "count": 18,
+ "count": 19,
  "chapters": [
   {
    "no": 1,
@@ -92,6 +92,11 @@
    "no": 18,
    "key": "sj018",
    "title": "羔羊"
+  },
+  {
+   "no": 19,
+   "key": "sj019",
+   "title": "殷其雷"
   }
  ]
 }
