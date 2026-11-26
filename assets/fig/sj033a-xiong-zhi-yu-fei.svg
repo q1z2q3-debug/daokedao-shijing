@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">雄 雉</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十三</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <circle cx="148" cy="250" r="16" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="142" y1="236" x2="137" y2="222" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="148" y1="234" x2="148" y2="218" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="154" y1="236" x2="159" y2="222" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M162,245 L176,250 L162,255 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="152" cy="248" r="1.5" fill="#1F1B17"/>
+  <path d="M134,256 C118,286 106,314 102,344" fill="none" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M134,256 C124,284 116,310 114,338" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="118" y1="296" x2="128" y2="292" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="110" y1="322" x2="120" y2="318" stroke="#9A9186" stroke-width="0.45"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">雄者有冠，雉之识别</text>
+  <path d="M400,238 C390,276 372,316 356,350" fill="none" stroke="#9A9186" stroke-width="1.1"/>
+  <path d="M392,240 C384,274 370,310 360,344" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M356,238 C366,276 384,316 400,350" fill="none" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M364,240 C374,276 390,314 404,350" fill="none" stroke="#5C544A" stroke-width="0.5"/>
+  <line x1="364" y1="272" x2="388" y2="276" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="364" y1="294" x2="388" y2="298" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="364" y1="316" x2="388" y2="320" stroke="#9A9186" stroke-width="0.45"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7.0" fill="#994433">泄泄其羽，长尾舒徐</text>
+  <circle cx="596" cy="232" r="16" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="650" cy="232" r="13" fill="#FCFAF6" stroke="#9A9186" stroke-width="1.0"/>
+  <line x1="560" y1="380" x2="622" y2="300" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="684" y1="380" x2="622" y2="300" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="572" y1="392" x2="575" y2="384" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="600" y1="392" x2="603" y2="384" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="628" y1="392" x2="631" y2="384" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="656" y1="392" x2="659" y2="384" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="622" y="360" text-anchor="middle" font-size="7.0" fill="#994433">瞻彼日月，道之云远</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 雉冠　雄雉有冠</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 长尾　雉之识别，不求全鸟</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 日月　流转不息，道远难来</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">雄雉于飞，泄泄其羽</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">见雉闻声，思远役之人</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj033a</text>
+</svg>
