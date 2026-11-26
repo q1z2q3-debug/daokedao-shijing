@@ -32,6 +32,21 @@ hr{border:none;border-top:1px solid var(--line);margin:36px 0}
 a{color:var(--red);text-decoration:none}
 .toc{columns:2;column-gap:28px;font-size:15px}
 .toc p{margin:0 0 8px;text-align:left}
+.audio{margin:22px 0 30px;padding:16px 18px 14px;background:#FCFAF6;border:1px solid var(--line)}
+.audio .alab{font-size:12.5px;letter-spacing:2px;color:var(--red);margin-bottom:8px}
+.audio audio{width:100%;max-width:560px;height:34px;display:block;margin:0 auto}
+.audio .asec{margin-top:12px;font-size:12px;letter-spacing:1px;color:var(--brown)}
+.audio .asec audio{height:28px;margin-top:6px}
+.audio .anote{margin-top:10px;font-size:11.5px;color:var(--brown);letter-spacing:.5px;line-height:1.7}
+"""
+
+AUDIO_BLOCK = """<div class="audio">
+<div class="alab">吟唱　·　五声琴底</div>
+<audio controls preload="metadata" src="../audio/{key}/yin-chang.mp3"></audio>
+<div class="asec">另备「吟诵」纯人声一版</div>
+<audio controls preload="none" src="../audio/{key}/yin-song.mp3"></audio>
+<div class="anote">古谱无存，今按五声音阶拟作吟诵调，非复原古曲；经文用字依《毛诗》正文。</div>
+</div>
 """
 
 SHELL = """<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8">
@@ -58,6 +73,16 @@ def conv(md_text):
     return r.stdout
 
 
+def with_audio(html, audio):
+    if not audio:
+        return html
+    m = re.search(r"</h1>.*?</blockquote>", html, re.S)
+    if m:
+        p = m.end()
+        return html[:p] + audio + html[p:]
+    return html.replace("</h1>", "</h1>" + audio, 1)
+
+
 def main():
     os.makedirs(CH, exist_ok=True)
     # 资源
@@ -77,11 +102,14 @@ def main():
         # 首行 h1 + 引用副行
         html = conv(raw)
         key = "sj%03d" % num
+        audio = ""
+        if os.path.exists(os.path.join(DOCS, "audio", key, "yin-chang.mp3")):
+            audio = AUDIO_BLOCK.format(key=key)
         page = SHELL.format(
             title="%s · 道可道之诗经" % title,
             desc="《诗经》第 %03d 篇 %s —— 解题、经文、韵读、字义名物、今译、章旨、诗教、分寸、存疑与跨典。" % (num, title),
             canonical="https://q1z2q3-debug.github.io/daokedao-shijing/ch/%s.html" % key,
-            css=CSS, body=html, foot_head="润泽说　道可道之诗经" + ("　·　第一篇　关雎" if num == 1 else ""),
+            css=CSS, body=with_audio(html, audio), foot_head="润泽说　道可道之诗经" + ("　·　第一篇　关雎" if num == 1 else ""),
             foot_extra='<a href="../index.html">全书目录</a>　·　<a href="%s.html">本篇</a>' % key)
         open(os.path.join(CH, key + ".html"), "w", encoding="utf-8").write(page)
         entries.append({"no": num, "key": key, "title": title})
@@ -102,7 +130,7 @@ def main():
     if entries:
         idx_body = ('<h1>道可道之诗经</h1><div class="sub">润泽说　·　毛诗三百五篇</div>'
                     '<p style="text-align:center;font-size:14px">'
-                    '<a href="intro.html">前言</a>　·　卷一　周南（11 篇）　进度 %d / 305</p><hr><div class="toc">' % len(entries))
+                    '<a href="intro.html">前言</a>　·　卷一　周南（11 篇）　进度 %d / 305　·　各篇可听</p><hr><div class="toc">' % len(entries))
         for e in entries:
             idx_body += '<p><a href="ch/%s.html">第%03d篇　%s</a></p>' % (e["key"], e["no"], e["title"])
         idx_body += "</div>"
