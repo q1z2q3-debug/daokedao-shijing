@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#DCD5C8" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-size="21" letter-spacing="8" fill="#25211D" font-weight="700">求 · 思 · 乐</text>
+  <text x="380" y="74" text-anchor="middle" font-size="10" letter-spacing="2" fill="#7C6D5C">《诗经》周南 · 第一篇　关雎</text>
+  <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+  <rect x="70" y="178" width="150" height="150" fill="#FCFAF6" stroke="#4A5C55" stroke-width="1.1"/>
+  <text x="145" y="242" text-anchor="middle" font-size="26" letter-spacing="4" fill="#4A5C55" font-weight="700">求</text>
+  <text x="145" y="280" text-anchor="middle" font-size="11" fill="#3B352F">寤寐求之</text>
+  <text x="145" y="304" text-anchor="middle" font-size="9.4" fill="#7C6D5C">有求</text>
+  <rect x="290" y="178" width="150" height="150" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <text x="365" y="242" text-anchor="middle" font-size="26" letter-spacing="4" fill="#994433" font-weight="700">思</text>
+  <text x="365" y="280" text-anchor="middle" font-size="11" fill="#3B352F">辗转反侧</text>
+  <text x="365" y="304" text-anchor="middle" font-size="9.4" fill="#7C6D5C">求不得</text>
+  <rect x="510" y="178" width="150" height="150" fill="#FCFAF6" stroke="#4A5C55" stroke-width="1.1"/>
+  <text x="585" y="242" text-anchor="middle" font-size="26" letter-spacing="4" fill="#4A5C55" font-weight="700">乐</text>
+  <text x="585" y="280" text-anchor="middle" font-size="11" fill="#3B352F">琴瑟钟鼓</text>
+  <text x="585" y="304" text-anchor="middle" font-size="9.4" fill="#7C6D5C">得而乐</text>
+  <line x1="220" y1="253" x2="288" y2="253" stroke="#994433" stroke-width="1" marker-end="url(#ar)"/>
+  <line x1="440" y1="253" x2="508" y2="253" stroke="#994433" stroke-width="1" marker-end="url(#ar)"/>
+  <text x="380" y="356" text-anchor="middle" font-size="10" fill="#7C6D5C">情起于求，困于思，成于乐——三步都在礼内</text>
+  <line x1="120" y1="360" x2="640" y2="360" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="230" y="412" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">乐而不淫</text>
+  <text x="230" y="434" text-anchor="middle" font-size="9" fill="#7C6D5C">得之不以纵</text>
+  <text x="530" y="412" text-anchor="middle" font-size="13" letter-spacing="2" fill="#994433" font-weight="700">哀而不伤</text>
+  <text x="530" y="434" text-anchor="middle" font-size="9" fill="#7C6D5C">不得之不以怨</text>
+  <text x="380" y="462" text-anchor="middle" font-size="9" fill="#7C6D5C">《论语·八佾》3.20 孔子定评</text>
+  <text x="120" y="512" font-size="7.6" fill="#7C6D5C">诗经 · 周南</text>
+  <text x="640" y="512" text-anchor="end" font-size="7.6" fill="#7C6D5C">图二 · 求思乐 · sj001b</text>
+</svg>
