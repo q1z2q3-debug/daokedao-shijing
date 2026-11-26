@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">凯 风</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之三十二</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <line x1="148" y1="380" x2="148" y2="300" stroke="#5C544A" stroke-width="1.4"/>
+  <path d="M148,316 C136,310 128,300 130,292 C142,296 148,306 148,316 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M148,308 C160,302 168,292 166,284 C154,288 148,298 148,308 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="132" y1="392" x2="164" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="132" y1="392" x2="164" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="132" y1="392" x2="164" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="410" text-anchor="middle" font-size="7.0" fill="#994433">棘心夭夭，子之稚弱</text>
+  <line x1="378" y1="380" x2="378" y2="250" stroke="#1F1B17" stroke-width="1.8"/>
+  <path d="M378,320 C366,306 352,300 340,298" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M378,300 C392,288 406,284 418,282" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="350" y1="302" x2="342" y2="296" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="406" y1="286" x2="414" y2="280" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="378" y1="270" x2="378" y2="264" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="362" y1="392" x2="394" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="362" y1="392" x2="394" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="362" y1="392" x2="394" y2="392" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="410" text-anchor="middle" font-size="7.0" fill="#994433">吹彼棘薪，子之长成</text>
+  <line x1="560" y1="300" x2="684" y2="300" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M572,316 q26,-4 52,0 q26,4 52,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M572,328 q26,-4 52,0 q26,4 52,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M572,340 q26,-4 52,0 q26,4 52,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <ellipse cx="622" cy="252" rx="16" ry="10" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="634" cy="246" r="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M640,245 L650,247 L640,250 Z" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <path d="M656,240 q8,-3 16,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M656,248 q8,-3 16,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M656,256 q8,-3 16,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="622" y="356" text-anchor="middle" font-size="7.0" fill="#994433">睍睆黄鸟，载好其音</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 棘心　酸枣嫩芽，喻子之稚</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 棘薪　棘已长成，可为薪</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 黄鸟　鸣声清圆和好</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">凯风自南，吹彼棘心</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">风长养物，母恩也；子长而母劳未息</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj032a</text>
+</svg>
