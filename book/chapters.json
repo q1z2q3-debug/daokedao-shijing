@@ -1,7 +1,7 @@
 {
- "version": "0.3.3",
+ "version": "0.3.4",
  "total": 305,
- "count": 5,
+ "count": 6,
  "chapters": [
   {
    "no": 1,
@@ -27,6 +27,11 @@
    "no": 5,
    "key": "sj005",
    "title": "螽斯"
+  },
+  {
+   "no": 6,
+   "key": "sj006",
+   "title": "桃夭"
   }
  ]
 }
