@@ -1,12 +1,17 @@
 {
- "version": "0.2.1",
+ "version": "0.3.0",
  "total": 305,
- "count": 1,
+ "count": 2,
  "chapters": [
   {
    "no": 1,
    "key": "sj001",
    "title": "关雎"
+  },
+  {
+   "no": 2,
+   "key": "sj002",
+   "title": "葛覃"
   }
  ]
 }

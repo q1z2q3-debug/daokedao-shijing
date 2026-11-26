@@ -86,11 +86,23 @@ def main():
         open(os.path.join(CH, key + ".html"), "w", encoding="utf-8").write(page)
         entries.append({"no": num, "key": key, "title": title})
 
+    # 前言
+    intro = os.path.join(BOOK, "前言.md")
+    if os.path.exists(intro):
+        raw = open(intro, encoding="utf-8").read()
+        page = SHELL.format(
+            title="前言 · 道可道之诗经",
+            desc="《诗经》总说：成书、六义、四家诗与朱子、本库读法与用字。",
+            canonical="https://q1z2q3-debug.github.io/daokedao-shijing/intro.html",
+            css=CSS, body=conv(raw), foot_head="润泽说　道可道之诗经　·　前言",
+            foot_extra='<a href="index.html">全书目录</a>')
+        open(os.path.join(DOCS, "intro.html"), "w", encoding="utf-8").write(page)
+
     # 首页
     if entries:
         idx_body = ('<h1>道可道之诗经</h1><div class="sub">润泽说　·　毛诗三百五篇</div>'
-                    '<p style="text-align:center;color:#7C6D5C;font-size:14px">'
-                    '卷一　周南（11 篇）　进度：%d / 305</p><hr><div class="toc">' % len(entries))
+                    '<p style="text-align:center;font-size:14px">'
+                    '<a href="intro.html">前言</a>　·　卷一　周南（11 篇）　进度 %d / 305</p><hr><div class="toc">' % len(entries))
         for e in entries:
             idx_body += '<p><a href="ch/%s.html">第%03d篇　%s</a></p>' % (e["key"], e["no"], e["title"])
         idx_body += "</div>"
