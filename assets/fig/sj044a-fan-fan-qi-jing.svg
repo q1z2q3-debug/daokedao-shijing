@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">邶风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">乘 舟</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十四</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M112,278 Q148,306 184,278 L176,266 L120,266 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="120" y1="266" x2="176" y2="266" stroke="#1F1B17" stroke-width="1.2"/>
+  <line x1="132" y1="276" x2="164" y2="276" stroke="#9A9186" stroke-width="0.6"/>
+  <line x1="176" y1="272" x2="198" y2="242" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M198,242 L206,236 L202,248 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M116,318 q12,-7 24,0 q12,7 24,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M124,330 q12,-7 24,0 q12,7 24,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.0" fill="#994433">「二子乘舟」舟身有桨</text>
+  <path d="M338,298 Q378,316 418,298 L412,286 L344,286 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="366" cy="250" rx="7" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="366" cy="244" r="1.4" fill="#1F1B17"/>
+  <path d="M366,260 C357,276 357,292 361,304 L371,304 C375,292 375,276 371,260 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="358" y1="262" x2="374" y2="262" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M358,264 C351,276 350,290 355,300" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M374,264 C381,276 382,290 377,300" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <ellipse cx="394" cy="254" rx="6" ry="7" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.9"/>
+  <circle cx="394" cy="249" r="1.2" fill="#9A9186"/>
+  <path d="M394,263 C387,277 387,291 390,302 L398,302 C401,291 401,277 398,263 Z" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.9"/>
+  <path d="M387,266 C382,276 381,288 385,296" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M398,266 C403,276 404,288 400,296" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="378" y="386" text-anchor="middle" font-size="7.0" fill="#994433">舟上二人，背影宽袖</text>
+  <path d="M598,252 Q622,262 646,252 L641,244 L603,244 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="622" y1="244" x2="622" y2="226" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M622,228 L634,240 L622,240 Z" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.7"/>
+  <ellipse cx="622" cy="284" rx="24" ry="6" fill="none" stroke="#9A9186" stroke-width="0.7" stroke-dasharray="3,2"/>
+  <path d="M586,300 q12,-6 24,0 q12,6 24,0 q12,-6 24,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M586,316 q12,-6 24,0 q12,6 24,0 q12,-6 24,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M586,332 q12,-6 24,0 q12,6 24,0 q12,-6 24,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="622" y="360" text-anchor="middle" font-size="7.0" fill="#994433">「汎汎其景」舟影远去</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 舟　舟身船舷，楫桨斜出</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 二人　背影宽袖，衣裾到舟</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 远影　汎汎其景，渐行渐空</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">汎汎其景，中心養養</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">二子之去，忧在不言</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj044a</text>
+</svg>
