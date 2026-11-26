@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">野有死麕</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十三</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <ellipse cx="146" cy="332" rx="30" ry="12" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="176" cy="316" r="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M172,310 L168,300 L176,306 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="126" y1="340" x2="126" y2="358" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="138" y1="340" x2="138" y2="358" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="156" y1="340" x2="156" y2="358" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="168" y1="340" x2="168" y2="358" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="116" y1="328" x2="106" y2="322" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="148" y="384" text-anchor="middle" font-size="7.0" fill="#994433">麕：无角小獐</text>
+  <path d="M362,372 C354,340 354,312 350,292" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M378,372 C378,340 378,312 378,292" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M394,372 C402,340 402,312 405,292" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="356" y1="344" x2="400" y2="344" stroke="#994433" stroke-width="0.8"/>
+  <text x="378" y="384" text-anchor="middle" font-size="7.0" fill="#994433">白茅：束物取洁</text>
+  <line x1="596" y1="300" x2="596" y2="320" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M588,320 L604,320 L600,344 L592,344 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <ellipse cx="652" cy="350" rx="18" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="670" cy="342" r="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M668,338 L666,330 L672,335 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="634" y1="348" x2="626" y2="340" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="596" y="364" text-anchor="middle" font-size="7.0" fill="#994433">帨</text>
+  <text x="652" y="378" text-anchor="middle" font-size="7.0" fill="#994433">尨：多毛犬</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 麕　小獐，非麋</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 白茅　包束之洁</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 帨尨　佩巾与犬</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">野有死麕，白茅包之</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">婚媾之礼见于野</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj023a-jun-mao-shui</text>
+</svg>
