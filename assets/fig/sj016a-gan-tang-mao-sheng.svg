@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">召南 · 二</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">甘 棠</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十六</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M148,404 C148,384 148,356 150,330" fill="none" stroke="#1F1B17" stroke-width="3.0"/>
+  <path d="M148,352 C132,336 120,326 110,320" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <path d="M149,346 C164,332 176,326 186,322" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <ellipse cx="148" cy="296" rx="58" ry="48" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M110,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M125,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M140,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M155,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M170,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <path d="M185,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">蔽芾 · 冠大荫密</text>
+  <path d="M344,356 L378,326 L412,356 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="354" y1="356" x2="354" y2="388" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="402" y1="356" x2="402" y2="388" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="354" y1="342" x2="357" y2="336" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="370" y1="342" x2="373" y2="336" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="386" y1="342" x2="389" y2="336" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="402" y1="342" x2="405" y2="336" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">茇 · 草舍寄居</text>
+  <path d="M582,310 C622,292 622,292 662,310" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="622" cy="348" r="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M622,356 L614,374 L630,374" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M616,362 L608,370" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">憩 · 说（税）· 留止</text>
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 甘棠　杜梨，茂盛覆蔽</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 茇　草舍，召伯寄居其下</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 憩说　休息、留止，皆在树荫</text>
+  <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">蔽芾甘棠，勿翦勿伐</text>
+  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">不伐一树，是留一人之迹</text>
+  <text x="716" y="524" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj016a</text>
+</svg>
