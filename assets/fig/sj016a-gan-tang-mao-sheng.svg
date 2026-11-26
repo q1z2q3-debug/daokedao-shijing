@@ -4,34 +4,58 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">甘 棠</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十六</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
-  <path d="M148,404 C148,384 148,356 150,330" fill="none" stroke="#1F1B17" stroke-width="3.0"/>
-  <path d="M148,352 C132,336 120,326 110,320" fill="none" stroke="#5C544A" stroke-width="1.6"/>
-  <path d="M149,346 C164,332 176,326 186,322" fill="none" stroke="#5C544A" stroke-width="1.6"/>
-  <ellipse cx="148" cy="296" rx="58" ry="48" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
-  <path d="M110,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M125,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M140,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M155,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M170,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M185,286 q10,8 20,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">蔽芾 · 冠大荫密</text>
-  <path d="M344,356 L378,326 L412,356 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
-  <line x1="354" y1="356" x2="354" y2="388" stroke="#5C544A" stroke-width="0.9"/>
-  <line x1="402" y1="356" x2="402" y2="388" stroke="#5C544A" stroke-width="0.9"/>
-  <line x1="354" y1="342" x2="357" y2="336" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="370" y1="342" x2="373" y2="336" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="386" y1="342" x2="389" y2="336" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="402" y1="342" x2="405" y2="336" stroke="#9A9186" stroke-width="0.5"/>
-  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">茇 · 草舍寄居</text>
-  <path d="M582,310 C622,292 622,292 662,310" fill="none" stroke="#5C544A" stroke-width="0.9"/>
-  <circle cx="622" cy="348" r="6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M622,356 L614,374 L630,374" fill="none" stroke="#5C544A" stroke-width="1.1"/>
-  <path d="M616,362 L608,370" fill="none" stroke="#9A9186" stroke-width="0.8"/>
-  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">憩 · 说（税）· 留止</text>
+  <line x1="108" y1="390" x2="188" y2="390" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M148,390 C148,346 150,300 149,242" fill="none" stroke="#1F1B17" stroke-width="2.6"/>
+  <path d="M144,372 l2,-22" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M153,360 l-1,-18" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M148,280 L130,258 L118,240" fill="none" stroke="#5C544A" stroke-width="1.5"/>
+  <path d="M149,274 L168,254 L180,236" fill="none" stroke="#5C544A" stroke-width="1.5"/>
+  <path d="M149,260 L150,232" fill="none" stroke="#5C544A" stroke-width="1.3"/>
+  <path d="M112,240 q-20,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M117,244 q2,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M122,240 q24,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M122,232 q-20,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M127,236 q2,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M132,232 q24,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M174,236 q-20,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M179,240 q2,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M184,236 q24,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M164,228 q-20,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M169,232 q2,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M174,228 q24,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M144,224 q-20,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M149,228 q2,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M154,224 q24,-3 8,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <ellipse cx="152" cy="338" rx="3" ry="4.5" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <ellipse cx="144" cy="362" rx="2.6" ry="3.8" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">甘棠 · 主干三枝叶簇结疤</text>
+  <path d="M342,292 L378,254 L414,292" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M342,292 L336,298 M414,292 L420,298" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="352" y1="262" x2="355" y2="292" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="365" y1="262" x2="368" y2="292" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="378" y1="262" x2="381" y2="292" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="391" y1="262" x2="394" y2="292" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="404" y1="262" x2="407" y2="292" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="348" y1="298" x2="408" y2="298" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="356" y1="298" x2="356" y2="386" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="400" y1="298" x2="400" y2="386" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="348" y1="386" x2="408" y2="386" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">茇 · 茅顶立柱檐口之草舍</text>
+  <line x1="606" y1="256" x2="606" y2="390" stroke="#5C544A" stroke-width="2.2"/>
+  <line x1="588" y1="390" x2="646" y2="390" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M614,232 C620,224 620,224 626,232 L626,242 C620,248 620,248 614,242 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <circle cx="620" cy="228" r="3" fill="#FCFAF6" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M614,242 C612,262 612,300 616,336" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M624,246 C634,266 634,300 630,336" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M616,336 C632,340 646,342 652,340" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M652,340 L646,352 L636,352" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M624,258 C632,274 638,316 640,336" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M616,336 L620,352" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">憩说 · 倚树而坐之侧影</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
-  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 甘棠　杜梨，茂盛覆蔽</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 甘棠　杜梨，线画枝干叶疤</text>
   <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 茇　草舍，召伯寄居其下</text>
   <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 憩说　休息、留止，皆在树荫</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>

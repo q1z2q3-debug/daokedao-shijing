@@ -4,33 +4,71 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">羔 羊</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十八</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
-  <path d="M122,316 L148,306 L174,316 L178,392 L118,392 L122,340" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
-  <path d="M136,316 L160,336 M160,316 L136,336" fill="none" stroke="#9A9186" stroke-width="0.7"/>
-  <line x1="122" y1="392" x2="124" y2="398" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="135" y1="392" x2="137" y2="398" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="148" y1="392" x2="150" y2="398" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="161" y1="392" x2="163" y2="398" stroke="#9A9186" stroke-width="0.5"/>
-  <line x1="174" y1="392" x2="176" y2="398" stroke="#9A9186" stroke-width="0.5"/>
-  <text x="148" y="408" text-anchor="middle" font-size="7.0" fill="#994433">羔羊之皮 · 大夫之裘</text>
-  <rect x="352" y="316" width="52" height="72" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <line x1="352" y1="330" x2="404" y2="330" stroke="#5C544A" stroke-width="0.8"/>
-  <circle cx="378" cy="330" r="2.4" fill="#994433"/>
-  <line x1="352" y1="348" x2="404" y2="348" stroke="#5C544A" stroke-width="0.8"/>
-  <circle cx="378" cy="348" r="2.4" fill="#994433"/>
-  <line x1="352" y1="366" x2="404" y2="366" stroke="#5C544A" stroke-width="0.8"/>
-  <circle cx="378" cy="366" r="2.4" fill="#994433"/>
-  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">素丝 · 五紽五緎五总</text>
-  <circle cx="622" cy="326" r="7" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M622,336 L622,372" fill="none" stroke="#5C544A" stroke-width="1.6"/>
-  <path d="M614,344 L606,356" fill="none" stroke="#9A9186" stroke-width="1.0"/>
-  <path d="M630,344 L638,356" fill="none" stroke="#9A9186" stroke-width="1.0"/>
-  <path d="M617,372 L612,388 M627,372 L632,388" fill="none" stroke="#5C544A" stroke-width="1.1"/>
-  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">委蛇 · 从容缓步</text>
+  <path d="M122,220 C108,236 104,268 110,288" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M174,220 C188,236 192,268 186,288" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M122,214 L148,204 L174,214 C120,262 122,312 126,356 L170,356 C174,312 176,262 174,214 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M136,210 L148,234 L160,210" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M148,234 L164,262" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="108" y1="284" x2="108" y2="290" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="182" y1="284" x2="182" y2="290" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="111" y1="284" x2="111" y2="290" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="185" y1="284" x2="185" y2="290" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="114" y1="284" x2="114" y2="290" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="188" y1="284" x2="188" y2="290" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="128" y1="356" x2="130" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="136" y1="356" x2="138" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="144" y1="356" x2="146" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="152" y1="356" x2="154" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="160" y1="356" x2="162" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="168" y1="356" x2="170" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">羔羊之皮 · 领襟袖缘毛边</text>
+  <path d="M350,220 L406,220 L406,356 L350,356 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="350" y1="238" x2="406" y2="238" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="238" r="2.3" fill="#994433"/>
+  <line x1="358" y1="236" x2="362" y2="240" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="374" y1="236" x2="378" y2="240" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="390" y1="236" x2="394" y2="240" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="350" y1="264" x2="406" y2="264" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="264" r="2.3" fill="#994433"/>
+  <line x1="358" y1="262" x2="362" y2="266" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="374" y1="262" x2="378" y2="266" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="390" y1="262" x2="394" y2="266" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="350" y1="290" x2="406" y2="290" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="290" r="2.3" fill="#994433"/>
+  <line x1="358" y1="288" x2="362" y2="292" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="374" y1="288" x2="378" y2="292" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="390" y1="288" x2="394" y2="292" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="350" y1="316" x2="406" y2="316" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="316" r="2.3" fill="#994433"/>
+  <line x1="358" y1="314" x2="362" y2="318" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="374" y1="314" x2="378" y2="318" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="390" y1="314" x2="394" y2="318" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="350" y1="342" x2="406" y2="342" stroke="#5C544A" stroke-width="0.8"/>
+  <circle cx="378" cy="342" r="2.3" fill="#994433"/>
+  <line x1="358" y1="340" x2="362" y2="344" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="374" y1="340" x2="378" y2="344" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="390" y1="340" x2="394" y2="344" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="356" y1="356" x2="358" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="367" y1="356" x2="369" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="378" y1="356" x2="380" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="389" y1="356" x2="391" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="400" y1="356" x2="402" y2="362" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">素丝五紽 · 缝合处五道针脚</text>
+  <circle cx="622" cy="206" r="3.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M616,210 C622,202 622,202 628,210 L628,220 C622,226 622,226 616,220 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="622" y1="222" x2="622" y2="228" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M606,232 C616,226 632,226 640,232" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M608,232 C602,268 604,312 612,372 L636,372 C638,320 636,272 640,232" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M638,240 C650,254 652,278 646,292" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M608,240 C598,254 598,276 604,288" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M612,258 C608,270 608,282 611,288" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M616,372 L612,384 M628,372 L634,384" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">委蛇 · 从容行步，宽袖摆裾</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
-  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 羔裘　小羊之皮，大夫服</text>
-  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 素丝　缝合缀饰之白丝</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 羔裘　小羊之皮，大夫之裘</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 素丝　缝合缀饰之白丝五紽</text>
   <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 委蛇　退食自公，从容自得</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
   <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">退食自公，委蛇委蛇</text>

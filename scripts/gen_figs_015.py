@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""SJ015《采蘋》两图。图一：蘋藻·筐筥·錡釜。图二：采·盛湘·奠尸。"""
+"""SJ015《采蘋》两图。图一：蘋藻·鼎釜·主祭。图二：采·盛湘·奠尸。"""
 import os, sys, math
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fig_geo import *
@@ -16,54 +16,79 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之十五</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-GROUND = 420
-
-# 壹 · 蘋（田字四叶水草）
+# ============ 壹 · 蘋：四叶田字水草，叶下承水 ============
 FX = 148
-for (dx, dy) in [(0, -13), (13, 0), (0, 13), (-13, 0)]:
-    d.append('  <ellipse cx="%d" cy="%d" rx="11" ry="8" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (FX + dx, 362 + dy, INK2))
-d.append('  <circle cx="%d" cy="362" r="3" fill="%s"/>' % (FX, INK3))
-# 水纹
+# 四瓣叶（十字田字），叶背白留白
+for (dx, dy, rx, ry) in [(0, -15, 12, 8), (0, 15, 12, 8), (-15, 0, 8, 12), (15, 0, 8, 12)]:
+    d.append('  <ellipse cx="%d" cy="%d" rx="%d" ry="%d" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (FX + dx, 250 + dy, rx, ry, INK2))
+# 十字叶脉
+d.append('  <line x1="%d" y1="250" x2="%d" y2="250" stroke="%s" stroke-width="0.5"/>' % (FX - 12, FX + 12, INK3))
+d.append('  <line x1="%d" y1="250" x2="%d" y2="250" stroke="%s" stroke-width="0.5"/>' % (FX, FX, INK3))
+# 细茎扎入水下
+d.append('  <path d="M%d,262 C%d,278 %d,290 %d,306" fill="none" stroke="%s" stroke-width="1.0"/>' % (FX, FX, FX, FX + 2, INK2))
+# 水线（在叶之下）
 for k in range(3):
-    y = 392 + k * 9
-    d.append('  <path d="M%d,%d q22,-4 44,0 q22,4 44,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX - 44, y, INK3))
-# 藻：细长叶两丛
+    y = 318 + k * 11
+    d.append('  <path d="M%d,%d q22,-4 44,0 q22,4 44,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX - 48, y, INK3))
+# 旁生细藻两丛
 for sx in (-1, 1):
     for k in range(3):
-        x = FX + sx * 30 + k * 4
-        d.append('  <path d="M%d,420 C%d,406 %d,396 %d,386" fill="none" stroke="%s" stroke-width="0.6"/>' % (x, x, x - sx * 4, x - sx * 6, INK3))
-d.append('  <text x="%d" y="330" text-anchor="middle" font-size="7.0" fill="%s">蘋 · 四叶如田</text>' % (FX, RED))
+        x = FX + sx * 34 + k * sx * 3
+        d.append('  <path d="M%d,352 C%d,340 %d,332 %d,322" fill="none" stroke="%s" stroke-width="0.55"/>' % (x, x, x - sx * 3, x - sx * 5, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">蘋 · 四叶如田，叶背白，生于水</text>' % (FX, RED))
 
-# 贰 · 筐（方）筥（圆）
+# ============ 贰 · 鼎釜（湘）：口沿·双耳·三足·汽线 ============
 ZX = 378
-# 筐：方口梯形
-d.append('  <path d="M%d,330 L%d,330 L%d,372 L%d,372 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX - 34, ZX - 6, ZX - 12, ZX - 28, INK2))
-for k in range(3):
-    y = 340 + k * 10
-    d.append('  <line x1="%d" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.45"/>' % (ZX - 31, y, ZX - 9, y, INK3))
-# 筥：圆腹
-d.append('  <ellipse cx="%d" cy="352" rx="22" ry="20" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX + 26, INK2))
-for k in range(3):
-    yy = 342 + k * 9
-    d.append('  <path d="M%d,%d q11,4 22,0" fill="none" stroke="%s" stroke-width="0.45"/>' % (ZX + 15, yy, INK3))
-d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">筐方 · 筥圆</text>' % (ZX, RED))
+# 汽线（鼎口上升）
+d.append('  <path d="M%d,214 C%d,204 %d,204 %d,194" fill="none" stroke="%s" stroke-width="0.6"/>' % (ZX - 12, ZX - 12, ZX - 12, ZX - 10, INK3))
+d.append('  <path d="M%d,214 C%d,206 %d,206 %d,196" fill="none" stroke="%s" stroke-width="0.6"/>' % (ZX + 12, ZX + 12, ZX + 12, ZX + 14, INK3))
+# 双耳
+d.append('  <path d="M%d,236 L%d,220 L%d,236" fill="none" stroke="%s" stroke-width="1.0"/>' % (ZX - 30, ZX - 34, ZX - 34, INK2))
+d.append('  <path d="M%d,236 L%d,220 L%d,236" fill="none" stroke="%s" stroke-width="1.0"/>' % (ZX + 30, ZX + 34, ZX + 34, INK2))
+# 鼎腹
+d.append('  <path d="M%d,238 C%d,266 %d,292 %d,296 C%d,292 %d,266 %d,238 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
+         % (ZX - 32, ZX - 36, ZX - 30, ZX, ZX + 30, ZX + 36, ZX + 32, INK2))
+# 口沿椭圆弧
+d.append('  <path d="M%d,238 q32,-10 64,0" fill="none" stroke="%s" stroke-width="1.0"/>' % (ZX - 32, INK2))
+# 腹纹一道
+d.append('  <path d="M%d,262 q30,8 60,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (ZX - 30, INK3))
+# 三足
+for lx in (-18, 0, 18):
+    d.append('  <path d="M%d,294 L%d,322" fill="none" stroke="%s" stroke-width="1.1"/>' % (ZX + lx, ZX + lx * 1.1, INK2))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">鼎釜 · 口沿双耳三足汽线</text>' % (ZX, RED))
 
-# 叁 · 錡（有足）釜（无足）
+# ============ 叁 · 尸：主祭者侧背影，冠·宽袖·执爵 ============
 VX = 622
-# 錡：锅身 + 三足
-d.append('  <ellipse cx="%d" cy="348" rx="20" ry="15" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (VX - 24, INK2))
-for lx in (-12, 0, 12):
-    d.append('  <line x1="%d" y1="360" x2="%d" y2="386" stroke="%s" stroke-width="0.9"/>' % (VX - 24 + lx, VX - 24 + lx * 1.1, INK2))
-# 釜：圆锅无足
-d.append('  <ellipse cx="%d" cy="352" rx="21" ry="16" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (VX + 26, INK2))
-d.append('  <path d="M%d,338 q21,-8 42,0" fill="none" stroke="%s" stroke-width="0.7"/>' % (VX + 5, INK3))
-d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">錡有足 · 釜无足</text>' % (VX, RED))
+# 发髻与冠
+d.append('  <circle cx="%d" cy="198" r="3.6" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (VX, INK2))
+d.append('  <line x1="%d" y1="194" x2="%d" y2="188" stroke="%s" stroke-width="0.7"/>' % (VX, VX + 4, INK3))
+# 头轮廓
+d.append('  <path d="M%d,202 C%d,194 %d,194 %d,202 L%d,212 C%d,218 %d,218 %d,212 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>'
+         % (VX - 7, VX, VX, VX + 7, VX + 7, VX, VX, VX - 7, INK2))
+# 颈
+d.append('  <line x1="%d" y1="218" x2="%d" y2="226" stroke="%s" stroke-width="0.9"/>' % (VX, VX, INK2))
+# 肩线
+d.append('  <path d="M%d,230 C%d,224 %d,224 %d,230" fill="none" stroke="%s" stroke-width="1.0"/>' % (VX - 18, VX - 8, VX + 8, VX + 18, INK2))
+# 宽袖袍身（背影）
+d.append('  <path d="M%d,230 C%d,268 %d,316 %d,378 L%d,378 C%d,316 %d,268 %d,230" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
+         % (VX - 18, VX - 24, VX - 22, VX - 14, VX + 14, VX + 22, VX + 24, VX + 18, INK2))
+# 左右宽袖垂摆
+d.append('  <path d="M%d,238 C%d,252 %d,282 %d,298" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX - 18, VX - 30, VX - 30, VX - 24, INK2))
+d.append('  <path d="M%d,238 C%d,252 %d,282 %d,298" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX + 18, VX + 30, VX + 30, VX + 24, INK2))
+# 袖褶
+d.append('  <path d="M%d,256 C%d,268 %d,284 %d,294" fill="none" stroke="%s" stroke-width="0.5"/>' % (VX - 14, VX - 18, VX - 18, VX - 15, INK3))
+# 衣裾下摆与分衩
+d.append('  <path d="M%d,378 L%d,386 M%d,378 L%d,386" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX - 8, VX - 10, VX + 8, VX + 10, INK2))
+# 双手前执爵（朝左）
+d.append('  <path d="M%d,272 L%d,266 L%d,274 L%d,278 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (VX - 18, VX - 30, VX - 30, VX - 18, INK2))
+d.append('  <line x1="%d" y1="278" x2="%d" y2="284" stroke="%s" stroke-width="0.7"/>' % (VX - 24, VX - 24, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">尸 · 主祭者侧背影，执爵</text>' % (VX, RED))
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
-d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 蘋藻　涧滨行潦之水菜</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 筐筥　方圆竹器</text>' % INK2)
-d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 錡釜　有足无足之烹器</text>' % INK2)
+d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 蘋　四叶田字，生于水中</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 湘　鼎釜烹煮，口耳足汽可辨</text>' % INK2)
+d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 尸　主祭者，执爵立于牖下</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">于以采蘋？南澗之濱</text>' % INK)
 d.append('  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="%s">教女以祭，五事成礼</text>' % INK3)

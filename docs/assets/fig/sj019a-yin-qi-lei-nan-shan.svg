@@ -4,27 +4,42 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">殷其雷</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十九</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
-  <path d="M104,380 L148,316 L192,380 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <path d="M142,272 l8,14 l-8,2 l10,16" fill="none" stroke="#994433" stroke-width="1.1"/>
-  <path d="M166,278 l7,12 l-7,2 l9,14" fill="none" stroke="#9A9186" stroke-width="0.8"/>
-  <text x="148" y="400" text-anchor="middle" font-size="7.0" fill="#994433">殷其雷 · 声盛而震</text>
-  <path d="M330,380 L378,310 L426,380 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <text x="358" y="332" text-anchor="middle" font-size="7.0" fill="#994433">阳</text>
-  <text x="400" y="356" text-anchor="middle" font-size="7.0" fill="#994433">侧</text>
-  <text x="378" y="374" text-anchor="middle" font-size="7.0" fill="#994433">下</text>
-  <text x="378" y="400" text-anchor="middle" font-size="7.0" fill="#994433">南山 · 阳侧下</text>
-  <circle cx="622" cy="326" r="7" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <path d="M622,336 L622,366" fill="none" stroke="#5C544A" stroke-width="1.6"/>
-  <path d="M614,342 L606,352" fill="none" stroke="#9A9186" stroke-width="1.0"/>
-  <path d="M617,366 L612,380 M627,366 L632,380" fill="none" stroke="#5C544A" stroke-width="1.1"/>
-  <path d="M646,380 L660,366 L674,380" fill="none" stroke="#9A9186" stroke-width="0.8"/>
-  <text x="622" y="400" text-anchor="middle" font-size="7.0" fill="#994433">望归 · 面山而立</text>
+  <path d="M104,360 L128,302 L140,322 L156,288 L170,322 L192,360 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M118,344 l2,-14" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M132,344 l2,-14" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M146,344 l2,-14" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M160,344 l2,-14" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M174,344 l2,-14" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M140,230 l10,16 l-10,2 l12,18" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <path d="M168,238 l8,13 l-8,2 l10,15" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M118,214 q14,-6 28,0 q14,6 28,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">殷其雷 · 皴笔山巅回旋雷纹</text>
+  <circle cx="378" cy="206" r="3.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M371,210 C378,202 378,202 385,210 L385,220 C378,226 378,226 371,220 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="378" y1="222" x2="378" y2="228" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M360,232 C370,226 386,226 396,232" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M360,232 C354,270 356,316 366,372 L390,372 C400,316 402,270 396,232" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M394,240 L408,226 M396,246 L410,232 M396,252 L408,238" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M402,236 L402,256" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M360,240 C350,254 350,280 356,296" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M372,372 L366,384 M384,372 L388,384" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">何斯违斯 · 行者负薪而违</text>
+  <line x1="588" y1="296" x2="588" y2="386" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="656" y1="296" x2="656" y2="386" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="588" y1="296" x2="656" y2="296" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M628,300 L652,300 L652,382 L628,382 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M592,300 L610,312 L616,380 L598,382 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="622" cy="330" r="4" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M617,336 C616,348 617,360 619,372" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M627,336 C628,348 627,360 625,372" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="588" y1="386" x2="656" y2="386" stroke="#9A9186" stroke-width="0.9"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">归哉归哉 · 门扉半开，内有望者</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
   <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 雷声 · 殷其雷，起于南山</text>
-  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 南山 · 阳、侧、下三位</text>
-  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 望归 · 室家闻雷而思</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 违斯 · 行者负薪，离此从公</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 归哉 · 门扉半开，室家望归</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
   <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">振振君子，歸哉歸哉</text>
   <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">怨而不怒，望其归尔</text>

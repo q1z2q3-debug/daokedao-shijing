@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""SJ017《行露》两图。图一：行露·雀穿屋·鼠穿墉。图二：礼不足·不惧讼·不女从。"""
+"""SJ017《行露》两图。图一：行露·雀穿屋·讼庭。图二：礼不足·不惧讼·不女从。"""
 import os, sys, math
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fig_geo import *
@@ -16,46 +16,81 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之十七</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-GROUND = 420
-
-# 壹 · 行露：一条路 + 露滴
+# ============ 壹 · 行露：道旁草叶承露，晨雾细线 ============
 FX = 148
-d.append('  <path d="M%d,420 L%d,340" fill="none" stroke="%s" stroke-width="1.0"/>' % (FX - 40, FX - 20, INK2))
-d.append('  <path d="M%d,420 L%d,340" fill="none" stroke="%s" stroke-width="1.0"/>' % (FX + 40, FX + 20, INK2))
-for k in range(6):
-    x = FX - 26 + k * 10
-    y = 388 - k * 6
-    d.append('  <circle cx="%d" cy="%d" r="1.8" fill="none" stroke="%s" stroke-width="0.6"/>' % (x, y, INK3))
-d.append('  <text x="%d" y="326" text-anchor="middle" font-size="7.0" fill="%s">行（háng）· 道上之露</text>' % (FX, RED))
+# 晨雾两道细线
+d.append('  <path d="M%d,196 q30,-4 60,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX - 30, INK3))
+d.append('  <path d="M%d,212 q30,-4 60,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX - 30, INK3))
+# 三丛草叶
+d.append('  <path d="M%d,380 C%d,336 %d,288 %d,252" fill="none" stroke="%s" stroke-width="1.1"/>' % (FX, FX, FX + 2, FX + 1, INK2))
+d.append('  <path d="M%d,380 C%d,344 %d,308 %d,282" fill="none" stroke="%s" stroke-width="0.9"/>' % (FX - 20, FX - 22, FX - 20, FX - 26, INK2))
+d.append('  <path d="M%d,380 C%d,344 %d,308 %d,282" fill="none" stroke="%s" stroke-width="0.9"/>' % (FX + 20, FX + 22, FX + 20, FX + 26, INK2))
+# 草叶裂片与叶脉
+for k in range(3):
+    y = 356 - k * 24
+    d.append('  <path d="M%d,%d l-9,-5" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX, y, INK3))
+    d.append('  <path d="M%d,%d l9,-5" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX, y - 4, INK3))
+# 露珠三点（叶尖空心）
+d.append('  <circle cx="%d" cy="252" r="2.4" fill="#FCFAF6" stroke="%s" stroke-width="0.7"/>' % (FX + 1, INK2))
+d.append('  <circle cx="%d" cy="282" r="2.2" fill="#FCFAF6" stroke="%s" stroke-width="0.7"/>' % (FX - 26, INK2))
+d.append('  <circle cx="%d" cy="282" r="2.2" fill="#FCFAF6" stroke="%s" stroke-width="0.7"/>' % (FX + 26, INK2))
+# 路面
+d.append('  <line x1="%d" y1="380" x2="%d" y2="380" stroke="%s" stroke-width="0.8"/>' % (FX - 38, FX + 38, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">行露 · 草叶承露，晨雾未干</text>' % (FX, RED))
 
-# 贰 · 雀穿屋
+# ============ 贰 · 雀穿屋：瓦垄檐口，雀喙穿瓦隙 ============
 ZX = 378
-# 屋
-d.append('  <path d="M%d,356 L%d,326 L%d,356" fill="none" stroke="%s" stroke-width="1.1"/>' % (ZX - 30, ZX, ZX + 30, INK2))
-d.append('  <rect x="%d" y="356" width="48" height="30" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX - 24, INK2))
-# 破口
-d.append('  <path d="M%d,360 l6,4 l-6,4 l-6,-4 Z" fill="%s"/>' % (ZX + 18, RED))
-# 雀（小头在屋边）
-d.append('  <circle cx="%d" cy="330" r="5" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (ZX + 26, INK2))
-d.append('  <path d="M%d,330 l8,2 l-8,3 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.6"/>' % (ZX + 30, INK3))
-d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">雀无角而穿屋</text>' % (ZX, RED))
+# 屋坡
+d.append('  <path d="M%d,238 L%d,288 L%d,238" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>' % (ZX - 38, ZX, ZX + 38, INK2))
+# 瓦垄平行弧（自脊向檐）
+for k in range(4):
+    lx = ZX - 28 + k * 18
+    d.append('  <path d="M%d,250 L%d,286" fill="none" stroke="%s" stroke-width="0.5"/>' % (lx, lx + 4, INK3))
+# 檐口与椽头
+d.append('  <line x1="%d" y1="288" x2="%d" y2="288" stroke="%s" stroke-width="1.0"/>' % (ZX - 34, ZX + 34, INK2))
+for k in range(5):
+    x = ZX - 28 + k * 14
+    d.append('  <line x1="%d" y1="288" x2="%d" y2="296" stroke="%s" stroke-width="0.5"/>' % (x, x, INK3))
+# 屋身
+d.append('  <path d="M%d,296 L%d,296 L%d,356 L%d,356 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX - 28, ZX + 28, ZX + 28, ZX - 28, INK2))
+# 雀（在右檐，喙啄瓦隙）
+d.append('  <ellipse cx="%d" cy="280" rx="8" ry="5.5" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (ZX + 30, INK2))
+d.append('  <circle cx="%d" cy="276" r="4" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (ZX + 36, INK2))
+d.append('  <path d="M%d,275 l6,2 l-6,2 Z" fill="#EFEAD6" stroke="%s" stroke-width="0.5"/>' % (ZX + 39, INK3))
+d.append('  <path d="M%d,280 q6,-4 12,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (ZX + 24, INK3))
+# 瓦隙破口
+d.append('  <path d="M%d,288 l5,4 l-5,4 l-5,-4 Z" fill="%s"/>' % (ZX + 18, RED))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">雀穿屋 · 喙穿屋角瓦隙</text>' % (ZX, RED))
 
-# 叁 · 鼠穿墉
+# ============ 叁 · 速我狱：讼庭（庭阶·两造之位·简册） ============
 VX = 622
-d.append('  <rect x="%d" y="340" width="56" height="46" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (VX - 28, INK2))
-# 墙缝啮口
-d.append('  <path d="M%d,358 l8,5 l-8,5 l-8,-5 Z" fill="%s"/>' % (VX, RED))
-# 鼠（简笔）
-d.append('  <ellipse cx="%d" cy="352" rx="10" ry="6" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (VX - 34, INK2))
-d.append('  <circle cx="%d" cy="348" r="3" fill="#FCFAF6" stroke="%s" stroke-width="0.7"/>' % (VX - 42, INK2))
-d.append('  <path d="M%d,356 q10,6 20,2" fill="none" stroke="%s" stroke-width="0.6"/>' % (VX - 34, INK3))
-d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">鼠无牙而穿墉</text>' % (VX, RED))
+# 庭柱
+d.append('  <line x1="%d" y1="296" x2="%d" y2="386" stroke="%s" stroke-width="1.0"/>' % (VX - 34, VX - 34, INK2))
+d.append('  <line x1="%d" y1="296" x2="%d" y2="386" stroke="%s" stroke-width="1.0"/>' % (VX + 34, VX + 34, INK2))
+# 案与案腿
+d.append('  <line x1="%d" y1="332" x2="%d" y2="332" stroke="%s" stroke-width="1.0"/>' % (VX - 22, VX + 22, INK2))
+d.append('  <line x1="%d" y1="332" x2="%d" y2="352" stroke="%s" stroke-width="0.8"/>' % (VX - 16, VX - 16, INK3))
+d.append('  <line x1="%d" y1="332" x2="%d" y2="352" stroke="%s" stroke-width="0.8"/>' % (VX + 16, VX + 16, INK3))
+# 案上简册（一卷）
+d.append('  <path d="M%d,320 L%d,320 L%d,328 L%d,328 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (VX - 8, VX + 8, VX + 8, VX - 8, INK2))
+for k in range(3):
+    d.append('  <line x1="%d" y1="322" x2="%d" y2="326" stroke="%s" stroke-width="0.45"/>' % (VX - 5 + k * 5, VX - 5 + k * 5, INK3))
+# 两造跪坐侧影（左朝右、右朝左）
+for (sx, face) in [(-1, 1), (1, -1)]:
+    hx = VX + sx * 26
+    d.append('  <circle cx="%d" cy="356" r="4.5" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (hx, INK2))
+    d.append('  <path d="M%d,361 C%d,368 %d,374 %d,378" fill="none" stroke="%s" stroke-width="0.9"/>' % (hx, hx + face * 4, hx + face * 6, hx + face * 8, INK2))
+    d.append('  <path d="M%d,378 L%d,378" fill="none" stroke="%s" stroke-width="0.8"/>' % (hx - 6, hx + 6, INK3))
+# 庭阶两级
+d.append('  <line x1="%d" y1="372" x2="%d" y2="372" stroke="%s" stroke-width="0.8"/>' % (VX - 30, VX + 30, INK3))
+d.append('  <line x1="%d" y1="386" x2="%d" y2="386" stroke="%s" stroke-width="0.8"/>' % (VX - 34, VX + 34, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">速我狱 · 讼庭阶位简册，招致也</text>' % (VX, RED))
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
-d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 行露　道上沾濡之露</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 雀穿屋　无角而能穿，喻强</text>' % INK2)
-d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 鼠穿墉　无牙而能啮，喻逼</text>' % INK2)
+d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 行露　道旁草叶承露，晨雾未干</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 雀穿屋　雀喙穿屋角瓦隙，喻强</text>' % INK2)
+d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 速我狱　讼庭阶位简册，招致也</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">誰謂雀無角？何以穿我屋</text>' % INK)
 d.append('  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="%s">礼与讼之间，守礼不退</text>' % INK3)

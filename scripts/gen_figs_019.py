@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""SJ019《殷其雷》两图。图一：雷声·南山·望归。图二：违斯·无遑·归哉。"""
+"""SJ019《殷其雷》两图。图一：雷山·行者·望归。图二：违斯·无遑·归哉。"""
 import os, sys, math
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fig_geo import *
@@ -16,39 +16,68 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之十九</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-GROUND = 420
-
-# 壹 · 雷声与山脊
+# ============ 壹 · 殷其雷：折线皴笔山 + 回旋雷纹 ============
 FX = 148
-d.append('  <path d="M%d,380 L%d,316 L%d,380 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (FX - 44, FX, FX + 44, INK2))
-# 雷折线
-d.append('  <path d="M%d,272 l8,14 l-8,2 l10,16" fill="none" stroke="%s" stroke-width="1.1"/>' % (FX - 6, RED))
-d.append('  <path d="M%d,278 l7,12 l-7,2 l9,14" fill="none" stroke="%s" stroke-width="0.8"/>' % (FX + 18, INK3))
-d.append('  <text x="%d" y="400" text-anchor="middle" font-size="7.0" fill="%s">殷其雷 · 声盛而震</text>' % (FX, RED))
+# 山脊折线（两峰错落，非正三角）
+d.append('  <path d="M%d,360 L%d,302 L%d,322 L%d,288 L%d,322 L%d,360 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
+         % (FX - 44, FX - 20, FX - 8, FX + 8, FX + 22, FX + 44, INK2))
+# 皴笔短线
+for k in range(5):
+    x = FX - 30 + k * 14
+    d.append('  <path d="M%d,344 l2,-14" fill="none" stroke="%s" stroke-width="0.5"/>' % (x, INK3))
+# 回旋雷纹（闪电折线）
+d.append('  <path d="M%d,230 l10,16 l-10,2 l12,18" fill="none" stroke="%s" stroke-width="1.2"/>' % (FX - 8, RED))
+d.append('  <path d="M%d,238 l8,13 l-8,2 l10,15" fill="none" stroke="%s" stroke-width="0.8"/>' % (FX + 20, INK3))
+# 卷云气
+d.append('  <path d="M%d,214 q14,-6 28,0 q14,6 28,0" fill="none" stroke="%s" stroke-width="0.5"/>' % (FX - 30, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">殷其雷 · 皴笔山巅回旋雷纹</text>' % (FX, RED))
 
-# 贰 · 南山三位：阳、侧、下
+# ============ 贰 · 何斯违斯：行者背影，负薪 ============
 ZX = 378
-d.append('  <path d="M%d,380 L%d,310 L%d,380 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX - 48, ZX, ZX + 48, INK2))
-d.append('  <text x="%d" y="332" text-anchor="middle" font-size="7.0" fill="%s">阳</text>' % (ZX - 20, RED))
-d.append('  <text x="%d" y="356" text-anchor="middle" font-size="7.0" fill="%s">侧</text>' % (ZX + 22, RED))
-d.append('  <text x="%d" y="374" text-anchor="middle" font-size="7.0" fill="%s">下</text>' % (ZX, RED))
-d.append('  <text x="%d" y="400" text-anchor="middle" font-size="7.0" fill="%s">南山 · 阳侧下</text>' % (ZX, RED))
+# 发髻
+d.append('  <circle cx="%d" cy="206" r="3.6" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (ZX, INK2))
+# 头轮廓
+d.append('  <path d="M%d,210 C%d,202 %d,202 %d,210 L%d,220 C%d,226 %d,226 %d,220 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>'
+         % (ZX - 7, ZX, ZX, ZX + 7, ZX + 7, ZX, ZX, ZX - 7, INK2))
+# 颈肩
+d.append('  <line x1="%d" y1="222" x2="%d" y2="228" stroke="%s" stroke-width="0.9"/>' % (ZX, ZX, INK2))
+d.append('  <path d="M%d,232 C%d,226 %d,226 %d,232" fill="none" stroke="%s" stroke-width="1.0"/>' % (ZX - 18, ZX - 8, ZX + 8, ZX + 18, INK2))
+# 袍身背影
+d.append('  <path d="M%d,232 C%d,270 %d,316 %d,372 L%d,372 C%d,316 %d,270 %d,232" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
+         % (ZX - 18, ZX - 24, ZX - 22, ZX - 12, ZX + 12, ZX + 22, ZX + 24, ZX + 18, INK2))
+# 负薪：背右柴束（数枝+捆绳）
+d.append('  <path d="M%d,240 L%d,226 M%d,246 L%d,232 M%d,252 L%d,238" fill="none" stroke="%s" stroke-width="0.8"/>'
+         % (ZX + 16, ZX + 30, ZX + 18, ZX + 32, ZX + 18, ZX + 30, INK2))
+d.append('  <path d="M%d,236 L%d,256" fill="none" stroke="%s" stroke-width="0.7"/>' % (ZX + 24, ZX + 24, INK3))
+# 袖摆
+d.append('  <path d="M%d,240 C%d,254 %d,280 %d,296" fill="none" stroke="%s" stroke-width="0.9"/>' % (ZX - 18, ZX - 28, ZX - 28, ZX - 22, INK2))
+# 步姿两脚
+d.append('  <path d="M%d,372 L%d,384 M%d,372 L%d,384" fill="none" stroke="%s" stroke-width="0.9"/>' % (ZX - 6, ZX - 12, ZX + 6, ZX + 10, INK2))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">何斯违斯 · 行者负薪而违</text>' % (ZX, RED))
 
-# 叁 · 望归之人（面山而立）
+# ============ 叁 · 归哉归哉：门扉半开，内有望者 ============
 VX = 622
-d.append('  <circle cx="%d" cy="326" r="7" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (VX, INK2))
-d.append('  <path d="M%d,336 L%d,366" fill="none" stroke="%s" stroke-width="1.6"/>' % (VX, VX, INK2))
-d.append('  <path d="M%d,342 L%d,352" fill="none" stroke="%s" stroke-width="1.0"/>' % (VX - 8, VX - 16, INK3))
-d.append('  <path d="M%d,366 L%d,380 M%d,366 L%d,380" fill="none" stroke="%s" stroke-width="1.1"/>' % (VX - 5, VX - 10, VX + 5, VX + 10, INK2))
-# 远山一痕
-d.append('  <path d="M%d,380 L%d,366 L%d,380" fill="none" stroke="%s" stroke-width="0.8"/>' % (VX + 24, VX + 38, VX + 52, INK3))
-d.append('  <text x="%d" y="400" text-anchor="middle" font-size="7.0" fill="%s">望归 · 面山而立</text>' % (VX, RED))
+# 门框立柱与横梁
+d.append('  <line x1="%d" y1="296" x2="%d" y2="386" stroke="%s" stroke-width="1.1"/>' % (VX - 34, VX - 34, INK2))
+d.append('  <line x1="%d" y1="296" x2="%d" y2="386" stroke="%s" stroke-width="1.1"/>' % (VX + 34, VX + 34, INK2))
+d.append('  <line x1="%d" y1="296" x2="%d" y2="296" stroke="%s" stroke-width="1.1"/>' % (VX - 34, VX + 34, INK2))
+# 右扉（合）
+d.append('  <path d="M%d,300 L%d,300 L%d,382 L%d,382 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (VX + 6, VX + 30, VX + 30, VX + 6, INK2))
+# 左扉（半开，斜出）
+d.append('  <path d="M%d,300 L%d,312 L%d,380 L%d,382 Z" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (VX - 30, VX - 12, VX - 6, VX - 24, INK2))
+# 门内望者（小背影）
+d.append('  <circle cx="%d" cy="330" r="4" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (VX, INK2))
+d.append('  <path d="M%d,336 C%d,348 %d,360 %d,372" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX - 5, VX - 6, VX - 5, VX - 3, INK2))
+d.append('  <path d="M%d,336 C%d,348 %d,360 %d,372" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX + 5, VX + 6, VX + 5, VX + 3, INK2))
+# 门槛
+d.append('  <line x1="%d" y1="386" x2="%d" y2="386" stroke="%s" stroke-width="0.9"/>' % (VX - 34, VX + 34, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">归哉归哉 · 门扉半开，内有望者</text>' % (VX, RED))
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
 d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 雷声 · 殷其雷，起于南山</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 南山 · 阳、侧、下三位</text>' % INK2)
-d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 望归 · 室家闻雷而思</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 违斯 · 行者负薪，离此从公</text>' % INK2)
+d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 归哉 · 门扉半开，室家望归</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">振振君子，歸哉歸哉</text>' % INK)
 d.append('  <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="%s">怨而不怒，望其归尔</text>' % INK3)

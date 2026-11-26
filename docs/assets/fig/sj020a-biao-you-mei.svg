@@ -4,34 +4,89 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">摽有梅</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之二十</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
-  <path d="M148,380 C148,356 148,344 150,330" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
-  <ellipse cx="148" cy="300" rx="46" ry="38" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <circle cx="124" cy="292" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="138" cy="282" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="154" cy="280" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="170" cy="290" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="130" cy="306" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="148" cy="304" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="166" cy="308" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <text x="148" y="400" text-anchor="middle" font-size="7.0" fill="#994433">其实七 · 存七成</text>
-  <path d="M378,380 C378,356 378,344 380,330" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
-  <ellipse cx="378" cy="300" rx="46" ry="38" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <circle cx="354" cy="292" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="368" cy="282" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <circle cx="384" cy="280" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
-  <text x="378" y="400" text-anchor="middle" font-size="7.0" fill="#994433">其实三 · 存三成</text>
-  <path d="M622,380 C622,360 622,350 624,342" fill="none" stroke="#5C544A" stroke-width="1.6"/>
-  <path d="M598,366 L640,356 L646,388 L604,398 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <circle cx="610" cy="380" r="3" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
-  <circle cx="621" cy="386" r="3" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
-  <circle cx="632" cy="380" r="3" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
-  <text x="622" y="408" text-anchor="middle" font-size="7.0" fill="#994433">顷筐塈之 · 落尽拾取</text>
+  <line x1="110" y1="390" x2="186" y2="390" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M148,390 C148,350 150,312 149,268" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <path d="M148,306 L130,284 L118,266" fill="none" stroke="#5C544A" stroke-width="1.4"/>
+  <path d="M149,300 L168,280 L180,262" fill="none" stroke="#5C544A" stroke-width="1.4"/>
+  <path d="M149,286 L150,258" fill="none" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M112,266 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M117,270 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M122,266 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M122,258 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M127,262 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M132,258 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M174,262 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M179,266 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M184,262 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M164,254 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M169,258 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M174,254 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M144,250 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M149,254 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M154,250 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="124" cy="272" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="138" cy="262" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="154" cy="260" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="170" cy="270" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="130" cy="286" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="148" cy="284" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="166" cy="288" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="122" cy="374" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="134" cy="382" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="146" cy="374" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">其实七 · 枝头尚繁</text>
+  <line x1="340" y1="390" x2="416" y2="390" stroke="#9A9186" stroke-width="0.8"/>
+  <path d="M378,390 C378,350 380,312 379,268" fill="none" stroke="#1F1B17" stroke-width="2.2"/>
+  <path d="M378,306 L360,284 L348,266" fill="none" stroke="#5C544A" stroke-width="1.4"/>
+  <path d="M379,300 L398,280 L410,262" fill="none" stroke="#5C544A" stroke-width="1.4"/>
+  <path d="M379,286 L380,258" fill="none" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M342,266 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M347,270 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M352,266 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M352,258 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M357,262 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M362,258 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M404,262 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M409,266 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M414,262 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M394,254 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M399,258 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M404,254 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M374,250 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M379,254 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M384,250 q6,-3 10,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="354" cy="272" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="368" cy="262" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="384" cy="260" r="3.2" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="352" cy="374" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="364" cy="382" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="376" cy="374" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="388" cy="382" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="400" cy="374" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="412" cy="382" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <circle cx="424" cy="374" r="2.4" fill="#EFEAD6" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">其实三 · 落去过半</text>
+  <path d="M594,330 C594,318 594,310 596,302" fill="none" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M595,312 l-8,-4 M595,318 l-8,-3" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M592,356 L644,346 L650,392 L598,400 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M592,356 L644,346" fill="none" stroke="#5C544A" stroke-width="1.2"/>
+  <path d="M592,356 Q618,330 644,346" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="595" y1="366" x2="647" y2="364" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="595" y1="376" x2="647" y2="374" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="595" y1="386" x2="647" y2="384" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="602" y1="360" x2="604" y2="394" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="616" y1="360" x2="618" y2="394" stroke="#9A9186" stroke-width="0.45"/>
+  <line x1="630" y1="360" x2="632" y2="394" stroke="#9A9186" stroke-width="0.45"/>
+  <circle cx="608" cy="372" r="2.6" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <circle cx="620" cy="378" r="2.6" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <circle cx="632" cy="372" r="2.6" fill="#EFEAD6" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">顷筐塈之 · 口沿篾纹提梁</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
-  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 梅实七　枝头尚繁</text>
-  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 梅实三　落去过半</text>
-  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 顷筐　落尽以筐拾取</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 梅实七　枝头尚繁，落梅尚少</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 梅实三　落去过半，疏枝多点</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 顷筐　落尽以筐拾取，篾纹提梁</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
   <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">摽有梅，其實七兮</text>
   <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">梅落计时，及时而待</text>

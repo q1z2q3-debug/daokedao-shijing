@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""SJ018《羔羊》两图。图一：羔裘·素丝·委蛇。图二：皮·革·缝。"""
+"""SJ018《羔羊》两图。图一：羔裘·素丝五紽·委蛇。图二：皮·革·缝。"""
 import os, sys, math
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fig_geo import *
@@ -16,42 +16,73 @@ d.append('  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spac
 d.append('  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="%s">诗三百五篇 · 之十八</text>' % INK3)
 d.append('  <line x1="44" y1="96" x2="716" y2="96" stroke="%s" stroke-width="0.8"/>' % INK3)
 
-GROUND = 420
-
-# 壹 · 羔裘轮廓（交领大衣）
+# ============ 壹 · 羔裘平铺：领·襟·袖·毛边 ============
 FX = 148
-d.append('  <path d="M%d,316 L%d,306 L%d,316 L%d,392 L%d,392 L%d,340" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
-         % (FX - 26, FX, FX + 26, FX + 30, FX - 30, FX - 26, INK2))
-d.append('  <path d="M%d,316 L%d,336 M%d,316 L%d,336" fill="none" stroke="%s" stroke-width="0.7"/>'
-         % (FX - 12, FX + 12, FX + 12, FX - 12, INK3))
-# 裘缘毛边
-for k in range(5):
-    x = FX - 26 + k * 13
-    d.append('  <line x1="%d" y1="392" x2="%d" y2="398" stroke="%s" stroke-width="0.5"/>' % (x, x + 2, INK3))
-d.append('  <text x="%d" y="408" text-anchor="middle" font-size="7.0" fill="%s">羔羊之皮 · 大夫之裘</text>' % (FX, RED))
-
-# 贰 · 素丝缝合特写
-ZX = 378
-d.append('  <rect x="%d" y="316" width="52" height="72" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX - 26, INK2))
+# 两袖
+d.append('  <path d="M%d,220 C%d,236 %d,268 %d,288" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (FX - 26, FX - 40, FX - 44, FX - 38, INK2))
+d.append('  <path d="M%d,220 C%d,236 %d,268 %d,288" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (FX + 26, FX + 40, FX + 44, FX + 38, INK2))
+# 衣身轮廓
+d.append('  <path d="M%d,214 L%d,204 L%d,214 C%d,262 %d,312 %d,356 L%d,356 C%d,312 %d,262 %d,214 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
+         % (FX - 26, FX, FX + 26, FX - 28, FX - 26, FX - 22, FX + 22, FX + 26, FX + 28, FX + 26, INK2))
+# 交领
+d.append('  <path d="M%d,210 L%d,234 L%d,210" fill="none" stroke="%s" stroke-width="0.9"/>' % (FX - 12, FX, FX + 12, INK2))
+# 右襟
+d.append('  <path d="M%d,234 L%d,262" fill="none" stroke="%s" stroke-width="0.7"/>' % (FX, FX + 16, INK3))
+# 袖缘毛边
 for k in range(3):
-    y = 330 + k * 18
-    d.append('  <line x1="%d" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.8"/>' % (ZX - 26, y, ZX + 26, y, INK2))
-    d.append('  <circle cx="%d" cy="%d" r="2.4" fill="%s"/>' % (ZX, y, RED))
-d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">素丝 · 五紽五緎五总</text>' % (ZX, RED))
+    d.append('  <line x1="%d" y1="284" x2="%d" y2="290" stroke="%s" stroke-width="0.5"/>' % (FX - 40 + k * 3, FX - 40 + k * 3, INK3))
+    d.append('  <line x1="%d" y1="284" x2="%d" y2="290" stroke="%s" stroke-width="0.5"/>' % (FX + 34 + k * 3, FX + 34 + k * 3, INK3))
+# 下摆毛边
+for k in range(6):
+    x = FX - 20 + k * 8
+    d.append('  <line x1="%d" y1="356" x2="%d" y2="362" stroke="%s" stroke-width="0.5"/>' % (x, x + 2, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">羔羊之皮 · 领襟袖缘毛边</text>' % (FX, RED))
 
-# 叁 · 委蛇背影（缓步）
+# ============ 贰 · 素丝五紽：五道缝合针脚 ============
+ZX = 378
+# 皮片（局部放大）
+d.append('  <path d="M%d,220 L%d,220 L%d,356 L%d,356 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>' % (ZX - 28, ZX + 28, ZX + 28, ZX - 28, INK2))
+# 五道缝合针脚
+for k in range(5):
+    y = 238 + k * 26
+    d.append('  <line x1="%d" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.8"/>' % (ZX - 28, y, ZX + 28, y, INK2))
+    # 丝结小结
+    d.append('  <circle cx="%d" cy="%d" r="2.3" fill="%s"/>' % (ZX, y, RED))
+    # 线迹短针
+    for px in range(3):
+        d.append('  <line x1="%d" y1="%d" x2="%d" y2="%d" stroke="%s" stroke-width="0.45"/>' % (ZX - 20 + px * 16, y - 2, ZX - 16 + px * 16, y + 2, INK3))
+# 皮缘毛边
+for k in range(5):
+    x = ZX - 22 + k * 11
+    d.append('  <line x1="%d" y1="356" x2="%d" y2="362" stroke="%s" stroke-width="0.5"/>' % (x, x + 2, INK3))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">素丝五紽 · 缝合处五道针脚</text>' % (ZX, RED))
+
+# ============ 叁 · 委蛇：从容行走侧影，宽袖摆 ============
 VX = 622
-d.append('  <circle cx="%d" cy="326" r="7" fill="#FCFAF6" stroke="%s" stroke-width="0.9"/>' % (VX, INK2))
-d.append('  <path d="M%d,336 L%d,372" fill="none" stroke="%s" stroke-width="1.6"/>' % (VX, VX, INK2))
-d.append('  <path d="M%d,344 L%d,356" fill="none" stroke="%s" stroke-width="1.0"/>' % (VX - 8, VX - 16, INK3))
-d.append('  <path d="M%d,344 L%d,356" fill="none" stroke="%s" stroke-width="1.0"/>' % (VX + 8, VX + 16, INK3))
-d.append('  <path d="M%d,372 L%d,388 M%d,372 L%d,388" fill="none" stroke="%s" stroke-width="1.1"/>' % (VX - 5, VX - 10, VX + 5, VX + 10, INK2))
-d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">委蛇 · 从容缓步</text>' % (VX, RED))
+# 发髻
+d.append('  <circle cx="%d" cy="206" r="3.6" fill="#FCFAF6" stroke="%s" stroke-width="0.8"/>' % (VX, INK2))
+# 头侧轮廓（朝右）
+d.append('  <path d="M%d,210 C%d,202 %d,202 %d,210 L%d,220 C%d,226 %d,226 %d,220 Z" fill="#FCFAF6" stroke="%s" stroke-width="1.0"/>'
+         % (VX - 6, VX, VX, VX + 6, VX + 6, VX, VX, VX - 6, INK2))
+# 颈与肩线
+d.append('  <line x1="%d" y1="222" x2="%d" y2="228" stroke="%s" stroke-width="0.9"/>' % (VX, VX, INK2))
+d.append('  <path d="M%d,232 C%d,226 %d,226 %d,232" fill="none" stroke="%s" stroke-width="1.0"/>' % (VX - 16, VX - 6, VX + 10, VX + 18, INK2))
+# 袍身（侧行，宽袖后摆）
+d.append('  <path d="M%d,232 C%d,268 %d,312 %d,372 L%d,372 C%d,320 %d,272 %d,232" fill="#FCFAF6" stroke="%s" stroke-width="1.1"/>'
+         % (VX - 14, VX - 20, VX - 18, VX - 10, VX + 14, VX + 16, VX + 14, VX + 18, INK2))
+# 宽袖前摆（朝右）与后摆
+d.append('  <path d="M%d,240 C%d,254 %d,278 %d,292" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX + 16, VX + 28, VX + 30, VX + 24, INK2))
+d.append('  <path d="M%d,240 C%d,254 %d,276 %d,288" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX - 14, VX - 24, VX - 24, VX - 18, INK2))
+# 袖褶
+d.append('  <path d="M%d,258 C%d,270 %d,282 %d,288" fill="none" stroke="%s" stroke-width="0.5"/>' % (VX - 10, VX - 14, VX - 14, VX - 11, INK3))
+# 衣裾与两步
+d.append('  <path d="M%d,372 L%d,384 M%d,372 L%d,384" fill="none" stroke="%s" stroke-width="0.9"/>' % (VX - 6, VX - 10, VX + 6, VX + 12, INK2))
+d.append('  <text x="%d" y="392" text-anchor="middle" font-size="7.0" fill="%s">委蛇 · 从容行步，宽袖摆裾</text>' % (VX, RED))
 
 for (x, t) in [(120, "壹"), (350, "贰"), (600, "叁")]:
     d.append('  <text x="%d" y="132" font-size="7.6" fill="%s">%s</text>' % (x, RED, t))
-d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 羔裘　小羊之皮，大夫服</text>' % INK2)
-d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 素丝　缝合缀饰之白丝</text>' % INK2)
+d.append('  <text x="44" y="466" font-size="7.8" fill="%s">壹 羔裘　小羊之皮，大夫之裘</text>' % INK2)
+d.append('  <text x="264" y="466" font-size="7.8" fill="%s">贰 素丝　缝合缀饰之白丝五紽</text>' % INK2)
 d.append('  <text x="486" y="466" font-size="7.8" fill="%s">叁 委蛇　退食自公，从容自得</text>' % INK2)
 d.append('  <line x1="44" y1="478" x2="716" y2="478" stroke="%s" stroke-width="0.8"/>' % INK3)
 d.append('  <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="%s">退食自公，委蛇委蛇</text>' % INK)

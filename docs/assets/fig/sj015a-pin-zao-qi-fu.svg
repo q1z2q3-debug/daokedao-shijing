@@ -4,43 +4,53 @@
   <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">采 蘋</text>
   <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之十五</text>
   <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
-  <ellipse cx="148" cy="349" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <ellipse cx="161" cy="362" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <ellipse cx="148" cy="375" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <ellipse cx="135" cy="362" rx="11" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
-  <circle cx="148" cy="362" r="3" fill="#9A9186"/>
-  <path d="M104,392 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
-  <path d="M104,401 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
-  <path d="M104,410 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
-  <path d="M118,420 C118,406 122,396 124,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
-  <path d="M122,420 C122,406 126,396 128,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
-  <path d="M126,420 C126,406 130,396 132,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
-  <path d="M178,420 C178,406 174,396 172,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
-  <path d="M182,420 C182,406 178,396 176,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
-  <path d="M186,420 C186,406 182,396 180,386" fill="none" stroke="#9A9186" stroke-width="0.6"/>
-  <text x="148" y="330" text-anchor="middle" font-size="7.0" fill="#994433">蘋 · 四叶如田</text>
-  <path d="M344,330 L372,330 L366,372 L350,372 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <line x1="347" y1="340" x2="369" y2="340" stroke="#9A9186" stroke-width="0.45"/>
-  <line x1="347" y1="350" x2="369" y2="350" stroke="#9A9186" stroke-width="0.45"/>
-  <line x1="347" y1="360" x2="369" y2="360" stroke="#9A9186" stroke-width="0.45"/>
-  <ellipse cx="404" cy="352" rx="22" ry="20" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <path d="M393,342 q11,4 22,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M393,351 q11,4 22,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <path d="M393,360 q11,4 22,0" fill="none" stroke="#9A9186" stroke-width="0.45"/>
-  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">筐方 · 筥圆</text>
-  <ellipse cx="598" cy="348" rx="20" ry="15" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <line x1="586" y1="360" x2="584" y2="386" stroke="#5C544A" stroke-width="0.9"/>
-  <line x1="598" y1="360" x2="598" y2="386" stroke="#5C544A" stroke-width="0.9"/>
-  <line x1="610" y1="360" x2="611" y2="386" stroke="#5C544A" stroke-width="0.9"/>
-  <ellipse cx="648" cy="352" rx="21" ry="16" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
-  <path d="M627,338 q21,-8 42,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
-  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">錡有足 · 釜无足</text>
+  <ellipse cx="148" cy="235" rx="12" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="148" cy="265" rx="12" ry="8" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="133" cy="250" rx="8" ry="12" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <ellipse cx="163" cy="250" rx="8" ry="12" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="136" y1="250" x2="160" y2="250" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="148" y1="250" x2="148" y2="250" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M148,262 C148,278 148,290 150,306" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M100,318 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M100,329 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M100,340 q22,-4 44,0 q22,4 44,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M114,352 C114,340 117,332 119,322" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M111,352 C111,340 114,332 116,322" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M108,352 C108,340 111,332 113,322" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M182,352 C182,340 179,332 177,322" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M185,352 C185,340 182,332 180,322" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <path d="M188,352 C188,340 185,332 183,322" fill="none" stroke="#9A9186" stroke-width="0.55"/>
+  <text x="148" y="392" text-anchor="middle" font-size="7.0" fill="#994433">蘋 · 四叶如田，叶背白，生于水</text>
+  <path d="M366,214 C366,204 366,204 368,194" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M390,214 C390,206 390,206 392,196" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M348,236 L344,220 L344,236" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M408,236 L412,220 L412,236" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M346,238 C342,266 348,292 378,296 C408,292 414,266 410,238 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M346,238 q32,-10 64,0" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M348,262 q30,8 60,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M360,294 L358,322" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M378,294 L378,322" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M396,294 L397,322" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="378" y="392" text-anchor="middle" font-size="7.0" fill="#994433">鼎釜 · 口沿双耳三足汽线</text>
+  <circle cx="622" cy="198" r="3.6" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="622" y1="194" x2="626" y2="188" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M615,202 C622,194 622,194 629,202 L629,212 C622,218 622,218 615,212 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <line x1="622" y1="218" x2="622" y2="226" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M604,230 C614,224 630,224 640,230" fill="none" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M604,230 C598,268 600,316 608,378 L636,378 C644,316 646,268 640,230" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M604,238 C592,252 592,282 598,298" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M640,238 C652,252 652,282 646,298" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M608,256 C604,268 604,284 607,294" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <path d="M614,378 L612,386 M630,378 L632,386" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M604,272 L592,266 L592,274 L604,278 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="598" y1="278" x2="598" y2="284" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="622" y="392" text-anchor="middle" font-size="7.0" fill="#994433">尸 · 主祭者侧背影，执爵</text>
   <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
   <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
   <text x="600" y="132" font-size="7.6" fill="#994433">叁</text>
-  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 蘋藻　涧滨行潦之水菜</text>
-  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 筐筥　方圆竹器</text>
-  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 錡釜　有足无足之烹器</text>
+  <text x="44" y="466" font-size="7.8" fill="#5C544A">壹 蘋　四叶田字，生于水中</text>
+  <text x="264" y="466" font-size="7.8" fill="#5C544A">贰 湘　鼎釜烹煮，口耳足汽可辨</text>
+  <text x="486" y="466" font-size="7.8" fill="#5C544A">叁 尸　主祭者，执爵立于牖下</text>
   <line x1="44" y1="478" x2="716" y2="478" stroke="#9A9186" stroke-width="0.8"/>
   <text x="380" y="512" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">于以采蘋？南澗之濱</text>
   <text x="44" y="524" font-size="7.4" letter-spacing="1" fill="#9A9186">教女以祭，五事成礼</text>
