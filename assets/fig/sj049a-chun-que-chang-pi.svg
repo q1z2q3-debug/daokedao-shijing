@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 五</text>
+  <text x="380" y="60" text-anchor="middle" font-size="24" letter-spacing="1.4" fill="#1F1B17" font-weight="700">鹑之奔奔，鹊之彊彊</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十九</text>
+  <text x="380" y="80" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">鹌鹑 · 喜鹊：居有常匹，飞则相随</text>
+  <line x1="44" y1="98" x2="716" y2="98" stroke="#9A9186" stroke-width="0.8"/>
+
+  <text x="190" y="128" text-anchor="middle" font-size="7.8" fill="#994433">壹　鹑 · 鹌鹑</text>
+  <text x="570" y="128" text-anchor="middle" font-size="7.8" fill="#994433">贰　鹊 · 喜鹊</text>
+  <line x1="380" y1="114" x2="380" y2="350" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- 鹌鹑一对 -->
+  <path d="M60,350 Q380,360 360,350" stroke="#DCD5C8" stroke-width="0.7"/>
+  <g>
+    <ellipse cx="150" cy="304" rx="50" ry="34" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="1"/>
+    <circle cx="190" cy="276" r="18" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M206,276 L218,280 L206,284" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <circle cx="195" cy="272" r="2.2" fill="#1F1B17"/>
+    <path d="M118,320 L134,304 L126,332" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+    <path d="M112,336 L112,352 M170,336 L170,352" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M110,350 L122,350 M160,350 L172,350" stroke="#7C6D5C" stroke-width="0.6"/>
+    <g fill="#7C6D5C" opacity="0.55">
+      <circle cx="132" cy="294" r="2"/><circle cx="148" cy="286" r="2"/><circle cx="166" cy="296" r="2"/>
+      <circle cx="140" cy="310" r="2"/><circle cx="158" cy="316" r="2"/><circle cx="126" cy="306" r="2"/>
+    </g>
+  </g>
+  <g>
+    <ellipse cx="270" cy="314" rx="44" ry="30" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="1"/>
+    <circle cx="304" cy="290" r="16" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M318,290 L328,294 L318,298" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <circle cx="308" cy="286" r="2" fill="#1F1B17"/>
+    <path d="M244,326 L258,312 L252,338" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+    <path d="M240,340 L240,356 M286,340 L286,356" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M238,354 L250,354 M278,354 L290,354" stroke="#7C6D5C" stroke-width="0.6"/>
+    <g fill="#7C6D5C" opacity="0.55">
+      <circle cx="254" cy="306" r="2"/><circle cx="268" cy="300" r="2"/><circle cx="284" cy="308" r="2"/>
+      <circle cx="260" cy="320" r="2"/><circle cx="276" cy="326" r="2"/>
+    </g>
+  </g>
+  <g stroke="#994433" stroke-width="0.6" fill="none">
+    <path d="M96,270 Q86,258 92,246 M104,264 Q98,250 108,240"/>
+    <path d="M330,280 Q340,268 334,256 M322,274 Q328,260 318,250"/>
+  </g>
+  <text x="190" y="394" text-anchor="middle" font-size="7.2" fill="#994433">鹑 · 鹌鹑</text>
+  <text x="190" y="412" text-anchor="middle" font-size="6.2" fill="#7C6D5C">头细尾短，羽有斑点；居有常匹</text>
+
+  <!-- 喜鹊一对 -->
+  <path d="M410,336 Q520,320 700,330" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M430,326 L410,310 M500,324 L488,306 M610,322 L630,304" stroke="#7C6D5C" stroke-width="0.6" fill="none"/>
+  <g>
+    <ellipse cx="500" cy="286" rx="42" ry="26" fill="#1F1B17" stroke="#1F1B17" stroke-width="1"/>
+    <circle cx="536" cy="266" r="16" fill="#1F1B17" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M550,266 L562,270 L550,274" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <circle cx="541" cy="262" r="2" fill="#F7F4EE"/>
+    <ellipse cx="500" cy="294" rx="26" ry="12" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.5"/>
+    <path d="M468,300 L434,330 L450,332 L478,306 Z" fill="#1F1B17" stroke="#1F1B17" stroke-width="0.8"/>
+    <path d="M474,302 L454,326" stroke="#F7F4EE" stroke-width="0.6"/>
+    <path d="M490,310 L490,330 M510,310 L510,330" stroke="#7C6D5C" stroke-width="0.6"/>
+    <path d="M486,330 L498,330 M504,330 L516,330" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g>
+    <ellipse cx="610" cy="278" rx="38" ry="24" fill="#1F1B17" stroke="#1F1B17" stroke-width="1"/>
+    <circle cx="642" cy="260" r="14" fill="#1F1B17" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M654,260 L666,264 L654,268" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <circle cx="647" cy="256" r="1.8" fill="#F7F4EE"/>
+    <ellipse cx="610" cy="286" rx="22" ry="10" fill="#F7F4EE" stroke="#F7F4EE" stroke-width="0.5"/>
+    <path d="M582,292 L552,318 L568,322 L592,298 Z" fill="#1F1B17" stroke="#1F1B17" stroke-width="0.8"/>
+    <path d="M588,294 L570,316" stroke="#F7F4EE" stroke-width="0.5"/>
+    <path d="M602,302 L602,322 M622,302 L622,322" stroke="#7C6D5C" stroke-width="0.6"/>
+    <path d="M598,322 L610,322 M616,322 L628,322" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <g stroke="#994433" stroke-width="0.6" fill="none">
+    <path d="M546,232 Q556,220 550,208 M538,226 Q544,212 534,202"/>
+    <path d="M664,236 Q674,224 668,212 M656,230 Q662,216 652,206"/>
+  </g>
+  <text x="570" y="394" text-anchor="middle" font-size="7.2" fill="#994433">鹊 · 喜鹊</text>
+  <text x="570" y="412" text-anchor="middle" font-size="6.2" fill="#7C6D5C">黑白长尾，飞则相随；居有常匹</text>
+
+  <line x1="44" y1="430" x2="716" y2="430" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="462" text-anchor="middle" font-size="18" letter-spacing="2.4" fill="#1F1B17">鹑之奔奔，鹊之彊彊</text>
+  <text x="380" y="482" text-anchor="middle" font-size="7.8" letter-spacing="1" fill="#7C6D5C">鸟有常匹；人却非匹耦而从</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">鹑、鹊：皆常匹之鸟</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj049a</text>
+</svg>

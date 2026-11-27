@@ -1,7 +1,7 @@
 {
- "version": "0.3.49",
+ "version": "0.3.50",
  "total": 305,
- "count": 48,
+ "count": 49,
  "chapters": [
   {
    "no": 1,
@@ -242,6 +242,11 @@
    "no": 48,
    "key": "sj048",
    "title": "桑中"
+  },
+  {
+   "no": 49,
+   "key": "sj049",
+   "title": "鹑之奔奔"
   }
  ]
 }
