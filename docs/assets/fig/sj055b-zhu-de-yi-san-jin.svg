@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 一</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">竹三进，德三进，仪三进</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十五</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第一篇　淇奥</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- top banner -->
+  <rect x="184" y="112" width="392" height="38" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="137" text-anchor="middle" font-size="14" letter-spacing="1.2" fill="#994433">有匪君子，终不可谖兮</text>
+
+  <!-- column headers -->
+  <text x="150" y="178" text-anchor="middle" font-size="10" letter-spacing="2" fill="#994433" font-weight="700">竹</text>
+  <text x="380" y="178" text-anchor="middle" font-size="10" letter-spacing="2" fill="#994433" font-weight="700">德</text>
+  <text x="610" y="178" text-anchor="middle" font-size="10" letter-spacing="2" fill="#994433" font-weight="700">仪</text>
+
+  <!-- row 3 top: ru ze / jin xi gui bi / xi xue bu nue -->
+  <rect x="62" y="196" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="150" y="219" text-anchor="middle" font-size="9.2" fill="#1F1B17">如箦</text>
+  <text x="150" y="236" text-anchor="middle" font-size="6.2" fill="#7C6D5C">密比积聚，盛之至</text>
+  <rect x="292" y="196" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="219" text-anchor="middle" font-size="9.2" fill="#1F1B17">如金如锡，如圭如璧</text>
+  <text x="380" y="236" text-anchor="middle" font-size="6.2" fill="#7C6D5C">精纯温润，德之成</text>
+  <rect x="522" y="196" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="610" y="219" text-anchor="middle" font-size="9.2" fill="#1F1B17">善戏谑兮，不为虐兮</text>
+  <text x="610" y="236" text-anchor="middle" font-size="6.2" fill="#7C6D5C">宽绰而乐易，有节</text>
+
+  <!-- row 2: qing qing / chong er hui bian / kuan chuo -->
+  <rect x="62" y="286" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="150" y="309" text-anchor="middle" font-size="9.2" fill="#1F1B17">青青</text>
+  <text x="150" y="326" text-anchor="middle" font-size="6.2" fill="#7C6D5C">坚刚茂盛，竹之壮</text>
+  <rect x="292" y="286" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="309" text-anchor="middle" font-size="9.2" fill="#1F1B17">充耳琇莹，会弁如星</text>
+  <text x="380" y="326" text-anchor="middle" font-size="6.2" fill="#7C6D5C">德称其服，仪之严</text>
+  <rect x="522" y="286" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="610" y="309" text-anchor="middle" font-size="9.2" fill="#1F1B17">宽兮绰兮，猗重较兮</text>
+  <text x="610" y="326" text-anchor="middle" font-size="6.2" fill="#7C6D5C">宽宏开大，仪之舒</text>
+
+  <!-- row 1 bottom: yi yi / qie cuo zhuo mo / se xian he xuan -->
+  <rect x="62" y="376" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="150" y="399" text-anchor="middle" font-size="9.2" fill="#1F1B17">猗猗</text>
+  <text x="150" y="416" text-anchor="middle" font-size="6.2" fill="#7C6D5C">始生柔弱，竹之初</text>
+  <rect x="292" y="376" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="399" text-anchor="middle" font-size="9.2" fill="#1F1B17">如切如磋，如琢如磨</text>
+  <text x="380" y="416" text-anchor="middle" font-size="6.2" fill="#7C6D5C">道学自修，德之始</text>
+  <rect x="522" y="376" width="176" height="58" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="610" y="399" text-anchor="middle" font-size="9.2" fill="#1F1B17">瑟兮僩兮，赫兮咺兮</text>
+  <text x="610" y="416" text-anchor="middle" font-size="6.2" fill="#7C6D5C">庄敬宣著，仪之敬</text>
+
+  <!-- upward arrows between rows -->
+  <g stroke="#994433" stroke-width="1.1" fill="none">
+    <line x1="150" y1="370" x2="150" y2="338"/><path d="M150,338 L145,346 M150,338 L155,346"/>
+    <line x1="380" y1="370" x2="380" y2="338"/><path d="M380,338 L375,346 M380,338 L385,346"/>
+    <line x1="610" y1="370" x2="610" y2="338"/><path d="M610,338 L605,346 M610,338 L615,346"/>
+    <line x1="150" y1="280" x2="150" y2="254"/><path d="M150,254 L145,262 M150,254 L155,262"/>
+    <line x1="380" y1="280" x2="380" y2="254"/><path d="M380,254 L375,262 M380,254 L385,262"/>
+    <line x1="610" y1="280" x2="610" y2="254"/><path d="M610,254 L605,262 M610,254 L615,262"/>
+  </g>
+
+  <!-- left-side stage labels -->
+  <text x="54" y="410" transform="rotate(-90 54 410)" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#994433">一</text>
+  <text x="54" y="320" transform="rotate(-90 54 320)" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#994433">二</text>
+  <text x="54" y="230" transform="rotate(-90 54 230)" text-anchor="middle" font-size="6.6" letter-spacing="1" fill="#994433">三</text>
+
+  <line x1="44" y1="452" x2="716" y2="452" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="476" text-anchor="middle" font-size="8.4" letter-spacing="0.6" fill="#7C6D5C">竹不是三种竹，是同一人在三段的写照；德不是三种德，是自修的三层</text>
+  <text x="380" y="494" text-anchor="middle" font-size="7.2" letter-spacing="0.6" fill="#994433">始生 → 坚刚 → 密积｜自修 → 称服 → 成德｜庄敬 → 宽绰 → 有节</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">淇奥 · 三章章九句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj055b</text>
+</svg>

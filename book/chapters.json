@@ -1,7 +1,7 @@
 {
- "version": "0.3.55",
+ "version": "0.3.56",
  "total": 305,
- "count": 54,
+ "count": 55,
  "chapters": [
   {
    "no": 1,
@@ -272,6 +272,11 @@
    "no": 54,
    "key": "sj054",
    "title": "载驰"
+  },
+  {
+   "no": 55,
+   "key": "sj055",
+   "title": "淇奥"
   }
  ]
 }
