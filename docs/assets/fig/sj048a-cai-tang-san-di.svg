@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 四</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="8" fill="#1F1B17" font-weight="700">桑 中</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十八</text>
+  <text x="380" y="80" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">采唐 · 采麦 · 采葑　｜　桑中 · 上宫 · 淇上</text>
+  <line x1="44" y1="98" x2="716" y2="98" stroke="#9A9186" stroke-width="0.8"/>
+
+  <text x="148" y="128" text-anchor="middle" font-size="7.8" fill="#994433">壹　采唐</text>
+  <text x="380" y="128" text-anchor="middle" font-size="7.8" fill="#994433">贰　采麦</text>
+  <text x="612" y="128" text-anchor="middle" font-size="7.8" fill="#994433">叁　采葑</text>
+  <line x1="252" y1="114" x2="252" y2="344" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="492" y1="114" x2="492" y2="344" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- 唐：菟丝子缠枝 -->
+  <path d="M148,300 L148,170 M148,230 L126,210 M148,250 L170,228 M148,278 L126,260" fill="none" stroke="#7C6D5C" stroke-width="1.0"/>
+  <g fill="none" stroke="#994433" stroke-width="0.8">
+    <path d="M118,296 C130,270 166,280 150,250 C136,224 174,218 158,192 C148,176 160,164 168,160"/>
+    <path d="M176,296 C166,272 132,276 146,250 C160,226 124,216 140,190 C150,174 138,162 130,158"/>
+    <path d="M132,284 C148,270 158,262 172,250 C184,240 170,228 160,220 C150,212 162,200 174,196"/>
+  </g>
+  <g fill="#994433" opacity="0.8">
+    <circle cx="121" cy="288" r="2.2"/><circle cx="165" cy="268" r="2.2"/><circle cx="145" cy="238" r="2.2"/>
+    <circle cx="171" cy="220" r="2.2"/><circle cx="153" cy="190" r="2.2"/><circle cx="136" cy="166" r="2.2"/>
+  </g>
+  <g fill="none" stroke="#994433" stroke-width="0.5">
+    <circle cx="121" cy="288" r="4"/><circle cx="165" cy="268" r="4"/><circle cx="145" cy="238" r="4"/>
+    <circle cx="171" cy="220" r="4"/><circle cx="153" cy="190" r="4"/><circle cx="136" cy="166" r="4"/>
+  </g>
+  <text x="148" y="326" text-anchor="middle" font-size="7.2" fill="#994433">唐 · 菟丝子</text>
+  <text x="148" y="341" text-anchor="middle" font-size="6.2" fill="#7C6D5C">蔓生寄生，采以起兴</text>
+
+  <!-- 麦：麦穗 -->
+  <g stroke="#7C6D5C" stroke-width="1.0" fill="none">
+    <path d="M352,300 L352,172 M380,300 L380,160 M408,300 L408,176"/>
+  </g>
+  <g fill="#994433" opacity="0.85">
+    <ellipse cx="344" cy="190" rx="4" ry="7" transform="rotate(-24 344 190)"/>
+    <ellipse cx="352" cy="202" rx="4" ry="7"/>
+    <ellipse cx="360" cy="190" rx="4" ry="7" transform="rotate(24 360 190)"/>
+    <ellipse cx="344" cy="216" rx="4" ry="7" transform="rotate(-24 344 216)"/>
+    <ellipse cx="352" cy="228" rx="4" ry="7"/>
+    <ellipse cx="360" cy="216" rx="4" ry="7" transform="rotate(24 360 216)"/>
+    <ellipse cx="372" cy="178" rx="4" ry="7" transform="rotate(-24 372 178)"/>
+    <ellipse cx="380" cy="190" rx="4" ry="7"/>
+    <ellipse cx="388" cy="178" rx="4" ry="7" transform="rotate(24 388 178)"/>
+    <ellipse cx="372" cy="204" rx="4" ry="7" transform="rotate(-24 372 204)"/>
+    <ellipse cx="380" cy="216" rx="4" ry="7"/>
+    <ellipse cx="388" cy="204" rx="4" ry="7" transform="rotate(24 388 204)"/>
+    <ellipse cx="400" cy="190" rx="4" ry="7" transform="rotate(-24 400 190)"/>
+    <ellipse cx="408" cy="202" rx="4" ry="7"/>
+    <ellipse cx="416" cy="190" rx="4" ry="7" transform="rotate(24 416 190)"/>
+  </g>
+  <g stroke="#994433" stroke-width="0.5" fill="none">
+    <path d="M344,183 L332,166 M360,183 L372,166 M372,171 L362,156 M388,171 L398,156 M400,183 L412,166"/>
+  </g>
+  <text x="380" y="326" text-anchor="middle" font-size="7.2" fill="#994433">麦</text>
+  <text x="380" y="341" text-anchor="middle" font-size="6.2" fill="#7C6D5C">麦穗，采以起兴</text>
+
+  <!-- 葑：蔓菁 -->
+  <path d="M612,300 C590,276 590,246 612,230 C634,246 634,276 612,300 Z" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="1.0"/>
+  <path d="M612,300 L612,330" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M612,296 C596,310 590,324 586,336 M612,296 C628,310 634,324 638,336" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+  <g fill="#7C6D5C" opacity="0.8">
+    <path d="M612,230 C600,196 576,184 568,158 C594,166 606,186 612,206 Z"/>
+    <path d="M612,230 C612,190 612,166 612,140 C624,164 624,196 618,216 Z"/>
+    <path d="M612,230 C624,196 648,184 656,158 C630,166 618,186 612,206 Z"/>
+    <path d="M612,238 C596,214 578,206 566,196 C584,194 600,204 612,218 Z"/>
+    <path d="M612,238 C628,214 646,206 658,196 C640,194 624,204 612,218 Z"/>
+  </g>
+  <g stroke="#994433" stroke-width="0.5" fill="none">
+    <path d="M612,230 L612,176 M612,212 L584,184 M612,212 L640,184"/>
+  </g>
+  <text x="612" y="326" text-anchor="middle" font-size="7.2" fill="#994433">葑 · 蔓菁</text>
+  <text x="612" y="341" text-anchor="middle" font-size="6.2" fill="#7C6D5C">根叶可食，采以起兴</text>
+
+  <line x1="44" y1="356" x2="716" y2="356" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- 三地：桑中、上宫、淇上 -->
+  <g>
+    <path d="M148,430 L148,390 M148,404 L128,388 M148,410 L168,392" stroke="#7C6D5C" stroke-width="1.0" fill="none"/>
+    <g fill="#7C6D5C" opacity="0.7">
+      <ellipse cx="120" cy="382" rx="10" ry="6"/><ellipse cx="136" cy="374" rx="9" ry="6"/>
+      <ellipse cx="154" cy="374" rx="9" ry="6"/><ellipse cx="170" cy="382" rx="10" ry="6"/>
+      <ellipse cx="132" cy="394" rx="8" ry="5"/><ellipse cx="162" cy="394" rx="8" ry="5"/>
+    </g>
+    <text x="148" y="450" text-anchor="middle" font-size="7.2" fill="#994433">桑中 · 桑林</text>
+  </g>
+  <g>
+    <path d="M360,430 L360,388 M400,430 L400,388 M348,388 L412,388" stroke="#7C6D5C" stroke-width="1.0" fill="none"/>
+    <path d="M338,388 L380,366 L422,388 Z" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M380,366 L380,350" stroke="#994433" stroke-width="0.7"/>
+    <path d="M368,430 L368,400 L392,400 L392,430" fill="none" stroke="#994433" stroke-width="0.6"/>
+    <text x="380" y="450" text-anchor="middle" font-size="7.2" fill="#994433">上宫 · 楼 / 台</text>
+  </g>
+  <g>
+    <g fill="none" stroke="#7C6D5C" stroke-width="0.9">
+      <path d="M558,404 Q572,394 586,404 T614,404 T642,404"/>
+      <path d="M552,420 Q566,410 580,420 T608,420 T636,420"/>
+      <path d="M560,436 Q574,426 588,436 T616,436 T644,436"/>
+    </g>
+    <text x="612" y="450" text-anchor="middle" font-size="7.2" fill="#994433">淇上 · 水边</text>
+  </g>
+
+  <text x="380" y="478" text-anchor="middle" font-size="15" letter-spacing="2.5" fill="#1F1B17">期我乎桑中，要我乎上宫，送我乎淇之上矣</text>
+  <text x="380" y="498" text-anchor="middle" font-size="7.6" letter-spacing="1" fill="#7C6D5C">采物三章，约会三地；三章只换物、换方、换姓</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">唐、麦、葑：皆起兴之物</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj048a</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-size="22" letter-spacing="4" fill="#1F1B17" font-weight="700">变物，不变约</text>
+  <text x="380" y="74" text-anchor="middle" font-size="9.2" letter-spacing="2" fill="#5C544A">《诗经》鄘风 · 第四篇　桑中</text>
+  <defs><marker id="ar048" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+
+  <!-- 五步 -->
+  <g>
+    <rect x="52" y="190" width="110" height="94" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+    <text x="107" y="222" text-anchor="middle" font-size="22" fill="#994433" font-weight="700">采</text>
+    <text x="107" y="242" text-anchor="middle" font-size="8" fill="#1F1B17">唐 / 麦 / 葑</text>
+    <text x="107" y="268" text-anchor="middle" font-size="6.6" fill="#9A9186">起兴</text>
+  </g>
+  <line x1="164" y1="237" x2="178" y2="237" stroke="#994433" stroke-width="1" marker-end="url(#ar048)"/>
+
+  <g>
+    <rect x="182" y="190" width="110" height="94" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+    <text x="237" y="222" text-anchor="middle" font-size="22" fill="#994433" font-weight="700">思</text>
+    <text x="237" y="242" text-anchor="middle" font-size="7.2" fill="#1F1B17">孟姜 / 孟弋 / 孟庸</text>
+    <text x="237" y="268" text-anchor="middle" font-size="6.6" fill="#9A9186">所思</text>
+  </g>
+  <line x1="294" y1="237" x2="308" y2="237" stroke="#994433" stroke-width="1" marker-end="url(#ar048)"/>
+
+  <g>
+    <rect x="312" y="190" width="110" height="94" fill="#F2E7D5" stroke="#994433" stroke-width="1.1"/>
+    <text x="367" y="222" text-anchor="middle" font-size="22" fill="#994433" font-weight="700">期</text>
+    <text x="367" y="242" text-anchor="middle" font-size="10" fill="#1F1B17">桑中</text>
+    <text x="367" y="268" text-anchor="middle" font-size="6.6" fill="#9A9186">约会之地</text>
+  </g>
+  <line x1="424" y1="237" x2="438" y2="237" stroke="#994433" stroke-width="1" marker-end="url(#ar048)"/>
+
+  <g>
+    <rect x="442" y="190" width="110" height="94" fill="#F2E7D5" stroke="#994433" stroke-width="1.1"/>
+    <text x="497" y="222" text-anchor="middle" font-size="22" fill="#994433" font-weight="700">要</text>
+    <text x="497" y="242" text-anchor="middle" font-size="10" fill="#1F1B17">上宫</text>
+    <text x="497" y="268" text-anchor="middle" font-size="6.6" fill="#9A9186">邀约之地</text>
+  </g>
+  <line x1="554" y1="237" x2="568" y2="237" stroke="#994433" stroke-width="1" marker-end="url(#ar048)"/>
+
+  <g>
+    <rect x="572" y="190" width="110" height="94" fill="#F2E7D5" stroke="#994433" stroke-width="1.1"/>
+    <text x="627" y="222" text-anchor="middle" font-size="22" fill="#994433" font-weight="700">送</text>
+    <text x="627" y="242" text-anchor="middle" font-size="10" fill="#1F1B17">淇上</text>
+    <text x="627" y="268" text-anchor="middle" font-size="6.6" fill="#9A9186">送别之地</text>
+  </g>
+
+  <!-- 复沓回路 -->
+  <path d="M627,296 C627,330 560,338 500,330 L140,330 C80,330 107,300 107,296" fill="none" stroke="#994433" stroke-width="0.8" stroke-dasharray="4 3" marker-end="url(#ar048)"/>
+  <text x="380" y="322" text-anchor="middle" font-size="7.4" fill="#994433">三章复沓：同一段约会，唱三遍</text>
+
+  <!-- 变与不变 -->
+  <rect x="80" y="356" width="600" height="56" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <line x1="380" y1="356" x2="380" y2="412" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="230" y="378" text-anchor="middle" font-size="8" fill="#994433">变</text>
+  <text x="230" y="397" text-anchor="middle" font-size="9.2" fill="#1F1B17">采物 · 方位 · 姓</text>
+  <text x="530" y="378" text-anchor="middle" font-size="8" fill="#994433">不变</text>
+  <text x="530" y="397" text-anchor="middle" font-size="9.2" fill="#1F1B17">期 · 要 · 送</text>
+
+  <text x="380" y="438" text-anchor="middle" font-size="7.4" fill="#9A9186">毛序：刺奔　｜　朱子：此人自言</text>
+  <text x="380" y="458" text-anchor="middle" font-size="7.4" fill="#9A9186">刺不在诗里，在听诗的人心里</text>
+  <text x="380" y="484" text-anchor="middle" font-size="11" letter-spacing="1.4" fill="#1F1B17">期我乎桑中，要我乎上宫，送我乎淇之上矣</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">三章章七句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 变物不变约 · sj048b</text>
+</svg>

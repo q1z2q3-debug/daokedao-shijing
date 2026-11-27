@@ -1,7 +1,7 @@
 {
- "version": "0.3.48",
+ "version": "0.3.49",
  "total": 305,
- "count": 47,
+ "count": 48,
  "chapters": [
   {
    "no": 1,
@@ -237,6 +237,11 @@
    "no": 47,
    "key": "sj047",
    "title": "君子偕老"
+  },
+  {
+   "no": 48,
+   "key": "sj048",
+   "title": "桑中"
   }
  ]
 }
