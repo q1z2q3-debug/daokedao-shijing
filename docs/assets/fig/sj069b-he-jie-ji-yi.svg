@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">何嗟及矣</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·中谷有蓷》　草枯三态，悲叹三级</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ069b</text>
+
+  <rect x="40" y="100" width="680" height="380" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- top order -->
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.8" fill="#994433">诗序：乾 → 脩 → 湿　从结局写回起因</text>
+  <line x1="210" y1="136" x2="560" y2="136" stroke="#DCD5C8" stroke-width="0.8"/>
+  <path d="M560 136 L552 132 L552 140 Z" fill="#994433"/>
+
+  <!-- card 1 -->
+  <rect x="64" y="152" width="194" height="140" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="161" y="172" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">一章</text>
+  <text x="161" y="202" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13" fill="#994433">乾</text>
+  <text x="161" y="228" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#1F1B17">嘅其叹</text>
+  <text x="161" y="252" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">遇人之艰难</text>
+  <text x="161" y="276" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#9A9186">叹</text>
+
+  <!-- card 2 -->
+  <rect x="283" y="152" width="194" height="140" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="380" y="172" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">二章</text>
+  <text x="380" y="202" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13" fill="#994433">脩</text>
+  <text x="380" y="228" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#1F1B17">条其歗</text>
+  <text x="380" y="252" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">遇人之不淑</text>
+  <text x="380" y="276" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#9A9186">歗</text>
+
+  <!-- card 3 -->
+  <rect x="502" y="152" width="194" height="140" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="599" y="172" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">三章</text>
+  <text x="599" y="202" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13" fill="#994433">湿</text>
+  <text x="599" y="228" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#1F1B17">啜其泣</text>
+  <text x="599" y="252" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">何嗟及矣</text>
+  <text x="599" y="276" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#9A9186">泣</text>
+
+  <!-- actual order arrow right to left -->
+  <line x1="560" y1="330" x2="210" y2="330" stroke="#994433" stroke-width="0.9" opacity="0.8"/>
+  <path d="M210 330 L218 326 L218 334 Z" fill="#994433" opacity="0.8"/>
+  <text x="380" y="350" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#7C6D5C">实际：湿 → 脩 → 乾　倒本其初</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="372" x2="720" y2="372" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="394" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#1F1B17">草枯三态，悲叹三级</text>
+  <text x="380" y="416" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">草越枯，人越沉；从叹到歗，从歗到泣</text>
+  <rect x="222" y="430" width="316" height="34" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="452" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.8" fill="#994433" letter-spacing="0.8">事已至此，末如之何</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 何嗟及矣 · sj069b</text>
+</svg>

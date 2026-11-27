@@ -1,7 +1,7 @@
 {
- "version": "0.3.69",
+ "version": "0.3.70",
  "total": 305,
- "count": 68,
+ "count": 69,
  "chapters": [
   {
    "no": 1,
@@ -342,6 +342,11 @@
    "no": 68,
    "key": "sj068",
    "title": "扬之水"
+  },
+  {
+   "no": 69,
+   "key": "sj069",
+   "title": "中谷有蓷"
   }
  ]
 }

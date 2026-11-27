@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">中谷有蓷</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·中谷有蓷》　草在谷中枯，人在凶年弃</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ069a</text>
+
+  <rect x="40" y="100" width="680" height="260" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#994433" letter-spacing="1">草在谷中枯，人在凶年弃</text>
+
+  <!-- valley slopes -->
+  <path d="M52 316 Q120 250 190 200 L230 316" fill="none" stroke="#7C6D5C" stroke-width="0.9" opacity="0.8"/>
+  <path d="M708 316 Q640 250 570 200 L530 316" fill="none" stroke="#7C6D5C" stroke-width="0.9" opacity="0.8"/>
+  <text x="70" y="150" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">中谷</text>
+
+  <!-- sun / drought -->
+  <circle cx="640" cy="170" r="18" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <path d="M640 146 L640 136 M640 194 L640 204 M616 170 L606 170 M664 170 L674 170 M623 153 L616 146 M657 187 L664 194 M657 153 L664 146 M623 187 L616 194" stroke="#994433" stroke-width="0.8"/>
+  <text x="640" y="204" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.8" fill="#994433">凶年</text>
+
+  <!-- ground -->
+  <path d="M52 316 Q200 304 380 316 Q560 328 708 316" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <path d="M80 330 L140 330 M260 334 L320 334 M500 330 L560 330" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- plant 1 dry -->
+  <g>
+    <path d="M118 310 L122 260 M122 282 L110 272 M122 276 L134 264" stroke="#7C6D5C" stroke-width="1.6"/>
+    <path d="M114 292 Q122 296 130 292 M112 278 Q122 282 132 278 M116 264 Q122 268 128 264" stroke="#994433" stroke-width="0.8"/>
+    <path d="M118 258 L110 250 M122 258 L130 248" stroke="#994433" stroke-width="0.8"/>
+    <text x="122" y="330" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6" fill="#994433">乾</text>
+    <text x="122" y="344" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.2" fill="#7C6D5C">嘅叹</text>
+  </g>
+
+  <!-- plant 2 half dry -->
+  <g>
+    <path d="M218 310 L222 250 M222 276 L208 262 M222 270 L236 256 M222 258 L212 244 M222 256 L232 242" stroke="#7C6D5C" stroke-width="1.8"/>
+    <path d="M214 286 Q222 290 230 286 M210 268 Q222 272 234 268 M214 250 Q222 254 230 250" stroke="#994433" stroke-width="0.8"/>
+    <path d="M222 246 Q214 236 206 234 M222 244 Q230 234 238 232" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+    <circle cx="206" cy="234" r="2" fill="#7C6D5C"/>
+    <circle cx="238" cy="232" r="2" fill="#7C6D5C"/>
+    <text x="222" y="330" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6" fill="#994433">脩</text>
+    <text x="222" y="344" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.2" fill="#7C6D5C">条歗</text>
+  </g>
+
+  <!-- plant 3 wet/green -->
+  <g>
+    <path d="M318 310 L322 246 M322 276 L306 260 M322 272 L338 254 M322 258 L308 242 M322 254 L336 240" stroke="#7C6D5C" stroke-width="1.8"/>
+    <path d="M314 286 Q322 290 330 286 M310 266 Q322 270 334 266 M314 248 Q322 252 330 248" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M322 242 Q312 230 304 228 M322 240 Q332 228 340 226" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+    <circle cx="304" cy="228" r="2.2" fill="#7C6D5C"/>
+    <circle cx="340" cy="226" r="2.2" fill="#7C6D5C"/>
+    <text x="322" y="330" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6" fill="#7C6D5C">湿</text>
+    <text x="322" y="344" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.2" fill="#7C6D5C">啜泣</text>
+  </g>
+
+  <!-- woman leaving -->
+  <g>
+    <circle cx="488" cy="196" r="8" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M480 196 Q478 189 484 186 Q488 184 491 186 Q497 189 495 196" fill="#1F1B17" opacity="0.5"/>
+    <path d="M488 205 Q476 222 474 264 L504 264 Q502 222 496 205 Z" fill="#7C6D5C"/>
+    <path d="M481 214 L466 236" stroke="#7C6D5C" stroke-width="2.2"/>
+    <path d="M495 214 L508 236" stroke="#7C6D5C" stroke-width="2.2"/>
+    <path d="M480 264 L478 300 M496 264 L498 300" stroke="#1F1B17" stroke-width="1.2"/>
+    <!-- bundle on back -->
+    <rect x="500" y="220" width="20" height="16" fill="none" stroke="#994433" stroke-width="0.9"/>
+    <path d="M500 228 Q510 234 520 228" stroke="#994433" stroke-width="0.7"/>
+  </g>
+  <text x="488" y="318" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">有女仳离</text>
+  <text x="488" y="334" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#7C6D5C">嘅其叹 · 条其歗 · 啜其泣</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="372" x2="720" y2="372" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="396" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9" fill="#1F1B17">中谷有蓷，暵其乾矣。有女仳离，嘅其叹矣。</text>
+  <text x="380" y="420" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9" fill="#1F1B17">嘅其叹矣，遇人之艰难矣！</text>
+  <text x="380" y="446" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">三章：乾/脩/湿；叹/歗/泣；艰难/不淑/何嗟及</text>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">何嗟及矣：事已至此，无法挽回</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 中谷有蓷 · sj069a</text>
+</svg>
