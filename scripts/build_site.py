@@ -44,7 +44,7 @@ AUDIO_BLOCK = """<div class="audio">
 <div class="alab">朗读　·　普通话</div>
 <audio controls preload="metadata" src="../audio/{key}/lang-du.mp3"></audio>
 {alt}
-<div class="anote">依经文正文朗读，句读从文；不配乐、不改速、不加拖腔。全库同一音色（豆包 TTS），非播音员录制。</div>
+<div class="anote">依经文原文朗读，章次不读出；配古琴底乐，不改速、不加拖腔。全库同一音色（豆包 TTS），非播音员录制。</div>
 </div>
 """
 
