@@ -16,36 +16,26 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'scripts'))
 import svgbrush as B  # noqa: E402
 import figure_db as F  # noqa: E402
+from ink_skeleton import skeleton_paths  # noqa: E402
 
 W, H = 760, 540
 PAPER, CIN, GOLD, LIGHT = '#F5F1E8', '#A63D2F', '#B79A63', '#6B6259'
 REF = os.path.join(ROOT, 'assets', 'ref', 'ref-zhou.png')
 
 
-# ---------------- 一 舟：印拓取形 ----------------
-def zhou_ink(box_x, box_y, box_w, box_h):
-    img = cv2.imread(REF, cv2.IMREAD_GRAYSCALE)
-    h, w = img.shape
-    cy, cx = int(h * 0.075), int(w * 0.075)
-    img = img[cy:h - cy, cx:w - cx]
-    m = (img < 70).astype(np.uint8) * 255
-    m = cv2.morphologyEx(m, cv2.MORPH_OPEN, np.ones((2, 2), np.uint8))
-    cnts, _ = cv2.findContours(m, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_SIMPLE)
-    polys = [c for c in cnts if cv2.contourArea(c) >= 16]
-    allp = np.vstack(polys).reshape(-1, 2)
-    x0, y0 = allp.min(0)
-    x1, y1 = allp.max(0)
-    pw, ph = x1 - x0, y1 - y0
-    s = min(box_w / pw, box_h / ph)
-    ox = box_x - (x0 + pw / 2) * s + (box_w / 2) - box_w / 2
-    oy = box_y - (y0 + ph / 2) * s + (box_h / 2) - box_h / 2
-    segs = []
-    for c in polys:
-        ap = cv2.approxPolyDP(c, 1.4, True).reshape(-1, 2)
-        if len(ap) < 3:
+# ---------------- 一 舟：底本取骨 ----------------
+def zhou_bone(cx, cy, h=250, min_len=16):
+    """不画墨块，只取底本的骨：墨形骨架化后的中线，按同一线重描出。
+    得意忘形——要的是腰身收束、双舷有厚、四梁跨舷的那个「意」。"""
+    segs, size = skeleton_paths(REF)
+    sc = h / size[1]
+    out = []
+    for seg in segs:
+        if sum(math.dist(seg[k], seg[k + 1]) for k in range(len(seg) - 1)) < min_len:
             continue
-        segs.append('M' + ' L'.join('%.1f,%.1f' % (ox + px * s, oy + py * s) for px, py in ap) + ' Z')
-    return ' '.join(segs)
+        pts = [(cx - size[0] * sc / 2 + x * sc, cy - h / 2 + y * sc) for x, y in seg]
+        out.append(B.stroke(pts, 0.73, 0.46, n=max(10, len(pts) * 3)))
+    return out
 
 
 # ---------------- 二 两髦：白描写生 ----------------
@@ -100,13 +90,15 @@ def main():
          '<rect width="760" height="540" fill="url(#fibre)" opacity="0.34"/>',
          '<rect width="760" height="540" fill="url(#lg)"/>']
 
-    # 一 舟（墨形）
-    d = zhou_ink(148, 272, 196, 300)
-    g.append('<g mask="url(#speck)" filter="url(#edge)" fill="#1C1917" fill-rule="evenodd" opacity="0.94">'
-             '<path d="%s"/></g>' % d)
+    # 一 舟（骨线）与舟下之波
+    g += zhou_bone(152, 256, h=208)
+    for i, (yy, hw, amp) in enumerate(((376, 58, 4), (390, 40, 3))):
+        pts = [(148 - hw + 2 * hw * k / 22,
+                yy + amp * math.sin(k / 22 * math.pi * 2.2 + i * 1.3)) for k in range(23)]
+        g.append(B.stroke(pts, 0.44 if i == 0 else 0.34, n=44, col=B.INK2))
 
     # 二 两髦 / 三 中河
-    g += liangmao(378, 246, 1.15)
+    g += liangmao(378, 244, 1.1)
     g += zhonghe(622, 262, 190)
 
     # 页眉
@@ -122,9 +114,9 @@ def main():
         g.append(B.text(x - 8, 130, name, 9.2, B.INK2, ls=3))
 
     # 注文三条
-    g.append(B.text(44, 466, '斜俯视取墨形；双舷有厚', 7.8, LIGHT, ls=1))
-    g.append(B.text(264, 466, '髧彼两髦：中分，两束垂至肩', 7.8, LIGHT, ls=1))
-    g.append(B.text(486, 466, '中河：舟所行处，波未起', 7.8, LIGHT, ls=1))
+    g.append(B.text(44, 466, '一叶柏舟，双舷有厚', 7.8, LIGHT, ls=1))
+    g.append(B.text(264, 466, '垂发少年，中分两束', 7.8, LIGHT, ls=1))
+    g.append(B.text(486, 466, '中河，舟所行处', 7.8, LIGHT, ls=1))
 
     # 引句
     g.append(B.text(380, 514, '汎彼柏舟，在彼中河', 16, B.INK, anchor='middle', ls=3))
