@@ -1,7 +1,7 @@
 {
- "version": "0.3.51",
+ "version": "0.3.52",
  "total": 305,
- "count": 50,
+ "count": 51,
  "chapters": [
   {
    "no": 1,
@@ -252,6 +252,11 @@
    "no": 50,
    "key": "sj050",
    "title": "定之方中"
+  },
+  {
+   "no": 51,
+   "key": "sj051",
+   "title": "蝃蝀"
   }
  ]
 }
