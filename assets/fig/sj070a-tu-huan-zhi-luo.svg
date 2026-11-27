@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">兔爰</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·兔爰》　兔缓于野，雉急在罗</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ070a</text>
+
+  <rect x="40" y="100" width="680" height="260" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#994433" letter-spacing="1">兔缓于野，雉急在罗；君子不乐其生</text>
+
+  <!-- ground -->
+  <path d="M52 312 Q200 302 380 312 Q560 322 708 312" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <path d="M80 322 L140 322 M240 326 L300 326 M620 324 L680 324" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="70" y="150" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">野</text>
+
+  <!-- rabbit free, left -->
+  <g>
+    <ellipse cx="150" cy="274" rx="24" ry="13" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+    <circle cx="171" cy="264" r="7" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M170 257 Q166 242 168 238 Q172 244 174 256" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M176 257 Q178 243 182 240 Q184 247 180 257" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+    <circle cx="174" cy="263" r="0.8" fill="#1F1B17"/>
+    <path d="M128 270 Q120 264 116 268" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M136 286 L132 300 M146 287 L144 300 M160 286 L162 300" stroke="#1F1B17" stroke-width="0.8"/>
+  </g>
+  <text x="150" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">兔爰爰（缓）</text>
+
+  <!-- net with pheasant, center -->
+  <g>
+    <path d="M296 232 L390 232 L382 304 L304 304 Z" fill="none" stroke="#994433" stroke-width="0.8" opacity="0.7"/>
+    <path d="M304 238 L382 238 M302 250 L384 250 M300 262 L386 262 M298 274 L384 274 M296 286 L382 286 M294 298 L380 298" stroke="#994433" stroke-width="0.4" opacity="0.45"/>
+    <path d="M310 232 L306 304 M326 232 L324 304 M342 232 L342 304 M358 232 L360 304 M374 232 L378 304" stroke="#994433" stroke-width="0.4" opacity="0.45"/>
+    <!-- pheasant -->
+    <ellipse cx="342" cy="272" rx="16" ry="9" fill="none" stroke="#1F1B17" stroke-width="1.1"/>
+    <circle cx="358" cy="262" r="6" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+    <path d="M362 257 Q366 252 370 254" stroke="#994433" stroke-width="0.8"/>
+    <circle cx="360" cy="261" r="0.8" fill="#1F1B17"/>
+    <path d="M326 272 Q304 266 286 278 M328 276 Q308 280 292 292" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M336 281 L332 298 M348 281 L350 298" stroke="#1F1B17" stroke-width="0.8"/>
+  </g>
+  <text x="342" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#994433">雉离于罗（急）</text>
+  <text x="342" y="224" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#7C6D5C">罗</text>
+
+  <!-- broken chariot / banner, right back -->
+  <g>
+    <path d="M566 300 L566 208" stroke="#7C6D5C" stroke-width="1.1"/>
+    <path d="M566 210 L600 220 L566 230" fill="#994433" opacity="0.45"/>
+    <circle cx="612" cy="284" r="16" fill="none" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M612 268 L612 300 M596 284 L628 284 M600 272 L624 296 M624 272 L600 296" stroke="#9A9186" stroke-width="0.5"/>
+    <path d="M568 272 L590 280" stroke="#7C6D5C" stroke-width="0.8"/>
+  </g>
+  <text x="606" y="196" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">王师伤败</text>
+  <text x="606" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#7C6D5C">繻葛</text>
+
+  <!-- gentleman seated, foreground -->
+  <g>
+    <circle cx="448" cy="236" r="8" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M440 236 Q438 229 444 226 Q448 224 451 226 Q457 229 455 236" fill="#1F1B17" opacity="0.5"/>
+    <path d="M448 245 Q436 262 434 300 L462 300 Q460 262 454 245 Z" fill="#7C6D5C"/>
+    <path d="M441 254 L426 274" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M455 254 L470 274" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M438 300 L438 312 M458 300 L458 312" stroke="#1F1B17" stroke-width="1.1"/>
+    <!-- closed eyes -->
+    <path d="M444 235 Q448 237 452 235" stroke="#1F1B17" stroke-width="0.7"/>
+  </g>
+  <text x="448" y="326" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.8" fill="#994433">君子不乐其生</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="372" x2="720" y2="372" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="394" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.8" fill="#1F1B17">有兔爰爰，雉离于罗。我生之初，尚无为；</text>
+  <text x="380" y="416" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.8" fill="#1F1B17">我生之后，逢此百罹。尚寐无吪！</text>
+  <text x="380" y="442" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">罗/罦/罿：网三变；为/造/庸：役三变；罹/忧/凶：祸三变</text>
+  <text x="380" y="466" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">尚寐无吪：但愿睡着，不再动</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 兔爰 · sj070a</text>
+</svg>

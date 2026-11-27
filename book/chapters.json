@@ -1,7 +1,7 @@
 {
- "version": "0.3.70",
+ "version": "0.3.71",
  "total": 305,
- "count": 69,
+ "count": 70,
  "chapters": [
   {
    "no": 1,
@@ -347,6 +347,11 @@
    "no": 69,
    "key": "sj069",
    "title": "中谷有蓷"
+  },
+  {
+   "no": 70,
+   "key": "sj070",
+   "title": "兔爰"
   }
  ]
 }

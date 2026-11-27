@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">尚寐无聪</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·兔爰》　网三变，人三退</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ070b</text>
+
+  <rect x="40" y="100" width="680" height="380" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- timeline -->
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.6" fill="#994433">我生之初 → 我生之后</text>
+  <line x1="180" y1="136" x2="580" y2="136" stroke="#DCD5C8" stroke-width="0.8"/>
+  <path d="M580 136 L572 132 L572 140 Z" fill="#994433"/>
+  <text x="180" y="158" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.5" fill="#7C6D5C">尚无为：无军役</text>
+  <text x="580" y="158" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.5" fill="#7C6D5C">逢百罹：军役多忧</text>
+
+  <!-- contrast -->
+  <rect x="64" y="176" width="300" height="30" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="214" y="195" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#7C6D5C">兔爰爰（缓）：无所拘制</text>
+  <rect x="396" y="176" width="300" height="30" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="546" y="195" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#994433">雉离于罗（急）：落网受祸</text>
+
+  <!-- three cards -->
+  <rect x="64" y="224" width="194" height="116" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="161" y="244" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">一章 · 罗</text>
+  <text x="161" y="274" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12" fill="#994433">无吪</text>
+  <text x="161" y="298" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7" fill="#1F1B17">不动</text>
+  <text x="161" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#7C6D5C">尚寐无吪</text>
+
+  <rect x="283" y="224" width="194" height="116" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="380" y="244" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">二章 · 罦</text>
+  <text x="380" y="274" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12" fill="#994433">无觉</text>
+  <text x="380" y="298" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7" fill="#1F1B17">不醒</text>
+  <text x="380" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#7C6D5C">尚寐无觉</text>
+
+  <rect x="502" y="224" width="194" height="116" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="599" y="244" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">三章 · 罿</text>
+  <text x="599" y="274" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12" fill="#994433">无聪</text>
+  <text x="599" y="298" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7" fill="#1F1B17">不听</text>
+  <text x="599" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#7C6D5C">尚寐无聪</text>
+
+  <!-- arrows between cards -->
+  <path d="M260 282 L280 282" stroke="#994433" stroke-width="0.8"/>
+  <path d="M280 282 L274 278 L274 286 Z" fill="#994433"/>
+  <path d="M479 282 L499 282" stroke="#994433" stroke-width="0.8"/>
+  <path d="M499 282 L493 278 L493 286 Z" fill="#994433"/>
+
+  <!-- bottom -->
+  <line x1="40" y1="356" x2="720" y2="356" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="380" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8" fill="#1F1B17">网愈收愈紧，人愈退愈闭</text>
+  <text x="380" y="402" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6" fill="#9A9186">毛传：政有缓急，用心不均　｜　朱子：兔狡得脱，雉耿介受罗</text>
+  <rect x="202" y="418" width="356" height="34" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="440" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.4" fill="#994433" letter-spacing="0.8">不乐其生：寐不欲觉</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 尚寐无聪 · sj070b</text>
+</svg>
