@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">苟无饥渴</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·君子于役》　从望归到求活</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ066b</text>
+
+  <rect x="40" y="100" width="680" height="360" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- top contrast -->
+  <rect x="64" y="116" width="292" height="52" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="80" y="134" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433">畜产有期</text>
+  <text x="80" y="152" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">鸡栖 · 日夕 · 羊牛下</text>
+
+  <rect x="404" y="116" width="292" height="52" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="680" y="134" text-anchor="end" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433">人行无期</text>
+  <text x="680" y="152" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">不知期 · 不日不月</text>
+
+  <!-- left card: chapter 1 -->
+  <rect x="64" y="186" width="292" height="128" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="210" y="208" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">一章 · 望归</text>
+  <text x="210" y="240" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12.2" fill="#1F1B17">不知其期</text>
+  <text x="210" y="268" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.2" fill="#994433">如之何勿思</text>
+  <text x="210" y="292" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">还问「曷至哉」</text>
+
+  <!-- right card: chapter 2 -->
+  <rect x="404" y="186" width="292" height="128" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="550" y="208" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">二章 · 求活</text>
+  <text x="550" y="240" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12.2" fill="#1F1B17">不日不月</text>
+  <text x="550" y="268" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.2" fill="#994433">苟无饥渴</text>
+  <text x="550" y="292" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">不敢望归，只求免于饥渴</text>
+
+  <!-- arrow between cards -->
+  <line x1="360" y1="250" x2="398" y2="250" stroke="#994433" stroke-width="1.1"/>
+  <path d="M398 250 L392 246 L392 254 Z" fill="#994433"/>
+  <text x="380" y="238" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#994433">望愈低</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="330" x2="720" y2="330" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="354" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#1F1B17" letter-spacing="0.8">从「归来」到「免于饥渴」：思之愈深，望之愈低</text>
+  <text x="380" y="376" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">不是不爱，是爱到不敢再要求更多</text>
+
+  <rect x="222" y="390" width="316" height="40" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="416" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" letter-spacing="1.5">苟无饥渴</text>
+
+  <text x="380" y="452" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">郑笺：苟，且也。且得无饥渴，忧其饥渴也</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 苟无饥渴 · sj066b</text>
+</svg>

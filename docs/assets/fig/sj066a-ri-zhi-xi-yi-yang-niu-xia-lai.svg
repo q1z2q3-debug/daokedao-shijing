@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">日之夕矣</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·君子于役》　鸡栖于埘，羊牛下来</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ066a</text>
+
+  <rect x="40" y="100" width="680" height="250" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- dusk sky bands -->
+  <path d="M40 150 Q200 140 380 148 T720 144" fill="none" stroke="#E3C9A8" stroke-width="1" opacity="0.8"/>
+  <path d="M40 178 Q200 168 380 176 T720 172" fill="none" stroke="#E3C9A8" stroke-width="0.8" opacity="0.7"/>
+  <path d="M40 206 Q200 198 380 204 T720 200" fill="none" stroke="#E3C9A8" stroke-width="0.6" opacity="0.6"/>
+
+  <!-- sun -->
+  <circle cx="614" cy="174" r="19" fill="#B5653F" opacity="0.9"/>
+  <circle cx="614" cy="174" r="25" fill="none" stroke="#B5653F" stroke-width="0.6" opacity="0.5"/>
+  <text x="614" y="212" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#994433">日之夕矣</text>
+
+  <!-- ground -->
+  <path d="M40 320 Q180 312 300 318 T520 312 T720 316" fill="none" stroke="#B9B0A2" stroke-width="1"/>
+  <path d="M40 332 Q180 326 300 330 T520 326 T720 330" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- house -->
+  <g>
+    <path d="M70 320 L70 244 L220 244 L220 320 Z" fill="#E8DFD0" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M62 244 L145 212 L228 244 Z" fill="#DCD5C8" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M132 320 L132 272 L170 272 L170 320 Z" fill="#7C6D5C" opacity="0.35"/>
+    <path d="M194 306 L214 306 L214 320 L194 320 Z" fill="#994433" opacity="0.35"/>
+    <text x="145" y="238" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">室家</text>
+  </g>
+
+  <!-- woman at door -->
+  <g>
+    <circle cx="151" cy="284" r="7" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M144 284 Q142 278 148 275 Q152 272 157 275 Q161 278 159 284" fill="#1F1B17" opacity="0.5"/>
+    <path d="M151 291 Q143 300 142 318 L160 318 Q159 300 155 291 Z" fill="#25211D"/>
+    <path d="M146 296 L138 308" stroke="#25211D" stroke-width="2.4"/>
+    <path d="M156 296 L164 308" stroke="#25211D" stroke-width="2.4"/>
+    <text x="151" y="266" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">望</text>
+  </g>
+
+  <!-- chickens at wall hole -->
+  <g>
+    <ellipse cx="201" cy="312" rx="6" ry="4" fill="#7C6D5C"/>
+    <circle cx="207" cy="307" r="2.2" fill="#7C6D5C"/>
+    <path d="M207 305 L210 303" stroke="#994433" stroke-width="1"/>
+    <ellipse cx="216" cy="316" rx="5" ry="3.4" fill="#9A9186"/>
+    <circle cx="221" cy="312" r="1.8" fill="#9A9186"/>
+    <path d="M221 310 L224 308" stroke="#994433" stroke-width="0.8"/>
+  </g>
+  <text x="204" y="342" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#994433">鸡栖于埘</text>
+
+  <!-- path and absence -->
+  <path d="M170 320 Q300 306 430 310 T720 300" fill="none" stroke="#B9B0A2" stroke-width="1.2"/>
+  <path d="M170 320 Q300 306 430 310 T720 300" fill="none" stroke="#DCD5C8" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="416" y="300" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#994433">君子于役 · 未归</text>
+  <path d="M376 310 L456 310" stroke="#994433" stroke-width="0.8" stroke-dasharray="4 3"/>
+  <path d="M456 310 L450 307 L450 313 Z" fill="#994433"/>
+
+  <!-- sheep and cattle coming down slope -->
+  <g>
+    <path d="M520 320 Q570 280 640 268 T720 286" fill="none" stroke="#B9B0A2" stroke-width="0.8"/>
+    <ellipse cx="590" cy="296" rx="12" ry="7" fill="#DCD5C8" stroke="#7C6D5C" stroke-width="0.8"/>
+    <circle cx="601" cy="291" r="4" fill="#DCD5C8" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M583 300 L583 310 M596 300 L596 310" stroke="#7C6D5C" stroke-width="1"/>
+    <ellipse cx="626" cy="288" rx="11" ry="6.5" fill="#E8DFD0" stroke="#7C6D5C" stroke-width="0.8"/>
+    <circle cx="636" cy="283" r="3.6" fill="#E8DFD0" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M620 292 L620 301 M632 292 L632 301" stroke="#7C6D5C" stroke-width="1"/>
+    <ellipse cx="672" cy="284" rx="14" ry="8" fill="#7C6D5C" opacity="0.65"/>
+    <circle cx="684" cy="278" r="4.4" fill="#7C6D5C" opacity="0.65"/>
+    <path d="M684 275 L688 272 M684 281 L688 284" stroke="#DCD5C8" stroke-width="0.8"/>
+    <path d="M664 290 L664 301 M680 290 L680 301" stroke="#7C6D5C" stroke-width="1"/>
+  </g>
+  <text x="634" y="332" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#7C6D5C">羊牛下来</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="366" x2="720" y2="366" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="390" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.6" fill="#1F1B17">君子于役，不知其期，曷至哉？</text>
+  <text x="380" y="418" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C">鸡栖于埘，日之夕矣，羊牛下来。</text>
+  <text x="380" y="446" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.2" fill="#994433" letter-spacing="1">君子于役，如之何勿思！</text>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">黄昏有期，人行无期</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 日之夕矣 · sj066a</text>
+</svg>
