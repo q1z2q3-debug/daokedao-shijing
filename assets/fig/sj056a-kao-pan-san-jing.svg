@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 二</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">考槃在涧，硕人之宽</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十六</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第二篇　考槃</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- three panels -->
+  <rect x="44" y="116" width="206" height="224" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <rect x="270" y="116" width="206" height="224" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <rect x="496" y="116" width="220" height="224" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- jian: two hills + water -->
+  <path d="M50,300 L88,232 L122,268 L146,300 Z" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M240,300 L206,238 L180,268 L162,300 Z" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M138,300 C144,282 150,270 158,260 L166,300" fill="#EEF0E8" stroke="none"/>
+  <path d="M142,300 C148,284 152,274 158,266" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="50" y1="300" x2="248" y2="300" stroke="#9A9186" stroke-width="0.7"/>
+  <!-- hut on bank -->
+  <path d="M148,282 L148,266 L160,258 L172,266 L172,282 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="148" y1="282" x2="172" y2="282" stroke="#5C544A" stroke-width="0.9"/>
+  <!-- seated figure -->
+  <circle cx="184" cy="270" r="4.2" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <path d="M184,274 C178,280 176,286 176,292 L192,292 C192,286 190,280 184,274 Z" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="56" y="322" font-size="8.4" fill="#994433" font-weight="700">涧</text>
+  <text x="76" y="322" font-size="5.8" fill="#7C6D5C">山夹水</text>
+  <text x="146" y="334" text-anchor="middle" font-size="6.4" fill="#1F1B17">硕人之宽</text>
+
+  <!-- a: curved hill -->
+  <path d="M276,300 C300,232 350,204 404,224 C438,238 454,266 462,300" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <path d="M286,300 C310,248 350,224 398,238 C430,248 446,270 454,300" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="276" y1="300" x2="470" y2="300" stroke="#9A9186" stroke-width="0.7"/>
+  <!-- hut on slope -->
+  <path d="M360,264 L360,248 L372,240 L384,248 L384,264 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="360" y1="264" x2="384" y2="264" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="404" cy="258" r="4.2" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <path d="M404,262 C398,268 396,274 396,280 L412,280 C412,274 410,268 404,262 Z" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="282" y="322" font-size="8.4" fill="#994433" font-weight="700">阿</text>
+  <text x="302" y="322" font-size="5.8" fill="#7C6D5C">曲陵</text>
+  <text x="372" y="334" text-anchor="middle" font-size="6.4" fill="#1F1B17">硕人之薖</text>
+
+  <!-- lu: flat highland -->
+  <path d="M506,300 L524,258 L680,258 L704,300" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="506" y1="300" x2="704" y2="300" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="524" y1="258" x2="680" y2="258" stroke="#9A9186" stroke-width="0.5"/>
+  <!-- hut -->
+  <path d="M570,282 L570,266 L582,258 L594,266 L594,282 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="570" y1="282" x2="594" y2="282" stroke="#5C544A" stroke-width="0.9"/>
+  <circle cx="616" cy="270" r="4.2" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <path d="M616,274 C610,280 608,286 608,292 L624,292 C624,286 622,280 616,274 Z" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="506" y="322" font-size="8.4" fill="#994433" font-weight="700">陆</text>
+  <text x="526" y="322" font-size="5.8" fill="#7C6D5C">高平</text>
+  <text x="600" y="334" text-anchor="middle" font-size="6.4" fill="#1F1B17">硕人之轴</text>
+
+  <!-- kao pan: basin and three readings -->
+  <line x1="44" y1="356" x2="716" y2="356" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="44" y="378" font-size="7.6" fill="#994433" font-weight="700">考槃</text>
+  <text x="78" y="378" font-size="6.2" fill="#7C6D5C">三读</text>
+  <!-- basin -->
+  <path d="M104,394 C104,408 116,416 130,416 C144,416 156,408 156,394 Z" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <line x1="104" y1="394" x2="156" y2="394" stroke="#5C544A" stroke-width="1"/>
+  <line x1="130" y1="376" x2="130" y2="392" stroke="#994433" stroke-width="0.8"/>
+  <text x="172" y="384" font-size="6.2" fill="#1F1B17">成乐（毛传）</text>
+  <text x="172" y="398" font-size="6.2" fill="#1F1B17">盘桓成室（朱子）</text>
+  <text x="172" y="412" font-size="6.2" fill="#1F1B17">扣槃而歌（陈氏）</text>
+  <text x="400" y="384" font-size="6.4" fill="#7C6D5C">一盘三读：不是「考试盘问」</text>
+  <text x="400" y="398" font-size="6.4" fill="#7C6D5C">三境：涧 → 阿 → 陆；愈退愈远</text>
+  <text x="400" y="412" font-size="6.4" fill="#7C6D5C">三誓：弗谖 → 弗过 → 弗告；愈守愈紧</text>
+
+  <line x1="44" y1="438" x2="716" y2="438" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="466" text-anchor="middle" font-size="18" letter-spacing="1.4" fill="#1F1B17">独寐寤言，永矢弗谖</text>
+  <text x="380" y="486" text-anchor="middle" font-size="7.2" letter-spacing="0.6" fill="#7C6D5C">不是逃世，是立誓：不回去、不越界、不把此乐告诉人</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">考槃 · 三章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj056a</text>
+</svg>

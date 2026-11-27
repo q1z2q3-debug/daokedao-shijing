@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 二</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">独寐三境，永矢三誓</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十六</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第二篇　考槃</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- top quote -->
+  <rect x="184" y="112" width="392" height="38" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="137" text-anchor="middle" font-size="14" letter-spacing="1.2" fill="#994433">独寐寤言，永矢弗谖</text>
+
+  <!-- column headers -->
+  <text x="170" y="180" text-anchor="middle" font-size="10" letter-spacing="2" fill="#994433" font-weight="700">境</text>
+  <text x="380" y="180" text-anchor="middle" font-size="10" letter-spacing="2" fill="#994433" font-weight="700">独</text>
+  <text x="590" y="180" text-anchor="middle" font-size="10" letter-spacing="2" fill="#994433" font-weight="700">誓</text>
+
+  <!-- row 1 -->
+  <rect x="70" y="198" width="220" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="180" y="220" text-anchor="middle" font-size="9.4" fill="#1F1B17">涧 · 山夹水</text>
+  <text x="180" y="236" text-anchor="middle" font-size="6.2" fill="#7C6D5C">硕人之宽</text>
+  <rect x="310" y="198" width="160" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="390" y="220" text-anchor="middle" font-size="9.2" fill="#1F1B17">独寐寤言</text>
+  <text x="390" y="236" text-anchor="middle" font-size="6.2" fill="#7C6D5C">独睡、独醒、独言</text>
+  <rect x="490" y="198" width="200" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="590" y="220" text-anchor="middle" font-size="9.2" fill="#1F1B17">永矢弗谖</text>
+  <text x="590" y="236" text-anchor="middle" font-size="6.2" fill="#7C6D5C">发誓不忘</text>
+
+  <!-- row 2 -->
+  <rect x="70" y="286" width="220" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="180" y="308" text-anchor="middle" font-size="9.4" fill="#1F1B17">阿 · 曲陵</text>
+  <text x="180" y="324" text-anchor="middle" font-size="6.2" fill="#7C6D5C">硕人之薖</text>
+  <rect x="310" y="286" width="160" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="390" y="308" text-anchor="middle" font-size="9.2" fill="#1F1B17">独寐寤歌</text>
+  <text x="390" y="324" text-anchor="middle" font-size="6.2" fill="#7C6D5C">独睡、独醒、独歌</text>
+  <rect x="490" y="286" width="200" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="590" y="308" text-anchor="middle" font-size="9.2" fill="#1F1B17">永矢弗过</text>
+  <text x="590" y="324" text-anchor="middle" font-size="6.2" fill="#7C6D5C">发誓不越</text>
+
+  <!-- row 3 -->
+  <rect x="70" y="374" width="220" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="180" y="396" text-anchor="middle" font-size="9.4" fill="#1F1B17">陆 · 高平</text>
+  <text x="180" y="412" text-anchor="middle" font-size="6.2" fill="#7C6D5C">硕人之轴</text>
+  <rect x="310" y="374" width="160" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="390" y="396" text-anchor="middle" font-size="9.2" fill="#1F1B17">独寐寤宿</text>
+  <text x="390" y="412" text-anchor="middle" font-size="6.2" fill="#7C6D5C">独睡、独醒、独卧</text>
+  <rect x="490" y="374" width="200" height="54" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="590" y="396" text-anchor="middle" font-size="9.2" fill="#1F1B17">永矢弗告</text>
+  <text x="590" y="412" text-anchor="middle" font-size="6.2" fill="#7C6D5C">发誓不说</text>
+
+  <!-- arrows across rows -->
+  <g stroke="#994433" stroke-width="1" fill="none">
+    <line x1="292" y1="225" x2="306" y2="225"/><path d="M306,225 L300,221 M306,225 L300,229"/>
+    <line x1="472" y1="225" x2="486" y2="225"/><path d="M486,225 L480,221 M486,225 L480,229"/>
+    <line x1="292" y1="313" x2="306" y2="313"/><path d="M306,313 L300,309 M306,313 L300,317"/>
+    <line x1="472" y1="313" x2="486" y2="313"/><path d="M486,313 L480,309 M486,313 L480,317"/>
+    <line x1="292" y1="401" x2="306" y2="401"/><path d="M306,401 L300,397 M306,401 L300,405"/>
+    <line x1="472" y1="401" x2="486" y2="401"/><path d="M486,401 L480,397 M486,401 L480,405"/>
+  </g>
+
+  <!-- left-down arrow: retreat -->
+  <path d="M54,210 L54,420" fill="none" stroke="#994433" stroke-width="1" stroke-dasharray="5 4"/>
+  <path d="M54,420 L49,411 M54,420 L59,411" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="40" y="320" transform="rotate(-90 40 320)" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#994433">退</text>
+  <!-- right-up arrow: guard -->
+  <path d="M716,420 L716,210" fill="none" stroke="#994433" stroke-width="1" stroke-dasharray="5 4"/>
+  <path d="M716,210 L711,219 M716,210 L721,219" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="730" y="320" transform="rotate(90 730 320)" text-anchor="middle" font-size="6.2" letter-spacing="1" fill="#994433">守</text>
+
+  <line x1="44" y1="446" x2="716" y2="446" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="470" text-anchor="middle" font-size="8.4" letter-spacing="0.6" fill="#7C6D5C">三境愈开，三誓愈深：不忘 → 不越 → 不说</text>
+  <text x="380" y="490" text-anchor="middle" font-size="7.2" letter-spacing="0.6" fill="#994433">刺庄公：不能继先公之业，使贤者退而穷处</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">考槃 · 三章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj056b</text>
+</svg>

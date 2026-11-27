@@ -1,7 +1,7 @@
 {
- "version": "0.3.56",
+ "version": "0.3.57",
  "total": 305,
- "count": 55,
+ "count": 56,
  "chapters": [
   {
    "no": 1,
@@ -277,6 +277,11 @@
    "no": 55,
    "key": "sj055",
    "title": "淇奥"
+  },
+  {
+   "no": 56,
+   "key": "sj056",
+   "title": "考槃"
   }
  ]
 }
