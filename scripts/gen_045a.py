@@ -15,6 +15,7 @@ import numpy as np
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'scripts'))
 import svgbrush as B  # noqa: E402
+import figure_db as F  # noqa: E402
 
 W, H = 760, 540
 PAPER, CIN, GOLD, LIGHT = '#F5F1E8', '#A63D2F', '#B79A63', '#6B6259'
@@ -49,35 +50,12 @@ def zhou_ink(box_x, box_y, box_w, box_h):
 
 # ---------------- 二 两髦：白描写生 ----------------
 def liangmao(cx, cy, s=1.0):
-    """发式图解：不画头。额线一道、中分一道、两束各系一结而垂。"""
-    out = []
-
-    def P(p):
-        return [(cx + x * s, cy + y * s) for x, y in p]
-
-    # 额线：自左鬓拱过额顶至右鬓
-    arc = []
-    for k in range(25):
-        t = math.pi * k / 24
-        arc.append((cx - 74 * math.cos(t) * s, cy - 34 * s + 30 * math.sin(t) * s))
-    out.append(B.stroke(arc, 0.85, 0.8, n=50))
-
-    # 中分：自额线顶点下行
-    out.append(B.stroke(P([(0, -34), (0, -8), (0, 8)]), 0.55, n=20, col=B.INK2))
-
-    # 两束：束根贴鬓，往下垂；内外双线夹束，末端收尖
-    for sx in (-1, 1):
-        outer = P([(sx * 68, -12), (sx * 73, 22), (sx * 74, 50), (sx * 70, 68), (sx * 68, 78)])
-        inner = P([(sx * 50, -16), (sx * 55, 20), (sx * 56, 48), (sx * 52, 66), (sx * 50, 76)])
-        out.append(B.stroke(outer, 0.82, 0.3, n=44, taper_end=0.55))
-        out.append(B.stroke(inner, 0.62, 0.22, n=42, taper_end=0.55, col=B.INK2))
-        # 束结：两道短横跨在束根
-        for yy in (-6, 2):
-            out.append(B.hair(P([(sx * 50, yy), (sx * 70, yy)]), 0.34, B.INK2))
-        # 束内两道发缕
-        out.append(B.hair(P([(sx * 68, 8), (sx * 64, 44), (sx * 56, 68)]), 0.24, B.GREY))
-        out.append(B.hair(P([(sx * 60, 12), (sx * 58, 44)]), 0.22, B.GREY))
-    return out
+    """两髦：几何构建（figure_db）。
+    头＝蛋形椭圆；颈＝截取自头下缘的等宽带；肩＝自颈端外斜的切线；
+    发＝沿椭圆的等角中分与发缕；两束＝两缘收敛于同一尖点，束根落在椭圆上该 y 处的横坐标外 4px。
+    参数一改，形即随之改，不靠手感。
+    """
+    return F.build_liangmao(cx, cy, scale=s, view='back')
 
 
 def zhonghe(cx, cy, w=170):
@@ -128,7 +106,7 @@ def main():
              '<path d="%s"/></g>' % d)
 
     # 二 两髦 / 三 中河
-    g += liangmao(378, 262, 1.0)
+    g += liangmao(378, 246, 1.15)
     g += zhonghe(622, 262, 190)
 
     # 页眉
@@ -145,7 +123,7 @@ def main():
 
     # 注文三条
     g.append(B.text(44, 466, '斜俯视取墨形；双舷有厚', 7.8, LIGHT, ls=1))
-    g.append(B.text(264, 466, '髧彼两髦：中分，束根系结，两束垂', 7.8, LIGHT, ls=1))
+    g.append(B.text(264, 466, '髧彼两髦：中分，两束垂至肩', 7.8, LIGHT, ls=1))
     g.append(B.text(486, 466, '中河：舟所行处，波未起', 7.8, LIGHT, ls=1))
 
     # 引句
