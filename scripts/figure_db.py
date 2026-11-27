@@ -17,6 +17,14 @@ import math
 
 import svgbrush as B
 
+MUL = 1.0
+
+
+def S(pts, w=0.9, w1=None, n=44, col=None, taper_end=0.0, taper_start=0.0):
+    """本模块统一出笔：宽度受 MUL 缩放，供与同页他格配平。"""
+    return B.stroke(pts, w * MUL, (None if w1 is None else w1 * MUL), n=n,
+                    col=col or B.INK2, taper_end=taper_end, taper_start=taper_start)
+
 DEFAULTS = dict(
     rx=40.0,          # 头半宽
     ry=46.0,          # 头半高
@@ -55,7 +63,7 @@ def head_shape(cx, cy, rx, ry, n=150, taper=0.20):
 
 
 def head(cx, cy, rx, ry, n=150):
-    return B.stroke_closed(head_shape(cx, cy, rx, ry, n=n), 0.95, B.INK, n=300, pad=12)
+    return B.stroke_closed(head_shape(cx, cy, rx, ry, n=n), 0.95 * MUL, B.INK, n=300, pad=12)
 
 
 def shoulder(cx, cy, p):
@@ -63,9 +71,9 @@ def shoulder(cx, cy, p):
     out = []
     ty = cy + p['ry'] * 0.95            # 颈起点：头下缘
     for sx in (-1, 1):
-        out.append(B.stroke([(cx + sx * p['neck_hw'], ty - 4),
+        out.append(S([(cx + sx * p['neck_hw'], ty - 4),
                              (cx + sx * p['neck_hw'], ty + p['neck_len'])], 0.34, n=12, col=B.INK2))
-        out.append(B.stroke([(cx + sx * p['neck_hw'], ty + p['neck_len']),
+        out.append(S([(cx + sx * p['neck_hw'], ty + p['neck_len']),
                              (cx + sx * (p['neck_hw'] + 12), ty + p['neck_len'] + 6),
                              (cx + sx * p['shoulder_hw'], ty + p['neck_len'] + p['shoulder_drop'])],
                             0.58, 0.3, n=24))
@@ -77,7 +85,7 @@ def hair_cap(cx, cy, p, a_span=(-58, 58), step=16):
     out = []
     for d in range(step, int(a_span[1]), step):
         pass
-    out.append(B.stroke(ellipse(cx, cy, p['rx'] * 1.03, p['ry'] * 1.03,
+    out.append(S(ellipse(cx, cy, p['rx'] * 1.03, p['ry'] * 1.03,
                                 a_span[0], a_span[1], n=48), 0.8, 0.75, n=54))
     return out
 
@@ -123,14 +131,14 @@ def two_mao(cx, cy, p, root_y=None):
                  (cx + sx * (x_at - p['bundle_hw_root'] * 0.20), root_y + len_ * 0.42),
                  (cx + sx * (x_at - p['bundle_hw_root'] * 0.28), root_y + len_ * 0.74),
                  tip]
-        out.append(B.stroke(outer, 0.85, 0.3, n=46, taper_end=0.5))
-        out.append(B.stroke(inner, 0.62, 0.22, n=44, taper_end=0.5, col=B.INK2))
+        out.append(S(outer, 0.85, 0.3, n=46, taper_end=0.5))
+        out.append(S(inner, 0.62, 0.22, n=44, taper_end=0.5, col=B.INK2))
         # 束内发缕：按两缘插值取中线，不手摆
         mid = [(outer[i][0] * 0.6 + inner[i][0] * 0.4,
                 outer[i][1] * 0.6 + inner[i][1] * 0.4) for i in range(4)]
         out.append(B.hair(mid, 0.24, B.GREY))
         # 束结：一道短弧，只在束宽之内
-        out.append(B.stroke([(x_in, root_y + 4), ((x_in + x_out) / 2, root_y + 2),
+        out.append(S([(x_in, root_y + 4), ((x_in + x_out) / 2, root_y + 2),
                              (x_out, root_y + 1)], 0.34, n=14, col=B.INK2))
 
     return out
@@ -146,7 +154,7 @@ def build_liangmao(cx, cy, scale=1.0, view='back', **kw):
     out.append(head(cx, cy, p['rx'], p['ry']))
     out += shoulder(cx, cy, p)
     if view == 'back':
-        out.append(B.stroke([(cx, cy - p['ry'] * 0.96), (cx, cy - p['ry'] * 0.45),
+        out.append(S([(cx, cy - p['ry'] * 0.96), (cx, cy - p['ry'] * 0.45),
                              (cx, cy + p['ry'] * 0.05), (cx, cy + p['ry'] * 0.42)],
                             0.5, n=36, col=B.INK2))
         out += hair_strands(cx, cy, p)

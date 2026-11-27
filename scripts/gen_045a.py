@@ -17,6 +17,7 @@ sys.path.insert(0, os.path.join(ROOT, 'scripts'))
 import svgbrush as B  # noqa: E402
 import figure_db as F  # noqa: E402
 from ink_skeleton import skeleton_paths  # noqa: E402
+import adapt  # noqa: E402
 
 W, H = 760, 540
 PAPER, CIN, GOLD, LIGHT = '#F5F1E8', '#A63D2F', '#B79A63', '#6B6259'
@@ -27,14 +28,14 @@ REF = os.path.join(ROOT, 'assets', 'ref', 'ref-zhou.png')
 def zhou_bone(cx, cy, h=250, min_len=16):
     """不画墨块，只取底本的骨：墨形骨架化后的中线，按同一线重描出。
     得意忘形——要的是腰身收束、双舷有厚、四梁跨舷的那个「意」。"""
-    segs, size = skeleton_paths(REF)
+    segs, size = skeleton_paths(REF, dilate=2)
     sc = h / size[1]
     out = []
     for seg in segs:
         if sum(math.dist(seg[k], seg[k + 1]) for k in range(len(seg) - 1)) < min_len:
             continue
         pts = [(cx - size[0] * sc / 2 + x * sc, cy - h / 2 + y * sc) for x, y in seg]
-        out.append(B.stroke(pts, 0.73, 0.46, n=max(10, len(pts) * 3)))
+        out.append(adapt.stroke(B.stroke, pts, h, kind='hard', depth=0.0))
     return out
 
 
@@ -54,12 +55,13 @@ def zhonghe(cx, cy, w=170):
     for i, (hw, amp, yy) in enumerate(((w / 2, 9, cy + 34), (w / 2 - 22, 7, cy + 8), (w / 2 - 44, 5, cy - 18))):
         pts = [(cx - hw + 2 * hw * k / 30,
                 yy + amp * math.sin(k / 30 * math.pi * 2.1 + i * 1.1)) for k in range(31)]
-        out.append(B.stroke(pts, 0.72 if i == 0 else 0.52, 0.3, n=64,
-                            col=B.INK if i == 0 else B.INK2))
+        out.append(adapt.stroke(B.stroke, pts, 110 - i * 14, kind='soft',
+                                depth=0.50 + i * 0.08))
     # 波间水纹：两段极短细线，示水动
-    out.append(B.hair([(cx - 46, cy + 20), (cx - 24, cy + 18)], 0.22, B.GREY))
-    out.append(B.hair([(cx + 16, cy + 44), (cx + 40, cy + 42)], 0.22, B.GREY))
-    out.append(B.hair([(cx - 12, cy - 6), (cx + 8, cy - 7)], 0.22, B.GREY))
+    for a, b in (((cx - 46, cy + 20), (cx - 24, cy + 18)),
+                 ((cx + 16, cy + 44), (cx + 40, cy + 42)),
+                 ((cx - 12, cy - 6), (cx + 8, cy - 7))):
+        out.append(B.hair([a, b], adapt.w_of(70) * 0.52, adapt.tone(0.78)))
     return out
 
 
@@ -95,9 +97,10 @@ def main():
     for i, (yy, hw, amp) in enumerate(((376, 58, 4), (390, 40, 3))):
         pts = [(148 - hw + 2 * hw * k / 22,
                 yy + amp * math.sin(k / 22 * math.pi * 2.2 + i * 1.3)) for k in range(23)]
-        g.append(B.stroke(pts, 0.44 if i == 0 else 0.34, n=44, col=B.INK2))
+        g.append(adapt.stroke(B.stroke, pts, 96, kind='soft', depth=0.60))
 
     # 二 两髦 / 三 中河
+    F.MUL = 0.66
     g += liangmao(378, 244, 1.1)
     g += zhonghe(622, 262, 190)
 
