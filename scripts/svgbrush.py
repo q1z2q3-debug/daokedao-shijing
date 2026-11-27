@@ -62,6 +62,49 @@ def stroke(pts, w=0.9, w1=None, n=44, col=INK, taper_end=0.0, taper_start=0.0):
     return '<path d="%s" fill="%s" stroke="none"/>' % (d_of_poly(poly), col)
 
 
+def chaikin(pts, it=2, closed=True):
+    """Chaikin 细分：折线变顺，但尖端保留（与傅里叶不同，不产生圆谐波化）。"""
+    P = np.asarray(pts, float)
+    for _ in range(it):
+        if closed:
+            nxt = np.roll(P, -1, axis=0)
+            q = 0.75 * P + 0.25 * nxt
+            r = 0.25 * P + 0.75 * nxt
+            P = np.vstack([q, r]).reshape(2, -1, 2).transpose(1, 0, 2).reshape(-1, 2)
+        else:
+            Q = [P[0]]
+            for i in range(len(P) - 1):
+                Q.append(0.75 * P[i] + 0.25 * P[i + 1])
+                Q.append(0.25 * P[i] + 0.75 * P[i + 1])
+            Q.append(P[-1])
+            P = np.asarray(Q)
+    return P
+
+
+def stroke_closed(pts, w=0.9, col=INK, n=256, pad=10):
+    """闭合轮廓的变宽笔触。
+
+    开放 stroke 在首尾接缝处法线由单侧差分给出，会突然反向，左右边界交叉成
+    一根长刺（表现为横贯画布的斜线，面积小、bbox 正常，肉眼才看得出）。
+    这里把头尾各接一段再算梯度，接完裁掉——接缝处的法线连续，刺消失。
+    """
+    P = _resample(np.vstack([np.asarray(pts, float), np.asarray(pts, float)[:1]]), n)
+    P = P[:-1]
+    m = len(P)
+    pd = min(pad, max(1, m // 8))
+    ext = np.vstack([P[-pd:], P, P[:pd]])
+    N = _normals(ext)
+    t = np.linspace(0, 1, len(ext))
+    W = np.full(len(ext), float(w))
+    left = ext + N * (W[:, None] / 2)
+    right = ext - N * (W[:, None] / 2)
+    poly = np.vstack([left, right[::-1]])
+    # 裁掉接缝段后再闭合，避免重复的 padding 边
+    keep = poly[(poly.shape[0] - pd - m):]
+    return '<path d="%s" fill="%s" stroke="none"/>' % (d_of_poly(poly), col) if False else \
+        '<path d="%s" fill="%s" stroke="none"/>' % (d_of_poly(np.vstack([left[pd:pd + m], right[pd:pd + m][::-1]])), col)
+
+
 def hair(pts, w=0.35, col=INK2):
     """细线：直接 stroke，无笔压。"""
     return stroke(pts, w, w, col=col, n=26)

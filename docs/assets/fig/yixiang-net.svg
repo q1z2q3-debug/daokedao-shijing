@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 700" width="900" height="700" font-family="Noto Serif SC,Songti SC,serif" stroke-linejoin="round" stroke-linecap="round">
+<rect width="900" height="700" fill="#F7F4EE"/>
+<text x="44" y="46" font-size="22" fill="#1F1B17" text-anchor="start" letter-spacing="8" font-weight="700">意 象 之 网</text>
+<text x="44" y="68" font-size="8.2" fill="#5C544A" text-anchor="start" letter-spacing="0.6" font-weight="400">风七十篇 · 十八名物的分卷分布 · 线粗为该卷篇数 · 取自本库经文段实测</text>
+<line x1="44" y1="84" x2="856" y2="84" stroke="#9A9186" stroke-width="0.8"/>
+<circle cx="450" cy="356" r="50" fill="#FBFAF6" stroke="#1F1B17" stroke-width="0.9"/>
+<text x="450" y="353" font-size="24" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="700">风</text>
+<text x="450" y="376" font-size="8.4" fill="#9A9186" text-anchor="middle" letter-spacing="2" font-weight="400">七十篇</text>
+<circle cx="450.0" cy="234.0" r="23" fill="#FBFAF6" stroke="#5C544A" stroke-width="0.7"/>
+<text x="450" y="232" font-size="11" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="400">周南</text>
+<text x="450" y="246" font-size="7.2" fill="#9A9186" text-anchor="middle" letter-spacing="0" font-weight="400">11篇</text>
+<circle cx="555.7" cy="295.0" r="23" fill="#FBFAF6" stroke="#5C544A" stroke-width="0.7"/>
+<text x="556" y="293" font-size="11" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="400">召南</text>
+<text x="556" y="307" font-size="7.2" fill="#9A9186" text-anchor="middle" letter-spacing="0" font-weight="400">14篇</text>
+<circle cx="555.7" cy="417.0" r="23" fill="#FBFAF6" stroke="#5C544A" stroke-width="0.7"/>
+<text x="556" y="415" font-size="11" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="400">邶</text>
+<text x="556" y="429" font-size="7.2" fill="#9A9186" text-anchor="middle" letter-spacing="0" font-weight="400">19篇</text>
+<circle cx="450.0" cy="478.0" r="23" fill="#FBFAF6" stroke="#5C544A" stroke-width="0.7"/>
+<text x="450" y="476" font-size="11" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="400">鄘</text>
+<text x="450" y="490" font-size="7.2" fill="#9A9186" text-anchor="middle" letter-spacing="0" font-weight="400">10篇</text>
+<circle cx="344.3" cy="417.0" r="23" fill="#FBFAF6" stroke="#5C544A" stroke-width="0.7"/>
+<text x="344" y="415" font-size="11" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="400">卫</text>
+<text x="344" y="429" font-size="7.2" fill="#9A9186" text-anchor="middle" letter-spacing="0" font-weight="400">10篇</text>
+<circle cx="344.3" cy="295.0" r="23" fill="#FBFAF6" stroke="#5C544A" stroke-width="0.7"/>
+<text x="344" y="293" font-size="11" fill="#1F1B17" text-anchor="middle" letter-spacing="0" font-weight="400">王</text>
+<text x="344" y="307" font-size="7.2" fill="#9A9186" text-anchor="middle" letter-spacing="0" font-weight="400">10篇</text>
+<circle cx="450.0" cy="140.0" r="16.10" fill="none" stroke="#994433" stroke-width="0.9"/>
+<circle cx="450.0" cy="140.0" r="16.10" fill="#994433" opacity="0.10"/>
+<text x="450" y="117" font-size="9.4" fill="#994433" text-anchor="middle" letter-spacing="0.8" font-weight="400">鱼 14</text>
+<circle cx="523.9" cy="153.0" r="13.55" fill="none" stroke="#994433" stroke-width="0.9"/>
+<circle cx="523.9" cy="153.0" r="13.55" fill="#994433" opacity="0.10"/>
+<text x="533" y="132" font-size="9.4" fill="#994433" text-anchor="middle" letter-spacing="0.8" font-weight="400">马 11</text>
+<circle cx="588.8" cy="190.5" r="11.85" fill="none" stroke="#994433" stroke-width="0.9"/>
+<circle cx="588.8" cy="190.5" r="11.85" fill="#994433" opacity="0.10"/>
+<text x="606" y="174" font-size="9.4" fill="#994433" text-anchor="middle" letter-spacing="0.8" font-weight="400">布 9</text>
+<circle cx="637.1" cy="248.0" r="11.00" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="660" y="238" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">雨 8</text>
+<circle cx="662.7" cy="318.5" r="11.00" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="688" y="317" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">露 8</text>
+<circle cx="662.7" cy="393.5" r="10.15" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="688" y="401" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">丝 7</text>
+<circle cx="637.1" cy="464.0" r="10.15" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="660" y="480" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">桑 7</text>
+<circle cx="588.8" cy="521.5" r="9.30" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="606" y="544" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">玉 6</text>
+<circle cx="523.9" cy="559.0" r="9.30" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="533" y="586" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">葛 6</text>
+<circle cx="450.0" cy="572.0" r="9.30" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="450" y="601" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">舟 6</text>
+<circle cx="376.1" cy="559.0" r="8.45" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="367" y="586" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">竹 5</text>
+<circle cx="311.2" cy="521.5" r="8.45" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="294" y="544" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">燕 5</text>
+<circle cx="262.9" cy="464.0" r="8.45" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="240" y="480" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">爵 5</text>
+<circle cx="237.3" cy="393.5" r="7.60" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="212" y="401" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">雉 4</text>
+<circle cx="237.3" cy="318.5" r="7.60" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="212" y="317" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">泉 4</text>
+<circle cx="262.9" cy="248.0" r="7.60" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="240" y="238" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">矢 4</text>
+<circle cx="311.2" cy="190.5" r="7.60" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="294" y="174" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">酒 4</text>
+<circle cx="376.1" cy="153.0" r="7.60" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+<text x="367" y="132" font-size="8.2" fill="#1F1B17" text-anchor="middle" letter-spacing="0.8" font-weight="400">柏 4</text>
+<path d="M450.0,140.0 Q435.6,187.0 450.0,234.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M450.0,140.0 Q489.1,226.8 555.7,295.0" fill="none" stroke="#994433" stroke-width="2.66" opacity="0.85"/>
+<path d="M450.0,140.0 Q487.3,284.4 555.7,417.0" fill="none" stroke="#994433" stroke-width="2.66" opacity="0.85"/>
+<path d="M450.0,140.0 Q435.6,309.0 450.0,478.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M450.0,140.0 Q379.6,271.8 344.3,417.0" fill="none" stroke="#994433" stroke-width="3.38" opacity="0.85"/>
+<path d="M523.9,153.0 Q473.0,180.8 450.0,234.0" fill="none" stroke="#994433" stroke-width="3.38" opacity="0.85"/>
+<path d="M523.9,153.0 Q527.9,226.7 555.7,295.0" fill="none" stroke="#994433" stroke-width="1.22" opacity="0.32"/>
+<path d="M523.9,153.0 Q527.7,286.5 555.7,417.0" fill="none" stroke="#994433" stroke-width="1.22" opacity="0.32"/>
+<path d="M523.9,153.0 Q470.8,311.8 450.0,478.0" fill="none" stroke="#994433" stroke-width="2.66" opacity="0.85"/>
+<path d="M523.9,153.0 Q422.2,276.9 344.3,417.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M588.8,190.5 Q515.1,198.5 450.0,234.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M588.8,190.5 Q558.5,238.4 555.7,295.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M588.8,190.5 Q558.0,301.7 555.7,417.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M588.8,190.5 Q506.5,328.0 450.0,478.0" fill="none" stroke="#994433" stroke-width="1.94" opacity="0.60"/>
+<path d="M588.8,190.5 Q458.3,294.8 344.3,417.0" fill="none" stroke="#994433" stroke-width="1.22" opacity="0.32"/>
+<path d="M637.1,248.0 Q590.3,260.9 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M637.1,248.0 Q579.4,324.3 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="3.38" opacity="0.85"/>
+<path d="M637.1,248.0 Q532.4,353.9 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M637.1,248.0 Q484.6,321.9 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M662.7,318.5 Q611.8,294.8 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M662.7,318.5 Q596.5,353.9 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="3.38" opacity="0.85"/>
+<path d="M662.7,318.5 Q547.7,386.7 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M662.7,318.5 Q499.9,356.1 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M662.7,393.5 Q618.9,333.7 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M662.7,393.5 Q606.1,391.2 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M662.7,393.5 Q551.0,422.4 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M662.7,393.5 Q502.6,393.1 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M637.1,464.0 Q541.8,447.9 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="4.82" opacity="0.85"/>
+<path d="M637.1,464.0 Q492.6,428.5 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M588.8,521.5 Q584.3,406.5 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M588.8,521.5 Q523.1,488.1 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M588.8,521.5 Q474.0,451.9 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="3.38" opacity="0.85"/>
+<path d="M523.9,559.0 Q503.1,392.8 450.0,234.0" fill="none" stroke="#6E6459" stroke-width="2.66" opacity="0.85"/>
+<path d="M523.9,559.0 Q553.8,491.1 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M523.9,559.0 Q496.0,510.3 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M450.0,572.0 Q516.5,503.8 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="2.66" opacity="0.85"/>
+<path d="M450.0,572.0 Q464.4,525.0 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M450.0,572.0 Q407.3,487.6 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M376.1,559.0 Q425.0,399.2 450.0,234.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M376.1,559.0 Q476.0,433.8 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M376.1,559.0 Q473.5,497.6 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M376.1,559.0 Q374.3,484.8 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M311.2,521.5 Q395.5,385.0 450.0,234.0" fill="none" stroke="#6E6459" stroke-width="2.66" opacity="0.85"/>
+<path d="M311.2,521.5 Q438.2,480.5 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M311.2,521.5 Q339.8,410.0 344.3,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M262.9,464.0 Q367.6,358.1 450.0,234.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M262.9,464.0 Q416.5,392.0 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M262.9,464.0 Q411.2,452.5 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M237.3,393.5 Q395.4,419.6 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M237.3,393.5 Q339.1,447.1 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M237.3,393.5 Q299.1,353.2 344.3,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M237.3,318.5 Q391.6,383.6 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="2.66" opacity="0.85"/>
+<path d="M237.3,318.5 Q282.6,376.7 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M262.9,248.0 Q407.4,283.5 555.7,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M262.9,248.0 Q347.0,370.7 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M262.9,248.0 Q292.7,337.8 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M262.9,248.0 Q297.5,282.1 344.3,295.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M311.2,190.5 Q376.9,223.9 450.0,234.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M311.2,190.5 Q422.1,315.9 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="2.66" opacity="0.85"/>
+<path d="M376.1,153.0 Q455.8,291.9 555.7,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<path d="M376.1,153.0 Q399.0,318.7 450.0,478.0" fill="none" stroke="#6E6459" stroke-width="1.94" opacity="0.60"/>
+<path d="M376.1,153.0 Q348.1,283.6 344.3,417.0" fill="none" stroke="#6E6459" stroke-width="1.22" opacity="0.32"/>
+<line x1="44" y1="612" x2="856" y2="560" stroke="#9A9186" stroke-width="0.8"/>
+<text x="44" y="634" font-size="7.4" fill="#5C544A" text-anchor="start" letter-spacing="0.4" font-weight="400">读法：桑七篇、六在鄘风——《桑中》《定之方中》之地；马十一篇而周南占四，皆行役与迎送</text>
+<text x="856" y="664" font-size="6.8" fill="#9A9186" text-anchor="end" letter-spacing="0.4" font-weight="400">数据 assets/data/yixiang-freq.json　·　靶场三 · 意象之网</text>
+<text x="44" y="664" font-size="6.8" fill="#9A9186" letter-spacing="0.4">口径：经文段内篇频；篇题同字不计；「马」含叠句重复，故篇频看，次频不作据</text>
+</svg>
