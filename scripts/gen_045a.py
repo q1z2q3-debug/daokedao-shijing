@@ -67,8 +67,8 @@ def liangmao(cx, cy, s=1.0):
 
     # 两束：束根贴鬓，往下垂；内外双线夹束，末端收尖
     for sx in (-1, 1):
-        outer = P([(sx * 68, -12), (sx * 72, 22), (sx * 70, 50), (sx * 62, 68), (sx * 56, 76)])
-        inner = P([(sx * 50, -16), (sx * 54, 20), (sx * 52, 48), (sx * 44, 66), (sx * 38, 74)])
+        outer = P([(sx * 68, -12), (sx * 73, 22), (sx * 74, 50), (sx * 70, 68), (sx * 68, 78)])
+        inner = P([(sx * 50, -16), (sx * 55, 20), (sx * 56, 48), (sx * 52, 66), (sx * 50, 76)])
         out.append(B.stroke(outer, 0.82, 0.3, n=44, taper_end=0.55))
         out.append(B.stroke(inner, 0.62, 0.22, n=42, taper_end=0.55, col=B.INK2))
         # 束结：两道短横跨在束根
@@ -145,7 +145,7 @@ def main():
 
     # 注文三条
     g.append(B.text(44, 466, '斜俯视取墨形；双舷有厚', 7.8, LIGHT, ls=1))
-    g.append(B.text(264, 466, '髧彼两髦：中分，耳前后各一束垂颌', 7.8, LIGHT, ls=1))
+    g.append(B.text(264, 466, '髧彼两髦：中分，束根系结，两束垂', 7.8, LIGHT, ls=1))
     g.append(B.text(486, 466, '中河：舟所行处，波未起', 7.8, LIGHT, ls=1))
 
     # 引句
