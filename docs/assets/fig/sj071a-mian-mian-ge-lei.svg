@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">葛藟</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·葛藟》　绵绵葛藟，在河之浒</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ071a</text>
+
+  <rect x="40" y="100" width="680" height="260" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#994433" letter-spacing="1">绵绵葛藟，托根河涯；人离宗族，无所依归</text>
+
+  <!-- river bank and water -->
+  <path d="M52 300 Q220 288 380 298 Q540 308 708 298" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <path d="M80 314 L150 314 M250 318 L320 318 M470 316 L540 316 M610 314 L680 314" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="70" y="150" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">河</text>
+
+  <!-- main vine climbing, left-center -->
+  <g>
+    <path d="M214 300 Q200 264 216 232 Q232 200 214 168 Q200 142 214 128" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <!-- leaves along stem, paired -->
+    <ellipse cx="196" cy="278" rx="15" ry="7" fill="none" stroke="#7C6D5C" stroke-width="0.9" transform="rotate(-28 196 278)"/>
+    <ellipse cx="234" cy="266" rx="15" ry="7" fill="none" stroke="#7C6D5C" stroke-width="0.9" transform="rotate(26 234 266)"/>
+    <ellipse cx="198" cy="238" rx="15" ry="7" fill="none" stroke="#7C6D5C" stroke-width="0.9" transform="rotate(-24 198 238)"/>
+    <ellipse cx="232" cy="220" rx="15" ry="7" fill="none" stroke="#7C6D5C" stroke-width="0.9" transform="rotate(28 232 220)"/>
+    <ellipse cx="198" cy="186" rx="14" ry="7" fill="none" stroke="#7C6D5C" stroke-width="0.9" transform="rotate(-26 198 186)"/>
+    <ellipse cx="228" cy="162" rx="14" ry="7" fill="none" stroke="#7C6D5C" stroke-width="0.9" transform="rotate(24 228 162)"/>
+    <!-- leaf veins -->
+    <path d="M186 281 L206 275 M224 263 L244 269 M189 241 L207 236 M223 217 L241 223" stroke="#9A9186" stroke-width="0.35"/>
+    <!-- tendrils at top -->
+    <path d="M214 128 Q206 120 212 114 Q218 110 216 118" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+    <path d="M216 128 Q226 120 220 113" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+    <!-- root at bank -->
+    <path d="M214 300 L204 308 M214 300 L214 310 M214 300 L224 308" stroke="#1F1B17" stroke-width="0.7"/>
+  </g>
+  <text x="214" y="326" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#1F1B17">葛藟（蔓藤攀援）</text>
+
+  <!-- second vine continuing, right, to show 绵绵不绝 -->
+  <g>
+    <path d="M500 298 Q516 270 502 244 Q490 220 506 196" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+    <ellipse cx="484" cy="276" rx="13" ry="6" fill="none" stroke="#7C6D5C" stroke-width="0.8" transform="rotate(-26 484 276)"/>
+    <ellipse cx="520" cy="262" rx="13" ry="6" fill="none" stroke="#7C6D5C" stroke-width="0.8" transform="rotate(26 520 262)"/>
+    <ellipse cx="488" cy="232" rx="13" ry="6" fill="none" stroke="#7C6D5C" stroke-width="0.8" transform="rotate(-24 488 232)"/>
+    <ellipse cx="518" cy="210" rx="13" ry="6" fill="none" stroke="#7C6D5C" stroke-width="0.8" transform="rotate(24 518 210)"/>
+    <path d="M506 196 Q514 188 508 182" fill="none" stroke="#7C6D5C" stroke-width="0.5"/>
+  </g>
+  <text x="506" y="326" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">绵绵（长不绝）</text>
+
+  <!-- lone figure, far side, no kin -->
+  <g>
+    <circle cx="620" cy="246" r="8" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M612 256 Q608 276 610 300 L630 300 Q632 276 628 256 Z" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+    <path d="M614 264 L602 282 M626 264 L638 282" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M614 300 L614 310 M626 300 L626 310" stroke="#1F1B17" stroke-width="0.8"/>
+  </g>
+  <text x="620" y="326" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.8" fill="#994433">终远兄弟，谓他人父</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="372" x2="720" y2="372" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="394" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.8" fill="#1F1B17">绵绵葛藟，在河之浒。终远兄弟，</text>
+  <text x="380" y="416" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.8" fill="#1F1B17">谓他人父。谓他人父，亦莫我顾。</text>
+  <text x="380" y="442" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">浒/涘/漘：三涯　｜　父/母/昆：三亲　｜　顾/有/闻：三恤</text>
+  <text x="380" y="466" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">葛藟犹托根河涯，人反无宗族可依</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 葛藟 · sj071a</text>
+</svg>
