@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 七</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">近而不可往</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之六十一</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第七篇　河广</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- top band: geography -->
+  <rect x="40" y="112" width="680" height="148" fill="none" stroke="#DCD5C8" stroke-width="0.5"/>
+  <text x="56" y="134" font-size="7.4" fill="#994433" font-weight="700">地理</text>
+  <text x="96" y="134" font-size="6.2" fill="#7C6D5C">可渡、可望、不崇朝</text>
+
+  <line x1="86" y1="206" x2="674" y2="206" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="72" y="228" font-size="7.2" fill="#994433" font-weight="700">卫</text>
+  <text x="688" y="228" font-size="7.2" fill="#994433" font-weight="700">宋</text>
+
+  <!-- raft on line -->
+  <g stroke="#5C544A" stroke-width="0.6">
+    <line x1="366" y1="196" x2="366" y2="214"/>
+    <line x1="374" y1="194" x2="374" y2="216"/>
+    <line x1="382" y1="192" x2="382" y2="218"/>
+    <line x1="390" y1="194" x2="390" y2="216"/>
+  </g>
+  <path d="M362,206 C372,212 390,212 396,206" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="380" y="186" text-anchor="middle" font-size="6.2" fill="#1F1B17">一苇可渡</text>
+  <text x="500" y="186" text-anchor="middle" font-size="6.2" fill="#7C6D5C">跂足可望 · 不崇朝</text>
+  <text x="380" y="244" text-anchor="middle" font-size="6.4" fill="#7C6D5C">一线可渡，一眼可望，一晨可至</text>
+
+  <!-- bottom band: ritual -->
+  <rect x="40" y="272" width="680" height="180" fill="none" stroke="#DCD5C8" stroke-width="0.5"/>
+  <text x="56" y="294" font-size="7.4" fill="#994433" font-weight="700">礼制</text>
+  <text x="96" y="294" font-size="6.2" fill="#7C6D5C">一墙之隔，胜于河广</text>
+
+  <!-- woman -->
+  <ellipse cx="180" cy="352" rx="9" ry="11" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M171,346 C173,336 187,336 189,346" fill="none" stroke="#1F1B17" stroke-width="0.7"/>
+  <path d="M171,362 C165,382 165,404 169,422 L191,422 C195,404 195,382 189,362 Z" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="173" y1="422" x2="170" y2="438" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="187" y1="422" x2="190" y2="438" stroke="#5C544A" stroke-width="0.6"/>
+
+  <!-- wall -->
+  <rect x="366" y="326" width="34" height="96" fill="#F2EFE6" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="366" y1="342" x2="400" y2="342" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="366" y1="358" x2="400" y2="358" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="366" y1="374" x2="400" y2="374" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="366" y1="390" x2="400" y2="390" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="366" y1="406" x2="400" y2="406" stroke="#9A9186" stroke-width="0.4"/>
+  <rect x="377" y="356" width="16" height="18" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="385" y="370" text-anchor="middle" font-size="9" fill="#994433" font-weight="700">义</text>
+
+  <!-- temple -->
+  <path d="M578,422 L578,344 L626,344 L626,422" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M572,344 L602,326 L632,344" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="602" y1="344" x2="602" y2="422" stroke="#5C544A" stroke-width="0.4"/>
+  <text x="602" y="440" text-anchor="middle" font-size="6.1" fill="#7C6D5C">宋庙</text>
+
+  <!-- dashed sight line stopped by wall -->
+  <line x1="190" y1="354" x2="366" y2="354" stroke="#994433" stroke-width="0.5" stroke-dasharray="5 3"/>
+  <path d="M360,348 L368,360 M368,348 L360,360" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <text x="262" y="344" text-anchor="middle" font-size="6.1" fill="#994433">可望而不可往</text>
+
+  <text x="385" y="430" text-anchor="middle" font-size="6.4" fill="#994433">母出与庙绝</text>
+  <text x="385" y="446" text-anchor="middle" font-size="6.2" fill="#7C6D5C">子承父重，与祖为体，不可以私反</text>
+
+  <!-- bottom conclusion -->
+  <rect x="120" y="480" width="520" height="20" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <text x="380" y="494" text-anchor="middle" font-size="7.4" fill="#994433" font-weight="700">非河广，非宋远；义不可往</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">河广 · 二章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj061b</text>
+</svg>

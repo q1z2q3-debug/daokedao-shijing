@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 七</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">河广一苇</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之六十一</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第七篇　河广</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- scene frame -->
+  <rect x="40" y="112" width="680" height="252" fill="none" stroke="#DCD5C8" stroke-width="0.5"/>
+
+  <!-- left bank -->
+  <path d="M44,304 C110,288 190,294 250,312 L250,362 L44,362 Z" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="70" y="340" font-size="7.2" fill="#994433" font-weight="700">卫</text>
+  <!-- right bank -->
+  <path d="M510,312 C570,294 650,288 716,304 L716,362 L510,362 Z" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="680" y="340" font-size="7.2" fill="#994433" font-weight="700">宋</text>
+
+  <!-- river -->
+  <path d="M250,280 C290,272 330,288 370,280 C410,272 450,288 490,280 C500,278 506,276 510,276" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <path d="M250,296 C290,288 330,304 370,296 C410,288 450,304 490,296 C500,294 506,292 510,292" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="356" text-anchor="middle" font-size="6.4" fill="#7C6D5C">河</text>
+
+  <!-- woman on tiptoe -->
+  <ellipse cx="200" cy="212" rx="10" ry="12" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M191,206 C193,195 207,195 209,206" fill="none" stroke="#1F1B17" stroke-width="0.8"/>
+  <path d="M191,224 C184,250 183,276 187,304 L213,304 C217,276 216,250 209,224 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="192" y1="304" x2="186" y2="326" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="204" y1="304" x2="220" y2="320" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M220,320 L228,315" fill="none" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="148" y="192" font-size="6.4" fill="#1F1B17">跂予望之</text>
+
+  <!-- sight line -->
+  <line x1="210" y1="210" x2="596" y2="210" stroke="#994433" stroke-width="0.5" stroke-dasharray="5 3"/>
+  <path d="M596,210 L588,206 M596,210 L588,214" fill="none" stroke="#994433" stroke-width="0.5"/>
+
+  <!-- reed raft -->
+  <g stroke="#7C6D5C" stroke-width="0.65">
+    <line x1="348" y1="292" x2="348" y2="316"/>
+    <line x1="356" y1="290" x2="356" y2="318"/>
+    <line x1="364" y1="288" x2="364" y2="320"/>
+    <line x1="372" y1="290" x2="372" y2="318"/>
+    <line x1="380" y1="292" x2="380" y2="316"/>
+  </g>
+  <path d="M344,304 C354,310 376,310 384,304" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="326" y="278" font-size="6.2" fill="#1F1B17">一苇（一束苇）</text>
+
+  <!-- small boat -->
+  <path d="M294,314 C302,324 328,324 336,314 L330,320 L300,320 Z" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="302" y="306" font-size="6.1" fill="#7C6D5C">刀（小船）</text>
+
+  <!-- Song gate / temple -->
+  <path d="M574,304 L574,206 L626,206 L626,304" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M568,206 L600,186 L632,206" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="600" y1="206" x2="600" y2="304" stroke="#5C544A" stroke-width="0.45"/>
+  <text x="600" y="320" text-anchor="middle" font-size="6.2" fill="#7C6D5C">宋庙</text>
+
+  <!-- red seal: yi -->
+  <rect x="436" y="132" width="38" height="38" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="455" y="158" text-anchor="middle" font-size="14" fill="#994433" font-weight="700">义</text>
+  <text x="455" y="184" text-anchor="middle" font-size="6.2" fill="#994433">不可往</text>
+
+  <!-- labels -->
+  <text x="278" y="356" font-size="6.1" fill="#7C6D5C">曾不容刀</text>
+  <text x="546" y="356" font-size="6.1" fill="#7C6D5C">曾不崇朝</text>
+
+  <!-- bottom -->
+  <line x1="44" y1="378" x2="716" y2="378" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="44" y="396" font-size="7.2" fill="#994433" font-weight="700">谁谓河广？一苇杭之。谁谓宋远？跂予望之。</text>
+  <text x="44" y="418" font-size="6.4" fill="#7C6D5C">曾不容刀，曾不崇朝；而义不可往。</text>
+  <line x1="44" y1="440" x2="716" y2="440" stroke="#DCD5C8" stroke-width="0.5"/>
+  <text x="44" y="458" font-size="9.4" fill="#994433" font-weight="700" letter-spacing="0.6">河不广，宋不远；所不可者，义也。</text>
+  <text x="44" y="478" font-size="6.6" fill="#7C6D5C">一苇可渡，跂足可望；而母出与庙绝。</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">河广 · 二章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 场景 · sj061a</text>
+</svg>
