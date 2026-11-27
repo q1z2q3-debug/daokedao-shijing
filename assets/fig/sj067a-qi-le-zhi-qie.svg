@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">其乐只且</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·君子阳阳》　左执簧，右招我由房</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ067a</text>
+
+  <rect x="40" y="100" width="680" height="260" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#994433" letter-spacing="1">其乐只且</text>
+
+  <!-- left panel: room -->
+  <rect x="52" y="140" width="304" height="200" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="72" y="158" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">一章 · 东房</text>
+  <!-- window -->
+  <rect x="78" y="176" width="66" height="48" fill="#4A4038" opacity="0.75"/>
+  <path d="M111 176 L111 224 M78 200 L144 200" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="111" y="240" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#994433">乱世</text>
+  <!-- gentleman with sheng -->
+  <g>
+    <circle cx="204" cy="214" r="8" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M196 214 Q194 207 201 204 Q205 201 210 204 Q216 207 214 214" fill="#1F1B17" opacity="0.5"/>
+    <path d="M204 223 Q190 238 188 276 L220 276 Q218 238 212 223 Z" fill="#25211D"/>
+    <path d="M196 232 L176 256" stroke="#25211D" stroke-width="3"/>
+    <path d="M212 234 L244 250" stroke="#25211D" stroke-width="3"/>
+    <!-- sheng pipes -->
+    <g>
+      <rect x="166" y="236" width="5" height="30" fill="#7C6D5C"/>
+      <rect x="173" y="232" width="5" height="34" fill="#7C6D5C"/>
+      <rect x="180" y="237" width="5" height="29" fill="#7C6D5C"/>
+      <path d="M164 266 Q176 272 186 266" stroke="#994433" stroke-width="1.2"/>
+    </g>
+    <path d="M186 276 L186 298 M218 276 L218 298" stroke="#1F1B17" stroke-width="1.4"/>
+    <text x="176" y="310" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">左执簧</text>
+  </g>
+  <!-- invited person -->
+  <g>
+    <circle cx="274" cy="226" r="6.5" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+    <path d="M267 226 Q265 220 270 218 Q274 216 277 218 Q281 220 280 226" fill="#1F1B17" opacity="0.45"/>
+    <path d="M274 233 Q266 243 265 272 L284 272 Q283 243 279 233 Z" fill="#7C6D5C"/>
+    <path d="M269 240 L262 254" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M279 240 L286 254" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M268 272 L267 294 M282 272 L283 294" stroke="#1F1B17" stroke-width="1.1"/>
+  </g>
+  <text x="274" y="310" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">我</text>
+  <text x="266" y="330" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">右招我由房</text>
+
+  <!-- divider -->
+  <line x1="380" y1="150" x2="380" y2="330" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- right panel: dance position -->
+  <rect x="404" y="140" width="304" height="200" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="424" y="158" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">二章 · 舞位</text>
+  <!-- window -->
+  <rect x="430" y="176" width="66" height="48" fill="#4A4038" opacity="0.75"/>
+  <path d="M463 176 L463 224 M430 200 L496 200" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="463" y="240" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#994433">乱世</text>
+  <!-- gentleman with dao -->
+  <g>
+    <circle cx="556" cy="214" r="8" fill="none" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M548 214 Q546 207 553 204 Q557 201 562 204 Q568 207 566 214" fill="#1F1B17" opacity="0.5"/>
+    <path d="M556 223 Q542 238 540 276 L572 276 Q570 238 564 223 Z" fill="#25211D"/>
+    <path d="M548 232 L528 256" stroke="#25211D" stroke-width="3"/>
+    <path d="M564 234 L596 250" stroke="#25211D" stroke-width="3"/>
+    <!-- feather fan -->
+    <g>
+      <path d="M528 256 L518 236" stroke="#7C6D5C" stroke-width="1.6"/>
+      <path d="M518 236 Q506 218 512 204 Q522 210 526 222 Q534 210 542 208 Q544 222 532 236 Z" fill="#994433" opacity="0.7"/>
+      <path d="M518 236 L512 204 M518 236 L526 210 M518 236 L540 210" stroke="#7C6D5C" stroke-width="0.8"/>
+    </g>
+    <path d="M538 276 L538 298 M570 276 L570 298" stroke="#1F1B17" stroke-width="1.4"/>
+    <text x="530" y="310" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">左执翿</text>
+  </g>
+  <!-- invited person -->
+  <g>
+    <circle cx="642" cy="226" r="6.5" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+    <path d="M635 226 Q633 220 638 218 Q642 216 645 218 Q649 220 648 226" fill="#1F1B17" opacity="0.45"/>
+    <path d="M642 233 Q634 243 633 272 L652 272 Q651 243 647 233 Z" fill="#7C6D5C"/>
+    <path d="M637 240 L630 254" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M647 240 L654 254" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M636 272 L635 294 M650 272 L651 294" stroke="#1F1B17" stroke-width="1.1"/>
+  </g>
+  <text x="642" y="310" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">我</text>
+  <text x="626" y="330" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">右招我由敖</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="376" x2="720" y2="376" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="400" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.4" fill="#1F1B17">君子阳阳，左执簧，右招我由房，其乐只且！</text>
+  <text x="380" y="424" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.4" fill="#1F1B17">君子陶陶，左执翿，右招我由敖，其乐只且！</text>
+  <text x="380" y="450" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">乐是壳，忧是底：不是太平之乐，是乱世之乐</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 其乐只且 · sj067a</text>
+</svg>
