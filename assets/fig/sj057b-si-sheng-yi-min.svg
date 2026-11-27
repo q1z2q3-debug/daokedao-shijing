@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 三</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">四盛一闵</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十七</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第三篇　硕人</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <text x="380" y="120" text-anchor="middle" font-size="8.2" fill="#994433" letter-spacing="1.2">巧笑倩兮，美目盼兮</text>
+
+  <!-- left: four盛 rows -->
+  <text x="70" y="152" font-size="7.8" fill="#994433" font-weight="700">盛</text>
+  <!-- row 1 -->
+  <rect x="88" y="160" width="404" height="52" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="100" y="180" font-size="8.6" fill="#1F1B17" font-weight="700">一　族类之贵</text>
+  <text x="100" y="196" font-size="5.8" fill="#7C6D5C">齐侯之子 · 卫侯之妻 · 东宫之妹</text>
+  <text x="100" y="207" font-size="5.8" fill="#7C6D5C">邢侯之姨 · 谭公维私</text>
+  <text x="480" y="190" text-anchor="end" font-size="6.2" fill="#9A9186">正嫡小君</text>
+
+  <!-- row 2 -->
+  <rect x="88" y="220" width="404" height="52" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="100" y="240" font-size="8.6" fill="#1F1B17" font-weight="700">二　容貌之美</text>
+  <text x="100" y="256" font-size="5.8" fill="#7C6D5C">手 · 肤 · 领 · 齿 · 首 · 眉　巧笑 · 美目</text>
+  <text x="480" y="250" text-anchor="end" font-size="6.2" fill="#9A9186">宜亲幸</text>
+
+  <!-- row 3 -->
+  <rect x="88" y="280" width="404" height="52" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="100" y="300" font-size="8.6" fill="#1F1B17" font-weight="700">三　车服之盛</text>
+  <text x="100" y="316" font-size="5.8" fill="#7C6D5C">四牡 · 朱幩 · 翟茀　大夫夙退，无使君劳</text>
+  <text x="480" y="310" text-anchor="end" font-size="6.2" fill="#9A9186">初嫁入朝</text>
+
+  <!-- row 4 -->
+  <rect x="88" y="340" width="404" height="52" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="100" y="360" font-size="8.6" fill="#1F1B17" font-weight="700">四　送嫁之众</text>
+  <text x="100" y="376" font-size="5.8" fill="#7C6D5C">河水 · 罛 · 鳣鲔 · 葭菼　庶姜 · 庶士</text>
+  <text x="480" y="370" text-anchor="end" font-size="6.2" fill="#9A9186">齐地广饶</text>
+
+  <!-- arrow -->
+  <path d="M512,300 L540,300" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <path d="M540,300 L532,296 M540,300 L532,304" fill="none" stroke="#994433" stroke-width="1.1"/>
+  <text x="526" y="290" text-anchor="middle" font-size="5.8" fill="#994433">转</text>
+
+  <!-- right: 闵 box -->
+  <rect x="548" y="160" width="168" height="232" fill="#F2EFE6" stroke="#994433" stroke-width="1"/>
+  <text x="632" y="184" text-anchor="middle" font-size="9" fill="#994433" font-weight="700" letter-spacing="3">闵</text>
+  <line x1="568" y1="196" x2="696" y2="196" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="632" y="218" text-anchor="middle" font-size="7.4" fill="#1F1B17">美而无子</text>
+  <text x="632" y="242" text-anchor="middle" font-size="7.4" fill="#1F1B17">贤而不答</text>
+  <text x="632" y="266" text-anchor="middle" font-size="7.4" fill="#1F1B17">庄公昏惑</text>
+  <line x1="568" y1="282" x2="696" y2="282" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="632" y="302" text-anchor="middle" font-size="6" fill="#7C6D5C">盛是追叙</text>
+  <text x="632" y="318" text-anchor="middle" font-size="6" fill="#7C6D5C">闵是落点</text>
+  <text x="632" y="342" text-anchor="middle" font-size="5.8" fill="#994433">朱子：叹今之不然</text>
+  <text x="632" y="362" text-anchor="middle" font-size="5.8" fill="#994433">毛序：国人闵而忧之</text>
+
+  <!-- bottom line -->
+  <line x1="44" y1="408" x2="716" y2="408" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="432" text-anchor="middle" font-size="16" letter-spacing="1.2" fill="#1F1B17">四重盛，一层闵；盛愈极，闵愈深</text>
+  <text x="380" y="454" text-anchor="middle" font-size="7" fill="#7C6D5C">贵、美、盛、众，都落在「美而无子」「贤而不答」上</text>
+  <text x="380" y="474" text-anchor="middle" font-size="7" fill="#994433">千古颂美人，无出其右；然其诗骨，在闵不在美</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">硕人 · 四章章七句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj057b</text>
+</svg>
