@@ -1,7 +1,7 @@
 {
- "version": "0.3.52",
+ "version": "0.3.53",
  "total": 305,
- "count": 51,
+ "count": 52,
  "chapters": [
   {
    "no": 1,
@@ -257,6 +257,11 @@
    "no": 51,
    "key": "sj051",
    "title": "蝃蝀"
+  },
+  {
+   "no": 52,
+   "key": "sj052",
+   "title": "相鼠"
   }
  ]
 }

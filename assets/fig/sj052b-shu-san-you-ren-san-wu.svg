@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 八</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.8" fill="#1F1B17" font-weight="700">鼠三有，人三无</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十二</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》鄘风 · 第八篇　相鼠</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- table -->
+  <rect x="82" y="118" width="596" height="182" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+  <!-- header -->
+  <rect x="82" y="118" width="596" height="38" fill="#EADFCA"/>
+  <line x1="82" y1="156" x2="678" y2="156" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="158" y="143" text-anchor="middle" font-size="13" letter-spacing="1.2" fill="#1F1B17" font-weight="700">鼠</text>
+  <text x="285" y="143" text-anchor="middle" font-size="9" letter-spacing="1" fill="#7C6D5C">有</text>
+  <text x="452" y="143" text-anchor="middle" font-size="13" letter-spacing="1.2" fill="#1F1B17" font-weight="700">人</text>
+  <text x="590" y="143" text-anchor="middle" font-size="9" letter-spacing="1" fill="#7C6D5C">无</text>
+
+  <!-- row 1 皮 / 仪 -->
+  <line x1="82" y1="204" x2="678" y2="204" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="158" y="184" text-anchor="middle" font-size="15" fill="#1F1B17">皮</text>
+  <text x="285" y="184" text-anchor="middle" font-size="12" fill="#7C6D5C">有</text>
+  <text x="452" y="184" text-anchor="middle" font-size="15" fill="#1F1B17">仪</text>
+  <text x="590" y="184" text-anchor="middle" font-size="15" fill="#994433" font-weight="700">无</text>
+  <text x="666" y="184" text-anchor="end" font-size="6.2" fill="#9A9186">威仪</text>
+
+  <!-- row 2 齿 / 止 -->
+  <line x1="82" y1="252" x2="678" y2="252" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="158" y="232" text-anchor="middle" font-size="15" fill="#1F1B17">齿</text>
+  <text x="285" y="232" text-anchor="middle" font-size="12" fill="#7C6D5C">有</text>
+  <text x="452" y="232" text-anchor="middle" font-size="15" fill="#1F1B17">止</text>
+  <text x="590" y="232" text-anchor="middle" font-size="15" fill="#994433" font-weight="700">无</text>
+  <text x="666" y="232" text-anchor="end" font-size="6.2" fill="#9A9186">容止</text>
+
+  <!-- row 3 体 / 礼 -->
+  <rect x="82" y="252" width="596" height="48" fill="#FBF1E6" stroke="#DCD5C8" stroke-width="0.4"/>
+  <text x="158" y="288" text-anchor="middle" font-size="15" fill="#1F1B17">体</text>
+  <text x="285" y="288" text-anchor="middle" font-size="12" fill="#7C6D5C">有</text>
+  <text x="452" y="288" text-anchor="middle" font-size="15" fill="#1F1B17">礼</text>
+  <text x="590" y="288" text-anchor="middle" font-size="15" fill="#994433" font-weight="700">无</text>
+  <text x="666" y="288" text-anchor="end" font-size="6.2" fill="#9A9186">礼法</text>
+
+  <line x1="224" y1="156" x2="224" y2="300" stroke="#DCD5C8" stroke-width="0.6"/>
+  <line x1="392" y1="156" x2="392" y2="300" stroke="#DCD5C8" stroke-width="0.6"/>
+  <line x1="526" y1="156" x2="526" y2="300" stroke="#DCD5C8" stroke-width="0.6"/>
+
+  <!-- bottom -->
+  <line x1="44" y1="330" x2="716" y2="330" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="356" text-anchor="middle" font-size="17" letter-spacing="2" fill="#994433" font-weight="700">鼠之不若</text>
+  <text x="380" y="376" text-anchor="middle" font-size="8" letter-spacing="1" fill="#7C6D5C">鼠三有，人三无；无礼则鼠之不若</text>
+
+  <rect x="82" y="394" width="596" height="30" fill="#F3ECE0" stroke="#DCD5C8" stroke-width="0.4"/>
+  <text x="120" y="414" font-size="8" fill="#7C6D5C">一</text>
+  <text x="214" y="414" text-anchor="middle" font-size="9.2" fill="#1F1B17">不死何为</text>
+  <text x="238" y="414" font-size="10" fill="#994433">→</text>
+  <text x="332" y="414" text-anchor="middle" font-size="9.2" fill="#1F1B17">不死何俟</text>
+  <text x="356" y="414" font-size="10" fill="#994433">→</text>
+  <text x="450" y="414" text-anchor="middle" font-size="9.2" fill="#1F1B17">胡不遄死</text>
+  <text x="474" y="414" font-size="10" fill="#994433">→</text>
+  <text x="560" y="410" text-anchor="middle" font-size="6.6" fill="#7C6D5C">愈责愈急</text>
+  <text x="600" y="418" text-anchor="middle" font-size="6.4" fill="#7C6D5C">耻极之语</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">相鼠 · 鼠三有，人三无</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj052b</text>
+</svg>
