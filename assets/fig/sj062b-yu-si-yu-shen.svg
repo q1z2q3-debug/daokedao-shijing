@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 八</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">愈思愈深</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之六十二</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第八篇　伯兮</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <rect x="40" y="112" width="680" height="300" fill="none" stroke="#DCD5C8" stroke-width="0.5"/>
+  <text x="56" y="132" font-size="6.8" fill="#994433" font-weight="700">四章四层</text>
+  <text x="118" y="132" font-size="6.1" fill="#7C6D5C">不是并列，是四级下沉</text>
+
+  <!-- depth axis -->
+  <line x1="62" y1="150" x2="62" y2="378" stroke="#994433" stroke-width="0.7"/>
+  <path d="M56,370 L62,380 L68,370" fill="none" stroke="#994433" stroke-width="0.5"/>
+  <text x="48" y="200" font-size="12" fill="#994433" font-weight="700">思</text>
+  <text x="48" y="360" font-size="9" fill="#994433">深</text>
+
+  <!-- card 1 -->
+  <rect x="90" y="142" width="136" height="76" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="98" y="156" font-size="6.1" fill="#7C6D5C">一章</text>
+  <text x="158" y="174" text-anchor="middle" font-size="21" fill="#1F1B17" font-weight="700">夸</text>
+  <text x="98" y="194" font-size="6.1" fill="#1F1B17">伯兮朅兮，邦之桀兮</text>
+  <text x="98" y="208" font-size="6.1" fill="#7C6D5C">执殳前驱</text>
+
+  <!-- card 2 -->
+  <rect x="238" y="190" width="136" height="76" fill="none" stroke="#7C6D5C" stroke-width="0.7"/>
+  <text x="246" y="204" font-size="6.1" fill="#7C6D5C">二章</text>
+  <text x="306" y="222" text-anchor="middle" font-size="16" fill="#1F1B17" font-weight="700">不饰</text>
+  <text x="246" y="242" font-size="6.1" fill="#1F1B17">自伯之东，首如飞蓬</text>
+  <text x="246" y="256" font-size="6.1" fill="#7C6D5C">谁适为容</text>
+
+  <!-- card 3 -->
+  <rect x="386" y="238" width="136" height="76" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <text x="394" y="252" font-size="6.1" fill="#7C6D5C">三章</text>
+  <text x="454" y="270" text-anchor="middle" font-size="15" fill="#994433" font-weight="700">首疾</text>
+  <text x="394" y="290" font-size="6.1" fill="#1F1B17">其雨其雨，杲杲出日</text>
+  <text x="394" y="304" font-size="6.1" fill="#7C6D5C">甘心首疾</text>
+
+  <!-- card 4 -->
+  <rect x="534" y="286" width="136" height="76" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="542" y="300" font-size="6.1" fill="#7C6D5C">四章</text>
+  <text x="602" y="318" text-anchor="middle" font-size="15" fill="#994433" font-weight="700">心痗</text>
+  <text x="542" y="338" font-size="6.1" fill="#1F1B17">焉得谖草，言树之背</text>
+  <text x="542" y="352" font-size="6.1" fill="#7C6D5C">使我心痗</text>
+
+  <!-- dashed wish to forget -->
+  <path d="M670,334 C688,334 694,344 694,354" fill="none" stroke="#994433" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <text x="676" y="370" font-size="5.8" fill="#994433">欲忘</text>
+
+  <line x1="80" y1="390" x2="680" y2="390" stroke="#DCD5C8" stroke-width="0.5"/>
+  <text x="380" y="405" text-anchor="middle" font-size="8.4" fill="#994433" font-weight="700">求忘，正说明不能忘；思之愈深，忘之愈难。</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">伯兮 · 四章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj062b</text>
+</svg>

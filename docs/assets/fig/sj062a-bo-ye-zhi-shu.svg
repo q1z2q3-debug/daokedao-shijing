@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 八</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">伯也执殳</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之六十二</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第八篇　伯兮</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <rect x="40" y="112" width="680" height="252" fill="none" stroke="#DCD5C8" stroke-width="0.5"/>
+  <line x1="380" y1="112" x2="380" y2="364" stroke="#DCD5C8" stroke-width="0.5"/>
+
+  <!-- left: campaign -->
+  <text x="56" y="134" font-size="7.4" fill="#994433" font-weight="700">征途</text>
+  <text x="104" y="134" font-size="6.2" fill="#7C6D5C">伯也执殳，为王前驱</text>
+
+  <!-- road -->
+  <line x1="66" y1="332" x2="352" y2="332" stroke="#DCD5C8" stroke-width="0.7"/>
+  <path d="M326,324 L354,332 L326,340" fill="none" stroke="#994433" stroke-width="0.5"/>
+  <text x="332" y="318" font-size="6.1" fill="#994433">东</text>
+
+  <!-- banner -->
+  <line x1="306" y1="300" x2="306" y2="158" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M306,160 L306,192 L340,184 L306,176" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <text x="313" y="183" font-size="6.4" fill="#994433">王</text>
+
+  <!-- warrior -->
+  <ellipse cx="216" cy="198" rx="9.5" ry="11.5" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M206,192 C208,181 224,181 226,192" fill="none" stroke="#1F1B17" stroke-width="0.8"/>
+  <path d="M206,210 C198,214 194,224 194,238 L194,276 L238,276 L238,238 C238,224 234,214 226,210 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <line x1="196" y1="236" x2="236" y2="236" stroke="#9A9186" stroke-width="0.4"/>
+  <line x1="196" y1="252" x2="236" y2="252" stroke="#9A9186" stroke-width="0.4"/>
+  <path d="M194,238 C184,248 180,264 182,280" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M238,238 C246,250 248,266 244,282" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="204" y1="276" x2="200" y2="306" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="228" y1="276" x2="232" y2="306" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M200,306 L192,310" fill="none" stroke="#5C544A" stroke-width="0.5"/>
+  <path d="M232,306 L240,310" fill="none" stroke="#5C544A" stroke-width="0.5"/>
+
+  <!-- shu -->
+  <line x1="244" y1="286" x2="276" y2="150" stroke="#994433" stroke-width="1.2"/>
+  <line x1="272" y1="160" x2="280" y2="156" stroke="#994433" stroke-width="0.8"/>
+  <text x="282" y="188" font-size="6.6" fill="#994433">殳</text>
+
+  <text x="86" y="302" font-size="6.2" fill="#7C6D5C">前驱</text>
+  <text x="70" y="352" font-size="6.2" fill="#7C6D5C">过时而不反</text>
+
+  <!-- right: home -->
+  <text x="394" y="134" font-size="7.4" fill="#994433" font-weight="700">家中</text>
+  <text x="442" y="134" font-size="6.2" fill="#7C6D5C">自伯之东，首如飞蓬</text>
+
+  <!-- window lattice -->
+  <rect x="410" y="160" width="52" height="60" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+  <line x1="426" y1="160" x2="426" y2="220" stroke="#DCD5C8" stroke-width="0.4"/>
+  <line x1="446" y1="160" x2="446" y2="220" stroke="#DCD5C8" stroke-width="0.4"/>
+  <line x1="410" y1="180" x2="462" y2="180" stroke="#DCD5C8" stroke-width="0.4"/>
+  <line x1="410" y1="200" x2="462" y2="200" stroke="#DCD5C8" stroke-width="0.4"/>
+
+  <!-- woman -->
+  <ellipse cx="552" cy="214" rx="10" ry="12" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M542,208 C544,197 560,197 562,208" fill="none" stroke="#1F1B17" stroke-width="0.7"/>
+  <path d="M542,226 C534,250 533,280 537,310 L567,310 C571,280 570,250 562,226 Z" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="543" y1="310" x2="539" y2="330" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="561" y1="310" x2="565" y2="330" stroke="#5C544A" stroke-width="0.6"/>
+  <!-- loose hair strands, not rays -->
+  <path d="M543,208 C535,216 532,228 534,238" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+  <path d="M561,208 C569,216 572,228 570,238" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+  <circle cx="552" cy="196" r="5" fill="none" stroke="#5C544A" stroke-width="0.5"/>
+  <text x="508" y="186" font-size="6.2" fill="#1F1B17">首如飞蓬</text>
+
+  <!-- mirror -->
+  <ellipse cx="474" cy="296" rx="13" ry="19" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="474" y1="315" x2="474" y2="334" stroke="#5C544A" stroke-width="0.5"/>
+  <line x1="464" y1="334" x2="484" y2="334" stroke="#5C544A" stroke-width="0.5"/>
+  <text x="466" y="350" font-size="6.1" fill="#7C6D5C">镜</text>
+
+  <!-- ointment and wash jars -->
+  <path d="M626,310 C626,298 638,298 638,310 L638,332 L626,332 Z" fill="none" stroke="#5C544A" stroke-width="0.6"/>
+  <path d="M656,310 C656,298 668,298 668,310 L668,332 L656,332 Z" fill="none" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="624" y="292" font-size="6.1" fill="#7C6D5C">膏</text>
+  <text x="654" y="292" font-size="6.1" fill="#7C6D5C">沐</text>
+
+  <text x="512" y="342" font-size="6.2" fill="#994433">谁适为容</text>
+  <text x="614" y="352" font-size="6.1" fill="#7C6D5C">岂无膏沐</text>
+
+  <!-- bottom -->
+  <line x1="44" y1="378" x2="716" y2="378" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="44" y="396" font-size="7.2" fill="#994433" font-weight="700">伯兮朅兮，邦之桀兮。伯也执殳，为王前驱。</text>
+  <text x="44" y="418" font-size="6.4" fill="#7C6D5C">自伯之东，首如飞蓬。岂无膏沐？谁适为容！</text>
+  <line x1="44" y1="440" x2="716" y2="440" stroke="#DCD5C8" stroke-width="0.5"/>
+  <text x="44" y="458" font-size="9.4" fill="#994433" font-weight="700" letter-spacing="0.6">他越英武，她越空；役越久，思越深。</text>
+  <text x="44" y="478" font-size="6.6" fill="#7C6D5C">毛序：刺时也。言君子行役，为王前驱，过时而不反焉。</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">伯兮 · 四章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 场景 · sj062a</text>
+</svg>
