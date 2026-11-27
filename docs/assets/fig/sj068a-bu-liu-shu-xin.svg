@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">不流束薪</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·扬之水》　水带不走柴，王带不回人</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ068a</text>
+
+  <rect x="40" y="100" width="680" height="260" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#994433" letter-spacing="1">水带不走柴，王带不回人</text>
+
+  <!-- left: home -->
+  <text x="70" y="150" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">家 · 王畿</text>
+  <path d="M72 256 L72 206 L118 178 L164 206 L164 256 Z" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M72 206 L118 178 L164 206" fill="none" stroke="#994433" stroke-width="1.2"/>
+  <rect x="94" y="224" width="22" height="32" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+
+  <!-- family figure -->
+  <g>
+    <circle cx="218" cy="210" r="7" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+    <path d="M211 210 Q209 204 214 202 Q218 200 221 202 Q226 204 224 210" fill="#1F1B17" opacity="0.45"/>
+    <path d="M218 218 Q208 232 207 262 L229 262 Q228 232 224 218 Z" fill="#7C6D5C"/>
+    <path d="M212 226 L204 244" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M224 226 L232 244" stroke="#7C6D5C" stroke-width="2"/>
+    <path d="M210 262 L209 278 M226 262 L227 278" stroke="#1F1B17" stroke-width="1.1"/>
+  </g>
+  <text x="218" y="294" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">彼其之子</text>
+
+  <!-- bundles -->
+  <g>
+    <rect x="82" y="264" width="28" height="13" fill="none" stroke="#994433" stroke-width="0.9"/>
+    <path d="M85 264 L85 252 M93 264 L93 254 M101 264 L101 252 M109 264 L109 254" stroke="#994433" stroke-width="0.9"/>
+    <path d="M82 270 Q96 276 110 270" stroke="#994433" stroke-width="0.7"/>
+    <text x="96" y="294" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#994433">束薪</text>
+
+    <rect x="128" y="264" width="28" height="13" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M131 264 L131 252 M139 264 L139 254 M147 264 L147 252 M155 264 L155 254" stroke="#7C6D5C" stroke-width="0.9"/>
+    <text x="142" y="294" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#7C6D5C">束楚</text>
+
+    <rect x="174" y="264" width="28" height="13" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M177 264 L177 252 M185 264 L185 254 M193 264 L193 252 M201 264 L201 254" stroke="#7C6D5C" stroke-width="0.9"/>
+    <text x="188" y="294" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#7C6D5C">束蒲</text>
+  </g>
+
+  <!-- river across -->
+  <path d="M52 312 Q140 302 230 312 Q320 322 410 312 Q500 302 590 312 Q650 318 708 312" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <path d="M52 326 Q150 316 250 326 Q350 336 450 326 Q550 316 650 326 Q680 330 708 326" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="344" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">不流：带不走</text>
+
+  <!-- right: frontier -->
+  <text x="468" y="150" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">戍地 · 申</text>
+  <path d="M560 256 L560 198 L660 198 L660 256" fill="none" stroke="#7C6D5C" stroke-width="1.2"/>
+  <path d="M560 198 L575 190 L590 198 L605 190 L620 198 L635 190 L650 198 L660 198" fill="none" stroke="#994433" stroke-width="1"/>
+  <rect x="596" y="224" width="24" height="32" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <text x="610" y="192" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#994433">申</text>
+  <text x="650" y="284" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#9A9186">甫 · 许</text>
+
+  <!-- soldier -->
+  <g>
+    <circle cx="484" cy="210" r="7" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+    <path d="M477 210 Q475 204 480 202 Q484 200 487 202 Q492 204 490 210" fill="#1F1B17" opacity="0.45"/>
+    <path d="M484 218 Q474 232 473 262 L495 262 Q494 232 490 218 Z" fill="#25211D"/>
+    <path d="M478 226 L466 246" stroke="#25211D" stroke-width="2.4"/>
+    <path d="M490 226 L502 246" stroke="#25211D" stroke-width="2.4"/>
+    <path d="M476 262 L475 278 M492 262 L493 278" stroke="#1F1B17" stroke-width="1.1"/>
+    <line x1="506" y1="204" x2="506" y2="280" stroke="#7C6D5C" stroke-width="1.3"/>
+    <path d="M506 204 L502 214 L510 214 Z" fill="#994433"/>
+  </g>
+  <text x="484" y="298" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">戍卒 · 我</text>
+
+  <!-- dashed return arrow blocked -->
+  <path d="M458 240 Q410 224 360 240" fill="none" stroke="#994433" stroke-width="0.9" stroke-dasharray="4 3"/>
+  <path d="M360 240 L367 236 L365 244 Z" fill="#994433"/>
+  <line x1="350" y1="214" x2="350" y2="266" stroke="#1F1B17" stroke-width="1.2"/>
+  <text x="344" y="208" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#1F1B17">王命</text>
+  <text x="400" y="222" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.4" fill="#994433">归？</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="372" x2="720" y2="372" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="396" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9" fill="#1F1B17">扬之水，不流束薪。彼其之子，不与我戍申。</text>
+  <text x="380" y="420" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9" fill="#1F1B17">怀哉怀哉，曷月予还归哉？</text>
+  <text x="380" y="446" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">三章三换：薪/楚/蒲，申/甫/许；归期不换</text>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">归期不由己</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 不流束薪 · sj068a</text>
+</svg>
