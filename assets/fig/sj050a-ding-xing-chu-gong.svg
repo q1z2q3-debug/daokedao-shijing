@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 六</text>
+  <text x="380" y="58" text-anchor="middle" font-size="24" letter-spacing="1.6" fill="#1F1B17" font-weight="700">定之方中，作于楚宫</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">营室昏中 · 揆日定方 · 树艺备材</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- 左：定星与楚宫 -->
+  <rect x="44" y="118" width="306" height="306" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="66" y="146" font-size="9" letter-spacing="1.6" fill="#994433">壹　定星 · 楚宫</text>
+
+  <!-- 定星 -->
+  <g stroke="#994433" stroke-width="0.8" fill="#994433">
+    <rect x="96" y="166" width="7" height="7"/>
+    <rect x="146" y="190" width="7" height="7"/>
+    <line x1="103" y1="170" x2="146" y2="194"/>
+  </g>
+  <text x="108" y="160" font-size="6.2" fill="#7C6D5C">定（营室）</text>
+  <path d="M84,214 Q126,198 168,214" fill="none" stroke="#DCD5C8" stroke-width="0.7" stroke-dasharray="3 3"/>
+  <text x="126" y="226" text-anchor="middle" font-size="6" fill="#9A9186">昏而正中　夏正十月</text>
+
+  <!-- 揆日 -->
+  <g>
+    <circle cx="292" cy="170" r="12" fill="#F2E7D5" stroke="#994433" stroke-width="0.8"/>
+    <g stroke="#994433" stroke-width="0.7">
+      <line x1="292" y1="152" x2="292" y2="158"/><line x1="292" y1="182" x2="292" y2="188"/>
+      <line x1="274" y1="170" x2="280" y2="170"/><line x1="304" y1="170" x2="310" y2="170"/>
+      <line x1="279" y1="157" x2="283" y2="161"/><line x1="301" y1="179" x2="305" y2="183"/>
+    </g>
+    <line x1="292" y1="212" x2="292" y2="252" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M292,252 L262,266" stroke="#994433" stroke-width="0.8" stroke-dasharray="3 2"/>
+    <text x="292" y="270" text-anchor="middle" font-size="6" fill="#7C6D5C">揆之以日</text>
+  </g>
+
+  <!-- 楚宫 -->
+  <g>
+    <rect x="84" y="306" width="182" height="10" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="0.8"/>
+    <rect x="96" y="274" width="10" height="32" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <rect x="132" y="274" width="10" height="32" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <rect x="208" y="274" width="10" height="32" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <rect x="244" y="274" width="10" height="32" fill="#994433" stroke="#994433" stroke-width="0.5"/>
+    <path d="M74,274 L100,244 L250,244 L276,274 Z" fill="#F2E7D5" stroke="#1F1B17" stroke-width="1"/>
+    <path d="M88,244 L112,218 L238,218 L262,244 Z" fill="#F2E7D5" stroke="#1F1B17" stroke-width="1"/>
+    <line x1="112" y1="244" x2="238" y2="244" stroke="#7C6D5C" stroke-width="0.6"/>
+  </g>
+  <text x="175" y="336" text-anchor="middle" font-size="7.2" fill="#994433">楚宫 · 楚丘之宫</text>
+  <text x="175" y="352" text-anchor="middle" font-size="6" fill="#7C6D5C">作于楚宫；作于楚室</text>
+
+  <!-- 右：六木与琴瑟 -->
+  <rect x="390" y="118" width="326" height="306" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="412" y="146" font-size="9" letter-spacing="1.6" fill="#994433">贰　六木 · 琴瑟</text>
+
+  <g stroke="#7C6D5C" stroke-width="0.8" fill="#F2E7D5">
+    <!-- 榛 -->
+    <path d="M430,208 L430,244" stroke="#7C6D5C" stroke-width="1"/>
+    <circle cx="430" cy="202" r="16" fill="#E8DCC8"/><circle cx="418" cy="214" r="10" fill="#E8DCC8"/><circle cx="442" cy="214" r="10" fill="#E8DCC8"/>
+    <circle cx="423" cy="205" r="2.2" fill="#994433"/><circle cx="437" cy="210" r="2.2" fill="#994433"/>
+    <!-- 栗 -->
+    <path d="M500,208 L500,248" stroke="#7C6D5C" stroke-width="1"/>
+    <circle cx="500" cy="198" r="20" fill="#E8DCC8"/><circle cx="488" cy="212" r="10" fill="#E8DCC8"/><circle cx="512" cy="212" r="10" fill="#E8DCC8"/>
+    <g stroke="#994433" stroke-width="0.5" fill="none"><path d="M492,222 l4,-5 l4,5 l4,-5 l4,5"/><path d="M508,222 l4,-5 l4,5 l4,-5"/></g>
+    <!-- 椅 -->
+    <path d="M570,210 L570,248" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M570,214 Q550,196 548,180 Q566,190 570,202 Q574,184 592,178 Q590,198 570,214 Z" fill="#E8DCC8"/>
+    <line x1="570" y1="214" x2="556" y2="230" stroke="#7C6D5C" stroke-width="0.5"/>
+
+    <!-- 桐 -->
+    <path d="M438,302 L438,338" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M438,304 Q414,286 410,270 Q432,276 438,292 Q444,272 466,268 Q464,288 438,304 Z" fill="#E8DCC8"/>
+    <line x1="438" y1="304" x2="422" y2="318" stroke="#7C6D5C" stroke-width="0.5"/>
+    <!-- 梓 -->
+    <path d="M510,304 L510,340" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M510,306 Q488,290 486,274 Q506,280 510,294 Q514,276 534,272 Q532,292 510,306 Z" fill="#E8DCC8"/>
+    <line x1="510" y1="306" x2="496" y2="320" stroke="#7C6D5C" stroke-width="0.5"/>
+    <!-- 漆 -->
+    <path d="M580,304 L580,340" stroke="#7C6D5C" stroke-width="1"/>
+    <path d="M580,306 Q560,292 558,278 Q576,284 580,296 Q584,280 602,276 Q600,294 580,306 Z" fill="#E8DCC8"/>
+    <line x1="580" y1="306" x2="566" y2="320" stroke="#7C6D5C" stroke-width="0.5"/>
+    <circle cx="572" cy="318" r="2" fill="#994433"/>
+  </g>
+
+  <g font-size="6.2" fill="#7C6D5C" text-anchor="middle">
+    <text x="430" y="258">榛</text>
+    <text x="500" y="262">栗</text>
+    <text x="570" y="262">椅</text>
+    <text x="438" y="354">桐</text>
+    <text x="510" y="356">梓</text>
+    <text x="580" y="356">漆</text>
+  </g>
+
+  <!-- 琴瑟 -->
+  <g>
+    <rect x="420" y="372" width="250" height="24" rx="8" fill="#F2E7D5" stroke="#1F1B17" stroke-width="0.8"/>
+    <g stroke="#7C6D5C" stroke-width="0.5">
+      <line x1="430" y1="378" x2="660" y2="378"/><line x1="430" y1="383" x2="660" y2="383"/>
+      <line x1="430" y1="388" x2="660" y2="388"/><line x1="430" y1="393" x2="660" y2="393"/>
+    </g>
+    <text x="545" y="412" text-anchor="middle" font-size="7.2" fill="#994433">爰伐琴瑟</text>
+    <text x="545" y="426" text-anchor="middle" font-size="6" fill="#7C6D5C">六木长成，伐为琴瑟</text>
+  </g>
+
+  <line x1="44" y1="438" x2="716" y2="438" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="468" text-anchor="middle" font-size="16" letter-spacing="1.8" fill="#1F1B17">树之榛栗，椅桐梓漆，爰伐琴瑟</text>
+  <text x="380" y="488" text-anchor="middle" font-size="7.6" letter-spacing="1" fill="#7C6D5C">先种六木，后伐为琴瑟：复国是长线的事</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">定星 · 营室 · 楚丘</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj050a</text>
+</svg>
