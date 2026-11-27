@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 九</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.6" fill="#1F1B17" font-weight="700">礼愈厚，问愈深</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十三</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》鄘风 · 第九篇　干旄</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- axis -->
+  <line x1="92" y1="380" x2="92" y2="150" stroke="#5C544A" stroke-width="1"/>
+  <path d="M92,150 L86,160 L98,160 Z" fill="#5C544A"/>
+  <text x="74" y="270" transform="rotate(-90 74 270)" text-anchor="middle" font-size="7.4" letter-spacing="2" fill="#7C6D5C">礼愈厚</text>
+
+  <!-- row 1 -->
+  <circle cx="92" cy="330" r="13" fill="#EADFCA" stroke="#994433" stroke-width="0.8"/>
+  <text x="92" y="334" text-anchor="middle" font-size="9" fill="#994433">一</text>
+  <rect x="118" y="308" width="250" height="44" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="136" y="328" font-size="8.2" letter-spacing="1" fill="#1F1B17">干旄 · 良马四之</text>
+  <text x="136" y="342" font-size="6.4" fill="#7C6D5C">浚之郊；素丝纰之</text>
+  <path d="M372,330 L398,330" stroke="#994433" stroke-width="1.2"/>
+  <path d="M398,330 L390,326 M398,330 L390,334" fill="#994433"/>
+  <rect x="404" y="308" width="186" height="44" fill="#FBF1E6" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="496" y="330" text-anchor="middle" font-size="10" letter-spacing="1" fill="#994433">何以畀之</text>
+  <text x="496" y="344" text-anchor="middle" font-size="6" fill="#9A9186">给什么</text>
+
+  <!-- row 2 -->
+  <circle cx="92" cy="264" r="13" fill="#EADFCA" stroke="#994433" stroke-width="0.8"/>
+  <text x="92" y="268" text-anchor="middle" font-size="9" fill="#994433">二</text>
+  <rect x="138" y="242" width="250" height="44" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="156" y="262" font-size="8.2" letter-spacing="1" fill="#1F1B17">干旟 · 良马五之</text>
+  <text x="156" y="276" font-size="6.4" fill="#7C6D5C">浚之都；素丝组之</text>
+  <path d="M392,264 L414,264" stroke="#994433" stroke-width="1.2"/>
+  <path d="M414,264 L406,260 M414,264 L406,268" fill="#994433"/>
+  <rect x="404" y="242" width="186" height="44" fill="#FBF1E6" stroke="#DCD5C8" stroke-width="0.6"/>
+  <text x="496" y="264" text-anchor="middle" font-size="10" letter-spacing="1" fill="#994433">何以予之</text>
+  <text x="496" y="278" text-anchor="middle" font-size="6" fill="#9A9186">给什么</text>
+
+  <!-- row 3 -->
+  <circle cx="92" cy="198" r="13" fill="#994433" stroke="#994433" stroke-width="0.8"/>
+  <text x="92" y="202" text-anchor="middle" font-size="9" fill="#F7F4EE">三</text>
+  <rect x="158" y="176" width="250" height="44" fill="#FBF1E6" stroke="#994433" stroke-width="0.9"/>
+  <text x="176" y="196" font-size="8.2" letter-spacing="1" fill="#1F1B17">干旌 · 良马六之</text>
+  <text x="176" y="210" font-size="6.4" fill="#7C6D5C">浚之城；素丝祝之</text>
+  <path d="M412,198 L434,198" stroke="#994433" stroke-width="1.2"/>
+  <path d="M434,198 L426,194 M434,198 L426,202" fill="#994433"/>
+  <rect x="440" y="176" width="186" height="44" fill="#994433" stroke="#994433" stroke-width="0.8"/>
+  <text x="532" y="198" text-anchor="middle" font-size="10" letter-spacing="1" fill="#F7F4EE">何以告之</text>
+  <text x="532" y="212" text-anchor="middle" font-size="6" fill="#F2E7D5">告以善道</text>
+
+  <!-- diagonal arrow -->
+
+  <line x1="44" y1="404" x2="716" y2="404" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="434" text-anchor="middle" font-size="15" letter-spacing="1.2" fill="#1F1B17">礼愈厚，问愈深；受礼者何以答之</text>
+  <text x="380" y="454" text-anchor="middle" font-size="7.2" letter-spacing="0.8" fill="#7C6D5C">由「畀」到「予」，由「予」到「告」：不是欠物，是欠道</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">干旄 · 三礼三问</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj053b</text>
+</svg>

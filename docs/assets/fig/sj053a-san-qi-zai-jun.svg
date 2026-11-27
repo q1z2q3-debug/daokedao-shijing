@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 九</text>
+  <text x="380" y="58" text-anchor="middle" font-size="24" letter-spacing="1.4" fill="#1F1B17" font-weight="700">孑孑干旄，在浚之郊</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十三</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">三旗：旄、旟、旌；三地：郊、都、城</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- panel 1 干旄 -->
+  <rect x="44" y="118" width="206" height="294" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="64" y="144" font-size="8.4" letter-spacing="1.2" fill="#994433">壹　干旄</text>
+  <line x1="64" y1="366" x2="230" y2="366" stroke="#7C6D5C" stroke-width="0.7"/>
+  <!-- pole -->
+  <line x1="120" y1="170" x2="120" y2="340" stroke="#5C544A" stroke-width="2.4"/>
+  <line x1="112" y1="340" x2="128" y2="340" stroke="#5C544A" stroke-width="1.6"/>
+  <!-- ox tail tuft -->
+  <path d="M120,170 C112,154 104,150 100,138 M120,170 C120,152 118,144 116,134 M120,170 C128,154 136,150 140,138" fill="none" stroke="#994433" stroke-width="2"/>
+  <circle cx="120" cy="170" r="3.2" fill="#994433"/>
+  <!-- banner -->
+  <path d="M120,180 L184,180 L184,238 L120,238 Z" fill="#994433" opacity="0.9"/>
+  <path d="M120,180 L184,180 L184,238 L120,238 Z" fill="none" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="152" y="212" text-anchor="middle" font-size="7.4" fill="#F7F4EE" letter-spacing="1">旄</text>
+  <!-- label -->
+  <text x="147" y="386" text-anchor="middle" font-size="7.2" fill="#994433">干旄：注旄于干首</text>
+  <text x="147" y="402" text-anchor="middle" font-size="6" fill="#7C6D5C">浚之郊；良马四之</text>
+  <!-- horses 4 -->
+  <g fill="#7C6D5C">
+    <path d="M74,424 L74,410 L80,406 L84,410 L86,404 L90,410 L94,408 L94,424 Z"/>
+    <path d="M104,424 L104,410 L110,406 L114,410 L116,404 L120,410 L124,408 L124,424 Z"/>
+    <path d="M134,424 L134,410 L140,406 L144,410 L146,404 L150,410 L154,408 L154,424 Z"/>
+    <path d="M164,424 L164,410 L170,406 L174,410 L176,404 L180,410 L184,408 L184,424 Z"/>
+  </g>
+  <text x="147" y="444" text-anchor="middle" font-size="6" fill="#9A9186">四马</text>
+
+  <!-- panel 2 干旟 -->
+  <rect x="277" y="118" width="206" height="294" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="297" y="144" font-size="8.4" letter-spacing="1.2" fill="#994433">贰　干旟</text>
+  <line x1="297" y1="366" x2="463" y2="366" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="354" y1="170" x2="354" y2="340" stroke="#5C544A" stroke-width="2.4"/>
+  <line x1="346" y1="340" x2="362" y2="340" stroke="#5C544A" stroke-width="1.6"/>
+  <!-- tuft -->
+  <path d="M354,170 C346,156 340,152 336,142 M354,170 C354,154 352,146 350,138 M354,170 C362,156 368,152 372,142" fill="none" stroke="#994433" stroke-width="1.8"/>
+  <!-- banner with bird -->
+  <path d="M354,180 L418,180 L418,242 L354,242 Z" fill="#EADFCA" stroke="#5C544A" stroke-width="0.7"/>
+  <!-- bird silhouette -->
+  <path d="M370,222 L380,208 L390,214 L400,206 L410,214 L410,226 L400,232 L392,226 L384,232 L376,228 Z" fill="#1F1B17"/>
+  <path d="M400,214 L414,206 L408,216" fill="#1F1B17"/>
+  <text x="386" y="256" text-anchor="middle" font-size="7" fill="#5C544A" letter-spacing="1">鸟隼曰旟</text>
+  <text x="380" y="386" text-anchor="middle" font-size="7.2" fill="#994433">干旟：鸟隼之旗</text>
+  <text x="380" y="402" text-anchor="middle" font-size="6" fill="#7C6D5C">浚之都；良马五之</text>
+  <!-- horses 5 -->
+  <g fill="#7C6D5C">
+    <path d="M300,424 L300,410 L306,406 L310,410 L312,404 L316,410 L320,408 L320,424 Z"/>
+    <path d="M326,424 L326,410 L332,406 L336,410 L338,404 L342,410 L346,408 L346,424 Z"/>
+    <path d="M352,424 L352,410 L358,406 L362,410 L364,404 L368,410 L372,408 L372,424 Z"/>
+    <path d="M378,424 L378,410 L384,406 L388,410 L390,404 L394,410 L398,408 L398,424 Z"/>
+    <path d="M404,424 L404,410 L410,406 L414,410 L416,404 L420,410 L424,408 L424,424 Z"/>
+  </g>
+  <text x="380" y="444" text-anchor="middle" font-size="6" fill="#9A9186">五马</text>
+
+  <!-- panel 3 干旌 -->
+  <rect x="510" y="118" width="206" height="294" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="530" y="144" font-size="8.4" letter-spacing="1.2" fill="#994433">叁　干旌</text>
+  <line x1="530" y1="366" x2="696" y2="366" stroke="#7C6D5C" stroke-width="0.7"/>
+  <line x1="587" y1="170" x2="587" y2="340" stroke="#5C544A" stroke-width="2.4"/>
+  <line x1="579" y1="340" x2="595" y2="340" stroke="#5C544A" stroke-width="1.6"/>
+  <!-- feathers -->
+  <path d="M587,170 C580,150 574,142 570,130 M587,170 C587,150 586,140 584,128 M587,170 C594,150 600,142 604,130" fill="none" stroke="#994433" stroke-width="1.8"/>
+  <!-- banner with feathers -->
+  <path d="M587,182 L651,182 L651,250 L587,250 Z" fill="#F3ECE0" stroke="#5C544A" stroke-width="0.7"/>
+  <g stroke="#994433" stroke-width="1.2">
+    <path d="M600,240 C598,218 602,204 610,196"/>
+    <path d="M616,240 C614,218 618,204 626,196"/>
+    <path d="M632,240 C630,218 634,204 642,196"/>
+  </g>
+  <text x="619" y="264" text-anchor="middle" font-size="7" fill="#5C544A" letter-spacing="1">析羽为旌</text>
+  <text x="610" y="386" text-anchor="middle" font-size="7.2" fill="#994433">干旌：析羽之旗</text>
+  <text x="610" y="402" text-anchor="middle" font-size="6" fill="#7C6D5C">浚之城；良马六之</text>
+  <!-- horses 6 -->
+  <g fill="#7C6D5C">
+    <path d="M528,424 L528,410 L534,406 L538,410 L540,404 L544,410 L548,408 L548,424 Z"/>
+    <path d="M554,424 L554,410 L560,406 L564,410 L566,404 L570,410 L574,408 L574,424 Z"/>
+    <path d="M580,424 L580,410 L586,406 L590,410 L592,404 L596,410 L600,408 L600,424 Z"/>
+    <path d="M606,424 L606,410 L612,406 L616,410 L618,404 L622,410 L626,408 L626,424 Z"/>
+    <path d="M632,424 L632,410 L638,406 L642,410 L644,404 L648,410 L652,408 L652,424 Z"/>
+    <path d="M658,424 L658,410 L664,406 L668,410 L670,404 L674,410 L678,408 L678,424 Z"/>
+  </g>
+  <text x="610" y="444" text-anchor="middle" font-size="6" fill="#9A9186">六马</text>
+
+  <line x1="44" y1="470" x2="716" y2="470" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="492" text-anchor="middle" font-size="12" letter-spacing="1.2" fill="#1F1B17">素丝纰之，良马四之；素丝组之，良马五之；素丝祝之，良马六之</text>
+  <text x="380" y="508" text-anchor="middle" font-size="6.8" letter-spacing="0.8" fill="#7C6D5C">旗愈进，马愈多；礼愈厚，问愈深</text>
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">干旄 · 三旗三地</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj053a</text>
+</svg>
