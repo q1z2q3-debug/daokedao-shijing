@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 十</text>
+  <text x="380" y="58" text-anchor="middle" font-size="24" letter-spacing="1.2" fill="#1F1B17" font-weight="700">载驰载驱，归唁卫侯</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十四</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">许 → 卫（漕）；由归唁到控于大邦</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- 许 city -->
+  <g>
+    <rect x="66" y="250" width="96" height="64" fill="#EADFCA" stroke="#5C544A" stroke-width="0.9"/>
+    <path d="M66,250 L66,238 L78,238 L78,250 M78,250 L78,238 L90,238 L90,250 M90,250 L90,238 L102,238 L102,250 M102,250 L102,238 L114,238 L114,250 M114,250 L114,238 L126,238 L126,250 M126,250 L126,238 L138,238 L138,250 M138,250 L138,238 L150,238 L150,250 M150,250 L150,238 L162,238 L162,250" stroke="#5C544A" stroke-width="0.8"/>
+    <rect x="104" y="278" width="20" height="36" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.7"/>
+    <text x="114" y="274" text-anchor="middle" font-size="9" fill="#1F1B17">许</text>
+  </g>
+  <text x="114" y="336" text-anchor="middle" font-size="7.4" fill="#994433">许国</text>
+  <text x="114" y="350" text-anchor="middle" font-size="6" fill="#7C6D5C">许穆夫人所嫁</text>
+
+  <!-- route -->
+  <path d="M162,282 C240,282 280,300 340,300 C430,300 500,290 550,282 L604,282" fill="none" stroke="#994433" stroke-width="1.4" stroke-dasharray="7 5"/>
+  <path d="M604,282 L594,277 M604,282 L594,287" fill="#994433"/>
+  <text x="380" y="268" text-anchor="middle" font-size="7.2" letter-spacing="1" fill="#994433">载驰载驱，驱马悠悠</text>
+
+  <!-- cart & horses -->
+  <g>
+    <rect x="368" y="300" width="58" height="30" fill="#EADFCA" stroke="#5C544A" stroke-width="0.8"/>
+    <path d="M368,330 L426,330" stroke="#5C544A" stroke-width="0.8"/>
+    <circle cx="382" cy="340" r="7" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+    <circle cx="412" cy="340" r="7" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+    <path d="M368,308 L344,308" stroke="#5C544A" stroke-width="0.9"/>
+    <path d="M344,308 L338,300 M344,308 L338,316" stroke="#5C544A" stroke-width="0.7"/>
+    <!-- horses -->
+    <path d="M336,308 L336,296 L342,292 L346,296 L348,290 L352,296 L356,294 L356,308 Z" fill="#7C6D5C"/>
+    <path d="M326,308 L326,296 L332,292 L336,296 L338,290 L342,296 L346,294 L346,308 Z" fill="#7C6D5C"/>
+  </g>
+  <text x="396" y="356" text-anchor="middle" font-size="6" fill="#9A9186">驰驱</text>
+
+  <!-- 阿丘 -->
+  <g>
+    <path d="M250,330 C270,300 300,290 330,330 Z" fill="#E8DCC8" stroke="#7C6D5C" stroke-width="0.7"/>
+    <path d="M272,312 C276,302 282,300 286,308 M286,312 C290,302 296,300 300,308" stroke="#5C544A" stroke-width="0.9"/>
+    <text x="290" y="344" text-anchor="middle" font-size="6.6" fill="#7C6D5C">阿丘 · 采蝱</text>
+  </g>
+
+  <!-- 大夫跋涉 -->
+  <g>
+    <circle cx="480" cy="306" r="4" fill="#5C544A"/>
+    <path d="M480,310 L480,326 M480,316 L472,324 M480,316 L488,324 M480,326 L474,338 M480,326 L486,338" stroke="#5C544A" stroke-width="0.8"/>
+    <circle cx="500" cy="306" r="4" fill="#5C544A"/>
+    <path d="M500,310 L500,326 M500,316 L492,324 M500,316 L508,324 M500,326 L494,338 M500,326 L506,338" stroke="#5C544A" stroke-width="0.8"/>
+    <text x="490" y="352" text-anchor="middle" font-size="6.2" fill="#994433">大夫跋涉</text>
+  </g>
+
+  <!-- 漕 city -->
+  <g>
+    <rect x="604" y="242" width="86" height="64" fill="#EADFCA" stroke="#5C544A" stroke-width="0.9"/>
+    <path d="M604,242 L604,230 L616,230 L616,242 M616,242 L616,230 L628,230 L628,242 M628,242 L628,230 L640,230 L640,242 M640,242 L640,230 L652,230 L652,242 M652,242 L652,230 L664,230 L664,242 M664,242 L664,230 L676,230 L676,242 M676,242 L676,230 L690,230 L690,242" stroke="#5C544A" stroke-width="0.8"/>
+    <rect x="638" y="270" width="18" height="36" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.7"/>
+    <text x="647" y="266" text-anchor="middle" font-size="9" fill="#1F1B17">漕</text>
+  </g>
+  <text x="647" y="326" text-anchor="middle" font-size="7.4" fill="#994433">卫 · 漕邑</text>
+  <text x="647" y="340" text-anchor="middle" font-size="6" fill="#7C6D5C">戴公庐于此</text>
+
+  <!-- 麦 -->
+  <g stroke="#994433" stroke-width="0.8" opacity="0.8">
+    <path d="M560,370 L560,354 M564,370 L564,350 M568,370 L568,356 M572,370 L572,348 M576,370 L576,354 M580,370 L580,350"/>
+  </g>
+  <text x="570" y="388" text-anchor="middle" font-size="6.2" fill="#7C6D5C">芃芃其麦</text>
+
+  <!-- 控于大邦 -->
+  <path d="M690,286 L716,286" stroke="#994433" stroke-width="1.2"/>
+  <path d="M716,286 L708,282 M716,286 L708,290" fill="#994433"/>
+  <text x="704" y="274" text-anchor="end" font-size="6.4" fill="#994433">控于大邦</text>
+
+  <line x1="44" y1="414" x2="716" y2="414" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="440" text-anchor="middle" font-size="14" letter-spacing="1" fill="#1F1B17">归唁其兄，又义不得；控于大邦，谁因谁极</text>
+  <text x="380" y="460" text-anchor="middle" font-size="7.2" letter-spacing="0.8" fill="#7C6D5C">许小力弱，不能救卫；她仍要走一趟</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">载驰 · 许至漕</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 行程 · sj054a</text>
+</svg>
