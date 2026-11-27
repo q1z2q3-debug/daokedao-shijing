@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 四</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">氓之蚩蚩，抱布贸丝</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十八</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第四篇　氓</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- left panel: trade -->
+  <rect x="44" y="116" width="206" height="248" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="56" y="136" font-size="7.4" fill="#994433" font-weight="700">贸丝</text>
+  <!-- man -->
+  <ellipse cx="98" cy="176" rx="11" ry="13" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M88,170 C90,158 106,158 108,170" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+  <path d="M88,190 C78,210 76,244 80,282 L116,282 C120,244 118,210 108,190 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M90,202 C82,224 80,248 84,270" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M106,202 C114,224 116,248 112,270" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <!-- cloth bolt -->
+  <rect x="118" y="208" width="30" height="14" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.8"/>
+  <g stroke="#7C6D5C" stroke-width="0.4">
+    <line x1="122" y1="208" x2="122" y2="222"/><line x1="128" y1="208" x2="128" y2="222"/>
+    <line x1="134" y1="208" x2="134" y2="222"/><line x1="140" y1="208" x2="140" y2="222"/>
+  </g>
+  <text x="124" y="200" font-size="5.8" fill="#7C6D5C">布（币）</text>
+  <!-- woman -->
+  <ellipse cx="188" cy="176" rx="11" ry="13" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M178,170 C180,158 196,158 198,170" fill="none" stroke="#1F1B17" stroke-width="0.9"/>
+  <circle cx="199" cy="160" r="4.5" fill="none" stroke="#1F1B17" stroke-width="0.6"/>
+  <path d="M178,190 C168,210 166,244 170,282 L206,282 C210,244 208,210 198,190 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M180,202 C172,224 170,248 174,270" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M196,202 C204,224 206,248 202,270" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <!-- silk skein -->
+  <circle cx="172" cy="228" r="10" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <circle cx="172" cy="228" r="5" fill="none" stroke="#7C6D5C" stroke-width="0.5"/>
+  <line x1="162" y1="228" x2="182" y2="228" stroke="#7C6D5C" stroke-width="0.4"/>
+  <line x1="172" y1="218" x2="172" y2="238" stroke="#7C6D5C" stroke-width="0.4"/>
+  <text x="184" y="232" font-size="5.8" fill="#7C6D5C">丝</text>
+  <!-- table -->
+  <rect x="130" y="258" width="50" height="6" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="136" y1="264" x2="136" y2="280" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="174" y1="264" x2="174" y2="280" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="56" y="348" font-size="5.8" fill="#7C6D5C">匪来贸丝，来即我谋</text>
+
+  <!-- center panel: Qi river route -->
+  <rect x="270" y="116" width="216" height="248" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="282" y="136" font-size="7.4" fill="#994433" font-weight="700">淇水一线</text>
+  <!-- river -->
+  <path d="M300,150 C330,170 350,160 370,190 C390,220 360,240 350,260 C340,280 370,300 400,320 C420,332 440,330 460,340" fill="none" stroke="#9A9186" stroke-width="1.4"/>
+  <path d="M306,156 C336,176 356,166 376,196 C396,226 366,246 356,266 C346,286 376,306 406,326 C426,338 446,336 466,346" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="306" y="172" font-size="5.4" fill="#7C6D5C" transform="rotate(18 306 172)">淇水</text>
+  <!-- Dunqiu mound -->
+  <path d="M392,178 C400,166 416,166 424,178 L424,184 L392,184 Z" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="430" y="180" font-size="5.8" fill="#1F1B17">顿丘</text>
+  <!-- Fuguan gate -->
+  <path d="M326,236 L326,258 L350,258 L350,236" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M322,236 L338,224 L354,236" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="338" y1="224" x2="338" y2="258" stroke="#7C6D5C" stroke-width="0.5"/>
+  <text x="358" y="248" font-size="5.8" fill="#1F1B17">复关</text>
+  <!-- ruined wall -->
+  <path d="M392,314 L392,340 L448,340 L448,314 L438,314 L438,322 L428,322 L428,314 L418,314 L418,322 L408,322 L408,314 L398,314 L398,322 L392,322 Z" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="392" y="356" font-size="5.8" fill="#1F1B17">毁墙</text>
+  <!-- arrows/labels -->
+  <text x="286" y="210" font-size="5.4" fill="#994433">送子涉淇</text>
+  <path d="M310,214 L334,214" fill="none" stroke="#994433" stroke-width="0.6"/>
+  <path d="M334,214 L328,211 M334,214 L328,217" fill="none" stroke="#994433" stroke-width="0.6"/>
+  <text x="354" y="292" font-size="5.4" fill="#994433">以望复关</text>
+  <text x="430" y="312" font-size="5.4" fill="#994433">以尔车来</text>
+
+  <!-- right panel: mulberry and dove -->
+  <rect x="506" y="116" width="210" height="248" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="518" y="136" font-size="7.4" fill="#994433" font-weight="700">桑与鸠</text>
+  <!-- branch -->
+  <path d="M520,310 C560,290 590,300 630,270 C660,250 680,250 700,240" fill="none" stroke="#5C544A" stroke-width="1.1"/>
+  <!-- green leaves -->
+  <g fill="#7C8A5E" stroke="#5C544A" stroke-width="0.5">
+    <path d="M552,292 C540,276 548,258 566,254 C570,270 566,286 552,292 Z"/>
+    <path d="M596,286 C584,270 592,252 610,248 C614,264 610,280 596,286 Z"/>
+    <path d="M642,264 C630,248 638,230 656,226 C660,242 656,258 642,264 Z"/>
+    <path d="M678,252 C666,236 674,218 692,214 C696,230 692,246 678,252 Z"/>
+  </g>
+  <!-- yellow falling leaves -->
+  <g fill="#C9A35C" stroke="#9A9186" stroke-width="0.5">
+    <path d="M570,300 C558,314 544,318 536,310 C540,296 554,290 570,300 Z"/>
+    <path d="M620,292 C608,306 594,310 586,302 C590,288 604,282 620,292 Z"/>
+    <path d="M660,286 C648,300 634,304 626,296 C630,282 644,276 660,286 Z"/>
+  </g>
+  <!-- dove -->
+  <path d="M610,244 C618,232 632,230 640,240 C646,248 642,258 632,260 C622,262 612,256 610,244 Z" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M640,240 C648,236 654,238 656,244" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <circle cx="634" cy="242" r="0.9" fill="#1F1B17"/>
+  <!-- berries -->
+  <g fill="#994433">
+    <circle cx="600" cy="258" r="1.8"/><circle cx="606" cy="264" r="1.8"/><circle cx="596" cy="266" r="1.8"/>
+  </g>
+  <text x="518" y="330" font-size="5.6" fill="#7C6D5C">桑之未落，其叶沃若</text>
+  <text x="518" y="344" font-size="5.6" fill="#7C6D5C">桑之落矣，其黄而陨</text>
+  <text x="518" y="358" font-size="5.4" fill="#994433">鸠食葚则醉，女耽则伤</text>
+
+  <!-- bottom strip -->
+  <line x1="44" y1="378" x2="716" y2="378" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="44" y="396" font-size="7.2" fill="#994433" font-weight="700">总角之宴，言笑晏晏</text>
+  <text x="44" y="412" font-size="5.6" fill="#7C6D5C">总角：女子未许嫁、未笄，结发为饰；童年少年时。</text>
+  <!-- two child heads with buns -->
+  <g fill="none" stroke="#5C544A" stroke-width="0.8">
+    <circle cx="530" cy="430" r="9"/>
+    <path d="M521,426 C523,416 537,416 539,426"/>
+    <circle cx="526" cy="416" r="4"/>
+    <circle cx="586" cy="430" r="9"/>
+    <path d="M577,426 C579,416 593,416 595,426"/>
+    <circle cx="582" cy="416" r="4"/>
+  </g>
+  <text x="512" y="454" font-size="5.4" fill="#7C6D5C">总角</text>
+  <!-- broken oath tablet -->
+  <rect x="630" y="416" width="28" height="26" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M644,416 L640,442" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <path d="M640,428 L636,424 M640,428 L644,424" fill="none" stroke="#994433" stroke-width="0.5"/>
+  <text x="626" y="456" font-size="5.4" fill="#994433">信誓旦旦，不思其反</text>
+
+  <text x="380" y="484" text-anchor="middle" font-size="8.2" fill="#7C6D5C">来时以尔车来，去时渐车帷裳</text>
+  <text x="380" y="500" text-anchor="middle" font-size="5.8" fill="#9A9186">同一辆车，两个方向</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">氓 · 六章章十句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj058a</text>
+</svg>

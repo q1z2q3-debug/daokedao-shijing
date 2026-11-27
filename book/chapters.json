@@ -1,7 +1,7 @@
 {
- "version": "0.3.58",
+ "version": "0.3.59",
  "total": 305,
- "count": 57,
+ "count": 58,
  "chapters": [
   {
    "no": 1,
@@ -287,6 +287,11 @@
    "no": 57,
    "key": "sj057",
    "title": "硕人"
+  },
+  {
+   "no": 58,
+   "key": "sj058",
+   "title": "氓"
   }
  ]
 }

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 四</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">六章六变</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十八</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第四篇　氓</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <text x="44" y="120" font-size="7.8" fill="#7C6D5C">桑之未落，其叶沃若</text>
+  <text x="716" y="120" text-anchor="end" font-size="7.8" fill="#994433">桑之落矣，其黄而陨</text>
+
+  <!-- branch -->
+  <path d="M44,292 C160,280 260,300 370,290 C480,280 590,300 716,286" fill="none" stroke="#5C544A" stroke-width="1.6"/>
+  <path d="M44,298 C160,286 260,306 370,296 C480,286 590,306 716,292" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <!-- leaf stems -->
+  <g stroke="#5C544A" stroke-width="0.7">
+    <line x1="120" y1="292" x2="120" y2="258"/>
+    <line x1="228" y1="292" x2="228" y2="258"/>
+    <line x1="336" y1="292" x2="336" y2="258"/>
+    <line x1="444" y1="292" x2="444" y2="258"/>
+    <line x1="552" y1="292" x2="552" y2="258"/>
+    <line x1="660" y1="292" x2="660" y2="258"/>
+  </g>
+
+  <!-- leaf 1 -->
+  <path d="M120,258 C106,236 112,210 130,204 C140,222 136,244 120,258 Z" fill="#6F7F5A" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="120" y1="258" x2="126" y2="216" stroke="#3F4A36" stroke-width="0.5"/>
+  <!-- leaf 2 -->
+  <path d="M228,258 C214,236 220,210 238,204 C248,222 244,244 228,258 Z" fill="#7C8A5E" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="228" y1="258" x2="234" y2="216" stroke="#3F4A36" stroke-width="0.5"/>
+  <!-- leaf 3 -->
+  <path d="M336,258 C322,236 328,210 346,204 C356,222 352,244 336,258 Z" fill="#A8A05E" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="336" y1="258" x2="342" y2="216" stroke="#6A6438" stroke-width="0.5"/>
+  <!-- leaf 4 -->
+  <path d="M444,258 C430,236 436,210 454,204 C464,222 460,244 444,258 Z" fill="#C9A35C" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="444" y1="258" x2="450" y2="216" stroke="#7C6232" stroke-width="0.5"/>
+  <!-- leaf 5 -->
+  <path d="M552,258 C538,236 544,210 562,204 C572,222 568,244 552,258 Z" fill="#A97B4C" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="552" y1="258" x2="558" y2="216" stroke="#6E4A2C" stroke-width="0.5"/>
+  <!-- leaf 6 -->
+  <path d="M660,258 C646,236 652,210 670,204 C680,222 676,244 660,258 Z" fill="#8C6A50" stroke="#5C544A" stroke-width="0.6"/>
+  <line x1="660" y1="258" x2="666" y2="216" stroke="#573E2C" stroke-width="0.5"/>
+
+  <!-- chapter labels -->
+  <g fill="#1F1B17">
+    <text x="120" y="338" text-anchor="middle" font-size="7.2" font-weight="700">一　贸丝·约期</text>
+    <text x="228" y="338" text-anchor="middle" font-size="7.2" font-weight="700">二　毁墙·望</text>
+    <text x="336" y="338" text-anchor="middle" font-size="7.2" font-weight="700">三　桑未落·耽</text>
+    <text x="444" y="338" text-anchor="middle" font-size="7.2" font-weight="700">四　桑落·贰行</text>
+    <text x="552" y="338" text-anchor="middle" font-size="7.2" font-weight="700">五　为妇·暴</text>
+    <text x="660" y="338" text-anchor="middle" font-size="7.2" font-weight="700">六　偕老·已</text>
+  </g>
+  <g fill="#7C6D5C">
+    <text x="120" y="358" text-anchor="middle" font-size="5.4">匪来贸丝</text>
+    <text x="120" y="370" text-anchor="middle" font-size="5.4">来即我谋</text>
+    <text x="228" y="358" text-anchor="middle" font-size="5.4">不见复关</text>
+    <text x="228" y="370" text-anchor="middle" font-size="5.4">泣涕涟涟</text>
+    <text x="336" y="358" text-anchor="middle" font-size="5.4">士之耽兮</text>
+    <text x="336" y="370" text-anchor="middle" font-size="5.4">犹可说也</text>
+    <text x="444" y="358" text-anchor="middle" font-size="5.4">女也不爽</text>
+    <text x="444" y="370" text-anchor="middle" font-size="5.4">士贰其行</text>
+    <text x="552" y="358" text-anchor="middle" font-size="5.4">至于暴矣</text>
+    <text x="552" y="370" text-anchor="middle" font-size="5.4">兄弟咥笑</text>
+    <text x="660" y="358" text-anchor="middle" font-size="5.4">反是不思</text>
+    <text x="660" y="370" text-anchor="middle" font-size="5.4">亦已焉哉</text>
+  </g>
+
+  <!-- emotion line -->
+  <line x1="86" y1="420" x2="690" y2="420" stroke="#DCD5C8" stroke-width="0.8"/>
+  <g fill="#994433" font-size="7.4" font-weight="700">
+    <text x="86" y="442" text-anchor="middle">信</text>
+    <text x="254" y="442" text-anchor="middle">疑</text>
+    <text x="422" y="442" text-anchor="middle">怨</text>
+    <text x="590" y="442" text-anchor="middle">已</text>
+  </g>
+  <g stroke="#994433" stroke-width="0.6">
+    <line x1="106" y1="438" x2="232" y2="438"/><path d="M232,438 L226,435 M232,438 L226,441"/>
+    <line x1="274" y1="438" x2="400" y2="438"/><path d="M400,438 L394,435 M400,438 L394,441"/>
+    <line x1="442" y1="438" x2="568" y2="438"/><path d="M568,438 L562,435 M568,438 L562,441"/>
+  </g>
+  <rect x="612" y="428" width="86" height="24" fill="none" stroke="#994433" stroke-width="0.9"/>
+  <text x="655" y="444" text-anchor="middle" font-size="6.2" fill="#994433">亦已焉哉</text>
+
+  <text x="380" y="476" text-anchor="middle" font-size="13" letter-spacing="1" fill="#1F1B17">女也不爽，士贰其行；信誓旦旦，不思其反</text>
+  <text x="380" y="496" text-anchor="middle" font-size="6.2" fill="#7C6D5C">六章不是六段，是一条路的六个刻度</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">氓 · 六章章十句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj058b</text>
+</svg>
