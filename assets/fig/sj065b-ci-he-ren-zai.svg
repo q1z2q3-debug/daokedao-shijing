@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">此何人哉</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·黍离》　苗—穗—实，三章递进</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ065b</text>
+
+  <rect x="40" y="100" width="680" height="300" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- sky and two voices -->
+  <text x="380" y="126" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.4" fill="#7C6D5C" letter-spacing="1">悠悠苍天</text>
+  <text x="72" y="120" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">知我者，谓我心忧</text>
+  <text x="688" y="120" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">不知我者，谓我何求</text>
+
+  <!-- card 1: miao -->
+  <g>
+    <rect x="64" y="146" width="176" height="210" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="152" y="168" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">一章 · 六月</text>
+    <text x="152" y="204" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="28" fill="#1F1B17">苗</text>
+    <!-- young plant -->
+    <path d="M152 260 L152 300" stroke="#5F7269" stroke-width="1.4"/>
+    <path d="M152 278 Q136 268 130 254 M152 288 Q168 280 174 266" stroke="#8FA39A" stroke-width="1.1"/>
+    <path d="M152 260 Q148 248 152 240 Q156 248 152 260 Z" fill="#5F7269" opacity="0.8"/>
+    <text x="152" y="320" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#994433">中心摇摇</text>
+    <text x="152" y="340" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">心不定，无所诉</text>
+  </g>
+
+  <!-- card 2: sui -->
+  <g>
+    <rect x="292" y="146" width="176" height="210" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="380" y="168" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">二章 · 七月</text>
+    <text x="380" y="204" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="28" fill="#1F1B17">穗</text>
+    <!-- spike -->
+    <path d="M380 260 L380 300" stroke="#7C6D5C" stroke-width="1.4"/>
+    <path d="M380 278 Q364 268 358 254 M380 288 Q396 280 402 266" stroke="#9A9186" stroke-width="1.1"/>
+    <path d="M380 260 Q376 246 380 238 Q384 246 380 260 Z" fill="#994433" opacity="0.85"/>
+    <path d="M376 248 L372 240 M380 252 L376 244 M384 248 L388 240" stroke="#994433" stroke-width="0.8"/>
+    <text x="380" y="320" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#994433">中心如醉</text>
+    <text x="380" y="340" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">忧深如醉</text>
+  </g>
+
+  <!-- card 3: shi -->
+  <g>
+    <rect x="520" y="146" width="176" height="210" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="608" y="168" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">三章 · 八月</text>
+    <text x="608" y="204" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="28" fill="#1F1B17">实</text>
+    <!-- grain -->
+    <path d="M608 260 L608 300" stroke="#7C6D5C" stroke-width="1.4"/>
+    <path d="M608 278 Q592 268 586 254 M608 288 Q624 280 630 266" stroke="#9A9186" stroke-width="1.1"/>
+    <ellipse cx="604" cy="248" rx="5" ry="7" fill="#994433" opacity="0.85"/>
+    <ellipse cx="612" cy="244" rx="5" ry="7" fill="#994433" opacity="0.85"/>
+    <ellipse cx="608" cy="256" rx="5" ry="7" fill="#994433" opacity="0.85"/>
+    <text x="608" y="320" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#994433">中心如噎</text>
+    <text x="608" y="340" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">忧不能息</text>
+  </g>
+
+  <!-- arrows -->
+  <line x1="240" y1="250" x2="288" y2="250" stroke="#994433" stroke-width="1" opacity="0.8"/>
+  <path d="M288 250 L282 247 L282 253 Z" fill="#994433" opacity="0.8"/>
+  <line x1="468" y1="250" x2="516" y2="250" stroke="#994433" stroke-width="1" opacity="0.8"/>
+  <path d="M516 250 L510 247 L510 253 Z" fill="#994433" opacity="0.8"/>
+
+  <!-- bottom -->
+  <line x1="40" y1="366" x2="720" y2="366" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="390" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.4" fill="#1F1B17" letter-spacing="0.8">故宗庙宫室　→　尽为禾黍　→　此何人哉</text>
+  <text x="380" y="414" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">三章不是重复：时间在走，心在沉</text>
+
+  <rect x="222" y="430" width="316" height="40" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="456" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" letter-spacing="1.5">此何人哉</text>
+
+  <text x="380" y="490" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">追怨致此者：郑笺指亡国之君，朱子说「所以致此者」</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 此何人哉 · sj065b</text>
+</svg>

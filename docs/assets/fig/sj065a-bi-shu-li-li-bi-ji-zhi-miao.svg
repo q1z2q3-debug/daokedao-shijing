@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">彼黍离离</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·黍离》　故宗庙宫室，尽为禾黍</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ065a</text>
+
+  <rect x="40" y="100" width="680" height="250" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- ground -->
+  <path d="M40 300 Q160 292 280 300 T520 300 T720 296" fill="none" stroke="#B9B0A2" stroke-width="1"/>
+  <path d="M40 312 Q160 306 280 312 T520 312 T720 308" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- left field: millet (shu) drooping -->
+  <g>
+    <path d="M78 300 L78 232" stroke="#7C6D5C" stroke-width="1.4"/>
+    <path d="M78 270 Q64 260 58 248 M78 280 Q94 272 100 260" stroke="#9A9186" stroke-width="1"/>
+    <path d="M70 232 Q74 218 88 216 Q96 216 96 228 Q96 240 84 242 Q74 242 70 232 Z" fill="#994433" opacity="0.85"/>
+
+    <path d="M126 300 L126 226" stroke="#7C6D5C" stroke-width="1.4"/>
+    <path d="M126 268 Q112 258 106 246 M126 282 Q142 274 148 262" stroke="#9A9186" stroke-width="1"/>
+    <path d="M118 226 Q122 212 136 210 Q144 210 144 222 Q144 234 132 236 Q122 236 118 226 Z" fill="#994433" opacity="0.85"/>
+
+    <path d="M174 300 L174 236" stroke="#7C6D5C" stroke-width="1.4"/>
+    <path d="M174 272 Q160 262 154 250 M174 286 Q190 278 196 266" stroke="#9A9186" stroke-width="1"/>
+    <path d="M166 236 Q170 222 184 220 Q192 220 192 232 Q192 244 180 246 Q170 246 166 236 Z" fill="#994433" opacity="0.85"/>
+
+    <path d="M220 300 L220 246" stroke="#7C6D5C" stroke-width="1.2"/>
+    <path d="M220 276 Q208 268 202 258 M220 288 Q232 282 238 272" stroke="#9A9186" stroke-width="0.9"/>
+    <path d="M214 246 Q218 234 230 232 Q236 232 236 242 Q236 252 226 254 Q218 254 214 246 Z" fill="#994433" opacity="0.8"/>
+  </g>
+  <text x="142" y="334" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433">黍 · 离离（垂）</text>
+
+  <!-- right field: millet (ji) upright -->
+  <g>
+    <path d="M556 300 L556 244" stroke="#5F7269" stroke-width="1.4"/>
+    <path d="M556 274 Q542 264 536 252 M556 286 Q572 278 578 266" stroke="#8FA39A" stroke-width="1"/>
+    <path d="M556 244 L552 226 M556 244 L560 226 M556 244 L556 222" stroke="#7C6D5C" stroke-width="1"/>
+
+    <path d="M602 300 L602 238" stroke="#5F7269" stroke-width="1.4"/>
+    <path d="M602 270 Q588 260 582 248 M602 284 Q618 276 624 264" stroke="#8FA39A" stroke-width="1"/>
+    <path d="M602 238 L598 220 M602 238 L606 220 M602 238 L602 216" stroke="#7C6D5C" stroke-width="1"/>
+
+    <path d="M648 300 L648 248" stroke="#5F7269" stroke-width="1.2"/>
+    <path d="M648 276 Q636 268 630 258 M648 288 Q660 282 666 272" stroke="#8FA39A" stroke-width="0.9"/>
+    <path d="M648 248 L645 232 M648 248 L651 232 M648 248 L648 228" stroke="#7C6D5C" stroke-width="0.9"/>
+  </g>
+  <text x="610" y="334" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#5F7269">稷 · 苗</text>
+
+  <!-- ruins of ancestral temple -->
+  <g>
+    <path d="M292 304 L292 286 L508 286 L508 304 Z" fill="#DCD5C8" stroke="#9A9186" stroke-width="0.8"/>
+    <path d="M316 286 L316 222 L332 222 L332 286" fill="#DCD5C8" stroke="#9A9186" stroke-width="0.8"/>
+    <path d="M468 286 L468 232 L484 232 L484 286" fill="#DCD5C8" stroke="#9A9186" stroke-width="0.8"/>
+    <!-- broken wall: two ruined segments with a gap -->
+    <path d="M332 286 L332 246 L344 240 L352 250 L360 236 L370 244 L380 234 L390 248 L390 286 Z" fill="#DCD5C8" stroke="#9A9186" stroke-width="0.8"/>
+    <path d="M400 286 L400 246 L410 238 L420 250 L430 240 L440 250 L452 242 L452 286 Z" fill="#DCD5C8" stroke="#9A9186" stroke-width="0.8"/>
+    <path d="M350 264 L350 286 M430 260 L430 286" stroke="#B9B0A2" stroke-width="0.5"/>
+    <!-- fallen beam -->
+    <path d="M360 292 L440 278" stroke="#7C6D5C" stroke-width="3"/>
+    <path d="M360 292 L368 282 M440 278 L432 268" stroke="#7C6D5C" stroke-width="1"/>
+  </g>
+  <rect x="288" y="204" width="224" height="106" fill="none" stroke="#994433" stroke-width="0.7" stroke-dasharray="4 3"/>
+  <text x="400" y="198" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#994433">故宗庙宫室</text>
+  <text x="400" y="320" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">尽为禾黍</text>
+
+  <!-- traveler -->
+  <g>
+    <circle cx="154" cy="252" r="9" fill="none" stroke="#1F1B17" stroke-width="1.1"/>
+    <path d="M145 252 Q143 245 150 242 Q154 239 159 242 Q165 245 163 252" fill="#1F1B17" opacity="0.55"/>
+    <path d="M154 261 Q142 274 140 296 L166 296 Q164 274 160 261 Z" fill="#25211D"/>
+    <path d="M146 268 L132 284" stroke="#25211D" stroke-width="3"/>
+    <path d="M160 268 L172 282" stroke="#25211D" stroke-width="3"/>
+    <path d="M142 296 L140 310 M164 296 L166 310" stroke="#1F1B17" stroke-width="1.6"/>
+    <path d="M174 292 L174 248" stroke="#7C6D5C" stroke-width="1.6"/>
+  </g>
+  <text x="154" y="318" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#7C6D5C">行迈靡靡</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="366" x2="720" y2="366" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="390" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.6" fill="#1F1B17">彼黍离离，彼稷之苗。行迈靡靡，中心摇摇。</text>
+  <text x="380" y="416" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#7C6D5C">知我者，谓我心忧；不知我者，谓我何求。</text>
+  <text x="380" y="444" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.2" fill="#994433" letter-spacing="1">悠悠苍天，此何人哉？</text>
+  <text x="380" y="468" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">黍离之悲：不是离愁，是亡国之思</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 黍离 · sj065a</text>
+</svg>
