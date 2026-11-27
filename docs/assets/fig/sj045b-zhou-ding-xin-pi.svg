@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="Noto Serif SC,Songti SC,serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="380" y="52" text-anchor="middle" font-size="20" letter-spacing="6" fill="#1F1B17" font-weight="700">舟有定所 · 心有所匹 · 死不更誓</text>
+  <text x="380" y="74" text-anchor="middle" font-size="9.4" letter-spacing="2" fill="#5C544A">《诗经》鄘风 · 第一篇　柏舟</text>
+  <defs><marker id="ar045" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+
+  <rect x="60" y="145" width="190" height="145" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="155" y="205" text-anchor="middle" font-size="26" letter-spacing="2" fill="#5C544A" font-weight="700">舟在河</text>
+  <text x="155" y="240" text-anchor="middle" font-size="10" fill="#3B352F">汎彼柏舟</text>
+  <text x="155" y="262" text-anchor="middle" font-size="8" fill="#9A9186">物有定所</text>
+
+  <rect x="285" y="145" width="190" height="145" fill="#FCFAF6" stroke="#994433" stroke-width="1.1"/>
+  <text x="380" y="203" text-anchor="middle" font-size="23" letter-spacing="1" fill="#994433" font-weight="700">两髦我仪</text>
+  <text x="380" y="238" text-anchor="middle" font-size="10" fill="#3B352F">实维我特</text>
+  <text x="380" y="262" text-anchor="middle" font-size="8" fill="#9A9186">人有所匹</text>
+
+  <rect x="510" y="145" width="190" height="145" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <text x="605" y="203" text-anchor="middle" font-size="23" letter-spacing="1" fill="#5C544A" font-weight="700">之死靡慝</text>
+  <text x="605" y="238" text-anchor="middle" font-size="10" fill="#3B352F">矢靡它</text>
+  <text x="605" y="262" text-anchor="middle" font-size="8" fill="#9A9186">誓无所改</text>
+
+  <line x1="250" y1="218" x2="283" y2="218" stroke="#994433" stroke-width="1" marker-end="url(#ar045)"/>
+  <line x1="475" y1="218" x2="508" y2="218" stroke="#994433" stroke-width="1" marker-end="url(#ar045)"/>
+
+  <text x="380" y="330" text-anchor="middle" font-size="8.4" fill="#5C544A">由物入心：舟不出河，人不出誓；两章只换位置，不换心</text>
+
+  <rect x="80" y="358" width="600" height="66" fill="#F2E7D5" stroke="#D8CBB8" stroke-width="0.8"/>
+  <text x="380" y="388" text-anchor="middle" font-size="16" letter-spacing="2" fill="#994433" font-weight="700">母也天只，不谅人只</text>
+  <text x="380" y="410" text-anchor="middle" font-size="8.4" fill="#7C6D5C">亲命相夺 · 誓不随人</text>
+  <line x1="380" y1="358" x2="380" y2="314" stroke="#994433" stroke-width="0.9" stroke-dasharray="4,3" marker-end="url(#ar045)"/>
+  <text x="395" y="340" font-size="7.2" fill="#994433">压力</text>
+
+  <text x="380" y="450" text-anchor="middle" font-size="7.4" fill="#9A9186">共姜旧说，本事在诗外；文本只写舟、两髦、母、天</text>
+  <text x="120" y="512" font-size="5.6" fill="#5C544A">诗经 · 鄘风</text>
+  <text x="640" y="512" text-anchor="end" font-size="5.6" fill="#5C544A">图二 · 舟有定所心有所匹 · sj045b</text>
+</svg>

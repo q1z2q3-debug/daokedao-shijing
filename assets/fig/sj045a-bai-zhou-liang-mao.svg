@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 一</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="10" fill="#1F1B17" font-weight="700">柏 舟</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十五</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- 壹 柏舟 -->
+  <text x="120" y="132" font-size="7.6" fill="#994433">壹</text>
+  <path d="M92,270 Q148,302 204,270 L196,256 L100,256 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.1"/>
+  <line x1="100" y1="256" x2="196" y2="256" stroke="#1F1B17" stroke-width="1.2"/>
+  <path d="M112,262 Q118,274 114,288" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M132,262 Q138,274 134,288" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M156,262 Q162,274 158,288" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M178,262 Q184,274 180,288" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <line x1="196" y1="262" x2="220" y2="232" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M220,232 L228,226 L224,238 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M84,318 q14,-7 28,0 q14,7 28,0 q14,-7 28,0 q14,7 28,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M84,334 q14,-7 28,0 q14,7 28,0 q14,-7 28,0 q14,7 28,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="148" y="372" text-anchor="middle" font-size="7.4" fill="#994433">柏木舟，舟身有定</text>
+
+  <!-- 贰 两髦 -->
+  <text x="350" y="132" font-size="7.6" fill="#994433">贰</text>
+  <ellipse cx="380" cy="212" rx="27" ry="33" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <!-- 未冠：发分两边，齐眉而止；不加冠，不作长辫 -->
+  <path d="M354,200 Q380,182 406,200 Q392,192 380,192 Q368,192 354,200 Z" fill="#5C544A" opacity="0.9"/>
+  <path d="M354,200 Q362,198 370,200 L370,207 Q362,205 354,208 Z" fill="#5C544A" opacity="0.9"/>
+  <path d="M406,200 Q398,198 390,200 L390,207 Q398,205 406,208 Z" fill="#5C544A" opacity="0.9"/>
+  <path d="M354,201 C349,212 349,224 352,234 C354,238 357,238 358,234 C355,224 355,212 359,204 Z" fill="#5C544A" opacity="0.88"/>
+  <path d="M406,201 C411,212 411,224 408,234 C406,238 403,238 402,234 C405,224 405,212 401,204 Z" fill="#5C544A" opacity="0.88"/>
+  <line x1="380" y1="190" x2="380" y2="202" stroke="#FCFAF6" stroke-width="0.7"/>
+  <line x1="366" y1="218" x2="374" y2="218" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="386" y1="218" x2="394" y2="218" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M373,232 Q380,235 387,232" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M380,245 L380,268" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M344,300 Q380,276 416,300 L426,314 L334,314 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M380,282 L360,302 M380,282 L400,302" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <line x1="380" y1="282" x2="380" y2="312" stroke="#9A9186" stroke-width="0.5"/>
+  <text x="380" y="372" text-anchor="middle" font-size="7.4" fill="#994433">两髦，未冠男子的发式</text>
+
+  <!-- 叁 河 -->
+  <text x="590" y="132" font-size="7.6" fill="#994433">叁</text>
+  <path d="M540,270 q18,-7 36,0 q18,7 36,0 q18,-7 36,0" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M540,292 q18,-7 36,0 q18,7 36,0 q18,-7 36,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M540,314 q18,-7 36,0 q18,7 36,0 q18,-7 36,0" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <path d="M540,336 q18,-7 36,0 q18,7 36,0 q18,-7 36,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <line x1="684" y1="242" x2="684" y2="356" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M684,262 q10,-4 20,0 M684,300 q10,-4 20,0 M684,338 q10,-4 20,0" fill="none" stroke="#9A9186" stroke-width="0.5"/>
+  <circle cx="592" cy="254" r="8" fill="none" stroke="#994433" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <text x="592" y="240" text-anchor="middle" font-size="6.6" fill="#994433">中河</text>
+  <circle cx="654" cy="330" r="8" fill="none" stroke="#7C6D5C" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <text x="654" y="318" text-anchor="middle" font-size="6.6" fill="#7C6D5C">河侧</text>
+  <text x="612" y="372" text-anchor="middle" font-size="7.4" fill="#994433">中河到河侧，舟不出河</text>
+
+  <text x="44" y="420" font-size="7.8" fill="#5C544A">壹 舟　柏木为身，平浮不破浪</text>
+  <text x="274" y="420" font-size="7.8" fill="#5C544A">贰 两髦　发齐眉，分向两边</text>
+  <text x="494" y="420" font-size="7.8" fill="#5C544A">叁 河　位置略移，心誓不移</text>
+  <line x1="44" y1="438" x2="716" y2="438" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="474" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">汎彼柏舟，在彼中河</text>
+  <text x="44" y="506" font-size="7.4" letter-spacing="1" fill="#9A9186">舟有定所，心有所匹</text>
+  <text x="716" y="506" text-anchor="end" font-size="7.4" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj045a</text>
+</svg>
