@@ -11,7 +11,7 @@ CSS = """
 :root{--paper:#F7F4EE;--ink:#25211D;--red:#994433;--brown:#7C6D5C;--line:#DCD5C8;}
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--paper);color:var(--ink);overflow-x:hidden}
-body{font-family:"Noto Serif SC","Songti SC","Source Han Serif SC",serif;font-size:17px;line-height:1.95;
+body{font-family:"Noto Serif CJK SC","Noto Serif SC","Songti SC","Source Han Serif SC",serif;font-size:17px;line-height:1.95;
  max-width:760px;margin:0 auto;padding:48px 28px 96px}
 h1{font-size:30px;letter-spacing:3px;text-align:center;margin:6px 0 4px;font-weight:700}
 .sub{text-align:center;color:var(--brown);font-size:13px;letter-spacing:1.5px;margin-bottom:6px}

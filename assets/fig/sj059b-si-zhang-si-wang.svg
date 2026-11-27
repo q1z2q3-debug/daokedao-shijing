@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 五</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">四章四望</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十九</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第五篇　竹竿</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- left: Wei home -->
+  <circle cx="110" cy="258" r="58" fill="none" stroke="#9A9186" stroke-width="0.9"/>
+  <path d="M62,270 C80,262 98,278 116,270 C134,262 152,278 160,272" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M62,284 C80,276 98,292 116,284 C134,276 152,292 160,286" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <!-- house -->
+  <path d="M94,232 L94,262 L126,262 L126,232" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M88,232 L110,214 L132,232" fill="none" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="110" y="284" text-anchor="middle" font-size="7.4" fill="#994433" font-weight="700">卫</text>
+  <text x="110" y="300" text-anchor="middle" font-size="6.1" fill="#7C6D5C">淇水 · 泉源</text>
+  <text x="110" y="340" text-anchor="middle" font-size="6.1" fill="#7C6D5C">家</text>
+
+  <!-- wall -->
+  <rect x="250" y="140" width="14" height="250" fill="#F2EFE6" stroke="#9A9186" stroke-width="0.8"/>
+  <g stroke="#DCD5C8" stroke-width="0.5">
+    <line x1="250" y1="170" x2="264" y2="170"/><line x1="250" y1="200" x2="264" y2="200"/>
+    <line x1="250" y1="230" x2="264" y2="230"/><line x1="250" y1="260" x2="264" y2="260"/>
+    <line x1="250" y1="290" x2="264" y2="290"/><line x1="250" y1="320" x2="264" y2="320"/>
+    <line x1="250" y1="350" x2="264" y2="350"/><line x1="250" y1="380" x2="264" y2="380"/>
+  </g>
+  <text x="257" y="132" text-anchor="middle" font-size="7" fill="#994433" font-weight="700">远</text>
+  <text x="257" y="404" text-anchor="middle" font-size="6" fill="#994433">莫致</text>
+
+  <!-- four rows -->
+  <g>
+    <circle cx="306" cy="160" r="10" fill="none" stroke="#994433" stroke-width="0.8"/>
+    <text x="306" y="163" text-anchor="middle" font-size="6" fill="#994433">1</text>
+    <text x="326" y="156" font-size="8.2" fill="#1F1B17" font-weight="700">钓　淇</text>
+    <text x="326" y="172" font-size="6.1" fill="#7C6D5C">岂不尔思？远莫致之</text>
+  </g>
+  <g>
+    <circle cx="306" cy="225" r="10" fill="none" stroke="#994433" stroke-width="0.8"/>
+    <text x="306" y="228" text-anchor="middle" font-size="6" fill="#994433">2</text>
+    <text x="326" y="221" font-size="8.2" fill="#1F1B17" font-weight="700">望　二水</text>
+    <text x="326" y="237" font-size="6.1" fill="#7C6D5C">泉源在左，淇水在右</text>
+  </g>
+  <g>
+    <circle cx="306" cy="290" r="10" fill="none" stroke="#994433" stroke-width="0.8"/>
+    <text x="306" y="293" text-anchor="middle" font-size="6" fill="#994433">3</text>
+    <text x="326" y="286" font-size="8.2" fill="#1F1B17" font-weight="700">笑　旧我</text>
+    <text x="326" y="302" font-size="6.1" fill="#7C6D5C">巧笑之瑳，佩玉之傩</text>
+  </g>
+  <g>
+    <circle cx="306" cy="355" r="10" fill="none" stroke="#994433" stroke-width="0.8"/>
+    <text x="306" y="358" text-anchor="middle" font-size="6" fill="#994433">4</text>
+    <text x="326" y="351" font-size="8.2" fill="#1F1B17" font-weight="700">游　写忧</text>
+    <text x="326" y="367" font-size="6.1" fill="#7C6D5C">驾言出游，以写我忧</text>
+  </g>
+
+  <!-- arrows to wall -->
+  <g stroke="#994433" stroke-width="0.6" stroke-dasharray="4 2">
+    <line x1="420" y1="180" x2="272" y2="180"/>
+    <line x1="420" y1="245" x2="272" y2="245"/>
+    <line x1="420" y1="310" x2="272" y2="310"/>
+    <line x1="420" y1="375" x2="272" y2="375"/>
+  </g>
+  <g fill="none" stroke="#994433" stroke-width="0.6">
+    <path d="M272,180 L278,177 M272,180 L278,183"/>
+    <path d="M272,245 L278,242 M272,245 L278,248"/>
+    <path d="M272,310 L278,307 M272,310 L278,313"/>
+    <path d="M272,375 L278,372 M272,375 L278,378"/>
+  </g>
+
+  <!-- bottom -->
+  <line x1="44" y1="400" x2="716" y2="400" stroke="#9A9186" stroke-width="0.8"/>
+  <rect x="300" y="414" width="196" height="28" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="398" y="433" text-anchor="middle" font-size="8.2" fill="#994433" font-weight="700">思而能以礼</text>
+  <text x="516" y="432" font-size="6.2" fill="#7C6D5C">归不得，忧不尽</text>
+  <text x="380" y="468" text-anchor="middle" font-size="12" letter-spacing="1" fill="#1F1B17">四望皆卫，四望皆远</text>
+  <text x="380" y="488" text-anchor="middle" font-size="6" fill="#7C6D5C">钓是归，望是归，笑是归，游还是归；没有一句「归」，句句在归</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">竹竿 · 四章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图二 · 义理 · sj059b</text>
+</svg>

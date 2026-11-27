@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC',serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="44" y="56" font-size="8.6" letter-spacing="2" fill="#994433">卫风 · 五</text>
+  <text x="380" y="58" text-anchor="middle" font-size="25" letter-spacing="1.4" fill="#1F1B17" font-weight="700">竹竿一线</text>
+  <text x="716" y="56" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之五十九</text>
+  <text x="380" y="78" text-anchor="middle" font-size="8.2" letter-spacing="1.2" fill="#7C6D5C">《诗经》卫风 · 第五篇　竹竿</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <!-- left panel: fishing -->
+  <rect x="44" y="116" width="206" height="248" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="56" y="136" font-size="7.4" fill="#994433" font-weight="700">钓于淇</text>
+  <!-- water -->
+  <path d="M56,330 C86,322 116,338 146,330 C176,322 206,338 236,330" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <path d="M56,342 C86,334 116,350 146,342 C176,334 206,350 236,342" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <!-- woman -->
+  <ellipse cx="104" cy="180" rx="10" ry="12" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M95,174 C97,163 111,163 113,174" fill="none" stroke="#1F1B17" stroke-width="0.8"/>
+  <circle cx="114" cy="165" r="4" fill="none" stroke="#1F1B17" stroke-width="0.5"/>
+  <path d="M94,193 C84,214 82,248 86,282 L122,282 C126,248 124,214 114,193 Z" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M96,204 C90,228 88,252 92,276" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M112,204 C118,228 120,252 116,276" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <!-- bamboo pole -->
+  <line x1="122" y1="212" x2="190" y2="318" stroke="#7C6D5C" stroke-width="1.2"/>
+  <line x1="122" y1="212" x2="190" y2="318" stroke="#5C544A" stroke-width="0.3"/>
+  <g stroke="#5C544A" stroke-width="0.5">
+    <line x1="132" y1="226" x2="140" y2="220"/>
+    <line x1="144" y1="242" x2="152" y2="236"/>
+    <line x1="156" y1="258" x2="164" y2="252"/>
+    <line x1="168" y1="274" x2="176" y2="268"/>
+    <line x1="180" y1="290" x2="186" y2="285"/>
+  </g>
+  <!-- line and fish -->
+  <line x1="190" y1="318" x2="190" y2="340" stroke="#9A9186" stroke-width="0.7"/>
+  <path d="M190,340 C196,334 204,334 210,340 C204,346 196,346 190,340 Z" fill="none" stroke="#5C544A" stroke-width="0.6"/>
+  <text x="56" y="306" font-size="6.1" fill="#7C6D5C">长竹竿，细而长</text>
+  <text x="56" y="360" font-size="6" fill="#7C6D5C">钓以得鱼，如待礼成室家</text>
+
+  <!-- center panel: two waters -->
+  <rect x="270" y="116" width="216" height="248" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="282" y="136" font-size="7.4" fill="#994433" font-weight="700">二水</text>
+  <!-- spring river -->
+  <path d="M304,150 C296,190 312,220 304,260 C296,300 312,330 304,352" fill="none" stroke="#9A9186" stroke-width="1.2"/>
+  <path d="M312,150 C304,190 320,220 312,260 C304,300 320,330 312,352" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="286" y="164" font-size="6" fill="#1F1B17">泉源</text>
+  <!-- Qi river -->
+  <path d="M440,150 C432,190 448,220 440,260 C432,300 448,330 440,352" fill="none" stroke="#9A9186" stroke-width="1.4"/>
+  <path d="M450,150 C442,190 458,220 450,260 C442,300 458,330 450,352" fill="none" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="456" y="164" font-size="6" fill="#1F1B17">淇水</text>
+  <!-- house / Wei -->
+  <path d="M366,238 L366,270 L392,270 L392,238" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M360,238 L379,222 L398,238" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="379" y="286" text-anchor="middle" font-size="6.2" fill="#994433">卫</text>
+  <!-- arrows -->
+  <text x="322" y="200" font-size="6" fill="#994433">左</text>
+  <path d="M330,204 L340,204" fill="none" stroke="#994433" stroke-width="0.5"/>
+  <text x="402" y="200" font-size="6" fill="#994433">右</text>
+  <text x="282" y="330" font-size="6.1" fill="#7C6D5C">二水相左右</text>
+  <text x="282" y="344" font-size="6.1" fill="#7C6D5C">而不相入</text>
+
+  <!-- right panel: boat and jade -->
+  <rect x="506" y="116" width="210" height="248" fill="#F2EFE6" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="518" y="136" font-size="7.4" fill="#994433" font-weight="700">舟与玉</text>
+  <!-- water -->
+  <path d="M520,320 C550,312 580,328 610,320 C640,312 670,328 700,320" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <!-- boat -->
+  <path d="M544,300 C554,314 664,314 674,300 L660,316 L558,316 Z" fill="none" stroke="#5C544A" stroke-width="1"/>
+  <line x1="590" y1="300" x2="590" y2="280" stroke="#5C544A" stroke-width="0.7"/>
+  <path d="M590,282 L620,290 L590,298" fill="none" stroke="#5C544A" stroke-width="0.6"/>
+  <!-- oar -->
+  <line x1="620" y1="270" x2="670" y2="322" stroke="#7C6D5C" stroke-width="1"/>
+  <path d="M670,322 L676,318 L672,326 Z" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+  <!-- jade bi -->
+  <circle cx="650" cy="210" r="17" fill="none" stroke="#7C6D5C" stroke-width="0.9"/>
+  <circle cx="650" cy="210" r="8" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+  <path d="M650,227 L646,244 M650,227 L654,244" fill="none" stroke="#994433" stroke-width="0.5"/>
+  <text x="518" y="344" font-size="6.1" fill="#1F1B17">桧木桨，松木舟</text>
+  <text x="518" y="358" font-size="6" fill="#7C6D5C">舟楫相配，得水而行</text>
+
+  <!-- bottom strip: leaving home -->
+  <line x1="44" y1="378" x2="716" y2="378" stroke="#9A9186" stroke-width="0.7"/>
+  <text x="44" y="396" font-size="7.2" fill="#994433" font-weight="700">女子有行，远兄弟父母</text>
+  <!-- house -->
+  <path d="M66,438 L66,458 L94,458 L94,438" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M60,438 L80,422 L100,438" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="80" y="474" text-anchor="middle" font-size="6" fill="#7C6D5C">卫</text>
+  <!-- road -->
+  <line x1="100" y1="448" x2="620" y2="448" stroke="#DCD5C8" stroke-width="0.9"/>
+  <path d="M620,448 L612,444 M620,448 L612,452" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <!-- woman walking -->
+  <ellipse cx="260" cy="414" rx="7" ry="9" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M253,409 C255,401 265,401 267,409" fill="none" stroke="#1F1B17" stroke-width="0.7"/>
+  <path d="M253,423 C248,436 247,444 250,452 L270,452 C273,444 272,436 267,423 Z" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="260" y="474" text-anchor="middle" font-size="6" fill="#7C6D5C">远</text>
+  <!-- foreign gate -->
+  <path d="M620,420 L620,448 L650,448 L650,420" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M616,420 L635,406 L654,420" fill="none" stroke="#5C544A" stroke-width="0.8"/>
+  <text x="635" y="474" text-anchor="middle" font-size="6" fill="#7C6D5C">异国</text>
+  <text x="44" y="492" font-size="6.1" fill="#994433">驾言出游，以写我忧</text>
+
+  <text x="44" y="516" font-size="6.2" fill="#9A9186">竹竿 · 四章章四句</text>
+  <text x="716" y="516" text-anchor="end" font-size="6.2" fill="#9A9186">图一 · 名物 · sj059a</text>
+</svg>

@@ -1,7 +1,7 @@
 {
- "version": "0.3.59",
+ "version": "0.3.60",
  "total": 305,
- "count": 58,
+ "count": 59,
  "chapters": [
   {
    "no": 1,
@@ -292,6 +292,11 @@
    "no": 58,
    "key": "sj058",
    "title": "氓"
+  },
+  {
+   "no": 59,
+   "key": "sj059",
+   "title": "竹竿"
   }
  ]
 }
