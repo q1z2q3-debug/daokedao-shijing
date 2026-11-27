@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="Noto Serif SC,Songti SC,serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="380" y="50" text-anchor="middle" font-size="21" letter-spacing="4" fill="#1F1B17" font-weight="700">美在外，不淑在内</text>
+  <text x="380" y="72" text-anchor="middle" font-size="9.2" letter-spacing="2" fill="#5C544A">《诗经》鄘风 · 第三篇　君子偕老</text>
+  <defs><marker id="ar047" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+
+  <rect x="60" y="136" width="330" height="212" fill="#FCFAF6" stroke="#5C544A" stroke-width="1"/>
+  <text x="80" y="178" font-size="15" letter-spacing="3" fill="#7C6D5C">外</text>
+  <line x1="80" y1="188" x2="80" y2="322" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="104" y="176" font-size="8" fill="#994433">首服</text>
+  <text x="104" y="198" font-size="11" fill="#1F1B17">副笄六珈</text>
+  <text x="104" y="224" font-size="8" fill="#994433">礼服</text>
+  <text x="104" y="246" font-size="11" fill="#1F1B17">象服 · 翟衣 · 展衣</text>
+  <text x="104" y="272" font-size="8" fill="#994433">容仪</text>
+  <text x="104" y="294" font-size="11" fill="#1F1B17">鬒发 · 瑱 · 揥 · 皙</text>
+  <text x="104" y="326" font-size="7.2" fill="#9A9186">三章所陈，皆外也</text>
+
+  <!-- 小型六珈图示 -->
+  <g fill="#994433">
+    <circle cx="330" cy="164" r="2.6"/><circle cx="342" cy="164" r="2.6"/><circle cx="354" cy="164" r="2.6"/>
+    <circle cx="330" cy="174" r="2.6"/><circle cx="342" cy="174" r="2.6"/><circle cx="354" cy="174" r="2.6"/>
+  </g>
+  <line x1="324" y1="169" x2="360" y2="169" stroke="#994433" stroke-width="0.7"/>
+
+  <line x1="396" y1="242" x2="432" y2="242" stroke="#994433" stroke-width="1" marker-end="url(#ar047)"/>
+  <text x="414" y="230" text-anchor="middle" font-size="6.6" fill="#994433">服饰之盛</text>
+
+  <rect x="440" y="136" width="260" height="212" fill="#F2E7D5" stroke="#994433" stroke-width="1.1"/>
+  <text x="460" y="178" font-size="15" letter-spacing="3" fill="#994433">内</text>
+  <line x1="460" y1="188" x2="460" y2="322" stroke="#D8CBB8" stroke-width="0.7"/>
+  <text x="490" y="228" font-size="26" letter-spacing="2" fill="#994433" font-weight="700">子之不淑</text>
+  <text x="490" y="254" font-size="7.4" fill="#7C6D5C">淑，善也；不是美</text>
+  <text x="490" y="300" font-size="14" letter-spacing="2" fill="#1F1B17">云如之何</text>
+  <text x="490" y="322" font-size="6.8" fill="#9A9186">奈之何——一句定案</text>
+
+  <rect x="80" y="382" width="600" height="46" fill="#F2E7D5" stroke="#D8CBB8" stroke-width="0.8"/>
+  <text x="380" y="400" text-anchor="middle" font-size="9.2" letter-spacing="1.5" fill="#994433">一章 责之　·　二章 问之　·　三章 惜之</text>
+  <text x="380" y="418" text-anchor="middle" font-size="6.4" fill="#7C6D5C">吕东莱《读诗记》：责之、问之、惜之</text>
+
+  <text x="380" y="454" text-anchor="middle" font-size="7.4" fill="#9A9186">二章之问：胡然而天也？胡然而帝也？——问其何以见尊</text>
+  <text x="380" y="474" text-anchor="middle" font-size="7.4" fill="#9A9186">旧说卫夫人宣姜；诗不指名，只以「子」称之</text>
+  <text x="120" y="512" font-size="5.6" fill="#5C544A">诗经 · 鄘风</text>
+  <text x="640" y="512" text-anchor="end" font-size="5.6" fill="#5C544A">图二 · 美在外不淑在内 · sj047b</text>
+</svg>

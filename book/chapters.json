@@ -1,7 +1,7 @@
 {
- "version": "0.3.47",
+ "version": "0.3.48",
  "total": 305,
- "count": 46,
+ "count": 47,
  "chapters": [
   {
    "no": 1,
@@ -232,6 +232,11 @@
    "no": 46,
    "key": "sj046",
    "title": "墙有茨"
+  },
+  {
+   "no": 47,
+   "key": "sj047",
+   "title": "君子偕老"
   }
  ]
 }

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="'Noto Serif SC','Songti SC',serif">
+<rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <text x="44" y="58" font-size="8.6" letter-spacing="2" fill="#994433">鄘风 · 三</text>
+  <text x="380" y="60" text-anchor="middle" font-size="26" letter-spacing="8" fill="#1F1B17" font-weight="700">君 子 偕 老</text>
+  <text x="716" y="58" text-anchor="end" font-size="8.2" letter-spacing="1.5" fill="#9A9186">诗三百五篇 · 之四十七</text>
+  <line x1="44" y1="96" x2="716" y2="96" stroke="#9A9186" stroke-width="0.8"/>
+
+  <text x="148" y="132" text-anchor="middle" font-size="7.8" fill="#994433">壹　副笄六珈</text>
+  <text x="380" y="132" text-anchor="middle" font-size="7.8" fill="#994433">贰　象服 · 翟衣</text>
+  <text x="612" y="132" text-anchor="middle" font-size="7.8" fill="#994433">叁　展衣 · 绉絺</text>
+  <line x1="252" y1="116" x2="252" y2="382" stroke="#DCD5C8" stroke-width="0.7"/>
+  <line x1="492" y1="116" x2="492" y2="382" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <!-- 壹 首服 -->
+  <ellipse cx="148" cy="236" rx="34" ry="40" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M116,210 Q118,176 148,166 Q178,176 180,210 Q164,194 148,194 Q132,194 116,210 Z" fill="#5C544A" opacity="0.9"/>
+  <path d="M148,166 Q140,180 148,194 Q156,180 148,166 Z" fill="#FCFAF6" opacity="0.8"/>
+  <line x1="104" y1="190" x2="192" y2="190" stroke="#994433" stroke-width="1.2"/>
+  <g fill="#994433">
+    <circle cx="110" cy="190" r="3.2"/><circle cx="126" cy="190" r="3.2"/><circle cx="142" cy="190" r="3.2"/>
+    <circle cx="158" cy="190" r="3.2"/><circle cx="174" cy="190" r="3.2"/><circle cx="190" cy="190" r="3.2"/>
+  </g>
+  <path d="M104,190 L96,180 M104,190 L96,200" fill="none" stroke="#994433" stroke-width="0.6"/>
+  <path d="M192,190 L200,180 M192,190 L200,200" fill="none" stroke="#994433" stroke-width="0.6"/>
+  <line x1="118" y1="230" x2="126" y2="230" stroke="#5C544A" stroke-width="0.8"/>
+  <line x1="170" y1="230" x2="178" y2="230" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M141,246 Q148,249 155,246" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+  <circle cx="116" cy="238" r="4" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <circle cx="180" cy="238" r="4" fill="none" stroke="#994433" stroke-width="0.8"/>
+  <path d="M118,238 L112,250 M180,238 L186,250" stroke="#994433" stroke-width="0.5"/>
+  <path d="M92,206 L84,206 L84,220 L92,220" fill="none" stroke="#7C6D5C" stroke-width="0.8"/>
+  <path d="M84,209 L92,209 M84,213 L92,213 M84,217 L92,217" stroke="#7C6D5C" stroke-width="0.5"/>
+  <path d="M148,258 L148,282" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M114,318 Q148,292 182,318 L192,342 L104,342 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.9"/>
+  <path d="M148,294 L132,314 M148,294 L164,314" fill="none" stroke="#5C544A" stroke-width="0.7"/>
+  <text x="148" y="370" text-anchor="middle" font-size="7.2" fill="#994433">副、笄、六珈；瑱、揥</text>
+  <text x="148" y="386" text-anchor="middle" font-size="6.2" fill="#7C6D5C">诸侯夫人首服，六玉加笄</text>
+
+  <!-- 贰 象服翟衣 -->
+  <path d="M380,178 L354,196 L332,248 L310,330 L450,330 L428,248 L406,196 Z" fill="#F2E7D5" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M380,178 L356,198 L344,220 L416,220 L404,198 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M380,196 L380,330" stroke="#994433" stroke-width="0.6" opacity="0.5"/>
+  <path d="M310,330 L330,258 L350,330 M450,330 L430,258 L410,330" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+  <path d="M332,248 L344,234 M428,248 L416,234" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+  <path d="M330,330 L450,330" stroke="#994433" stroke-width="0.9"/>
+  <!-- 翟雉纹样 -->
+  <g fill="none" stroke="#994433" stroke-width="0.6">
+    <path d="M370,250 q8,-8 16,0 q-8,8 -16,0 Z M378,250 L384,242 M378,250 L384,258"/>
+    <path d="M398,272 q8,-8 16,0 q-8,8 -16,0 Z M406,272 L412,264 M406,272 L412,280"/>
+    <path d="M352,292 q8,-8 16,0 q-8,8 -16,0 Z M360,292 L366,284 M360,292 L366,300"/>
+    <path d="M392,312 q8,-8 16,0 q-8,8 -16,0 Z M400,312 L406,304 M400,312 L406,320"/>
+  </g>
+  <g fill="#994433" opacity="0.25">
+    <path d="M340,236 q18,-10 36,0 q-18,10 -36,0 Z"/>
+    <path d="M380,236 q18,-10 36,0 q-18,10 -36,0 Z"/>
+  </g>
+  <text x="380" y="370" text-anchor="middle" font-size="7.2" fill="#994433">象服 · 翟衣</text>
+  <text x="380" y="386" text-anchor="middle" font-size="6.2" fill="#7C6D5C">画翟雉之形，诸侯夫人祭服</text>
+
+  <!-- 叁 展衣 -->
+  <path d="M612,178 L586,196 L566,248 L548,336 L676,336 L658,248 L638,196 Z" fill="#FCFAF6" stroke="#5C544A" stroke-width="1.0"/>
+  <path d="M612,178 L588,198 L578,220 L646,220 L636,198 Z" fill="#F7F4EE" stroke="#5C544A" stroke-width="0.8"/>
+  <path d="M612,196 L612,336" stroke="#7C6D5C" stroke-width="0.5" opacity="0.5"/>
+  <path d="M566,248 L580,234 M658,248 L644,234" fill="none" stroke="#7C6D5C" stroke-width="0.6"/>
+  <path d="M548,336 L676,336" stroke="#994433" stroke-width="0.9"/>
+  <g fill="none" stroke="#B9AE9C" stroke-width="0.45" opacity="0.75">
+    <path d="M570,252 Q612,264 654,252"/>
+    <path d="M562,270 Q612,282 662,270"/>
+    <path d="M556,288 Q612,300 668,288"/>
+    <path d="M552,306 Q612,318 672,306"/>
+    <path d="M550,324 Q612,336 674,324"/>
+  </g>
+  <path d="M586,244 C594,256 602,262 612,262 C622,262 630,256 638,244" fill="none" stroke="#994433" stroke-width="0.7"/>
+  <text x="612" y="370" text-anchor="middle" font-size="7.2" fill="#994433">展衣 · 绉絺</text>
+  <text x="612" y="386" text-anchor="middle" font-size="6.2" fill="#7C6D5C">白色礼服，里以细葛，见君宾客</text>
+
+  <line x1="44" y1="414" x2="716" y2="414" stroke="#9A9186" stroke-width="0.8"/>
+  <text x="380" y="450" text-anchor="middle" font-size="16" letter-spacing="3" fill="#1F1B17">君子偕老，副笄六珈</text>
+  <text x="380" y="474" text-anchor="middle" font-size="8.4" letter-spacing="1" fill="#7C6D5C">首服、祭服、见宾之服：一身盛装，三章写尽</text>
+  <text x="44" y="506" font-size="7.2" letter-spacing="1" fill="#9A9186">服盛而德不称</text>
+  <text x="716" y="506" text-anchor="end" font-size="7.2" letter-spacing="1" fill="#9A9186">图一 · 名物 · sj047a</text>
+</svg>
