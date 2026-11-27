@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">无衣不成家</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《卫风·有狐》　裳以配衣，妻以配夫</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ063b</text>
+
+  <rect x="40" y="100" width="680" height="276" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- card 1: shang -->
+  <g>
+    <rect x="64" y="118" width="176" height="222" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="152" y="146" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#7C6D5C">一章</text>
+    <text x="152" y="184" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="30" fill="#1F1B17">裳</text>
+    <!-- skirt outline -->
+    <path d="M112 208 L192 208 L206 268 L98 268 Z" fill="none" stroke="#9A9186" stroke-width="1"/>
+    <path d="M112 208 L120 196 L184 196 L192 208" fill="none" stroke="#9A9186" stroke-width="0.7"/>
+    <path d="M124 268 L128 222 M152 268 L152 222 M180 268 L176 222" stroke="#DCD5C8" stroke-width="0.6"/>
+    <text x="152" y="290" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">下衣，所以配衣</text>
+    <text x="214" y="270" text-anchor="end" font-family="Noto Serif CJK SC" font-size="22" fill="#994433">无</text>
+  </g>
+
+  <!-- card 2: dai -->
+  <g>
+    <rect x="292" y="118" width="176" height="222" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="380" y="146" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#7C6D5C">二章</text>
+    <text x="380" y="184" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="30" fill="#1F1B17">带</text>
+    <!-- belt outline -->
+    <rect x="322" y="222" width="116" height="20" fill="none" stroke="#9A9186" stroke-width="1"/>
+    <rect x="368" y="218" width="24" height="28" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+    <path d="M374 226 L386 226 M374 232 L386 232 M374 238 L386 238" stroke="#DCD5C8" stroke-width="0.5"/>
+    <text x="380" y="290" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">腰带，所以束衣</text>
+    <text x="442" y="270" text-anchor="end" font-family="Noto Serif CJK SC" font-size="22" fill="#994433">无</text>
+  </g>
+
+  <!-- card 3: fu -->
+  <g>
+    <rect x="520" y="118" width="176" height="222" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="608" y="146" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#7C6D5C">三章</text>
+    <text x="608" y="184" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="30" fill="#1F1B17">服</text>
+    <!-- robe outline -->
+    <path d="M582 202 L634 202 L646 252 L636 270 L620 250 L620 274 L596 274 L596 250 L580 270 L570 252 Z" fill="none" stroke="#9A9186" stroke-width="1"/>
+    <path d="M590 202 L608 216 L626 202" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+    <text x="608" y="290" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">衣服，所以周身</text>
+    <text x="670" y="270" text-anchor="end" font-family="Noto Serif CJK SC" font-size="22" fill="#994433">无</text>
+  </g>
+
+  <!-- relation arrows -->
+  <line x1="240" y1="228" x2="288" y2="228" stroke="#994433" stroke-width="1" opacity="0.7"/>
+  <path d="M288 228 L282 225 L282 231 Z" fill="#994433" opacity="0.7"/>
+  <line x1="468" y1="228" x2="516" y2="228" stroke="#994433" stroke-width="1" opacity="0.7"/>
+  <path d="M516 228 L510 225 L510 231 Z" fill="#994433" opacity="0.7"/>
+
+  <!-- bottom relation -->
+  <line x1="40" y1="394" x2="720" y2="394" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="418" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#1F1B17" letter-spacing="0.8">衣以配身　裳以配衣　带以束衣　服以周身</text>
+  <text x="380" y="444" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.6" fill="#7C6D5C" letter-spacing="0.8">妻以配夫　家以配人</text>
+
+  <rect x="196" y="460" width="368" height="42" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="486" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13.5" fill="#994433" letter-spacing="1.5">无衣　→　无室家</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 无衣不成家 · sj063b</text>
+</svg>

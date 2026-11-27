@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">有狐在梁</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《卫风·有狐》　狐犹有匹，人反无家</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ063a</text>
+
+  <rect x="40" y="100" width="680" height="246" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- river -->
+  <path d="M40 304 Q120 292 200 302 T360 300 T520 304 T720 298 L720 326 Q640 338 520 328 T360 330 T200 328 T40 332 Z" fill="#E8E2D6" opacity="0.55"/>
+  <path d="M48 312 Q120 304 200 312 T360 310 T520 314 T712 308" fill="none" stroke="#B9B0A2" stroke-width="0.7"/>
+  <path d="M54 322 Q130 316 210 322 T370 320 T530 324 T708 318" fill="none" stroke="#B9B0A2" stroke-width="0.55" opacity="0.8"/>
+  <text x="76" y="298" font-family="Noto Serif CJK SC" font-size="7.2" fill="#7C6D5C">淇水</text>
+
+  <!-- banks -->
+  <path d="M40 286 Q90 276 150 282 L200 286 L200 326 Q120 334 40 330 Z" fill="#DCD5C8" opacity="0.35"/>
+  <path d="M560 286 Q630 276 700 282 L720 286 L720 330 Q640 336 560 328 Z" fill="#DCD5C8" opacity="0.35"/>
+
+  <!-- stone beam: stones across water -->
+  <g fill="#7C6D5C" opacity="0.85">
+    <ellipse cx="224" cy="300" rx="14" ry="6"/>
+    <ellipse cx="262" cy="297" rx="15" ry="6"/>
+    <ellipse cx="302" cy="300" rx="14" ry="6"/>
+    <ellipse cx="342" cy="297" rx="15" ry="6"/>
+    <ellipse cx="382" cy="300" rx="14" ry="6"/>
+    <ellipse cx="422" cy="297" rx="15" ry="6"/>
+    <ellipse cx="462" cy="300" rx="14" ry="6"/>
+    <ellipse cx="502" cy="297" rx="15" ry="6"/>
+    <ellipse cx="542" cy="300" rx="14" ry="6"/>
+  </g>
+  <text x="382" y="338" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.8" fill="#7C6D5C">淇梁　石绝水</text>
+
+  <!-- locations: liang / li / ce -->
+  <text x="382" y="352" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">梁</text>
+  <text x="492" y="352" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">厉</text>
+  <text x="612" y="352" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">侧</text>
+
+  <!-- fox on beam -->
+  <g>
+    <!-- tail -->
+    <path d="M368 286 Q350 268 338 278 Q328 290 344 300 Q356 304 368 294 Z" fill="#994433" opacity="0.9"/>
+    <ellipse cx="332" cy="286" rx="3.2" ry="2.4" fill="#F7F4EE" opacity="0.9"/>
+    <!-- body -->
+    <path d="M366 286 Q368 270 386 270 Q402 270 406 284 Q406 298 388 300 Q370 300 366 286 Z" fill="#994433" opacity="0.9"/>
+    <!-- legs -->
+    <path d="M374 300 L372 314 M386 300 L386 314 M398 300 L400 314 M404 296 L406 312" stroke="#994433" stroke-width="2"/>
+    <!-- head -->
+    <circle cx="404" cy="276" r="9" fill="#994433"/>
+    <path d="M410 276 L421 280 L410 284 Z" fill="#994433"/>
+    <!-- ears -->
+    <path d="M398 269 L395 256 L406 264 Z" fill="#994433"/>
+    <path d="M406 264 L414 256 L412 269 Z" fill="#994433"/>
+    <!-- face -->
+    <circle cx="406" cy="274" r="1.6" fill="#F7F4EE"/>
+    <circle cx="421" cy="280" r="1.5" fill="#1F1B17"/>
+    <path d="M412 281 Q416 283 419 281" fill="none" stroke="#F7F4EE" stroke-width="0.7"/>
+  </g>
+  <text x="416" y="250" font-family="Noto Serif CJK SC" font-size="6.8" fill="#994433">有狐绥绥</text>
+
+  <!-- woman on left bank, holding cloth -->
+  <g>
+    <circle cx="166" cy="238" r="12" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+    <path d="M154 238 Q152 230 160 226 Q166 222 172 226 Q180 230 178 238" fill="#1F1B17" opacity="0.55"/>
+    <path d="M166 250 Q146 268 144 300 L190 300 Q188 268 176 250 Z" fill="#25211D"/>
+    <path d="M154 258 Q140 270 134 286" fill="none" stroke="#25211D" stroke-width="4"/>
+    <path d="M180 258 Q192 266 198 276" fill="none" stroke="#25211D" stroke-width="4"/>
+    <rect x="192" y="266" width="34" height="24" fill="#DCD5C8" stroke="#7C6D5C" stroke-width="0.8"/>
+    <path d="M200 266 L200 290 M208 266 L208 290 M216 266 L216 290" stroke="#9A9186" stroke-width="0.5"/>
+    <path d="M150 300 L150 316 M182 300 L182 316" stroke="#1F1B17" stroke-width="2"/>
+  </g>
+  <text x="166" y="218" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">妇人</text>
+  <text x="166" y="338" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">心之忧矣</text>
+
+  <!-- man on right bank, short robe, no belt -->
+  <g>
+    <circle cx="582" cy="238" r="12" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+    <path d="M570 238 Q568 230 576 226 Q582 222 588 226 Q596 230 594 238" fill="#1F1B17" opacity="0.55"/>
+    <path d="M582 250 Q566 260 562 286 L570 300 L594 300 L602 286 Q596 260 594 250 Z" fill="#25211D"/>
+    <path d="M570 258 Q556 266 552 278" fill="none" stroke="#25211D" stroke-width="4"/>
+    <path d="M594 258 Q608 266 612 278" fill="none" stroke="#25211D" stroke-width="4"/>
+    <path d="M568 300 L566 316 M598 300 L600 316" stroke="#1F1B17" stroke-width="2"/>
+  </g>
+  <text x="582" y="218" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">之子</text>
+  <text x="582" y="338" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#994433">无裳</text>
+
+  <!-- empty garment marks above man -->
+  <g opacity="0.95">
+    <rect x="640" y="132" width="58" height="54" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+    <text x="650" y="148" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">裳</text>
+    <path d="M650 154 L668 154 L676 174 L644 174 Z" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+    <text x="686" y="176" text-anchor="end" font-family="Noto Serif CJK SC" font-size="13" fill="#994433">无</text>
+
+    <rect x="640" y="194" width="58" height="42" fill="none" stroke="#DCD5C8" stroke-width="0.7"/>
+    <text x="650" y="210" font-family="Noto Serif CJK SC" font-size="6.2" fill="#7C6D5C">带</text>
+    <rect x="648" y="216" width="40" height="8" fill="none" stroke="#9A9186" stroke-width="0.8"/>
+    <text x="686" y="232" text-anchor="end" font-family="Noto Serif CJK SC" font-size="13" fill="#994433">无</text>
+  </g>
+
+  <!-- bottom -->
+  <line x1="40" y1="366" x2="720" y2="366" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="392" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.4" fill="#1F1B17">有狐绥绥，在彼淇梁。心之忧矣，之子无裳。</text>
+  <text x="380" y="422" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.4" fill="#7C6D5C" letter-spacing="0.8">三章递进：裳　→　带　→　服</text>
+  <text x="380" y="456" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.6" fill="#994433" letter-spacing="1.2">狐犹有匹，人反无家</text>
+  <text x="380" y="480" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">无裳不是少一件衣，是少一个家</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 有狐 · sj063a</text>
+</svg>

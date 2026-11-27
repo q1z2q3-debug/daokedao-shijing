@@ -1,7 +1,7 @@
 {
- "version": "0.3.63",
+ "version": "0.3.64",
  "total": 305,
- "count": 62,
+ "count": 63,
  "chapters": [
   {
    "no": 1,
@@ -312,6 +312,11 @@
    "no": 62,
    "key": "sj062",
    "title": "伯兮"
+  },
+  {
+   "no": 63,
+   "key": "sj063",
+   "title": "有狐"
   }
  ]
 }
