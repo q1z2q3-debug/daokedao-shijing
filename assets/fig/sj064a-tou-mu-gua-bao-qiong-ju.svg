@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">投木瓜，报琼琚</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《卫风·木瓜》　薄物重宝，匪报也</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ064a</text>
+
+  <rect x="40" y="100" width="680" height="250" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- three pairs box -->
+  <rect x="556" y="118" width="154" height="82" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.8"/>
+  <text x="566" y="136" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">三章三对</text>
+  <text x="566" y="154" font-family="Noto Serif CJK SC" font-size="7.4" fill="#1F1B17">木瓜　→　琼琚</text>
+  <text x="566" y="172" font-family="Noto Serif CJK SC" font-size="7.4" fill="#1F1B17">木桃　→　琼瑶</text>
+  <text x="566" y="190" font-family="Noto Serif CJK SC" font-size="7.4" fill="#1F1B17">木李　→　琼玖</text>
+
+  <!-- left hand offering wrapped fruit -->
+  <g>
+    <path d="M40 306 Q100 294 156 282" fill="none" stroke="#25211D" stroke-width="6"/>
+    <path d="M156 282 Q172 274 186 276 Q198 278 204 268 L212 276 Q220 282 206 290 L188 296 Q170 300 156 296 Z" fill="#DCD5C8" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M186 276 Q192 286 200 290 M178 280 Q184 290 192 294" stroke="#9A9186" stroke-width="0.7"/>
+    <!-- wrapped fruit -->
+    <path d="M206 244 Q222 232 242 240 Q256 248 252 266 Q248 284 228 286 Q208 288 202 270 Z" fill="#994433" opacity="0.9"/>
+    <path d="M206 250 Q222 242 242 248 Q254 254 250 264" fill="none" stroke="#F7F4EE" stroke-width="1"/>
+    <path d="M210 244 Q206 228 218 222 Q230 228 228 242" fill="#7C6D5C" opacity="0.8"/>
+    <path d="M238 242 Q252 230 262 238 Q264 248 252 252" fill="#7C6D5C" opacity="0.7"/>
+  </g>
+  <text x="224" y="306" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433">投 · 薄物</text>
+  <text x="224" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">木瓜，苞苴裹之</text>
+
+  <!-- right hand offering jade -->
+  <g>
+    <path d="M720 306 Q660 294 604 282" fill="none" stroke="#25211D" stroke-width="6"/>
+    <path d="M604 282 Q588 274 574 276 Q562 278 556 268 L548 276 Q540 282 554 290 L572 296 Q590 300 604 296 Z" fill="#DCD5C8" stroke="#7C6D5C" stroke-width="0.9"/>
+    <path d="M574 276 Q568 286 560 290 M582 280 Q576 290 568 294" stroke="#9A9186" stroke-width="0.7"/>
+    <!-- jade pendant -->
+    <path d="M512 262 Q512 240 534 240 Q556 240 556 262 Q556 284 534 284 Q512 284 512 262 Z" fill="#8FA39A" opacity="0.85" stroke="#5F7269" stroke-width="0.9"/>
+    <circle cx="534" cy="262" r="8" fill="#F7F4EE" stroke="#5F7269" stroke-width="0.8"/>
+    <path d="M534 240 Q544 230 554 234" fill="none" stroke="#994433" stroke-width="1.6"/>
+    <path d="M534 284 L534 296" stroke="#994433" stroke-width="1.4"/>
+  </g>
+  <text x="534" y="306" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433">报 · 重宝</text>
+  <text x="534" y="322" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">琼琚，佩玉</text>
+
+  <!-- two arrows: 投 left->right; 报 right->left -->
+  <line x1="266" y1="212" x2="486" y2="212" stroke="#994433" stroke-width="1.1" opacity="0.8"/>
+  <path d="M486 212 L478 208 L478 216 Z" fill="#994433" opacity="0.8"/>
+  <text x="376" y="204" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433">投</text>
+
+  <line x1="500" y1="232" x2="280" y2="232" stroke="#7C6D5C" stroke-width="1.1" opacity="0.8"/>
+  <path d="M280 232 L288 228 L288 236 Z" fill="#7C6D5C" opacity="0.8"/>
+  <text x="390" y="248" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#7C6D5C">报</text>
+
+  <!-- center: not repayment but good -->
+  <circle cx="380" cy="268" r="18" fill="none" stroke="#994433" stroke-width="0.9" opacity="0.8"/>
+  <text x="380" y="272" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.4" fill="#994433">好</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="362" x2="720" y2="362" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="386" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="10.2" fill="#1F1B17">投我以木瓜，报之以琼琚。</text>
+  <text x="380" y="412" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.2" fill="#994433" letter-spacing="1">匪报也，永以为好也。</text>
+  <text x="380" y="442" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">薄　→　厚　→　永</text>
+  <text x="380" y="470" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">不是还债，是结好</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图一 · 木瓜 · sj064a</text>
+</svg>

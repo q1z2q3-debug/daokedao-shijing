@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">匪报，永以为好</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《卫风·木瓜》　投—报—好，三层</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ064b</text>
+
+  <rect x="40" y="100" width="680" height="280" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- card 1: tou -->
+  <g>
+    <rect x="64" y="122" width="168" height="214" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="148" y="146" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">第一层</text>
+    <text x="148" y="182" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="28" fill="#1F1B17">投</text>
+    <!-- wrapped fruit -->
+    <path d="M132 216 Q148 204 166 212 Q180 220 176 238 Q172 254 152 256 Q132 256 128 238 Z" fill="#994433" opacity="0.9"/>
+    <path d="M132 222 Q148 214 166 220 Q178 226 174 236" fill="none" stroke="#F7F4EE" stroke-width="0.8"/>
+    <path d="M136 216 Q132 200 144 194 Q156 200 154 214" fill="#7C6D5C" opacity="0.8"/>
+    <text x="148" y="278" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#994433">薄物</text>
+    <text x="148" y="300" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">木瓜、木桃、木李</text>
+    <text x="148" y="318" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">礼之始</text>
+  </g>
+
+  <!-- card 2: bao -->
+  <g>
+    <rect x="292" y="122" width="168" height="214" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="376" y="146" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">第二层</text>
+    <text x="376" y="182" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="28" fill="#1F1B17">报</text>
+    <!-- jade -->
+    <path d="M354 218 Q354 196 376 196 Q398 196 398 218 Q398 240 376 240 Q354 240 354 218 Z" fill="#8FA39A" opacity="0.85" stroke="#5F7269" stroke-width="0.9"/>
+    <circle cx="376" cy="218" r="8" fill="#F7F4EE" stroke="#5F7269" stroke-width="0.8"/>
+    <path d="M376 196 Q386 186 396 190" fill="none" stroke="#994433" stroke-width="1.4"/>
+    <text x="376" y="278" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#994433">重宝</text>
+    <text x="376" y="300" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">琼琚、琼瑶、琼玖</text>
+    <text x="376" y="318" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">礼之往来</text>
+  </g>
+
+  <!-- card 3: hao -->
+  <g>
+    <rect x="520" y="122" width="168" height="214" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+    <text x="604" y="146" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.6" fill="#7C6D5C">第三层</text>
+    <text x="604" y="182" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="28" fill="#1F1B17">好</text>
+    <!-- endless knot -->
+    <path d="M576 228 Q576 204 604 204 Q632 204 632 228 Q632 252 604 252 Q576 252 576 228 Z" fill="none" stroke="#994433" stroke-width="1.4"/>
+    <path d="M592 228 Q604 214 616 228 Q604 242 592 228 Z" fill="none" stroke="#994433" stroke-width="1"/>
+    <path d="M604 204 L604 190 M604 252 L604 266" stroke="#994433" stroke-width="1.2"/>
+    <text x="604" y="278" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#994433">永久</text>
+    <text x="604" y="300" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.4" fill="#7C6D5C">永以为好</text>
+    <text x="604" y="318" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">礼之归</text>
+  </g>
+
+  <!-- arrows -->
+  <line x1="232" y1="228" x2="288" y2="228" stroke="#994433" stroke-width="1" opacity="0.8"/>
+  <path d="M288 228 L282 225 L282 231 Z" fill="#994433" opacity="0.8"/>
+  <line x1="460" y1="228" x2="516" y2="228" stroke="#994433" stroke-width="1" opacity="0.8" stroke-dasharray="5 3"/>
+  <path d="M516 228 L510 225 L510 231 Z" fill="#994433" opacity="0.8"/>
+  <text x="488" y="220" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#994433">不止于报</text>
+
+  <!-- red stamp on the second arrow -->
+  <rect x="474" y="238" width="48" height="18" fill="none" stroke="#994433" stroke-width="0.8" transform="rotate(-8 498 247)"/>
+  <text x="498" y="251" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.2" fill="#994433" transform="rotate(-8 498 247)">匪报</text>
+
+  <!-- bottom -->
+  <line x1="40" y1="394" x2="720" y2="394" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="418" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.4" fill="#1F1B17" letter-spacing="0.8">投—报：礼尚往来　　报—好：永以为好</text>
+  <text x="380" y="444" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.4" fill="#7C6D5C" letter-spacing="0.8">薄　→　厚　→　永</text>
+
+  <rect x="206" y="460" width="348" height="42" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="486" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="13" fill="#994433" letter-spacing="1.5">匪报也　永以为好也</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 匪报 · sj064b</text>
+</svg>
