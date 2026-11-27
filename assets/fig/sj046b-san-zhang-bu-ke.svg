@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" font-family="Noto Serif SC,Songti SC,serif">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#9A9186" stroke-width="1"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+  <text x="380" y="50" text-anchor="middle" font-size="20" letter-spacing="4" fill="#1F1B17" font-weight="700">三章递进：从手到口</text>
+  <text x="380" y="72" text-anchor="middle" font-size="9.2" letter-spacing="2" fill="#5C544A">《诗经》鄘风 · 第二篇　墙有茨</text>
+  <defs><marker id="ar046" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#994433"/></marker></defs>
+
+  <text x="70" y="176" text-anchor="middle" font-size="8" fill="#7C6D5C">手</text>
+  <text x="70" y="246" text-anchor="middle" font-size="8" fill="#7C6D5C">口</text>
+  <text x="70" y="316" text-anchor="middle" font-size="8" fill="#7C6D5C">果</text>
+  <line x1="96" y1="150" x2="96" y2="336" stroke="#DCD5C8" stroke-width="0.7"/>
+
+  <text x="205" y="124" text-anchor="middle" font-size="8.4" fill="#994433">一章</text>
+  <text x="405" y="124" text-anchor="middle" font-size="8.4" fill="#994433">二章</text>
+  <text x="605" y="124" text-anchor="middle" font-size="8.4" fill="#994433">三章</text>
+
+  <rect x="130" y="140" width="150" height="52" fill="#F2E9DA" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="205" y="170" text-anchor="middle" font-size="24" fill="#1F1B17">扫</text>
+  <text x="205" y="185" text-anchor="middle" font-size="6.4" fill="#7C6D5C">不可扫</text>
+  <rect x="330" y="140" width="150" height="52" fill="#F2E9DA" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="405" y="170" text-anchor="middle" font-size="24" fill="#1F1B17">襄</text>
+  <text x="405" y="185" text-anchor="middle" font-size="6.4" fill="#7C6D5C">不可襄</text>
+  <rect x="530" y="140" width="150" height="52" fill="#F2E9DA" stroke="#5C544A" stroke-width="0.9"/>
+  <text x="605" y="170" text-anchor="middle" font-size="24" fill="#1F1B17">束</text>
+  <text x="605" y="185" text-anchor="middle" font-size="6.4" fill="#7C6D5C">不可束</text>
+
+  <line x1="205" y1="194" x2="205" y2="223" stroke="#994433" stroke-width="1" marker-end="url(#ar046)"/>
+  <line x1="405" y1="194" x2="405" y2="223" stroke="#994433" stroke-width="1" marker-end="url(#ar046)"/>
+  <line x1="605" y1="194" x2="605" y2="223" stroke="#994433" stroke-width="1" marker-end="url(#ar046)"/>
+
+  <rect x="130" y="226" width="150" height="52" fill="#FCFAF6" stroke="#994433" stroke-width="1.0"/>
+  <text x="205" y="256" text-anchor="middle" font-size="24" fill="#994433">道</text>
+  <text x="205" y="271" text-anchor="middle" font-size="6.4" fill="#7C6D5C">不可道</text>
+  <rect x="330" y="226" width="150" height="52" fill="#FCFAF6" stroke="#994433" stroke-width="1.0"/>
+  <text x="405" y="256" text-anchor="middle" font-size="24" fill="#994433">详</text>
+  <text x="405" y="271" text-anchor="middle" font-size="6.4" fill="#7C6D5C">不可详</text>
+  <rect x="530" y="226" width="150" height="52" fill="#FCFAF6" stroke="#994433" stroke-width="1.0"/>
+  <text x="605" y="256" text-anchor="middle" font-size="24" fill="#994433">读</text>
+  <text x="605" y="271" text-anchor="middle" font-size="6.4" fill="#7C6D5C">不可读</text>
+
+  <line x1="205" y1="280" x2="205" y2="309" stroke="#994433" stroke-width="1" marker-end="url(#ar046)"/>
+  <line x1="405" y1="280" x2="405" y2="309" stroke="#994433" stroke-width="1" marker-end="url(#ar046)"/>
+  <line x1="605" y1="280" x2="605" y2="309" stroke="#994433" stroke-width="1" marker-end="url(#ar046)"/>
+
+  <rect x="130" y="312" width="150" height="52" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="205" y="342" text-anchor="middle" font-size="24" fill="#994433">丑</text>
+  <text x="205" y="357" text-anchor="middle" font-size="6.4" fill="#7C6D5C">言之丑</text>
+  <rect x="330" y="312" width="150" height="52" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="405" y="342" text-anchor="middle" font-size="24" fill="#994433">长</text>
+  <text x="405" y="357" text-anchor="middle" font-size="6.4" fill="#7C6D5C">言之长</text>
+  <rect x="530" y="312" width="150" height="52" fill="#F2E7D5" stroke="#7C6D5C" stroke-width="0.9"/>
+  <text x="605" y="342" text-anchor="middle" font-size="24" fill="#994433">辱</text>
+  <text x="605" y="357" text-anchor="middle" font-size="6.4" fill="#7C6D5C">言之辱</text>
+
+  <text x="205" y="390" text-anchor="middle" font-size="6.8" fill="#9A9186">墙有茨 / 中冓之言</text>
+  <text x="405" y="390" text-anchor="middle" font-size="6.8" fill="#9A9186">墙有茨 / 中冓之言</text>
+  <text x="605" y="390" text-anchor="middle" font-size="6.8" fill="#9A9186">墙有茨 / 中冓之言</text>
+
+  <rect x="80" y="414" width="600" height="44" fill="#F2E7D5" stroke="#D8CBB8" stroke-width="0.8"/>
+  <text x="100" y="442" font-size="6.8" letter-spacing="1" fill="#7C6D5C">三章收束</text>
+  <text x="390" y="442" text-anchor="middle" font-size="13.5" letter-spacing="1.5" fill="#994433">言之丑　·　言之长　·　言之辱</text>
+
+  <text x="380" y="478" text-anchor="middle" font-size="7.4" fill="#9A9186">三章只换字，不换事；越说「不可说」，越坐实「有」</text>
+  <text x="120" y="512" font-size="5.6" fill="#5C544A">诗经 · 鄘风</text>
+  <text x="640" y="512" text-anchor="end" font-size="5.6" fill="#5C544A">图二 · 三章递进 · sj046b</text>
+</svg>
