@@ -126,3 +126,56 @@ def grid_check(canvas=(760, 540)):
 def svg_open(w, h, font='Noto Serif SC,Songti SC,serif'):
     return ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d" '
             'font-family="%s" stroke-linejoin="round" stroke-linecap="round">' % (w, h, w, h, font))
+
+
+# ---------- 复用层：defs + use ----------
+
+def svg_open_xlink(w, h, font='Noto Serif SC,Songti SC,serif'):
+    return ('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" '
+            'viewBox="0 0 %d %d" width="%d" height="%d" font-family="%s" '
+            'stroke-linejoin="round" stroke-linecap="round">' % (w, h, w, h, font))
+
+
+def def_group(gid, body):
+    return '<g id="%s">%s</g>' % (gid, ''.join(body))
+
+
+def use(gid, tx=0.0, ty=0.0, rot=0.0, sx=1.0, sy=1.0, extra=''):
+    tr = 'translate(%.2f,%.2f)' % (tx, ty)
+    if rot:
+        tr += ' rotate(%.2f)' % rot
+    if sx != 1.0 or sy != 1.0:
+        tr += ' scale(%.3f,%.3f)' % (sx, sy)
+    return '<use xlink:href="#%s" transform="%s"%s/>' % (gid, tr, (' ' + extra if extra else ''))
+
+
+def feather_module(gid, length=1.0, width=0.34, w=0.7, ribs=2, col=INK, ribcol=GREY):
+    """以 (0,0) 为羽根、羽尖朝 -y 的母片；length=1 表示单位长度。"""
+    body = []
+    ts = np.linspace(0, 1, 15)
+    left, right = [], []
+    for t in ts:
+        wd = width * (max(0.0, math.sin(math.pi * (0.06 + t * 0.9))) ** 0.5) * 0.5
+        left.append((-wd, -length * t))
+        right.append((wd, -length * t))
+    body.append(stroke(left, w, col=col, n=20))
+    body.append(stroke(right, w, col=col, n=20))
+    body.append(hair([(0, 0), (0, -length * 0.94)], 0.3, ribcol))
+    for m in range(ribs):
+        t = 0.3 + m * 0.26
+        wd = width * (max(0.0, math.sin(math.pi * (0.06 + t * 0.9))) ** 0.5) * 0.42
+        body.append(hair([(0, -length * t), (-wd, -length * t - 4)], 0.25, ribcol))
+        body.append(hair([(0, -length * t), (wd, -length * t - 4)], 0.25, ribcol))
+    return def_group(gid, body)
+
+
+def hair_module(gid, length=1.0, bend=0.35, w=0.55, col=INK2):
+    """一条母「缕」，从 (0,0) 下垂并于末端偏折 bend。"""
+    pts = []
+    for t in np.linspace(0, 1, 12):
+        pts.append((bend * (t ** 2), length * t))
+    return def_group(gid, [stroke(pts, w, col=col, n=16)])
+
+
+def count_bytes(s):
+    return len(s.encode('utf-8'))
