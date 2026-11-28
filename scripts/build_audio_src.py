@@ -42,6 +42,8 @@ def parse_经文(md_path):
         if not x:
             continue
         x = zhconv.convert(x, "zh-cn")
+        for a, b in (("𫮃", "墠"), ("𬮱", "闉"), ("𫈉", "蕳"), ("𬣙", "訏")):
+            x = x.replace(a, b)
         x = re.sub(r"^第[一二三四五六七八九十百]+章[　\s]*", "", x)
         if x:
             cur.append(x)
@@ -55,7 +57,7 @@ def title_of(md_path):
     m = re.search(r"^#\s+(.+)$", t, re.M)
     name = m.group(1).strip() if m else ""
     name = re.sub(r"[（(].*?[）)]", "", name).strip()
-    return zhconv.convert(name, "zh-cn")
+    return zhconv.convert(name, "zh-cn").replace("𫮃", "墠")
 
 
 def main():

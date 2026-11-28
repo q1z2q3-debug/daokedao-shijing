@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">郑 风 · 之二十一</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">溱洧　再问</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之九五</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">一问一答，再问才到水外</text>
+<rect x="64.0" y="190.0" width="100.0" height="96.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<text x="114.0" y="228.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="0.0">女曰</text>
+<text x="114.0" y="254.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">观乎</text>
+<line x1="166.0" y1="238.0" x2="192.0" y2="238.0" stroke="#7C6D5C" stroke-width="0.45" opacity="1.00"/>
+<path d="M 192 238 L 192 234 M 192 238 L 192 242" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<rect x="196.0" y="190.0" width="100.0" height="96.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<text x="246.0" y="228.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="0.0">士曰</text>
+<text x="246.0" y="254.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">既且</text>
+<line x1="298.0" y1="238.0" x2="324.0" y2="238.0" stroke="#7C6D5C" stroke-width="0.45" opacity="1.00"/>
+<path d="M 324 238 L 324 234 M 324 238 L 324 242" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<rect x="328.0" y="190.0" width="100.0" height="96.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<text x="378.0" y="228.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="0.0">且往</text>
+<text x="378.0" y="254.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">观乎</text>
+<line x1="430.0" y1="238.0" x2="456.0" y2="238.0" stroke="#7C6D5C" stroke-width="0.45" opacity="1.00"/>
+<path d="M 456 238 L 456 234 M 456 238 L 456 242" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<rect x="460.0" y="190.0" width="100.0" height="96.0" rx="0.0" fill="none" stroke="#A63D2F" stroke-width="0.55"/>
+<text x="510.0" y="228.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">洧外</text>
+<text x="510.0" y="254.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">洵訏</text>
+<line x1="562.0" y1="238.0" x2="588.0" y2="238.0" stroke="#7C6D5C" stroke-width="0.45" opacity="1.00"/>
+<path d="M 588 238 L 588 234 M 588 238 L 588 242" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<rect x="592.0" y="190.0" width="100.0" height="96.0" rx="0.0" fill="none" stroke="#A63D2F" stroke-width="0.55"/>
+<text x="642.0" y="228.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">赠之</text>
+<text x="642.0" y="254.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">勺药</text>
+<path d="M 56 330 C 180 318 260 350 360 324 C 470 360 580 338 704 344" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 56 344 C 180 332 260 364 360 338 C 470 374 580 352 704 358" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 56 358 C 180 346 260 378 360 352 C 470 388 580 366 704 372" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<text x="380.0" y="402.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="11.2" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">再问一次，才过水；礼不在，花为凭</text>
+<text x="380.0" y="430.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">一章问，二章再问；问不变，水渐清。</text>
+<text x="380.0" y="486.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">图二 · 义理</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

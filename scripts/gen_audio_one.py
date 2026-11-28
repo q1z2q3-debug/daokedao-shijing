@@ -39,7 +39,8 @@ def main():
          "--title", title, "--artist", "润泽说 道可道", "--bitrate", "128k",
          "--cache", CACHE, "--jobs", "2"])
 
-    mp3s = glob.glob(os.path.join(outdir, "*.mp3"))
+    mp3s = [p for p in glob.glob(os.path.join(outdir, "*.mp3"))
+            if os.path.basename(p) != "lang-du.mp3"]
     if not mp3s:
         raise SystemExit("no mp3: " + key)
     raw = max(mp3s, key=os.path.getsize)

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">郑 风 · 之十七</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">子衿　城阙</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之九一</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">青在领上，不在脸上</text>
+<path d="M 90 190 L 150 190 L 172 220 L 160 410 L 80 410 L 68 220 Z" fill="none" stroke="#1F1B17" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 90 190 L 120 250 L 150 190" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 104 190 L 120 250 L 136 190" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 68 220 L 56 300 L 70 410" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 172 220 L 184 300 L 170 410" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="120.0" y="176.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">衿</text>
+<text x="120.0" y="438.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.3" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">青领</text>
+<line x1="300.0" y1="210.0" x2="300.0" y2="250.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<line x1="380.0" y1="210.0" x2="380.0" y2="250.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 300 250 C 318 262 362 262 380 250" fill="none" stroke="#7C6D5C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="340.0" cy="276.0" r="16.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<circle cx="340.0" cy="276.0" r="7.0" fill="none" stroke="#7C6D5C" stroke-width="0.35"/>
+<line x1="324.0" y1="276.0" x2="308.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<line x1="356.0" y1="276.0" x2="372.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 308 300 L 314 330 L 302 330 L 308 300" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 300 L 378 330 L 366 330 L 372 300" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="340.0" y="196.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">佩</text>
+<text x="340.0" y="356.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">青组绶</text>
+<rect x="530.0" y="300.0" width="170.0" height="130.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<rect x="548.0" y="246.0" width="134.0" height="54.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.50"/>
+<path d="M 520 246 L 615 206 L 710 246" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 590 430 L 590 340 L 636 340 L 636 430" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<rect x="540.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="562.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="584.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="606.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="628.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="650.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="672.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="694.0" y="286.0" width="12.0" height="14.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="558.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="578.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="598.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="618.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="638.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="658.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="678.0" y="234.0" width="10.0" height="12.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<rect x="508.0" y="340.0" width="22.0" height="90.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<rect x="700.0" y="340.0" width="22.0" height="90.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<line x1="548.0" y1="300.0" x2="710.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="548.0" y1="330.0" x2="710.0" y2="330.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<text x="615.0" y="190.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">城阙</text>
+<text x="615.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">登高而望</text>
+<text x="62.0" y="150.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="0.0">青青子衿</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="1.0">青青子衿，悠悠我心。纵我不往，子宁不嗣音？</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 子衿　衿、佩、城阙</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
