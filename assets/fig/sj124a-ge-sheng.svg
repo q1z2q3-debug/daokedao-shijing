@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">唐 风 · 之十一</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">葛生　蒙楚蔓野</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百二十四</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">草木有托，所美无归</text>
+<line x1="44.0" y1="392.0" x2="716.0" y2="392.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 100 384 C 96 344 112 302 132 300 C 154 304 162 344 160 384" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 130 384 L 110 328" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 130 384 L 122 314" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 130 384 L 134 310" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 130 384 L 144 324" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 130 384 L 152 338" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 114 340 L 108 331" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 126 328 L 120 319" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 140 332 L 134 323" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 148 346 L 142 337" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 100 322 C 122 292 148 296 164 324" fill="none" stroke="#1C1917" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 112 302 C 100 295 98 305 112 307 Z" fill="none" stroke="#4A443C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 136 298 C 124 291 122 301 136 303 Z" fill="none" stroke="#4A443C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 154 312 C 142 305 140 315 154 317 Z" fill="none" stroke="#4A443C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="130.0" y="424.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">葛蒙楚</text>
+<path d="M 280 380 C 316 368 356 388 398 378" fill="none" stroke="#1C1917" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 296 376 C 282 364 289 358 300 370 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 296 376 C 310 366 313 376 301 381 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 324 383 C 310 371 317 365 328 377 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 324 383 C 338 373 341 383 329 388 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 352 376 C 338 364 345 358 356 370 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 352 376 C 366 366 369 376 357 381 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 380 383 C 366 371 373 365 384 377 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 380 383 C 394 373 397 383 385 388 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="330.0" y="424.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">蔹蔓于野／域</text>
+<path d="M 482 288 L 538 288 C 550 288 550 312 538 312 L 482 312 C 470 312 470 288 482 288 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 480 290 L 472 276 L 486 286" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 540 290 L 548 276 L 534 286" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="500.0" y1="290.0" x2="500.0" y2="310.0" stroke="#4A443C" stroke-width="0.25" opacity="1.00"/>
+<line x1="522.0" y1="290.0" x2="522.0" y2="310.0" stroke="#4A443C" stroke-width="0.25" opacity="1.00"/>
+<text x="510.0" y="278.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">角枕粲</text>
+<rect x="596.0" y="286.0" width="104.0" height="76.0" rx="0.0" fill="none" stroke="#1C1917" stroke-width="0.50"/>
+<line x1="596.0" y1="304.0" x2="700.0" y2="304.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<line x1="606.0" y1="314.0" x2="690.0" y2="314.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="610.0" y1="321.0" x2="690.0" y2="321.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="606.0" y1="328.0" x2="690.0" y2="328.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="610.0" y1="335.0" x2="690.0" y2="335.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="606.0" y1="342.0" x2="690.0" y2="342.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="610.0" y1="349.0" x2="690.0" y2="349.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="606.0" y1="356.0" x2="690.0" y2="356.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<line x1="614.0" y1="310.0" x2="614.0" y2="356.0" stroke="#4A443C" stroke-width="0.18" opacity="1.00"/>
+<line x1="630.0" y1="310.0" x2="630.0" y2="356.0" stroke="#4A443C" stroke-width="0.18" opacity="1.00"/>
+<line x1="646.0" y1="310.0" x2="646.0" y2="356.0" stroke="#4A443C" stroke-width="0.18" opacity="1.00"/>
+<line x1="662.0" y1="310.0" x2="662.0" y2="356.0" stroke="#4A443C" stroke-width="0.18" opacity="1.00"/>
+<line x1="678.0" y1="310.0" x2="678.0" y2="356.0" stroke="#4A443C" stroke-width="0.18" opacity="1.00"/>
+<text x="648.0" y="384.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">锦衾烂</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 楚：荆条；棘：酸枣丛。葛藤覆之，蔹草蔓延</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 角枕、锦衾以线立形；纹用密线，不以面代线</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 诗中无死者面目；此图不画人，只留枕衾与草蔓</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">葛生蒙楚，蔹蔓于野。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 葛生 · 葛蔹蒙蔓、角枕锦衾</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
