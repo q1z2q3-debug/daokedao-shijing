@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之六</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">南山　雄狐</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百零一</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">礼已尽，问不休</text>
+<path d="M 44 430 L 120 300 L 160 350 L 230 220 L 300 330 L 380 260 L 470 430" fill="none" stroke="#1F1B17" stroke-width="0.70" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 60 410 L 122 330 L 158 356" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 300 330 L 380 276 L 452 420" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="170.0" y="246.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">南山崔崔</text>
+<path d="M 300 330 C 312 316 334 312 352 318 C 366 322 376 334 372 346 C 364 356 346 358 332 352 C 318 346 306 338 300 330 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 350 314 L 346 300 L 355 308 M 360 312 L 363 298 L 369 308" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 326 L 386 330 L 372 334" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 300 330 C 280 330 270 316 276 300 C 282 286 296 286 300 298" fill="none" stroke="#7C6D5C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="300.0" y1="298.0" x2="286.0" y2="290.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="300.0" y1="304.0" x2="286.0" y2="296.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="300.0" y1="310.0" x2="286.0" y2="302.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="316.0" y1="352.0" x2="316.0" y2="378.0" stroke="#1F1B17" stroke-width="0.30" opacity="1.00"/>
+<line x1="316.0" y1="378.0" x2="312.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="332.0" y1="352.0" x2="332.0" y2="378.0" stroke="#1F1B17" stroke-width="0.30" opacity="1.00"/>
+<line x1="332.0" y1="378.0" x2="328.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="348.0" y1="352.0" x2="348.0" y2="378.0" stroke="#1F1B17" stroke-width="0.30" opacity="1.00"/>
+<line x1="348.0" y1="378.0" x2="344.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="360.0" y1="352.0" x2="360.0" y2="378.0" stroke="#1F1B17" stroke-width="0.30" opacity="1.00"/>
+<line x1="360.0" y1="378.0" x2="356.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<text x="340.0" y="290.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">雄狐</text>
+<line x1="500.0" y1="430.0" x2="710.0" y2="360.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<line x1="520.0" y1="430.0" x2="710.0" y2="372.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<text x="620.0" y="410.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">鲁道有荡</text>
+<circle cx="690.0" cy="292.4" r="6.5" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="690.0" y1="298.9" x2="690.0" y2="304.9" stroke="#7C6D5C" stroke-width="0.35" opacity="0.70"/>
+<path d="M 679.0 304.9 L 670.0 337.6 L 672.4 372.0 L 707.6 372.0 L 710.0 337.6 L 701.0 304.9 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<path d="M 679.0 304.9 L 690.0 318.7 L 701.0 304.9" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="673.6" y1="322.1" x2="669.6" y2="353.1" stroke="#7C6D5C" stroke-width="0.30" opacity="0.70"/>
+<line x1="706.4" y1="322.1" x2="710.4" y2="353.1" stroke="#7C6D5C" stroke-width="0.30" opacity="0.70"/>
+<text x="690.0" y="392.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">齐子由归</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">南山崔崔，雄狐绥绥。鲁道有荡，齐子由归。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 南山　南山、雄狐、鲁道</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

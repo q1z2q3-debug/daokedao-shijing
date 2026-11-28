@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之十</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">载驱　车与路</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百零五</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">车越盛，路越荡</text>
+<circle cx="180.0" cy="372.0" r="34.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<circle cx="180.0" cy="372.0" r="5.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<rect x="200.0" y="300.0" width="180.0" height="100.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<line x1="200.0" y1="330.0" x2="380.0" y2="330.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="200.0" y1="360.0" x2="380.0" y2="360.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="220.0" y1="300.0" x2="220.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="250.0" y1="300.0" x2="250.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="280.0" y1="300.0" x2="280.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="310.0" y1="300.0" x2="310.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="340.0" y1="300.0" x2="340.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="370.0" y1="300.0" x2="370.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 380 300 L 410 320 L 410 380 L 380 400" fill="none" stroke="#A63D2F" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="290.0" y="286.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">簟茀朱鞟</text>
+<line x1="440.0" y1="286.0" x2="600.0" y2="286.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<circle cx="456.0" cy="286.0" r="4.0" fill="none" stroke="#A63D2F" stroke-width="0.30"/>
+<path d="M 456 286 C 452 320 460 354 456 386" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 451 396 C 447 390 447 394 451 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 461 396 C 457 390 457 394 461 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="496.0" cy="286.0" r="4.0" fill="none" stroke="#A63D2F" stroke-width="0.30"/>
+<path d="M 496 286 C 492 320 500 354 496 386" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 491 396 C 487 390 487 394 491 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 501 396 C 497 390 497 394 501 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="536.0" cy="286.0" r="4.0" fill="none" stroke="#A63D2F" stroke-width="0.30"/>
+<path d="M 536 286 C 532 320 540 354 536 386" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 531 396 C 527 390 527 394 531 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 541 396 C 537 390 537 394 541 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="576.0" cy="286.0" r="4.0" fill="none" stroke="#A63D2F" stroke-width="0.30"/>
+<path d="M 576 286 C 572 320 580 354 576 386" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 571 396 C 567 390 567 394 571 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 581 396 C 577 390 577 394 581 402" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="516.0" y="262.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">四骊济济</text>
+<path d="M 440 400 C 480 394 520 402 560 396 600 392 640 402 680 400" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 440 414 C 480 408 520 416 560 410 600 406 640 416 680 414" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<text x="560.0" y="438.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">汶水汤汤</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">载驱薄薄，簟茀朱鞟。鲁道有荡，齐子发夕。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 载驱　车、簟茀、四骊、汶水</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

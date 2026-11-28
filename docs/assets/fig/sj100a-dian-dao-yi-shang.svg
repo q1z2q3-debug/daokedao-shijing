@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之五</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">东方未明　颠倒</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">号令无节，衣冠先乱</text>
+<line x1="44.0" y1="190.0" x2="220.0" y2="190.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<circle cx="64.0" cy="178.0" r="1.6" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="96.0" cy="178.0" r="1.6" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="128.0" cy="178.0" r="1.6" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="160.0" cy="178.0" r="1.6" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="192.0" cy="178.0" r="1.6" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<text x="132.0" y="212.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">东方未明</text>
+<path d="M 270 258 L 298 258 L 316 284 L 312 370 L 256 370 L 252 284 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 262 280 L 234 300 L 242 322 L 266 304" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 306 280 L 334 300 L 326 322 L 302 304" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 270 258 L 284 282 L 298 258" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="260.0" y1="319.6" x2="308.0" y2="319.6" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<g transform="rotate(180 392 326)">
+<path d="M 378 270 L 406 270 L 424 296 L 420 382 L 364 382 L 360 296 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 370 292 L 342 312 L 350 334 L 374 316" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 414 292 L 442 312 L 434 334 L 410 316" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 378 270 L 392 294 L 406 270" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="368.0" y1="331.6" x2="416.0" y2="331.6" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+</g>
+<line x1="252.0" y1="238.0" x2="424.0" y2="238.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<text x="336.0" y="232.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">衣裳颠倒</text>
+<text x="336.0" y="402.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">颠之倒之</text>
+<rect x="530.0" y="260.0" width="120.0" height="150.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<line x1="530.0" y1="260.0" x2="570.0" y2="220.0" stroke="#1F1B17" stroke-width="0.35" opacity="1.00"/>
+<line x1="650.0" y1="260.0" x2="610.0" y2="220.0" stroke="#1F1B17" stroke-width="0.35" opacity="1.00"/>
+<circle cx="560.0" cy="316.0" r="5.0" fill="none" stroke="#A63D2F" stroke-width="0.40"/>
+<path d="M 600 320 L 600 350 L 618 350 L 618 320 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="618.0" y1="320.0" x2="630.0" y2="320.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<text x="590.0" y="408.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">自公召之</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">东方未明，颠倒衣裳。颠之倒之，自公召之。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 东方未明　未明、颠倒衣裳、公召</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

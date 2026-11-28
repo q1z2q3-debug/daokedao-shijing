@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之八</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">卢令　犬与人</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百零三</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">犬有环，人有德</text>
+<path d="M 112 344 C 112 326 134 316 158 316 C 184 316 204 328 208 346 C 212 366 198 380 178 384 C 156 388 136 384 122 378 C 104 370 100 358 112 344 Z" fill="none" stroke="#1F1B17" stroke-width="0.60" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 204 334 C 214 322 230 322 236 334 C 242 344 236 354 226 354" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 214 324 L 214 308 L 222 318 M 228 318 L 230 304 L 236 316" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 236 340 L 248 340 L 236 346" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 112 344 C 92 344 82 330 86 314 C 90 300 102 300 106 312" fill="none" stroke="#7C6D5C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="126.0" y1="380.0" x2="126.0" y2="410.0" stroke="#1F1B17" stroke-width="0.35" opacity="1.00"/>
+<line x1="126.0" y1="410.0" x2="121.0" y2="416.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="150.0" y1="380.0" x2="150.0" y2="410.0" stroke="#1F1B17" stroke-width="0.35" opacity="1.00"/>
+<line x1="150.0" y1="410.0" x2="145.0" y2="416.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="176.0" y1="380.0" x2="176.0" y2="410.0" stroke="#1F1B17" stroke-width="0.35" opacity="1.00"/>
+<line x1="176.0" y1="410.0" x2="171.0" y2="416.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="198.0" y1="380.0" x2="198.0" y2="410.0" stroke="#1F1B17" stroke-width="0.35" opacity="1.00"/>
+<line x1="198.0" y1="410.0" x2="193.0" y2="416.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<path d="M 196 336 C 204 328 214 328 220 336" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 196 350 C 204 342 214 342 220 350" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 196 364 C 204 356 214 356 220 364" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="170.0" y="288.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">卢令令</text>
+<circle cx="560.0" cy="301.0" r="9.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="560.0" y1="310.0" x2="560.0" y2="318.4" stroke="#1F1B17" stroke-width="0.35" opacity="0.80"/>
+<path d="M 542.4 318.4 L 528.0 364.0 L 531.8 412.0 L 588.2 412.0 L 592.0 364.0 L 577.6 318.4 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<path d="M 542.4 318.4 L 560.0 337.6 L 577.6 318.4" fill="none" stroke="#1F1B17" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<line x1="533.8" y1="342.4" x2="527.4" y2="385.6" stroke="#1F1B17" stroke-width="0.30" opacity="0.80"/>
+<line x1="586.2" y1="342.4" x2="592.6" y2="385.6" stroke="#1F1B17" stroke-width="0.30" opacity="0.80"/>
+<path d="M 520 344 C 512 354 516 372 526 378 M 600 344 C 608 354 604 372 594 378" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="560.0" y="300.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">其人美且仁</text>
+<text x="560.0" y="440.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">须鬓/才能</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">卢令令，其人美且仁。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 卢令　田犬、环铃、人</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

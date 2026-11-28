@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之十一</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">猗嗟　威仪技艺</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百零六</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">美越全，缺越显</text>
+<circle cx="210.0" cy="272.0" r="12.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="210.0" y1="284.0" x2="210.0" y2="295.2" stroke="#1F1B17" stroke-width="0.35" opacity="0.90"/>
+<path d="M 186.9 295.2 L 168.0 356.0 L 173.0 420.0 L 247.0 420.0 L 252.0 356.0 L 233.1 295.2 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.90"/>
+<path d="M 186.9 295.2 L 210.0 320.8 L 233.1 295.2" fill="none" stroke="#1F1B17" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.90"/>
+<line x1="175.6" y1="327.2" x2="167.2" y2="384.8" stroke="#1F1B17" stroke-width="0.30" opacity="0.90"/>
+<line x1="244.4" y1="327.2" x2="252.8" y2="384.8" stroke="#1F1B17" stroke-width="0.30" opacity="0.90"/>
+<path d="M 180 286 C 190 280 200 282 206 288 M 214 288 C 220 282 230 280 240 286" fill="none" stroke="#A63D2F" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="210.0" y="258.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">美目扬兮</text>
+<path d="M 178 360 L 170 400 M 242 360 L 250 400" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="210.0" y="446.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">巧趋跄兮</text>
+<rect x="430.0" y="230.0" width="180.0" height="180.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<rect x="470.0" y="270.0" width="100.0" height="100.0" rx="0.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<rect x="495.0" y="295.0" width="50.0" height="50.0" rx="0.0" fill="none" stroke="#A63D2F" stroke-width="0.40"/>
+<text x="520.0" y="222.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">侯</text>
+<text x="520.0" y="324.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">正</text>
+<line x1="508.0" y1="320.0" x2="508.0" y2="302.0" stroke="#A63D2F" stroke-width="0.35" opacity="1.00"/>
+<path d="M 508 302 L 504 310 L 512 310" fill="none" stroke="#A63D2F" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="526.0" y1="326.0" x2="526.0" y2="308.0" stroke="#A63D2F" stroke-width="0.35" opacity="1.00"/>
+<path d="M 526 308 L 522 316 L 530 316" fill="none" stroke="#A63D2F" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="514.0" y1="338.0" x2="514.0" y2="320.0" stroke="#A63D2F" stroke-width="0.35" opacity="1.00"/>
+<path d="M 514 320 L 510 328 L 518 328" fill="none" stroke="#A63D2F" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="534.0" y1="340.0" x2="534.0" y2="322.0" stroke="#A63D2F" stroke-width="0.35" opacity="1.00"/>
+<path d="M 534 322 L 530 330 L 538 330" fill="none" stroke="#A63D2F" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="520.0" y="442.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">四矢反兮</text>
+<path d="M 668 230 C 636 268 636 342 668 380" fill="none" stroke="#7C6D5C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="668.0" y1="230.0" x2="668.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="610.0" y1="305.0" x2="668.0" y2="305.0" stroke="#A63D2F" stroke-width="0.30" opacity="1.00"/>
+<path d="M 610 305 L 618 300 L 618 310" fill="none" stroke="#A63D2F" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="690.0" y="306.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">射则臧</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">猗嗟昌兮，颀而长兮。巧趋跄兮，射则臧兮。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 猗嗟　美目、趋跄、射侯、四矢</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

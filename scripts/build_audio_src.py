@@ -42,7 +42,8 @@ def parse_经文(md_path):
         if not x:
             continue
         x = zhconv.convert(x, "zh-cn")
-        for a, b in (("𫮃", "墠"), ("𬮱", "闉"), ("𫈉", "蕳"), ("𬣙", "訏")):
+        for a, b in (("𫮃", "墠"), ("𬮱", "闉"), ("𫈉", "蕳"), ("𬣙", "訏"),
+                     ("镅", "鋂"), ("𫚈", "鱮"), ("艺麻", "蓺麻")):
             x = x.replace(a, b)
         x = re.sub(r"^第[一二三四五六七八九十百]+章[　\s]*", "", x)
         if x:
@@ -63,7 +64,7 @@ def title_of(md_path):
 def main():
     os.makedirs(OUT, exist_ok=True)
     n_changed = 0
-    for f in sorted(glob.glob(os.path.join(BOOK, "SJ0*.md"))):
+    for f in sorted(glob.glob(os.path.join(BOOK, "SJ*.md"))):
         chapters = parse_经文(f)
         if not chapters:
             print("skip(no经文) " + os.path.basename(f))

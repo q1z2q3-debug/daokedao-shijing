@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之四</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">东方之日　履迹</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之九九</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">日在前，月在后</text>
+<circle cx="94.0" cy="244.0" r="28.0" fill="none" stroke="#A63D2F" stroke-width="0.55"/>
+<line x1="58.0" y1="286.0" x2="130.0" y2="286.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<text x="94.0" y="302.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.6" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">日</text>
+<path d="M 650 220 C 632 220 620 234 620 252 C 620 270 632 284 650 284 C 640 274 636 264 636 252 C 636 240 642 230 650 220 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="650.0" y="302.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.6" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">月</text>
+<rect x="250.0" y="250.0" width="150.0" height="130.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.55"/>
+<line x1="350.0" y1="250.0" x2="350.0" y2="310.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<line x1="350.0" y1="372.0" x2="350.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 350 310 L 330 330 L 350 372" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="258.0" y1="380.0" x2="392.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<rect x="430.0" y="270.0" width="100.0" height="110.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<path d="M 430 270 L 460 300 L 460 380 L 430 380" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="430.0" y1="380.0" x2="530.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<text x="325.0" y="238.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">室</text>
+<text x="480.0" y="258.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">闼</text>
+<path d="M 295 412 C 293 408 297 405 300 405 C 303 405 307 408 305 412 C 303 416 297 416 295 412 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="296.0" y1="405.0" x2="295.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="300.0" y1="405.0" x2="299.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="304.0" y1="405.0" x2="303.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<path d="M 325 409 C 323 405 327 402 330 402 C 333 402 337 405 335 409 C 333 413 327 413 325 409 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="326.0" y1="402.0" x2="325.0" y2="397.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="330.0" y1="402.0" x2="329.0" y2="397.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="334.0" y1="402.0" x2="333.0" y2="397.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<path d="M 355 406 C 353 402 357 399 360 399 C 363 399 367 402 365 406 C 363 410 357 410 355 406 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="356.0" y1="399.0" x2="355.0" y2="394.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="360.0" y1="399.0" x2="359.0" y2="394.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="364.0" y1="399.0" x2="363.0" y2="394.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<path d="M 385 403 C 383 399 387 396 390 396 C 393 396 397 399 395 403 C 393 407 387 407 385 403 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="386.0" y1="396.0" x2="385.0" y2="391.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="390.0" y1="396.0" x2="389.0" y2="391.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="394.0" y1="396.0" x2="393.0" y2="391.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<path d="M 415 400 C 413 396 417 393 420 393 C 423 393 427 396 425 400 C 423 404 417 404 415 400 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="416.0" y1="393.0" x2="415.0" y2="388.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="420.0" y1="393.0" x2="419.0" y2="388.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="424.0" y1="393.0" x2="423.0" y2="388.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<path d="M 445 397 C 443 393 447 390 450 390 C 453 390 457 393 455 397 C 453 401 447 401 445 397 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="446.0" y1="390.0" x2="445.0" y2="385.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="450.0" y1="390.0" x2="449.0" y2="385.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="454.0" y1="390.0" x2="453.0" y2="385.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<path d="M 475 394 C 473 390 477 387 480 387 C 483 387 487 390 485 394 C 483 398 477 398 475 394 Z" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="476.0" y1="387.0" x2="475.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="480.0" y1="387.0" x2="479.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<line x1="484.0" y1="387.0" x2="483.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="0.70"/>
+<text x="400.0" y="442.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">履我即</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">东方之日兮。彼姝者子，在我室兮。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 东方之日　日、月、室、闼、履迹</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

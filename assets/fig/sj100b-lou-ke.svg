@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之五</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">东方未明　漏刻</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">柳藩不足恃，漏箭不正</text>
+<path d="M 104 262 L 158 262 L 158 282 C 188 294 196 322 192 350 C 188 388 166 404 134 404 C 100 404 80 388 76 350 C 72 322 82 294 110 282 Z" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="98.0" y1="262.0" x2="164.0" y2="262.0" stroke="#1F1B17" stroke-width="0.45" opacity="1.00"/>
+<path d="M 158 292 C 178 288 188 302 182 316" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="88.0" y1="340.0" x2="182.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="86.0" y1="300.0" x2="96.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="180.0" y1="300.0" x2="190.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="86.0" y1="324.0" x2="96.0" y2="324.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="180.0" y1="324.0" x2="190.0" y2="324.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="86.0" y1="360.0" x2="96.0" y2="360.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="180.0" y1="360.0" x2="190.0" y2="360.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="86.0" y1="382.0" x2="96.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="180.0" y1="382.0" x2="190.0" y2="382.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="132.0" y1="246.0" x2="132.0" y2="392.0" stroke="#A63D2F" stroke-width="0.45" opacity="1.00"/>
+<path d="M 132 246 L 126 258 L 138 258 Z" fill="none" stroke="#A63D2F" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="122.0" y1="286.0" x2="142.0" y2="286.0" stroke="#A63D2F" stroke-width="0.30" opacity="1.00"/>
+<text x="136.0" y="226.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">挈壶</text>
+<text x="136.0" y="424.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">漏箭偏斜</text>
+<line x1="270.0" y1="420.0" x2="278.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<path d="M 278 300 C 266 286 272 274 280 284" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="300.0" y1="420.0" x2="308.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<path d="M 308 300 C 296 286 302 274 310 284" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="330.0" y1="420.0" x2="338.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<path d="M 338 300 C 326 286 332 274 340 284" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="360.0" y1="420.0" x2="368.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<path d="M 368 300 C 356 286 362 274 370 284" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="390.0" y1="420.0" x2="398.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<path d="M 398 300 C 386 286 392 274 400 284" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 262 330 C 292 322 312 336 342 328 C 372 332 388 324 404 330" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 262 360 C 292 352 312 366 342 358 C 372 362 388 354 404 360" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 262 390 C 292 382 312 396 342 388 C 372 392 388 384 404 390" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="330.0" y="286.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">折柳樊圃</text>
+<circle cx="560.0" cy="304.7" r="8.7" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="560.0" y1="313.4" x2="560.0" y2="321.5" stroke="#1F1B17" stroke-width="0.35" opacity="0.80"/>
+<path d="M 543.5 321.5 L 530.0 365.6 L 533.6 412.0 L 586.4 412.0 L 590.0 365.6 L 576.5 321.5 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<path d="M 543.5 321.5 L 560.0 340.1 L 576.5 321.5" fill="none" stroke="#1F1B17" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<line x1="535.4" y1="344.7" x2="529.4" y2="386.5" stroke="#1F1B17" stroke-width="0.30" opacity="0.80"/>
+<line x1="584.6" y1="344.7" x2="590.6" y2="386.5" stroke="#1F1B17" stroke-width="0.30" opacity="0.80"/>
+<path d="M 548 340 L 530 320 M 572 340 L 590 320" fill="none" stroke="#1F1B17" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="560.0" y="440.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">狂夫瞿瞿</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">不能辰夜，不夙则莫。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图二 · 东方未明　挈壶、柳藩、狂夫</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

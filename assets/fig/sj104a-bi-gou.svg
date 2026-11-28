@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">齐 风 · 之九</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">敝笱　鱼过</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百零四</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">笱破不能制鱼</text>
+<line x1="44.0" y1="388.0" x2="710.0" y2="388.0" stroke="#7C6D5C" stroke-width="0.55" opacity="1.00"/>
+<line x1="70.0" y1="388.0" x2="70.0" y2="420.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="120.0" y1="388.0" x2="120.0" y2="420.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="170.0" y1="388.0" x2="170.0" y2="420.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="220.0" y1="388.0" x2="220.0" y2="420.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="270.0" y1="388.0" x2="270.0" y2="420.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="320.0" y1="388.0" x2="320.0" y2="420.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 160 300 L 300 300 L 300 326" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 300 354 L 292 380 L 170 380 L 160 300" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="180.0" y1="300.0" x2="180.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="205.0" y1="300.0" x2="205.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="230.0" y1="300.0" x2="230.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="255.0" y1="300.0" x2="255.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="280.0" y1="300.0" x2="280.0" y2="380.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="166.0" y1="320.0" x2="294.0" y2="320.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="166.0" y1="348.0" x2="294.0" y2="348.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 300 326 L 310 336 L 300 346" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="228.0" y="286.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">敝笱在梁</text>
+<path d="M 312 340 C 328 318 348 318 364 340 C 348 362 328 362 312 340 Z" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 312 340 L 304 333 L 304 347" fill="none" stroke="#1F1B17" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="332.0" y="374.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">鲂鳏</text>
+<path d="M 372 356 C 388 334 408 334 424 356 C 408 378 388 378 372 356 Z" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 356 L 364 349 L 364 363" fill="none" stroke="#1F1B17" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="392.0" y="390.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">鲂鱮</text>
+<path d="M 432 340 C 448 318 468 318 484 340 C 468 362 448 362 432 340 Z" fill="none" stroke="#1F1B17" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 432 340 L 424 333 L 424 347" fill="none" stroke="#1F1B17" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="452.0" y="374.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">唯唯</text>
+<circle cx="560.0" cy="364.5" r="4.5" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="560.0" y1="369.0" x2="560.0" y2="373.2" stroke="#7C6D5C" stroke-width="0.35" opacity="0.60"/>
+<path d="M 553.4 373.2 L 548.0 396.0 L 549.4 420.0 L 570.6 420.0 L 572.0 396.0 L 566.6 373.2 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 553.4 373.2 L 560.0 382.8 L 566.6 373.2" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<line x1="550.2" y1="385.2" x2="547.8" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<line x1="569.8" y1="385.2" x2="572.2" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<circle cx="590.0" cy="364.5" r="4.5" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="590.0" y1="369.0" x2="590.0" y2="373.2" stroke="#7C6D5C" stroke-width="0.35" opacity="0.60"/>
+<path d="M 583.4 373.2 L 578.0 396.0 L 579.4 420.0 L 600.6 420.0 L 602.0 396.0 L 596.6 373.2 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 583.4 373.2 L 590.0 382.8 L 596.6 373.2" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<line x1="580.2" y1="385.2" x2="577.8" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<line x1="599.8" y1="385.2" x2="602.2" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<circle cx="620.0" cy="364.5" r="4.5" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="620.0" y1="369.0" x2="620.0" y2="373.2" stroke="#7C6D5C" stroke-width="0.35" opacity="0.60"/>
+<path d="M 613.4 373.2 L 608.0 396.0 L 609.4 420.0 L 630.6 420.0 L 632.0 396.0 L 626.6 373.2 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 613.4 373.2 L 620.0 382.8 L 626.6 373.2" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<line x1="610.2" y1="385.2" x2="607.8" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<line x1="629.8" y1="385.2" x2="632.2" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<circle cx="650.0" cy="364.5" r="4.5" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="650.0" y1="369.0" x2="650.0" y2="373.2" stroke="#7C6D5C" stroke-width="0.35" opacity="0.60"/>
+<path d="M 643.4 373.2 L 638.0 396.0 L 639.4 420.0 L 660.6 420.0 L 662.0 396.0 L 656.6 373.2 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 643.4 373.2 L 650.0 382.8 L 656.6 373.2" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<line x1="640.2" y1="385.2" x2="637.8" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<line x1="659.8" y1="385.2" x2="662.2" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<circle cx="680.0" cy="364.5" r="4.5" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="680.0" y1="369.0" x2="680.0" y2="373.2" stroke="#7C6D5C" stroke-width="0.35" opacity="0.60"/>
+<path d="M 673.4 373.2 L 668.0 396.0 L 669.4 420.0 L 690.6 420.0 L 692.0 396.0 L 686.6 373.2 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<path d="M 673.4 373.2 L 680.0 382.8 L 686.6 373.2" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.60"/>
+<line x1="670.2" y1="385.2" x2="667.8" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<line x1="689.8" y1="385.2" x2="692.2" y2="406.8" stroke="#7C6D5C" stroke-width="0.30" opacity="0.60"/>
+<text x="620.0" y="444.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">其从如云</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">敝笱在梁，其鱼鲂鳏。齐子归止，其从如云。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 敝笱　破笱、鱼、从者</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
