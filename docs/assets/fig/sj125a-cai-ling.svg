@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">唐 风 · 之十二</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">采苓　首阳三菜</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百二十五</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">菜是兴象，戒在听言</text>
+<path d="M 56 372 C 180 300 320 276 470 296 C 580 310 650 330 704 348" fill="none" stroke="#4A443C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 56 384 C 190 316 330 294 470 312 C 580 326 650 344 704 360" fill="none" stroke="#6B6259" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="360.0" y="262.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.4" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">首阳</text>
+<line x1="170.0" y1="350.0" x2="168.0" y2="272.0" stroke="#1C1917" stroke-width="0.45" opacity="1.00"/>
+<path d="M 165 330 C 151 321 159 318 163 327 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 175 330 C 177 321 185 318 189 327 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 165 312 C 151 303 159 300 163 309 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 175 312 C 177 303 185 300 189 309 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 165 294 C 151 285 159 282 163 291 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 175 294 C 177 285 185 282 189 291 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="168.0" cy="268.0" r="5.0" fill="none" stroke="#4A443C" stroke-width="0.30"/>
+<text x="170.0" y="380.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">苓 · 之巅</text>
+<path d="M 372 372 C 376 342 379 348 376 357 Z" fill="none" stroke="#4A443C" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 372 C 388 349 404 355 391 364 Z" fill="none" stroke="#4A443C" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 372 C 393 362 414 368 397 377 Z" fill="none" stroke="#4A443C" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 372 C 388 375 404 381 391 390 Z" fill="none" stroke="#4A443C" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 372 C 376 382 379 388 376 397 Z" fill="none" stroke="#4A443C" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="372.0" cy="366.0" r="5.0" fill="none" stroke="#1C1917" stroke-width="0.30"/>
+<text x="372.0" y="396.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">苦 · 之下</text>
+<path d="M 554 356 C 548 340 584 340 578 356 Z" fill="none" stroke="#4A443C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 557 342 C 540 320 554 310 558 328" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 566 342 C 558 320 572 310 576 328" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 575 342 C 576 320 590 310 594 328" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="566.0" y="386.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">葑 · 之东</text>
+<path d="M 650 372 C 664 362 684 366 686 386 C 688 400 674 408 660 402" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="640.0" y1="372.0" x2="662.0" y2="382.0" stroke="#6B6259" stroke-width="0.30" opacity="1.00"/>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 苓：甘草；苦：苦菜；葑：蔓菁。三菜各据一山位</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 首阳：首山之南；巅、下、东，以位置分三章</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 采者只留篮与袖手；不画全身，不画五官</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">采苓采苓，首阳之巅。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 采苓 · 首阳山、苓苦葑三菜</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
