@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">唐 风 · 之三</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">扬之水  白石朱领</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百十六</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">水激石明，服朱从沃</text>
+<path d="M 48 300 C 160 290 300 296 430 288 C 540 294 630 298 710 290" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 48 314 C 160 304 300 310 430 302 C 540 308 630 312 710 304" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 48 328 C 160 318 300 324 430 316 C 540 322 630 326 710 318" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 48 342 C 160 332 300 338 430 330 C 540 336 630 340 710 332" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="150.0" cy="320.0" r="12.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<path d="M 143 316 C 150 310 157 316 156 322" fill="none" stroke="#7C6D5C" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="250.0" cy="350.0" r="10.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<path d="M 244 347 C 250 342 256 347 255 352" fill="none" stroke="#7C6D5C" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="360.0" cy="316.0" r="13.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<path d="M 352 312 C 360 306 368 312 366 319" fill="none" stroke="#7C6D5C" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="450.0" cy="352.0" r="10.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<path d="M 444 349 C 450 344 456 349 455 354" fill="none" stroke="#7C6D5C" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="540.0" cy="322.0" r="12.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<path d="M 533 318 C 540 312 547 318 546 324" fill="none" stroke="#7C6D5C" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="620.0" cy="252.0" r="10.0" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<path d="M 604 264 L 586 300 L 592 360 L 648 360 L 654 300 L 636 264 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 608 266 L 620 282 L 632 266" fill="none" stroke="#A63D2F" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="620.0" y="380.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">素衣朱襮</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">扬之水，白石凿凿。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 扬之水 · 急流白石、素衣朱领</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
