@@ -91,7 +91,8 @@ def main():
         shutil.rmtree(dst)
     shutil.copytree(os.path.join(ROOT, "assets", "fig"), dst)
 
-    files = sorted(f for f in os.listdir(BOOK) if re.match(r"SJ\d{3}-.+\.md$", f))
+    MAXNO = int(os.environ.get("MAXNO", "999"))
+    files = sorted(f for f in os.listdir(BOOK) if re.match(r"SJ\d{3}-.+\.md$", f) and int(f[2:5]) <= MAXNO)
     entries = []
     for f in files:
         num = int(re.match(r"SJ(\d{3})", f).group(1))
@@ -132,7 +133,8 @@ def main():
     VOLS = [(1, 11, "卷一　周南"), (12, 25, "卷二　召南"), (26, 44, "卷三　邶风"),
             (45, 54, "卷四　鄘风"), (55, 64, "卷五　卫风"), (65, 74, "卷六　王风"),
             (75, 95, "卷七　郑风"), (96, 106, "卷八　齐风"),
-            (107, 113, "卷九　魏风"), (114, 125, "卷十　唐风")]
+            (107, 113, "卷九　魏风"), (114, 125, "卷十　唐风"),
+            (126, 135, "卷十一　秦风")]
     if entries:
         idx_body = ('<h1>道可道之诗经</h1><div class="sub">润泽说　·　毛诗三百五篇</div>'
                     '<p style="text-align:center;font-size:14px">'
