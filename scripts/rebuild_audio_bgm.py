@@ -47,7 +47,7 @@ def main():
         mixed = os.path.join(outdir, "lang-du.mp3")
         run(["ffmpeg", "-y", "-i", raw, "-stream_loop", "-1", "-i", BGM,
              "-filter_complex",
-             f"[1:a]volume=0.085,afade=t=in:st=0:d=2,afade=t=out:st={fade_out:.3f}:d=2.6[bg];"
+             f"[1:a]volume=0.14,afade=t=in:st=0:d=2,afade=t=out:st={fade_out:.3f}:d=2.6[bg];"
              "[0:a][bg]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[out]",
              "-map", "[out]", "-ar", "44100", "-b:a", "160k", mixed])
         dest = os.path.join(ROOT, "docs/audio", key, "lang-du.mp3")
