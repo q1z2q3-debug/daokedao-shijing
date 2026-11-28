@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">魏 风 · 之四</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">陟岵  三望</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百十</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">山可登，亲不可见</text>
+<path d="M 50 410 L 100 290 L 130 312 L 200 410" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="90.0" y1="392.0" x2="90.0" y2="358.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 90 366 L 78 356 M 90 366 L 100 354" fill="none" stroke="#7C6D5C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="118.0" y1="392.0" x2="118.0" y2="358.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 118 366 L 106 356 M 118 366 L 128 354" fill="none" stroke="#7C6D5C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="146.0" y1="392.0" x2="146.0" y2="358.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 146 366 L 134 356 M 146 366 L 156 354" fill="none" stroke="#7C6D5C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="125.0" y="426.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">岵</text>
+<path d="M 280 410 L 330 270 L 360 292 L 430 410" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="355.0" y="426.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">屺</text>
+<path d="M 520 410 L 570 290 L 600 312 L 670 410" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 540 380 C 564 346 594 358 620 392" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="595.0" y="426.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">冈</text>
+<circle cx="424.0" cy="316.9" r="6.9" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="424.0" y1="323.8" x2="424.0" y2="330.2" stroke="#1F1B17" stroke-width="0.35" opacity="0.85"/>
+<path d="M 411.9 330.2 L 402.0 365.2 L 404.6 402.0 L 443.4 402.0 L 446.0 365.2 L 436.1 330.2 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<path d="M 411.9 330.2 L 424.0 345.0 L 436.1 330.2" fill="none" stroke="#1F1B17" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<line x1="406.0" y1="348.6" x2="401.6" y2="381.8" stroke="#1F1B17" stroke-width="0.30" opacity="0.85"/>
+<line x1="442.0" y1="348.6" x2="446.4" y2="381.8" stroke="#1F1B17" stroke-width="0.30" opacity="0.85"/>
+<line x1="424.0" y1="320.0" x2="396.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<text x="424.0" y="432.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">瞻望</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">陟彼岵兮，瞻望父兮。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 陟岵 · 岵、屺、冈、登者</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

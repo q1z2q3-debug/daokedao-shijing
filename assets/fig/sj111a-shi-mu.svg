@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">魏 风 · 之五</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">十亩之间  桑者</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百十一</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">桑可采，地不可居</text>
+<rect x="60.0" y="250.0" width="240.0" height="160.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="90.0" y1="400.0" x2="90.0" y2="354.0" stroke="#1F1B17" stroke-width="0.40" opacity="1.00"/>
+<circle cx="72.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="90.0" cy="338.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="108.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<line x1="90.0" y1="354.0" x2="70.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="90.0" y1="354.0" x2="110.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="150.0" y1="400.0" x2="150.0" y2="354.0" stroke="#1F1B17" stroke-width="0.40" opacity="1.00"/>
+<circle cx="132.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="150.0" cy="338.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="168.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<line x1="150.0" y1="354.0" x2="130.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="150.0" y1="354.0" x2="170.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="210.0" y1="400.0" x2="210.0" y2="354.0" stroke="#1F1B17" stroke-width="0.40" opacity="1.00"/>
+<circle cx="192.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="210.0" cy="338.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="228.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<line x1="210.0" y1="354.0" x2="190.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="210.0" y1="354.0" x2="230.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="270.0" y1="400.0" x2="270.0" y2="354.0" stroke="#1F1B17" stroke-width="0.40" opacity="1.00"/>
+<circle cx="252.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="270.0" cy="338.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<circle cx="288.0" cy="348.0" r="16.0" fill="none" stroke="#7C6D5C" stroke-width="0.30"/>
+<line x1="270.0" y1="354.0" x2="250.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="270.0" y1="354.0" x2="290.0" y2="340.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<circle cx="380.0" cy="323.8" r="7.8" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="380.0" y1="331.6" x2="380.0" y2="338.9" stroke="#1F1B17" stroke-width="0.35" opacity="0.85"/>
+<path d="M 365.7 338.9 L 354.0 378.4 L 357.1 420.0 L 402.9 420.0 L 406.0 378.4 L 394.3 338.9 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<path d="M 365.7 338.9 L 380.0 355.5 L 394.3 338.9" fill="none" stroke="#1F1B17" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<line x1="358.7" y1="359.7" x2="353.5" y2="397.1" stroke="#1F1B17" stroke-width="0.30" opacity="0.85"/>
+<line x1="401.3" y1="359.7" x2="406.5" y2="397.1" stroke="#1F1B17" stroke-width="0.30" opacity="0.85"/>
+<circle cx="450.0" cy="323.8" r="7.8" fill="none" stroke="#7C6D5C" stroke-width="0.45"/>
+<line x1="450.0" y1="331.6" x2="450.0" y2="338.9" stroke="#7C6D5C" stroke-width="0.35" opacity="0.70"/>
+<path d="M 435.7 338.9 L 424.0 378.4 L 427.1 420.0 L 472.9 420.0 L 476.0 378.4 L 464.3 338.9 Z" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<path d="M 435.7 338.9 L 450.0 355.5 L 464.3 338.9" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="428.7" y1="359.7" x2="423.5" y2="397.1" stroke="#7C6D5C" stroke-width="0.30" opacity="0.70"/>
+<line x1="471.3" y1="359.7" x2="476.5" y2="397.1" stroke="#7C6D5C" stroke-width="0.30" opacity="0.70"/>
+<path d="M 368 360 L 352 352 M 446 360 L 430 352" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="410.0" y="236.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">行与子还 / 逝</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">十亩之间兮，桑者闲闲兮。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 十亩之间 · 桑田、桑者、还逝</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
