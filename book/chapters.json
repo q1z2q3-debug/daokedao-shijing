@@ -1,7 +1,7 @@
 {
- "version": "0.3.87",
+ "version": "0.3.88",
  "total": 305,
- "count": 77,
+ "count": 78,
  "chapters": [
   {
    "no": 1,
@@ -387,6 +387,11 @@
    "no": 77,
    "key": "sj077",
    "title": "叔于田"
+  },
+  {
+   "no": 78,
+   "key": "sj078",
+   "title": "大叔于田"
   }
  ]
 }
