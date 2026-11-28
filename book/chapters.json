@@ -1,7 +1,7 @@
 {
- "version": "0.3.84",
+ "version": "0.3.86",
  "total": 305,
- "count": 75,
+ "count": 76,
  "chapters": [
   {
    "no": 1,
@@ -377,6 +377,11 @@
    "no": 75,
    "key": "sj075",
    "title": "缁衣"
+  },
+  {
+   "no": 76,
+   "key": "sj076",
+   "title": "将仲子"
   }
  ]
 }

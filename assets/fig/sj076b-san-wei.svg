@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">将仲子　三畏</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="113.0" y="300" width="104" height="92" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="121.0" y1="318" x2="209.0" y2="318" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="121.0" y1="336" x2="209.0" y2="336" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="121.0" y1="354" x2="209.0" y2="354" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="121.0" y1="372" x2="209.0" y2="372" stroke="#DCD5C8" stroke-width="0.4"/>
+<text x="165" y="290" font-size="8.6" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">一章</text>
+<text x="165" y="326" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">里</text>
+<text x="165" y="342" font-size="8.5" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">杞</text>
+<text x="165" y="372" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">父母</text>
+<text x="165" y="388" font-size="7.4" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">近</text>
+<rect x="328.0" y="230" width="104" height="162" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<line x1="336.0" y1="248" x2="424.0" y2="248" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="336.0" y1="266" x2="424.0" y2="266" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="336.0" y1="284" x2="424.0" y2="284" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="336.0" y1="302" x2="424.0" y2="302" stroke="#DCD5C8" stroke-width="0.4"/>
+<text x="380" y="220" font-size="8.6" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">二章</text>
+<text x="380" y="256" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">墙</text>
+<text x="380" y="272" font-size="8.5" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">桑</text>
+<text x="380" y="372" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">诸兄</text>
+<text x="380" y="388" font-size="7.4" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">中</text>
+<rect x="543.0" y="150" width="104" height="242" fill="#F7F4EE" stroke="#994433" stroke-width="1.1"/>
+<line x1="551.0" y1="168" x2="639.0" y2="168" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="551.0" y1="186" x2="639.0" y2="186" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="551.0" y1="204" x2="639.0" y2="204" stroke="#DCD5C8" stroke-width="0.4"/>
+<line x1="551.0" y1="222" x2="639.0" y2="222" stroke="#DCD5C8" stroke-width="0.4"/>
+<text x="595" y="140" font-size="8.6" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">三章</text>
+<text x="595" y="176" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">园</text>
+<text x="595" y="192" font-size="8.5" fill="#7C6D5C" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">檀</text>
+<text x="595" y="372" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="2">人言</text>
+<text x="595" y="388" font-size="7.4" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">远</text>
+<line x1="90" y1="392" x2="670" y2="392" stroke="#7C6D5C" stroke-width="1.1"/>
+<text x="88" y="408" font-size="9" fill="#9A9186" text-anchor="start" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">三章换境换树，不换怀畏</text>
+<line x1="223.0" y1="298" x2="320.0" y2="228" stroke="#994433" stroke-width="1.0" marker-end="url(#ah)"/>
+<line x1="438.0" y1="228" x2="535.0" y2="148" stroke="#994433" stroke-width="1.0" marker-end="url(#ah)"/>
+<text x="500" y="126" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">畏之递进</text>
+<line x1="92" y1="330" x2="668" y2="330" stroke="#994433" stroke-width="1.2" stroke-dasharray="6 4"/>
+<text x="380" y="112" font-size="9.5" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="0.5">横线：仲可怀也——三级都穿，位置不动</text>
+<text x="165" y="428" font-size="8.8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">父母：最近之言</text>
+<text x="380" y="428" font-size="8.8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">诸兄：公族之言</text>
+<text x="595" y="428" font-size="8.8" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">人言：众人之口</text>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">墙可三重，言只一句；爱在畏中，畏在言中。</text>
+</svg>
