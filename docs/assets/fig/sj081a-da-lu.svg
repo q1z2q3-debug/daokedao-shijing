@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">郑 风 · 之七</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="26.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="2.0">遵大路　一执</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之八一</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">路是众人的，留是两人的</text>
+<line x1="58.0" y1="430.0" x2="310.0" y2="170.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<line x1="702.0" y1="430.0" x2="450.0" y2="170.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<line x1="90.0" y1="430.0" x2="330.0" y2="170.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="670.0" y1="430.0" x2="430.0" y2="170.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="100.0" y1="390.0" x2="100.0" y2="332.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<path d="M 100 332 C 74 314 116 304 108 292" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 100 342 C 70 324 118 314 112 302" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="190.0" y1="350.0" x2="190.0" y2="284.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<path d="M 190 284 C 164 266 206 256 198 244" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 190 294 C 160 276 208 266 202 254" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="610.0" y1="350.0" x2="610.0" y2="288.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<path d="M 610 288 C 584 270 626 260 618 248" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 610 298 C 580 280 628 270 622 258" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<line x1="680.0" y1="390.0" x2="680.0" y2="336.0" stroke="#1F1B17" stroke-width="0.55" opacity="1.00"/>
+<path d="M 680 336 C 654 318 696 308 688 296" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 680 346 C 650 328 698 318 692 306" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<path d="M 250 332 C 300 310 350 300 392 306 L 404 338 C 360 346 312 356 268 362 Z" fill="none" stroke="#1F1B17" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 392 306 L 404 338" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 404 310 C 426 302 442 312 440 330 C 438 348 420 354 408 344 C 398 336 398 320 404 310 Z" fill="none" stroke="#1F1B17" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 424 316 C 432 312 438 317 436 319" fill="none" stroke="#7C6D5C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 424 324 C 432 320 438 325 436 327" fill="none" stroke="#7C6D5C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 424 332 C 432 328 438 333 436 335" fill="none" stroke="#7C6D5C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 424 340 C 432 336 438 341 436 343" fill="none" stroke="#7C6D5C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="300.0" y="286.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="11.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">袪</text>
+<text x="430.0" y="294.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="11.0" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">手</text>
+<text x="380.0" y="398.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.4" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">掺执</text>
+<text x="70.0" y="160.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="1.0">大路</text>
+<text x="640.0" y="160.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.5" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="1.0">不寁</text>
+<text x="380.0" y="470.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="13.2" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="1.2">遵大路兮，掺执子之袪兮。</text>
+<text x="380.0" y="508.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 遵大路　大路、袪、手</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

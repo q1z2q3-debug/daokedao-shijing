@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">郑 风 · 之六</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="26.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="2.0">羔裘　三英</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之八十</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">衣是外面，人是里子</text>
+<line x1="300.0" y1="190.0" x2="300.0" y2="410.0" stroke="#1F1B17" stroke-width="0.50" opacity="1.00"/>
+<line x1="460.0" y1="190.0" x2="460.0" y2="410.0" stroke="#1F1B17" stroke-width="0.50" opacity="1.00"/>
+<line x1="290.0" y1="190.0" x2="470.0" y2="190.0" stroke="#1F1B17" stroke-width="0.60" opacity="1.00"/>
+<path d="M 322 196 L 438 196 L 452 230 L 468 300 L 446 306 L 446 402 L 314 402 L 314 306 L 292 300 L 308 230 Z" fill="none" stroke="#1F1B17" stroke-width="0.70" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 344 196 L 380 236 L 416 196" fill="none" stroke="#1F1B17" stroke-width="0.60" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 344 196 L 358 208 M 416 196 L 402 208" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="308.0" cy="230.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="300.0" cy="258.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="298.0" cy="286.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="446.0" cy="230.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="454.0" cy="258.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="456.0" cy="286.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="320.0" cy="398.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="346.0" cy="398.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="372.0" cy="398.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="398.0" cy="398.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="424.0" cy="398.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="442.0" cy="398.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="350.0" cy="204.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="370.0" cy="220.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="390.0" cy="220.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<circle cx="410.0" cy="204.0" r="2.2" fill="none" stroke="#7C6D5C" stroke-width="0.40"/>
+<line x1="350.0" y1="402.0" x2="350.0" y2="430.0" stroke="#1F1B17" stroke-width="0.45" opacity="1.00"/>
+<path d="M 347 430 L 350 438 L 353 430 L 350 438" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<line x1="380.0" y1="402.0" x2="380.0" y2="430.0" stroke="#1F1B17" stroke-width="0.45" opacity="1.00"/>
+<path d="M 377 430 L 380 438 L 383 430 L 380 438" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<line x1="410.0" y1="402.0" x2="410.0" y2="430.0" stroke="#1F1B17" stroke-width="0.45" opacity="1.00"/>
+<path d="M 407 430 L 410 438 L 413 430 L 410 438" fill="none" stroke="#A63D2F" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="0.80"/>
+<text x="380.0" y="170.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="11.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="0.0">羔裘</text>
+<text x="70.0" y="240.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="0.0">如濡</text>
+<text x="70.0" y="262.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.4" fill="#7C6D5C" text-anchor="start" font-weight="normal" letter-spacing="0.0">润泽而柔</text>
+<text x="70.0" y="330.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="0.0">豹饰</text>
+<text x="70.0" y="352.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.4" fill="#7C6D5C" text-anchor="start" font-weight="normal" letter-spacing="0.0">缘边，不是整皮</text>
+<text x="600.0" y="360.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">三英</text>
+<text x="600.0" y="380.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">裘饰，不是三人</text>
+<text x="380.0" y="470.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="13.2" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="1.2">羔裘如濡，洵直且侯。彼其之子，舍命不渝。</text>
+<text x="380.0" y="508.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 羔裘　衣、豹饰、三英</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

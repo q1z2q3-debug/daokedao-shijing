@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">郑 风 · 之十三</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="26.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="2.0">褰裳　二水</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之八七</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">水是两道门</text>
+<path d="M 110 190 C 90 250 130 330 110 420" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 160 190 C 140 250 180 330 160 420" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<text x="135.0" y="176.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.5" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">溱</text>
+<path d="M 520 190 C 500 250 540 330 520 420" fill="none" stroke="#7C6D5C" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 570 190 C 550 250 590 330 570 420" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.70"/>
+<text x="545.0" y="176.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.5" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">洧</text>
+<line x1="334.0" y1="284.0" x2="426.0" y2="284.0" stroke="#1F1B17" stroke-width="0.60" opacity="1.00"/>
+<path d="M 334 284 L 318 412 L 442 412 L 426 284" fill="none" stroke="#1F1B17" stroke-width="0.60" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="318.0" y1="412.0" x2="442.0" y2="412.0" stroke="#1F1B17" stroke-width="0.50" opacity="1.00"/>
+<line x1="350.0" y1="292.0" x2="346.0" y2="408.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="380.0" y1="292.0" x2="376.0" y2="408.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="410.0" y1="292.0" x2="406.0" y2="408.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<path d="M 318 350 C 300 346 292 358 300 370 C 308 382 324 380 330 368 Z" fill="none" stroke="#1F1B17" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 442 350 C 460 346 468 358 460 370 C 452 382 436 380 430 368 Z" fill="none" stroke="#1F1B17" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="300.0" y1="370.0" x2="318.0" y2="412.0" stroke="#A63D2F" stroke-width="0.35" opacity="0.70"/>
+<line x1="460.0" y1="370.0" x2="442.0" y2="412.0" stroke="#A63D2F" stroke-width="0.35" opacity="0.70"/>
+<text x="380.0" y="266.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">裳</text>
+<text x="288.0" y="350.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="0.0">褰</text>
+<line x1="680.0" y1="400.0" x2="680.0" y2="320.0" stroke="#1F1B17" stroke-width="0.50" opacity="1.00"/>
+<path d="M 680 320 C 654 300 654 280 680 270 C 706 280 706 300 680 320" fill="none" stroke="#7C6D5C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="680.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">对岸</text>
+<text x="380.0" y="162.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="1.0">过水，才叫来</text>
+<text x="380.0" y="470.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="13.2" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="1.2">子惠思我，褰裳涉溱。子不我思，岂无他人？</text>
+<text x="380.0" y="508.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 褰裳　二水、褰裳、对岸</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
