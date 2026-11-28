@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 z" fill="#7C6D5C"/></marker></defs>
+<rect x="10" y="16" width="740" height="508" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="1.0"/>
+<rect x="22" y="28" width="716" height="484" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="380" y="52" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="3">大车　生畏死誓</text>
+<line x1="230" y1="66" x2="530" y2="66" stroke="#994433" stroke-width="1.0"/>
+<rect x="96" y="150" width="186" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="189" y="167" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">車聲：檻檻·啍啍</text>
+<text x="189" y="182" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">轻而清，重而迟</text>
+<rect x="96" y="212" width="186" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9"/>
+<text x="189" y="229" font-size="11" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">服色：如菼·如璊</text>
+<text x="189" y="244" font-size="9" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">青如初荻，赤如赤玉</text>
+<line x1="282" y1="210" x2="322" y2="210" stroke="#7C6D5C" stroke-width="1.0" marker-end="url(#ah)"/>
+<rect x="330" y="176" width="86" height="68" fill="#F7F4EE" stroke="#25211D" stroke-width="1.4"/>
+<text x="373" y="202" font-size="15" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">畏</text>
+<text x="373" y="226" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">不敢·不奔</text>
+<line x1="420" y1="210" x2="448" y2="210" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4 4"/>
+<line x1="440" y1="206" x2="450" y2="210" stroke="#DCD5C8" stroke-width="0.9" marker-end="url(#ah)"/>
+<line x1="452" y1="118" x2="452" y2="402" stroke="#DCD5C8" stroke-width="1.1" stroke-dasharray="6 5"/>
+<text x="452" y="110" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">生</text>
+<text x="452" y="418" font-size="10" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">死</text>
+<rect x="492" y="150" width="168" height="40" fill="#F7F4EE" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="5 4"/>
+<text x="576" y="175" font-size="11" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">生则异室（礼）</text>
+<line x1="540" y1="196" x2="540" y2="234" stroke="#DCD5C8" stroke-width="0.9" stroke-dasharray="4 4"/>
+<line x1="536" y1="226" x2="540" y2="238" stroke="#DCD5C8" stroke-width="0.9" marker-end="url(#ah)"/>
+<rect x="492" y="244" width="168" height="52" fill="#F7F4EE" stroke="#25211D" stroke-width="1.4"/>
+<text x="576" y="268" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">死则同穴</text>
+<text x="576" y="286" font-size="9.5" fill="#9A9186" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">舍礼而合</text>
+<circle cx="452" cy="358" r="13" fill="none" stroke="#994433" stroke-width="1.2"/>
+<circle cx="452" cy="358" r="3" fill="#994433"/>
+<text x="452" y="394" font-size="11" fill="#994433" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif">皦日</text>
+<line x1="432" y1="358" x2="422" y2="358" stroke="#994433" stroke-width="0.9"/>
+<line x1="472" y1="358" x2="482" y2="358" stroke="#994433" stroke-width="0.9"/>
+<line x1="60" y1="444" x2="700" y2="444" stroke="#7C6D5C" stroke-width="0.9" stroke-dasharray="3,3"/>
+<text x="380" y="470" font-size="13" fill="#25211D" text-anchor="middle" font-family="Noto Serif CJK SC, Noto Serif SC, Songti SC, serif" letter-spacing="1">生不敢，死乃敢言；实者不可改，虚者不可证</text>
+</svg>
