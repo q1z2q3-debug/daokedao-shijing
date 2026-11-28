@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+  <rect x="0" y="0" width="760" height="540" fill="#F7F4EE"/>
+  <rect x="10" y="10" width="740" height="500" fill="none" stroke="#1F1B17" stroke-width="1.2"/>
+  <rect x="16" y="16" width="728" height="488" fill="none" stroke="#9A9186" stroke-width="0.6"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="19" fill="#1F1B17" letter-spacing="2">月秋岁</text>
+  <text x="380" y="76" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8.2" fill="#7C6D5C" letter-spacing="1.2">《王风·采葛》　一日之惧，三时之量</text>
+  <text x="724" y="76" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.4" fill="#9A9186">SJ072b</text>
+
+  <rect x="40" y="100" width="680" height="380" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+
+  <!-- timeline -->
+  <text x="380" y="124" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7.6" fill="#994433">一日不见 → 事愈急，惧愈深</text>
+  <line x1="180" y1="136" x2="580" y2="136" stroke="#DCD5C8" stroke-width="0.8"/>
+  <path d="M580 136 L572 132 L572 140 Z" fill="#994433"/>
+  <text x="180" y="158" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.5" fill="#7C6D5C">一日（不动之枢）</text>
+  <text x="580" y="158" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.5" fill="#7C6D5C">以多时况少时</text>
+
+  <!-- three cards -->
+  <rect x="64" y="176" width="194" height="150" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="161" y="196" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">一章 · 采葛</text>
+  <text x="161" y="224" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11" fill="#1F1B17">如三月</text>
+  <text x="161" y="252" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12" fill="#994433">三月</text>
+  <text x="161" y="278" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7" fill="#1F1B17">小事 · 絺绤</text>
+  <text x="161" y="302" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#7C6D5C">当暑常服</text>
+
+  <rect x="283" y="176" width="194" height="150" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="380" y="196" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">二章 · 采萧</text>
+  <text x="380" y="224" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11" fill="#1F1B17">如三秋</text>
+  <text x="380" y="252" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12" fill="#994433">三秋·九月</text>
+  <text x="380" y="278" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7" fill="#1F1B17">大事 · 祭祀</text>
+  <text x="380" y="302" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#7C6D5C">焫萧报气</text>
+
+  <rect x="502" y="176" width="194" height="150" fill="#FBF8F2" stroke="#DCD5C8" stroke-width="0.9"/>
+  <text x="599" y="196" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">三章 · 采艾</text>
+  <text x="599" y="224" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="11" fill="#1F1B17">如三岁</text>
+  <text x="599" y="252" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="12" fill="#994433">三岁</text>
+  <text x="599" y="278" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="7" fill="#1F1B17">急事 · 疗疾</text>
+  <text x="599" y="302" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="5.6" fill="#7C6D5C">乾艾可灸</text>
+
+  <!-- arrows between cards -->
+  <path d="M260 251 L280 251" stroke="#994433" stroke-width="0.8"/>
+  <path d="M280 251 L274 247 L274 255 Z" fill="#994433"/>
+  <path d="M479 251 L499 251" stroke="#994433" stroke-width="0.8"/>
+  <path d="M499 251 L493 247 L493 255 Z" fill="#994433"/>
+
+  <!-- bottom -->
+  <line x1="40" y1="356" x2="720" y2="356" stroke="#DCD5C8" stroke-width="0.7"/>
+  <text x="380" y="380" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="8" fill="#1F1B17">事三升，时三倍，惧三深；诗眼在「惧」，不在「思」</text>
+  <text x="380" y="402" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="6" fill="#9A9186">毛序：惧谗也　｜　朱子：思念之深，未久而似久（并存）</text>
+  <rect x="202" y="418" width="356" height="34" fill="none" stroke="#994433" stroke-width="1"/>
+  <text x="380" y="440" text-anchor="middle" font-family="Noto Serif CJK SC" font-size="9.4" fill="#994433" letter-spacing="0.8">一日不见，如三秋兮</text>
+
+  <text x="724" y="522" text-anchor="end" font-family="Noto Serif CJK SC" font-size="6.2" fill="#9A9186">图二 · 月秋岁 · sj072b</text>
+</svg>

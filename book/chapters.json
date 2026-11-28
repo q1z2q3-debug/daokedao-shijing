@@ -1,7 +1,7 @@
 {
- "version": "0.3.82",
+ "version": "0.3.83",
  "total": 305,
- "count": 71,
+ "count": 72,
  "chapters": [
   {
    "no": 1,
@@ -357,6 +357,11 @@
    "no": 71,
    "key": "sj071",
    "title": "葛藟"
+  },
+  {
+   "no": 72,
+   "key": "sj072",
+   "title": "采葛"
   }
  ]
 }
