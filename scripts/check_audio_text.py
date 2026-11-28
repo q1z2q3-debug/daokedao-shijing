@@ -34,7 +34,8 @@ def han(x):
 
 ok = 0
 bad = []
-for f in sorted(glob.glob("book/SJ0*.md")):
+for f in sorted(os.path.join("book", x) for x in os.listdir("book")
+                if re.match(r"SJ\d{3}-.+\.md$", x)):
     key = os.path.basename(f)[:5]
     a = "audio_src/" + os.path.basename(f)[:-3] + ".md"
     if not os.path.exists(a):

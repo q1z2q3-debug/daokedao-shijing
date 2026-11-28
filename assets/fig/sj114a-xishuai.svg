@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">唐 风 · 之一</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1F1B17" text-anchor="middle" font-weight="bold" letter-spacing="1.6">蟋蟀  岁晚</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#7C6D5C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百十四</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">候物先至，戒在乐时</text>
+<path d="M 100 330 C 100 317 120 313 138 318 C 150 321 154 328 100 330 Z" fill="none" stroke="#1F1B17" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 110 328 C 120 317 136 318 146 325" fill="none" stroke="#7C6D5C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="116.0" y1="326.0" x2="140.0" y2="322.0" stroke="#7C6D5C" stroke-width="0.22" opacity="1.00"/>
+<path d="M 150 322 C 158 318 164 324 162 332 L 152 334 Z" fill="none" stroke="#1F1B17" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 162 323 C 178 308 190 310 198 300" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 162 325 C 180 318 192 322 202 318" fill="none" stroke="#7C6D5C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 112 328 L 106 346 L 110 350" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 126 332 L 124 348 L 128 352" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 140 332 L 146 346 L 152 350" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 112 334 L 104 344 L 100 348" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 126 334 L 120 350 L 120 354" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 140 334 L 150 344 L 156 348" fill="none" stroke="#7C6D5C" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="130.0" y="368.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">蟋蟀</text>
+<path d="M 330 306 L 450 306 L 450 344 L 330 344 Z" fill="none" stroke="#1F1B17" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="330.0" y1="324.0" x2="450.0" y2="324.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="330.0" y1="320.0" x2="296.0" y2="332.0" stroke="#7C6D5C" stroke-width="0.40" opacity="1.00"/>
+<circle cx="356.0" cy="350.0" r="14.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<circle cx="424.0" cy="350.0" r="14.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="342.0" y1="350.0" x2="370.0" y2="350.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<line x1="410.0" y1="350.0" x2="438.0" y2="350.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<text x="390.0" y="380.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.6" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">役车其休</text>
+<rect x="560.0" y="250.0" width="130.0" height="150.0" rx="0.0" fill="none" stroke="#1F1B17" stroke-width="0.45"/>
+<line x1="610.0" y1="250.0" x2="610.0" y2="400.0" stroke="#7C6D5C" stroke-width="0.30" opacity="1.00"/>
+<line x1="560.0" y1="300.0" x2="610.0" y2="300.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<text x="625.0" y="236.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">在堂</text>
+<line x1="80.0" y1="220.0" x2="220.0" y2="220.0" stroke="#7C6D5C" stroke-width="0.25" opacity="1.00"/>
+<text x="150.0" y="208.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">岁聿其莫</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">蟋蟀在堂，岁聿其莫。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#7C6D5C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 蟋蟀 · 堂下蟋蟀、役车、岁晚</text>
+<rect x="676" y="492" width="22" height="22" fill="#A63D2F" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
