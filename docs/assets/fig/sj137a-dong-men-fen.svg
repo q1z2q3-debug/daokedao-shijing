@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">陈 风 · 之二</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">东门之枌　树下婆娑</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百三十七</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">二树成荫，舞于其下</text>
+<path d="M 170 384 L 173 288 L 179 288 L 182 384 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="176.0" cy="268.0" r="30.0" fill="none" stroke="#4A443C" stroke-width="0.35"/>
+<circle cx="158.0" cy="280.0" r="18.0" fill="none" stroke="#4A443C" stroke-width="0.30"/>
+<circle cx="194.0" cy="280.0" r="18.0" fill="none" stroke="#4A443C" stroke-width="0.30"/>
+<circle cx="164.0" cy="268.0" r="2.4" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="184.0" cy="258.0" r="2.4" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="192.0" cy="276.0" r="2.4" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="172.0" cy="280.0" r="2.4" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<text x="176.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">枌 · 白榆</text>
+<path d="M 554 384 L 557 292 L 563 292 L 566 384 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="540.0" cy="276.0" r="17.0" fill="none" stroke="#4A443C" stroke-width="0.35"/>
+<circle cx="580.0" cy="276.0" r="17.0" fill="none" stroke="#4A443C" stroke-width="0.35"/>
+<circle cx="560.0" cy="262.0" r="20.0" fill="none" stroke="#4A443C" stroke-width="0.35"/>
+<circle cx="546.0" cy="280.0" r="3.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<line x1="546.0" y1="277.0" x2="546.0" y2="273.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<circle cx="570.0" cy="268.0" r="3.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<line x1="570.0" y1="265.0" x2="570.0" y2="261.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<circle cx="578.0" cy="284.0" r="3.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<line x1="578.0" y1="281.0" x2="578.0" y2="277.0" stroke="#4A443C" stroke-width="0.20" opacity="1.00"/>
+<text x="560.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">栩 · 柞栎</text>
+<circle cx="368.0" cy="291.5" r="7.5" fill="none" stroke="#1C1917" stroke-width="0.45"/>
+<line x1="368.0" y1="299.0" x2="368.0" y2="306.0" stroke="#1C1917" stroke-width="0.35" opacity="0.90"/>
+<path d="M 353.7 306.0 L 342.0 344.0 L 345.1 384.0 L 390.9 384.0 L 394.0 344.0 L 382.3 306.0 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.90"/>
+<path d="M 353.7 306.0 L 368.0 322.0 L 382.3 306.0" fill="none" stroke="#1C1917" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.90"/>
+<line x1="346.7" y1="326.0" x2="341.5" y2="362.0" stroke="#1C1917" stroke-width="0.30" opacity="0.90"/>
+<line x1="389.3" y1="326.0" x2="394.5" y2="362.0" stroke="#1C1917" stroke-width="0.30" opacity="0.90"/>
+<line x1="352.0" y1="336.0" x2="336.0" y2="318.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<line x1="384.0" y1="336.0" x2="400.0" y2="318.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<text x="368.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="0.0">婆娑其下</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 枌：白榆，皮色白，荚叶；栩：柞栎，裂叶而有橡子</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 婆娑：盘旋起舞；舞者只作剪影，不画五官</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 二树各有形，不画成两团同影</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">东门之枌，宛丘之栩。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 东门之枌 · 白榆、柞栎、树下婆娑</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

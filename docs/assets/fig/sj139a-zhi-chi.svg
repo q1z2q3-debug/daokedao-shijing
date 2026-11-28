@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">陈 风 · 之四</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">东门之池　池中三草</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百三十九</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">草以池柔，人以相接</text>
+<path d="M 60 356 C 220 346 420 350 700 344" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 60 392 C 220 384 420 388 700 382" fill="none" stroke="#6B6259" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 90 364 C 160 358 240 370 320 364 C 420 358 520 370 660 364" fill="none" stroke="#6B6259" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 90 376 C 160 370 240 382 320 376 C 420 370 520 382 660 376" fill="none" stroke="#6B6259" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="170.0" y1="384.0" x2="168.0" y2="302.0" stroke="#1C1917" stroke-width="0.45" opacity="1.00"/>
+<path d="M 166 362 C 151 352 159 349 163 359 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 174 362 C 175 352 183 349 187 359 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 166 342 C 151 332 159 329 163 339 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 174 342 C 175 332 183 329 187 339 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 166 322 C 151 312 159 309 163 319 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 174 322 C 175 312 183 309 187 319 Z" fill="none" stroke="#4A443C" stroke-width="0.30" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="168.0" y1="302.0" x2="168.0" y2="292.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<text x="170.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">麻 · 沤麻</text>
+<path d="M 380 386 L 364 334" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 380 386 L 380 324" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 380 386 L 396 334" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 364 334 C 351 326 366 321 375 331 Z" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 380 324 C 367 316 382 311 391 321 Z" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 396 336 C 383 328 398 323 407 333 Z" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 372 346 C 359 338 374 333 383 343 Z" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 388 346 C 375 338 390 333 399 343 Z" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="380.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">纻 · 沤纻</text>
+<path d="M 590 386 C 581 348 566 328 560 318" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 590 386 C 586 339 579 314 576 304" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 590 386 C 591 337 592 310 592 300" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 590 386 C 595 342 604 318 608 308" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 590 386 C 600 351 616 334 622 324" fill="none" stroke="#4A443C" stroke-width="0.32" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="586.0" y1="386.0" x2="586.0" y2="316.0" stroke="#1C1917" stroke-width="0.35" opacity="1.00"/>
+<text x="590.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">菅 · 沤菅</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 池：蓄水渍草之池沼；沤，渍也，治麻先以水浸</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 麻：大麻；纻：苎麻；菅：似茅柔韧，可为索</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 三草各据一池位；草是兴象，不画成草圃图谱</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">东门之池，可以沤麻。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 东门之池　麻纻菅三草、池中沤草</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

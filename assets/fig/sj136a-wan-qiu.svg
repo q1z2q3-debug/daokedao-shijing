@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">陈 风 · 之首</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">宛丘　丘上丘下</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百三十六</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">四方高，中央下</text>
+<path d="M 60 300 C 140 250 210 330 300 352 C 390 330 460 250 540 300 C 610 326 660 318 700 306" fill="none" stroke="#4A443C" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 60 316 C 140 268 214 344 300 366 C 386 344 456 268 540 316 C 610 340 660 332 700 320" fill="none" stroke="#6B6259" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="150.0" y="244.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">丘之上</text>
+<text x="300.0" y="386.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">丘之下</text>
+<text x="560.0" y="296.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">丘之道</text>
+<circle cx="150.0" cy="300.0" r="16.0" fill="none" stroke="#1C1917" stroke-width="0.50"/>
+<line x1="150.0" y1="316.0" x2="150.0" y2="340.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<line x1="138.0" y1="340.0" x2="162.0" y2="340.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<text x="150.0" y="372.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="0.0">坎其击鼓</text>
+<path d="M 548 316 C 548 300 572 300 572 316 L 568 332 C 562 336 554 336 552 332 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="548.0" y1="316.0" x2="572.0" y2="316.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<text x="560.0" y="352.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="0.0">坎其击缶</text>
+<circle cx="300.0" cy="263.8" r="7.8" fill="none" stroke="#1C1917" stroke-width="0.45"/>
+<line x1="300.0" y1="271.6" x2="300.0" y2="278.9" stroke="#1C1917" stroke-width="0.35" opacity="0.90"/>
+<path d="M 285.7 278.9 L 274.0 318.4 L 277.1 360.0 L 322.9 360.0 L 326.0 318.4 L 314.3 278.9 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="0.90"/>
+<path d="M 285.7 278.9 L 300.0 295.5 L 314.3 278.9" fill="none" stroke="#1C1917" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="0.90"/>
+<line x1="278.7" y1="299.7" x2="273.5" y2="337.1" stroke="#1C1917" stroke-width="0.30" opacity="0.90"/>
+<line x1="321.3" y1="299.7" x2="326.5" y2="337.1" stroke="#1C1917" stroke-width="0.30" opacity="0.90"/>
+<line x1="316.0" y1="316.0" x2="336.0" y2="296.0" stroke="#4A443C" stroke-width="0.30" opacity="1.00"/>
+<line x1="336.0" y1="296.0" x2="336.0" y2="250.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 336 256 C 323 244 326 236 328 250" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 336 256 C 328 244 331 236 333 250" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 336 256 C 333 244 336 236 338 250" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 336 256 C 338 244 341 236 343 250" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 336 256 C 343 244 346 236 348 250" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="300.0" y="402.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.4" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="0.0">值其鹭羽</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 宛丘：四方高、中央下；丘形以两坡弧线出，不作尖山</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 鹭羽／鹭翿：舞者所持羽翳，一杆一束羽，不是活鹭</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 舞者只作剪影，不画五官；鼓缶为节乐之器</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">子之汤兮，宛丘之上兮。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 宛丘 · 丘形、鼓缶、羽翿剪影</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

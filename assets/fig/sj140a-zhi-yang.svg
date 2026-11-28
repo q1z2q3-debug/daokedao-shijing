@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">陈 风 · 之五</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">东门之杨　杨叶明星</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百四十</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">叶盛于下，星明于上</text>
+<line x1="350.0" y1="392.0" x2="350.0" y2="300.0" stroke="#6B6259" stroke-width="0.30" opacity="1.00"/>
+<line x1="410.0" y1="392.0" x2="410.0" y2="300.0" stroke="#6B6259" stroke-width="0.30" opacity="1.00"/>
+<line x1="344.0" y1="300.0" x2="416.0" y2="300.0" stroke="#6B6259" stroke-width="0.30" opacity="1.00"/>
+<path d="M 243 392 L 247 224 L 253 224 L 257 392 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 246 264 C 244 254 226 246 216 236" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 254 280 C 256 270 272 256 282 246" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 248 298 C 247 288 232 278 224 268" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 252 312 C 253 302 267 292 274 282" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 250 324 C 250 314 250 222 250 212" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="216.0" cy="236.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="208.0" cy="244.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="224.0" cy="243.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="282.0" cy="246.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="274.0" cy="254.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="290.0" cy="253.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="224.0" cy="268.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="216.0" cy="276.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="232.0" cy="275.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="274.0" cy="282.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="266.0" cy="290.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="282.0" cy="289.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="250.0" cy="212.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="242.0" cy="220.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="258.0" cy="219.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<path d="M 513 392 L 517 224 L 523 224 L 527 392 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 516 264 C 514 254 496 246 486 236" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 524 280 C 526 270 542 256 552 246" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 518 298 C 517 288 502 278 494 268" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 522 312 C 523 302 537 292 544 282" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 520 324 C 520 314 520 222 520 212" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<circle cx="486.0" cy="236.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="478.0" cy="244.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="494.0" cy="243.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="552.0" cy="246.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="544.0" cy="254.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="560.0" cy="253.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="494.0" cy="268.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="486.0" cy="276.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="502.0" cy="275.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="544.0" cy="282.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="536.0" cy="290.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="552.0" cy="289.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="520.0" cy="212.0" r="9.0" fill="none" stroke="#4A443C" stroke-width="0.28"/>
+<circle cx="512.0" cy="220.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<circle cx="528.0" cy="219.0" r="6.0" fill="none" stroke="#4A443C" stroke-width="0.25"/>
+<text x="250.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">杨 · 其叶牂牂</text>
+<text x="520.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">杨 · 其叶肺肺</text>
+<path d="M 380 160 L 384 172 L 396 176 L 384 180 L 380 192 L 376 180 L 364 176 L 376 172 Z" fill="none" stroke="#1C1917" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="388.5" y1="184.5" x2="397.0" y2="193.0" stroke="#1C1917" stroke-width="0.25" opacity="1.00"/>
+<line x1="371.5" y1="184.5" x2="363.0" y2="193.0" stroke="#1C1917" stroke-width="0.25" opacity="1.00"/>
+<line x1="371.5" y1="167.5" x2="363.0" y2="159.0" stroke="#1C1917" stroke-width="0.25" opacity="1.00"/>
+<line x1="388.5" y1="167.5" x2="397.0" y2="159.0" stroke="#1C1917" stroke-width="0.25" opacity="1.00"/>
+<text x="380.0" y="148.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.4" fill="#A63D2F" text-anchor="middle" font-weight="bold" letter-spacing="0.0">明星煌煌</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 杨：柳之扬起者；牂牂、肺肺，皆叶盛之貌</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 明星：启明星；四芒作辉，不作十字靶心</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 门下留空位；候者与不至者皆不画，不画面目</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">东门之杨，其叶牂牂。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 东门之杨　杨叶牂牂、明星煌煌</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

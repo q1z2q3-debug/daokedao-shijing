@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">陈 风 · 之六</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">墓门　棘与斧斯</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百四十一</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">凶僻之门，恶木生焉</text>
+<line x1="60.0" y1="392.0" x2="700.0" y2="392.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 250 392 L 250 262 L 430 262 L 430 392" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="250.0" y1="262.0" x2="430.0" y2="262.0" stroke="#1C1917" stroke-width="0.50" opacity="1.00"/>
+<line x1="340.0" y1="262.0" x2="340.0" y2="392.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<line x1="250.0" y1="320.0" x2="340.0" y2="320.0" stroke="#6B6259" stroke-width="0.25" opacity="1.00"/>
+<line x1="340.0" y1="320.0" x2="430.0" y2="320.0" stroke="#6B6259" stroke-width="0.25" opacity="1.00"/>
+<text x="340.0" y="244.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">墓门</text>
+<path d="M 532 392 C 528 346 546 306 564 304 C 582 310 590 348 588 392" fill="none" stroke="#4A443C" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 560 392 L 542 340" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 560 392 L 554 322" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 560 392 L 566 318" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 560 392 L 576 334" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 560 392 L 582 352" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 544 352 L 537 342" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 544 352 L 551 344" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 556 338 L 549 328" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 556 338 L 563 330" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 568 340 L 561 330" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 568 340 L 575 332" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 578 354 L 571 344" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 578 354 L 585 346" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 550 330 L 543 320" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 550 330 L 557 322" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 572 328 L 565 318" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 572 328 L 579 320" fill="none" stroke="#1C1917" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="560.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">棘 · 斧以斯之</text>
+<line x1="150.0" y1="392.0" x2="172.0" y2="304.0" stroke="#1C1917" stroke-width="0.45" opacity="1.00"/>
+<path d="M 166 300 L 188 290 L 196 306 L 174 314" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="170.0" y1="306.0" x2="180.0" y2="308.0" stroke="#4A443C" stroke-width="0.25" opacity="1.00"/>
+<text x="168.0" y="414.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">斧</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 墓门：墓道之门，凶僻之地；棘：有刺之酸枣</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 斯：析也；斧斜置，不画挥斧之人</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 门内留白；不良之人不画面目，恶木只以线立形</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">墓门有棘，斧以斯之。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 墓门　墓门有棘、斧以斯之</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>

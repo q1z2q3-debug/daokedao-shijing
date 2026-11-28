@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540">
+<rect width="760" height="540" fill="#F5F1E8"/>
+<rect x="10" y="10" width="740" height="520" fill="none" stroke="#DCD5C8" stroke-width="0.6"/>
+<rect x="22" y="28" width="716" height="470" fill="none" stroke="#DCD5C8" stroke-width="0.8"/>
+<text x="38.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.5" fill="#A63D2F" text-anchor="start" font-weight="normal" letter-spacing="2.0">陈 风 · 之三</text>
+<text x="380.0" y="72.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="25.0" fill="#1C1917" text-anchor="middle" font-weight="bold" letter-spacing="1.6">衡门　横木陋门</text>
+<text x="720.0" y="62.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="end" font-weight="normal" letter-spacing="1.0">诗三百五篇 · 之一百三十八</text>
+<line x1="38.0" y1="100.0" x2="722.0" y2="100.0" stroke="#B79A63" stroke-width="0.35" opacity="1.00"/>
+<text x="380.0" y="122.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="10.2" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="1.0">居处虽陋，可以游息</text>
+<line x1="60.0" y1="392.0" x2="700.0" y2="392.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 214 392 L 220 274 L 228 274 L 224 392 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 376 392 L 372 274 L 380 274 L 386 392 Z" fill="none" stroke="#1C1917" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 196 264 L 404 264 L 404 278 L 196 278 Z" fill="none" stroke="#1C1917" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<line x1="204.0" y1="392.0" x2="236.0" y2="392.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<line x1="364.0" y1="392.0" x2="396.0" y2="392.0" stroke="#4A443C" stroke-width="0.35" opacity="1.00"/>
+<path d="M 240 396 C 280 401 320 401 360 396" fill="none" stroke="#4A443C" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="300.0" y="236.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.6" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">衡门</text>
+<path d="M 470 356 C 510 348 560 364 600 356 C 640 348 680 364 720 356" fill="none" stroke="#4A443C" stroke-width="0.40" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 470 370 C 510 362 560 378 600 370 C 640 362 680 378 720 370" fill="none" stroke="#6B6259" stroke-width="0.34" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<path d="M 470 384 C 510 376 560 392 600 384 C 640 376 680 392 720 384" fill="none" stroke="#6B6259" stroke-width="0.28" stroke-linecap="round" stroke-linejoin="round" opacity="1.00"/>
+<text x="596.0" y="340.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.0" fill="#4A443C" text-anchor="middle" font-weight="normal" letter-spacing="0.0">泌之洋洋</text>
+<text x="44.0" y="452.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">① 衡门：横木为门，无阿塾堂宇，陋居之象</text>
+<text x="44.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">② 栖迟：游息盘桓；门内留白，不画居人面目</text>
+<text x="44.0" y="484.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="7.8" fill="#6B6259" text-anchor="start" font-weight="normal" letter-spacing="0.0">③ 泌：泉水；洋洋以疏线见水流广远，不设岸</text>
+<text x="380.0" y="468.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="12.4" fill="#A63D2F" text-anchor="middle" font-weight="normal" letter-spacing="0.8">衡门之下，可以栖迟。</text>
+<text x="380.0" y="506.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="9.2" fill="#6B6259" text-anchor="middle" font-weight="normal" letter-spacing="1.0">图一 · 衡门 · 横木陋门、泌水洋洋</text>
+<rect x="676" y="492" width="22" height="22" fill="#B35142" opacity="0.13"/>
+<text x="687.0" y="507.0" font-family="'Noto Serif CJK SC','Noto Serif SC','Songti SC','Source Han Serif SC',serif" font-size="8.8" fill="#B35142" text-anchor="middle" font-weight="normal" letter-spacing="0.0">润</text>
+</svg>
